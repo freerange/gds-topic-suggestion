@@ -9,8 +9,8 @@ RubyLLM.configure do |config|
 end
 
 directory 'extract'
-directory 'input'
-directory 'output'
+directory 'transform/clean'
+directory 'transform/embeddings'
 
 desc 'Prepare input CSV file by querying content store base'
 file 'extract/raw.csv' => 'extract' do
@@ -35,8 +35,8 @@ def strip_tags(s)
 end
 
 raw_data_ids.each do |id|
-  desc "Prepare input file #{id}.json"
-  file "input/#{id}.json" => ['input', 'extract/raw.csv'] do |f|
+  desc "Prepare file transform/clean/#{id}.json"
+  file "transform/clean/#{id}.json" => ['transform/clean', 'extract/raw.csv'] do |f|
     data = raw_data.find {|r| r['id'] == id}
 
     File.write(
@@ -49,15 +49,15 @@ raw_data_ids.each do |id|
   end
 end
 
-desc 'Regenerate all files in input/'
-task :inputs => raw_data_ids.map { |id| "input/#{id}.json" }
+desc 'Regenerate all files in transform/clean'
+task :transform_clean => raw_data_ids.map { |id| "transform/clean/#{id}.json" }
 
 raw_data_ids.each do |id|
-  desc "Prepare output file #{id}.json"
-  file "output/#{id}.json" => ['output', "input/#{id}.json"] do |f|
+  desc "Prepare file transform/embeddings/#{id}.json"
+  file "transform/embeddings/#{id}.json" => ['transform/embeddings', "transform/clean/#{id}.json"] do |f|
     puts "Generating #{f.name}"
 
-    input_json = JSON.load_file("input/#{id}.json")
+    input_json = JSON.load_file("transform/clean/#{id}.json")
     text_to_embed = [input_json['title'], input_json['body']].join(' ')
 
     embedding = RubyLLM.embed(
@@ -77,14 +77,14 @@ raw_data_ids.each do |id|
   end
 end
 
-desc 'Regenerate all files in output/'
-task :outputs => raw_data_ids.map { |id| "output/#{id}.json" }
+desc 'Regenerate all files in transform/embeddings'
+task :transform_embeddings => raw_data_ids.map { |id| "transform/embeddings/#{id}.json" }
 
 task :setup => ['extract/raw.csv']
 
 task :default do
   Rake::Task['setup'].invoke
-  exec('rake', 'inputs')
+  exec('rake', 'transform_embeddings')
 end
 
-CLOBBER.include('extract', 'input')
+CLOBBER.include('extract', 'transform')
