@@ -4,5 +4,6 @@ source "https://rubygems.org"
 
 gem "rake"
 gem "nokogiri"
-
+gem "sqlite3"
+gem "sqlite-vec"
 gem "ruby_llm", "~> 1.13"

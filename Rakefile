@@ -3,12 +3,15 @@ require 'csv'
 require 'nokogiri'
 require 'json'
 require 'ruby_llm'
+require 'sqlite3'
+require 'sqlite_vec'
 
 RubyLLM.configure do |config|
   config.openrouter_api_key = ENV['OPENROUTER_API_KEY']
 end
 
 directory 'extract'
+directory 'db'
 directory 'transform/clean'
 directory 'transform/embeddings'
 
@@ -79,6 +82,21 @@ end
 
 desc 'Regenerate all files in transform/embeddings'
 task :transform_embeddings => raw_data_ids.map { |id| "transform/embeddings/#{id}.json" }
+
+file 'db/similarity.db' => ['db', raw_data_ids.map { |id| "transform/embeddings/#{id}.json" }].flatten  do
+  db = SQLite3::Database.new('db/similarity.db')
+  db.enable_load_extension(true)
+  SqliteVec.load(db)
+  db.enable_load_extension(false)
+  db.execute("CREATE VIRTUAL TABLE vec_items USING vec0(id TEXT PRIMARY KEY, embedding float[2560])")
+
+  raw_data_ids.each do |id|
+    input_json = JSON.load_file("transform/embeddings/#{id}.json")
+    vector = input_json['vector']
+
+    db.execute("INSERT INTO vec_items(id, embedding) VALUES (?, ?)", [id, vector.pack("f*")])
+  end
+end
 
 task :setup => ['extract/raw.csv']
 

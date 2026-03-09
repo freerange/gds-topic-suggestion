@@ -34,6 +34,8 @@ GEM
       ruby_llm-schema (~> 0)
       zeitwerk (~> 2)
     ruby_llm-schema (0.3.0)
+    sqlite-vec (0.1.6-x86_64-linux)
+    sqlite3 (2.9.1-x86_64-linux-gnu)
     uri (1.1.1)
     zeitwerk (2.7.5)
 
@@ -44,6 +46,8 @@ DEPENDENCIES
   nokogiri
   rake
   ruby_llm (~> 1.13)
+  sqlite-vec
+  sqlite3
 
 CHECKSUMS
   base64 (0.3.0) sha256=27337aeabad6ffae05c265c450490628ef3ebd4b67be58257393227588f5a97b
@@ -62,6 +66,8 @@ CHECKSUMS
   rake (13.3.1) sha256=8c9e89d09f66a26a01264e7e3480ec0607f0c497a861ef16063604b1b08eb19c
   ruby_llm (1.13.2) sha256=f8bd7fa0e3c486368b318167775eac086896e3477986ad5ca2c3b38b1e2913c5
   ruby_llm-schema (0.3.0) sha256=a591edc5ca1b7f0304f0e2261de61ba4b3bea17be09f5cf7558153adfda3dec6
+  sqlite-vec (0.1.6-x86_64-linux) sha256=de4aea7710afa648908f596abb5f67563a5f80c20b5f57c00c1156ac4142764f
+  sqlite3 (2.9.1-x86_64-linux-gnu) sha256=1cbb644204ed143e5c96f6d59b5c571ba6f18b18a9dc5aa11c101187ff227afd
   uri (1.1.1) sha256=379fa58d27ffb1387eaada68c749d1426738bd0f654d812fcc07e7568f5c57c6
   zeitwerk (2.7.5) sha256=d8da92128c09ea6ec62c949011b00ed4a20242b255293dd66bf41545398f73dd
 
