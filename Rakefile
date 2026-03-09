@@ -52,10 +52,6 @@ end
 desc 'Regenerate all files in input/'
 task :inputs => raw_data_ids.map { |id| "input/#{id}.json" }
 
-def truncate(string, max)
-  string.length > max ? "#{string[0...max]}..." : string
-end
-
 raw_data_ids.each do |id|
   desc "Prepare output file #{id}.json"
   file "output/#{id}.json" => ['output', "input/#{id}.json"] do |f|
