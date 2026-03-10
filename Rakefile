@@ -152,10 +152,7 @@ raw_data_ids.each do |id|
     input_json = JSON.load_file("transform/similarities/#{id}.json")
     title = input_json['title']
     url = 'https://www.gov.uk' + input_json['base_path']
-    similar_documents = []
-    input_json['similar_document_ids'].each do |id|
-      similar_documents << [id, metadata_for(id)['title']]
-    end
+    similar_documents = input_json['similar_document_ids'].map { |id| [id, metadata_for(id)['title']] }
 
     template = <<-TEMPLATE
       <h1><a href="<%= url %>"><%= title %></a></h1>
@@ -180,10 +177,7 @@ desc "Prepare file public/index.html"
 file 'public/index.html' => :public_files do |f|
   puts "Generating #{f.name}"
 
-  documents = []
-  raw_data_ids.each do |id|
-    documents << [id, metadata_for(id)['title']]
-  end
+  documents = raw_data_ids.map { |id| [id, metadata_for(id)['title']] }
 
   template = <<-TEMPLATE
     <h1>Index</h1>
