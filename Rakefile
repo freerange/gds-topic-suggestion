@@ -165,11 +165,31 @@ end
 desc 'Regenerate all files in public'
 task :public_files => raw_data_ids.map { |id| "public/#{id}.html" }
 
+desc "Prepare file public/index.html"
+file 'public/index.html' => :public_files do |f|
+  puts "Generating #{f.name}"
+
+  documents = raw_data_ids
+
+  template = <<-TEMPLATE
+    <h1>Index</h1>
+    <ol>
+    <% documents.each do |id| %>
+      <li><a href="<%= id %>.html"><%= id %></a></li>
+    <% end %>
+    </ol>
+  TEMPLATE
+
+  erb = ERB.new(template)
+  html = erb.result(binding)
+  File.write(f.name, html)
+end
+
 task :setup => ['extract/raw.csv']
 
 task :default do
   Rake::Task['setup'].invoke
-  exec('rake', 'public_files')
+  exec('rake', 'public/index.html')
 end
 
 CLOBBER.include('extract', 'transform', 'public', 'db')
