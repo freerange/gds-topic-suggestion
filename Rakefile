@@ -5,6 +5,7 @@ require 'json'
 require 'ruby_llm'
 require 'sqlite3'
 require 'sqlite_vec'
+require 'erb'
 
 RubyLLM.configure do |config|
   config.openrouter_api_key = ENV['OPENROUTER_API_KEY']
@@ -15,6 +16,7 @@ directory 'db'
 directory 'transform/clean'
 directory 'transform/embeddings'
 directory 'transform/similarities'
+directory 'public'
 
 desc 'Prepare input CSV file by querying content store base'
 file 'extract/raw.csv' => 'extract' do
@@ -135,11 +137,39 @@ end
 desc 'Regenerate all files in transform/similarities'
 task :transform_similarities => raw_data_ids.map { |id| "transform/similarities/#{id}.json" }
 
+raw_data_ids.each do |id|
+  desc "Prepare file public/#{id}.html"
+  file "public/#{id}.html" => ['public', "transform/similarities/#{id}.json"] do |f|
+    puts "Generating #{f.name}"
+
+    input_json = JSON.load_file("transform/similarities/#{id}.json")
+    title = input_json['title']
+    similar_document_ids = input_json['similar_document_ids']
+
+    template = <<-TEMPLATE
+      <h1><%= title %></h1>
+      <ol>
+      <% similar_document_ids.each do |id| %>
+        <li><a href="<%= id %>.html"><%= id %></a></li>
+      <% end %>
+      </ol>
+    TEMPLATE
+
+    erb = ERB.new(template)
+    html = erb.result(binding)
+
+    File.write(f.name, html)
+  end
+end
+
+desc 'Regenerate all files in public'
+task :public_files => raw_data_ids.map { |id| "public/#{id}.html" }
+
 task :setup => ['extract/raw.csv']
 
 task :default do
   Rake::Task['setup'].invoke
-  exec('rake', 'transform_similarities')
+  exec('rake', 'public_files')
 end
 
-CLOBBER.include('extract', 'transform')
+CLOBBER.include('extract', 'transform', 'public', 'db')
