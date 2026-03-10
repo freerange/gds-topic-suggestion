@@ -1,0 +1,11 @@
+{
+  "title": "GCSE single science",
+  "body": "\"This publication sets out the learning outcomes and content coverage required for GCSE specifications in science.  \"",
+  "base_path": "/government/publications/gcse-single-science",
+  "taxons": [
+    {
+      "title": "GCSE subject content and requirements",
+      "base_path": "/education/gcse-subject-content-and-requirements"
+    }
+  ]
+}

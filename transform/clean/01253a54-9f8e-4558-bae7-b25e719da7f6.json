@@ -1,0 +1,19 @@
+{
+  "title": "Report highlights benefits of genomic innovation",
+  "body": "\"A new report on genomic technology highlights the UK’s achievements in genetics research to date and makes recommendations to government to ensure future benefit of genomic innovation for the NHS and patients.  At the same time, Health Secretary Andrew Lansley announced today that the NHS will take forward plans to widen access for more cancer patients to molecular tests, which uses genomic technology as a tool to provide targeted treatment for the individual patient. Testing of tumours and patients will be able to tell clinicians in advance whether a patient is likely to respond to particular drug therapies.  The report by the independent Human Genomics Strategy Group makes six recommendations to government:   to develop a cross-cutting strategic document, to set out the direction on genomic technology adoption in the NHS to develop a national central genomic data storage facility that the NHS Commissioning Board should lead on developing genomic technology adoption to work to develop a service delivery model for genomic technologies that the NHS should continue to develop genomics education and training to raise public awareness of genomic technology and its benefits.   Read Building on our inheritance: Genomic technology in healthcare.  Health Secretary Andrew Lansley said:   ‘The promise of genomic technology, with its capacity to improve our understanding of the nature of disease and how our genes can inform our response to therapy, is immense but as yet developmental. The ability to use molecular testing of cancers to match individuals to the most appropriate treatment is revolutionary.  ‘The new developments can help patients to get the best treatments to improve their chances of survival and their quality of life. I am very pleased to announce that we are going to develop a new commissioning and funding structure for molecular tests for cancer. This means there will be a formal structure - led by the NHS Commissioning Board - which will mean that more cancer patients will get access to these tests.  ‘We want to make sure that all patients can benefit from these tests - as soon as the tests are recommended by NICE. We have therefore been working to establish a new system to ensure speedy introduction of high quality tests. This is the way forward for the future.’   Chair of the Human Genomics Strategy Group, Professor Sir John Bell said:   ‘Genomics expands our knowledge beyond single gene analysis to the whole genome, increasing our ability to gauge an individual’s risk of disease and support better diagnosis and treatment. The UK is a leader in genomic research.  ‘The Human Genomics Strategy Group want to see this position maintained - and built upon. This will take a concerted effort from all the key players in research, academia, industry and the NHS.  ‘Adopting the recommendations in our report would lead to further revolutionary developments in our ability to diagnose, treat and prevent disease, and I urge the Government to consider these.’   There are now genetic tests for more than 1,000 diseases, including sickle cell anaemia, cystic fibrosis and some forms of cancer, available via the NHS.  The independent cross-government advisory group was set up in response to the 2009 House of Lords report on genomic medicine. It draws on expertise from across Government and research institutes. The Government will respond to its recommendations in due course. \"",
+  "base_path": "/government/news/report-highlights-benefits-of-genomic-innovation",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

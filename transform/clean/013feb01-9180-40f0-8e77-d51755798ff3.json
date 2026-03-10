@@ -1,0 +1,15 @@
+{
+  "title": "Inheritance Tax toolkit",
+  "body": "\"Guidance on Inheritance Tax and form IHT400 (Inheritance Tax account) in client tax returns. \"",
+  "base_path": "/government/publications/hmrc-inheritance-tax-toolkit",
+  "taxons": [
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    },
+    {
+      "title": "Inheritance Tax",
+      "base_path": "/money/personal-tax-inheritance-tax"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Cumulative effects of hydropower schemes on fish migration and populations",
+  "body": "\"Hydropower schemes are regulated on a scheme-by-scheme basis. However, as the number of hydropower schemes within a catchment increases, there is a greater chance that any adverse effects may cumulatively become significant. This Environment Agency study looked to see if it was possible to assess the cumulative effects of multiple hydropower schemes on migratory fish species, such as salmon, in English rivers and whether these effects were significant.  A literature review showed that multiple hydropower schemes have the potential to increase impacts, but most of the studies found were on overseas sites much larger than those typical in England.  The study results will be useful to staff in the Environment Agency and other bodies concerned with the planning, management and regulation of hydropower schemes. It will also be of value to people involved in wider aspects of river management and planning who need to consider the cumulative effects of schemes or measures on migratory fish. \"",
+  "base_path": "/government/publications/cumulative-effects-of-hydropower-schemes-on-fish-migration-and-populations",
+  "taxons": [
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    },
+    {
+      "title": "Freshwater fisheries",
+      "base_path": "/environment/freshwater-fisheries"
+    },
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

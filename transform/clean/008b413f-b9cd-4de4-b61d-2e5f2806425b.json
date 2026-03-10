@@ -1,0 +1,19 @@
+{
+  "title": "How to trace, weigh and distribute fish products",
+  "body": "\"Guidance on traceability, weighing and distribution of fish and fisheries products up to the point of first sale. For full details see Commission Implementing Regulation (EU) No 404/2011 of 8 April 2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy.  Fishery products must be traceable at all stages of production, processing and distribution, from catch or harvest to retail sale. As with all other European Union fisheries legislation, this continues to apply to UK vessels and waters. \"",
+  "base_path": "/government/publications/how-to-trace-weigh-and-distribute-fish-products",
+  "taxons": [
+    {
+      "title": "Marine fisheries",
+      "base_path": "/environment/marine-fisheries"
+    },
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Six Dimensions (of the Nations Brands Index 2018)",
+  "body": "\"These bulletins provide a more detailed analysis of Northern Ireland’s performance on the 2018 Anholt GfK-Roper Nation Brands Index, across the six dimensions of national competence: Exports; Governance; Culture; People; Tourism; and Immigration and Investment. \"",
+  "base_path": "/government/statistics/six-dimensions-of-the-nations-brands-index-2018",
+  "taxons": [
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    },
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

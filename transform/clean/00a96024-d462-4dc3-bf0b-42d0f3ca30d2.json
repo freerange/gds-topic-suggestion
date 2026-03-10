@@ -1,0 +1,23 @@
+{
+  "title": "Waste classification technical guidance",
+  "body": "\"This document provides technical guidance on waste classification. It is a comprehensive reference manual for anyone involved in producing, managing and regulating waste. You need to be competent in hazardous waste and have some knowledge of chemistry to fully use all aspects of this guidance.  Appendix A includes the waste classification codes, also referred to as LoW (List of Waste) or EWC (European Waste Catalogue) codes for hazardous and non hazardous waste.  This document does not provide guidance on the packaging and labelling of waste for transport.   There is also shorter summary guidance about how to classify common types of waste.  \"",
+  "base_path": "/government/publications/waste-classification-technical-guidance",
+  "taxons": [
+    {
+      "title": "Chemicals",
+      "base_path": "/environment/chemicals"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    }
+  ]
+}

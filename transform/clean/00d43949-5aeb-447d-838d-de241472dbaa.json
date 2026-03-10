@@ -1,0 +1,11 @@
+{
+  "title": "Request for statistics on the number of micro entities fined",
+  "body": "\"Response to a freedom of information request for statistics on the number of micro entities fined that have been treated as though they were corporations with ten plus employees. \"",
+  "base_path": "/government/publications/request-for-statistics-on-the-number-of-micro-entities-fined",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

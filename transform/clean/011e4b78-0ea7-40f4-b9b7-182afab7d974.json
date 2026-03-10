@@ -1,0 +1,15 @@
+{
+  "title": "Child and Working Tax Credits Statistics April 2017",
+  "body": "",
+  "base_path": "/government/statistics/announcements/child-and-working-tax-credits-statistics-april-2017",
+  "taxons": [
+    {
+      "title": "Money",
+      "base_path": "/money"
+    },
+    {
+      "title": "Tax credits",
+      "base_path": "/welfare/tax-credits"
+    }
+  ]
+}

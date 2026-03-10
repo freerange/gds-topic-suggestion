@@ -1,0 +1,23 @@
+{
+  "title": "Organ donor registrations: trialling different approaches",
+  "body": "\"The Behavioural Insights Team worked in partnership with NHS Blood and Transplant, Department of Health, Government Digital Services and DVLA to run one of the largest randomised controlled trials (RCTs) ever conducted in this county.  We found that making small changes to a government website led to significantly increased registrations for the NHS Organ Donor Register. These results highlight the value of the RCT approach, and of trialling several variants, where possible, before implementing them.  \"",
+  "base_path": "/government/publications/organ-donor-registrations-trialling-different-approaches",
+  "taxons": [
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

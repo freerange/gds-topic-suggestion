@@ -1,0 +1,15 @@
+{
+  "title": "HM Land Registry's GPC: August 2017 return",
+  "body": "\"We publish details of all GPC transactions of £500 and over. \"",
+  "base_path": "/government/publications/hm-land-registrys-gpc-august-2017-return",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

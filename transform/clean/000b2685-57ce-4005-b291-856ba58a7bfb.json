@@ -1,0 +1,15 @@
+{
+  "title": "Automatic Exchange of Information (AEOI): service availability and issues",
+  "body": "\"Latest updates on the availability and any issues affecting the AEOI online service.  \"",
+  "base_path": "/government/publications/automatic-exchange-of-information-aeoi-service-availability-and-issues",
+  "taxons": [
+    {
+      "title": "Software development for HMRC",
+      "base_path": "/money/dealing-with-hmrc-software-development"
+    },
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    }
+  ]
+}

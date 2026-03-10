@@ -1,0 +1,11 @@
+{
+  "title": "Department for International Development: spending over £500, August 2019",
+  "body": "\"DFID publishes details of all departmental spending over £500 on a monthly basis.  This data is also available on Find open data. \"",
+  "base_path": "/government/publications/department-for-international-development-spending-over-500-august-2019",
+  "taxons": [
+    {
+      "title": "Overseas aid transparency",
+      "base_path": "/international/overseas-aid-transparency"
+    }
+  ]
+}

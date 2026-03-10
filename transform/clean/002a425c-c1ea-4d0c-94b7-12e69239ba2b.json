@@ -1,0 +1,11 @@
+{
+  "title": "Marine planning - Issues information sheets",
+  "body": "\"As part of developing marine plans for the north east, north west, south east and south west marine plans we have begun to look at what the issues are and what evidence is available to support these.  An issue is an opportunity or a challenge to the marine plan area, that is likely to drive change (such as port infrastructure), or be affected by change (such as climate change) over the 20 years the marine plans cover. It must also be something that can be addressed, at least in part, by marine planning.  The following documents include some of the issues for the marine plan areas. They include environmental, social, economic and governance opportunities and challenges. \"",
+  "base_path": "/government/collections/marine-planning-issues-information-sheets",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    }
+  ]
+}

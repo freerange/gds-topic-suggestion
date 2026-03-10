@@ -1,0 +1,11 @@
+{
+  "title": "01. User guide for contract pricing statement",
+  "body": "\"The purpose of the contract pricing statement (CPS) is to provide the SSRO and the MOD with an audit trail of the pricing assumptions applied in the calculation of the contract price to be used as the basis of future referrals.  This requires an audit trail linking the contract, the assumptions, data and the pricing model used to generate the price.  The CPS is applicable for all qualifying defence contracts.  This report records all pricing assumptions used and the justifications or audit trail behind each assumption as follows. The report:   records any known deviations from the statutory guidance made in determining the contract price; provides detail on the calculations made to determine the contract profit rate and all adjustments; records the Allowable Costs used in determining the contract price; provides details of the contractor’s facts, assumptions/justifications and calculations relevant to each element of the Allowable Costs; provides details of any assumptions provided by the Secretary of State and used by the contractor in the price calculations; and provides details of any other information which is material to the pricing of the contract.   Please note the template allows for the contractor to attach documentation as an annex to the report rather than populating the template with the detailed assumptions/justifications for the price. For example the contractor may attach the pricing model and the master data assumptions log (MDAL) to the template.  The primary contractor must provide a contract pricing statement for the qualifying defence contract within one month of the initial reporting date. The initial reporting date is the date the contract was entered into (time of agreement not contract signature date if this date is different) or the date the contract was amended (if the contract becomes a QDC by amendment). \"",
+  "base_path": "/government/publications/01-user-guide-for-contract-pricing-statement",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

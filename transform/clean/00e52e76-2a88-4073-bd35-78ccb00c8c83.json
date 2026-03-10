@@ -1,0 +1,23 @@
+{
+  "title": "Northern Ireland Office resource accounts 2008 to 2009",
+  "body": "\"This document contains the following information: Northern Ireland Office resource accounts 2008 to 2009: (for the year ended 31 March 2009).  This paper was laid before Parliament in response to a legislative requirement or as a Return to an Address and was ordered to be printed by the House of Commons. \"",
+  "base_path": "/government/publications/northern-ireland-office-resource-accounts-2008-to-2009",
+  "taxons": [
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

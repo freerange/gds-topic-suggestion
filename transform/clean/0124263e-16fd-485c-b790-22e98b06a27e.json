@@ -1,0 +1,11 @@
+{
+  "title": "Centre for Applied Science and Technology, an introduction",
+  "body": "\"This is a publication introducing the Centre for Applied Science and Technology (CAST).  CAST’s advice and activities focuses on a range of Home Office areas including:   contraband detection crime investigation crime prevention and community safety identity assurance protective security public order surveillance   \"",
+  "base_path": "/government/publications/centre-for-applied-science-and-technology-an-introduction",
+  "taxons": [
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

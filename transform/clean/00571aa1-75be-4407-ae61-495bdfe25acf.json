@@ -1,0 +1,31 @@
+{
+  "title": "UK Trade Strategy",
+  "body": "\"This document marks a reset in the UK’s approach to international trade. Building on Free Trade Agreements (FTAs), it is designed to stimulate economic growth, through delivery of targeted business support and working with international partners to achieve mutual benefit through more agile agreements.  The Trade Strategy recognises the UK’s unique position as a services superpower while supporting our advanced manufacturing base in a rapidly changing global landscape. It also sets out how the UK will deliver economic security as well as growth through trade.   You can also read the Global trade outlook: June 2025 report, which sets out some of the long-term trends likely to shape the global economy and international trade in coming decades.   \"",
+  "base_path": "/government/publications/uk-trade-strategy",
+  "taxons": [
+    {
+      "title": "Digital trade",
+      "base_path": "/business-and-industry/digital-trade"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    },
+    {
+      "title": "Inward investment",
+      "base_path": "/business-and-industry/inward-investment"
+    },
+    {
+      "title": "Outward investment",
+      "base_path": "/business-and-industry/outward-investment"
+    }
+  ]
+}

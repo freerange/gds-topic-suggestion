@@ -1,0 +1,11 @@
+{
+  "title": "Annual Survey of Goods and Services, UK: 2017",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/annual-survey-of-goods-and-services-uk-2017",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Defra: spend control data for January to March 2020",
+  "body": "\"Defra publishes details of approved expenditure in areas limited by spending controls (https://www.gov.uk/government/publications/cabinet-office-controls) on a quarterly basis. \"",
+  "base_path": "/government/publications/defra-spend-control-data-for-january-to-march-2020",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

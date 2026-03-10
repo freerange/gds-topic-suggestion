@@ -1,0 +1,11 @@
+{
+  "title": "Value Added Tax (VAT) bulletin: December 2017",
+  "body": "",
+  "base_path": "/government/statistics/announcements/value-added-tax-vat-bulletin-december-2017",
+  "taxons": [
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

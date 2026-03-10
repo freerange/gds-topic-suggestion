@@ -1,0 +1,15 @@
+{
+  "title": "Sheep identification: Do not use stocks of old tags",
+  "body": "\"Further information   Sheep identification and movement  \"",
+  "base_path": "/government/publications/sheep-identification-do-not-use-stocks-of-old-tags",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Rural and countryside",
+      "base_path": "/environment/rural-and-countryside"
+    }
+  ]
+}

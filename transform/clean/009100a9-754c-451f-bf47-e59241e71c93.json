@@ -1,0 +1,11 @@
+{
+  "title": "NHS England and Wales health areas and Westminster parliamentary constituencies: Census 2021",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/nhs-england-and-wales-health-areas-and-westminster-parliamentary-constituencies-census-2021",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

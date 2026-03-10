@@ -1,0 +1,11 @@
+{
+  "title": "Energy prices: July to September 2016",
+  "body": "\"Provisional quarterly energy price statistics for quarter 3 2016 (July to September). \"",
+  "base_path": "/government/statistics/energy-prices-july-to-september-2016",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

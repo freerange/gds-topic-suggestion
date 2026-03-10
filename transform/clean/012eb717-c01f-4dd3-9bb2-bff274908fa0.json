@@ -1,0 +1,11 @@
+{
+  "title": "Enhancements to the portal in summer 2025",
+  "body": "\"We are pleased to share that portal customers are now able to search for and view first registration (FR) applications in the View Applications (VA) service. FR applications can be found in VA, provided the Business Unit Variable Direct Debit account key number was present on submission.   In May, we introduced a new information panel to the portal homepage, displaying the number of applications that are subject to unresolved requisitions. In response to customer feedback, we have made some updates to this panel. The figure displayed now shows pending, live applications only.    Upcoming changes   We are planning to introduce additional text to the panel to clarify the meaning of ‘unresolved’ in respect to outstanding requisitions. When you have replied to a requisition, it will still show as ‘unresolved’ until HM Land Registry reviews it.   Additionally, we are going to change the VA progress status label from ‘Saved’ to ‘Draft’ in order to align with the Digital Registration Service.   We also have plans to improve the look and feel of the portal, beginning initially with the portal homepage and View Applications service, to provide a better user experience.   You can view the digital services roadmap for further information on planned improvements to our digital services. \"",
+  "base_path": "/government/news/enhancements-to-the-portal-in-summer-2025",
+  "taxons": [
+    {
+      "title": "Land registration",
+      "base_path": "/housing-local-and-community/land-registration"
+    }
+  ]
+}

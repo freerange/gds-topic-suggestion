@@ -1,0 +1,11 @@
+{
+  "title": "Woodland Carbon Code Statistics: data to June 2016",
+  "body": "\"This release provides quarterly statistics on projects registered under the Woodland Carbon Code.  The Woodland Carbon Code is a voluntary standard, initiated in July 2011, for woodland creation projects that make claims about the carbon they sequester (take out of the atmosphere). All projects must be placed on the Register of UK Woodland Carbon Projects. Their claims about potential carbon sequestration are validated by an independent certification body. Validated projects are then verified on a regular basis to confirm the progress of carbon sequestration. \"",
+  "base_path": "/government/statistics/woodland-carbon-code-statistics-data-to-june-2016",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    }
+  ]
+}

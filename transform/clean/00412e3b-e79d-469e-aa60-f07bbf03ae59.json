@@ -1,0 +1,11 @@
+{
+  "title": "Bovine TB: epidemiology reports, 2022",
+  "body": "\"These reports cover the various counties or regions that make up the low risk area (LRA) and edge area of England.  They supplement the regional breakdowns of the official bovine tuberculosis (TB) statistics published quarterly and provide cattle keepers and other interested parties with an overview of the bovine TB situation in their area.  The reports pull together descriptive statistics on new and ongoing bovine TB herd incidents (also referred to as breakdowns or cases) in the LRA and edge area at county or regional level, including:   regional or county maps of the distribution of new and ongoing bovine TB herd incidents assessments by Animal and Plant Health Agency (APHA) vets and a new data driven methodology on the likely sources of infection for new TB incidents occurring in each county   In addition to these reports, the iBTB interactive map shows the location details of current bovine TB breakdowns and resolved breakdowns in the last 5 years in England and Wales.  \"",
+  "base_path": "/government/publications/bovine-tb-epidemiology-reports-2022",
+  "taxons": [
+    {
+      "title": "Bovine tuberculosis (bovine TB)",
+      "base_path": "/environment/bovine-tuberculosis"
+    }
+  ]
+}

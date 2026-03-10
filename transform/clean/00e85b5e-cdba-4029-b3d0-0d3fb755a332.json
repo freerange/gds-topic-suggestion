@@ -1,0 +1,19 @@
+{
+  "title": "HS2 Phase 2a environmental reports and maps: Whitmore Heath to Madeley",
+  "body": "\"The content here relates to the community forum area (CA) located between Whitmore Heath and Madeley, referred to as CA4. You will find documents detailing:   Agriculture, forestry and soils data Air quality report Community impact assessment Cultural heritage baseline report Gazetteer of heritage assets Cultural heritage impact assessment table Ecology register of local level effects Health assessment matrix Land quality report Landscape and visual assessment and photomontages Sound, noise and vibration report Water resources assessment Flood risk assessment   You can find additional environmental topic information and map books under the ‘Volume 5: Route-wide environmental reports and maps’ section of the environmental statement.  These assessments have been carried out as part of the High Speed Two (HS2) Phase 2a environmental statement for the route between the West Midlands and Crewe. The environmental statement was produced to accompany the HS2 Phase 2a hybrid Bill.  \"",
+  "base_path": "/government/publications/hs2-phase-2a-environmental-reports-and-maps-whitmore-heath-to-madeley",
+  "taxons": [
+    {
+      "title": "HS2 Phase 2a",
+      "base_path": "/transport/hs2-phase-2a"
+    },
+    {
+      "title": "HS2 and the environment",
+      "base_path": "/transport/hs2-and-the-environment"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Tobacco use: health inequalities in London",
+  "body": "\"Provides a summary description of inequalities in tobacco use in the Equality Act in relation to the protected characteristics and socioeconomic factors. \"",
+  "base_path": "/government/publications/tobacco-use-health-inequalities-in-london",
+  "taxons": [
+    {
+      "title": "Equality",
+      "base_path": "/society-and-culture/equality"
+    },
+    {
+      "title": "Smoking",
+      "base_path": "/health-and-social-care/smoking"
+    }
+  ]
+}

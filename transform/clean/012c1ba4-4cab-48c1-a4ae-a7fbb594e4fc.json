@@ -1,0 +1,15 @@
+{
+  "title": "Academies: compliance, funding and payments",
+  "body": "\" \"",
+  "base_path": "/government/collections/academies-funding-payments-and-compliance",
+  "taxons": [
+    {
+      "title": "Academy and academy trust finance and reporting",
+      "base_path": "/education/academy-and-academy-trust-finance-and-reporting"
+    },
+    {
+      "title": "Academy funding",
+      "base_path": "/education/academy-funding"
+    }
+  ]
+}

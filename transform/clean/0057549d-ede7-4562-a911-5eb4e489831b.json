@@ -1,0 +1,23 @@
+{
+  "title": "Destinations of KS4 and KS5 pupils: 2016",
+  "body": "\"Statistics showing the percentage of students staying in education or going on to employment or training for at least 2 terms in the 2015 to 2016 academic year, after finishing study in the 2014 to 2015 academic year at:   key stage 4 (after year 11, usually aged 16) key stage 5 (after A levels or other level 3 qualifications, usually aged 18)   Sustained destinations include:   school sixth forms further education and sixth-form colleges higher education institutions (universities) employment (and training at key stage 4) apprenticeships   The percentage of students who do not sustain an education or employment destination during this year, and those with no activity captured in our data are also shown.  This release gives breakdowns for specific student characteristics including:   gender ethnicity disadvantaged status and free school meal eligibility special educational needs (and learning difficulties and disabilities at key stage 5) prior attainment   A separate document sets out changes we have made to the destinations publication this year.  Additional experimental statistics using the destination measure methodology include:   destinations of students in scope for 16 to 18 English and maths measures, and for academic, applied general and tech level students destinations of pupils in the third academic year after key stage 4 (aged 18) linked to their destination after key stage 4 (aged 16).   Revised institutional level tables for both key stage 4 and key stage 5 were added in January 2018 due to the availability of additional destinations data as outlined in the changes document.  Destination measures statistics team     Email destination.measures@education.gov.uk        \"",
+  "base_path": "/government/statistics/destinations-of-ks4-and-ks5-pupils-2016",
+  "taxons": [
+    {
+      "title": "Apprenticeships, traineeships and internships",
+      "base_path": "/education/apprenticeships-traineeships-and-internships"
+    },
+    {
+      "title": "Further and higher education courses and qualifications",
+      "base_path": "/education/further-and-higher-education-courses-and-qualifications"
+    },
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

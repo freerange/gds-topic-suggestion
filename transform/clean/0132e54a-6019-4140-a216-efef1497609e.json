@@ -1,0 +1,15 @@
+{
+  "title": "NG22 9HA: Environmental permit issued",
+  "body": "\"The Environment Agency publish surrenders that they issue under the Industrial Emissions Directive (IED).  This decision includes the surrender letter and decision document for:   Operator name: Phoenix Fuels Limited Installation name: Kennelwood Farm Permit number: EPR/QP3138UN/S002  \"",
+  "base_path": "/government/publications/ng22-9ha-environmental-permit-issued",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "DCMS Government Procurement Card spend: transactions over £500, July to September 2013",
+  "body": "\"The files show transactions of expenditure over £500 via the Government Procurement Card \"",
+  "base_path": "/government/publications/dcms-government-procurement-card-spend-transactions-over-500-july-to-september-2013",
+  "taxons": [
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

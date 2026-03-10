@@ -1,0 +1,15 @@
+{
+  "title": "Expenditure over £25,000: August 2014",
+  "body": "\"Land Registry publishes details of all transactions of £25,000 and over. \"",
+  "base_path": "/government/publications/expenditure-over-25000-august-2014",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

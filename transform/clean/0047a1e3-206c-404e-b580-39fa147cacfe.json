@@ -1,0 +1,11 @@
+{
+  "title": "CHP Scheme Description Form F2 and F2(S)",
+  "body": "\"Form F2 The purpose of Form F2 is to provide a description of the CHP Scheme to be Self-assessed for CHPQA Certification where already commissioned and running with sufficient operational data for at least one month.  The CHP Scheme description requires:   Economic sector  CHP Scheme status (operating, or mothballed ) and statement of billing arrangements  CHP Scheme diagrams (including boundary definitions) Heat profiles (for CHP Schemes with heat rejection facility) Details of equipment within the CHP Scheme Details of monitoring arrangements (boundary) Details of the Meter Point Reference Number (s) if appropriate (stated on gas bill)  CHP Scheme Total Power Capacity (TPC) Details of additional equipment   The shortened version of the Form F2 (F2S), which simplifies the submission procedure, can be used for schemes with installed capacity less than 2 MWe  Form F2(S) Form F2(S) only applies to simple Reciprocating Engine CHP schemes that:   are less than 2MWe CHP TPC in size use only a single conventional fuel e.g. natural gas, diesel as described in GN14.3  only include a Reciprocating Engine (CHP package) within the scheme boundary i.e. no heat only boilers   Guidance notes for Form F2 and Form F2(S) CHPQA Guidance Notes for completing these forms are available here:   CHP Scheme Description (Form F2) Information CHP Scheme Description (Form F2(S)) Information   How to complete Form F2 and F2(s) Following the receipt of Form F1, the CHPQA administrator will aim to send the Responsible Person within 2 working days, a unique reference number for the scheme(s) and a user name.  These are required to access the online electronic submission system. The CHPQA applications may also be submitted on paper if preferred, though the online system is much simpler.  \"",
+  "base_path": "/government/publications/chp-scheme-description-form-f2-and-f2s",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

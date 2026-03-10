@@ -1,0 +1,11 @@
+{
+  "title": "Housing supply: indicators of new supply, England: January to June 2020",
+  "body": "\"This statistical release presents figures on building control reported estimates of housing supply in England.  The figures also show estimates of housing supply in England using other, additional, data sources. \"",
+  "base_path": "/government/statistics/housing-supply-indicators-of-new-supply-england-january-to-june-2020",
+  "taxons": [
+    {
+      "title": "House building",
+      "base_path": "/housing-local-and-community/house-building"
+    }
+  ]
+}

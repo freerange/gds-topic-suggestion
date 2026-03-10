@@ -1,0 +1,15 @@
+{
+  "title": "Rotavirus vaccine and SCID newborn screening evaluation",
+  "body": "\"Information on the introduction of Severe Combined Immunodeficiency (SCID) screening for infants born from 1 September 2021. Includes information on vaccination and an algorithm for checking SCID screening results at the routine 8 week appointment.  \"",
+  "base_path": "/government/publications/rotavirus-vaccine-and-scid-newborn-screening-evaluation",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

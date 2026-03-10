@@ -1,0 +1,11 @@
+{
+  "title": "Coronavirus cases by local authority: epidemiological data",
+  "body": "\" \"",
+  "base_path": "/government/collections/coronavirus-cases-by-local-authority-epidemiological-data",
+  "taxons": [
+    {
+      "title": "Testing for COVID-19",
+      "base_path": "/health-and-social-care/testing-for-covid-19"
+    }
+  ]
+}

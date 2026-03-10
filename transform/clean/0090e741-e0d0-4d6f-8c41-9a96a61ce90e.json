@@ -1,0 +1,15 @@
+{
+  "title": "LA Welfare Direct bulletins: 2024",
+  "body": "\"LA Welfare Direct bulletins provide advice, guidance and information that affects Housing Benefit (HB) and other areas of the Department for Work and Pensions (DWP), including:   policy changes good practice reminders    These publications replace our HB Direct newsletters and General Information Bulletins.   \"",
+  "base_path": "/government/publications/la-welfare-direct-bulletins-2024",
+  "taxons": [
+    {
+      "title": "Benefits for families",
+      "base_path": "/welfare/families"
+    },
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    }
+  ]
+}

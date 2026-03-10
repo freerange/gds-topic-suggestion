@@ -1,0 +1,15 @@
+{
+  "title": "Patents by postcode",
+  "body": "\"Provides information held by the Intellectual Property Office (IPO) on the limitations of the available dataset.  This information has been released by the IPO under the Freedom of Information Act 2000.  \"",
+  "base_path": "/government/publications/patents-by-postcode",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

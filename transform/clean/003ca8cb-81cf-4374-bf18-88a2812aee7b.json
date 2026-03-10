@@ -1,0 +1,15 @@
+{
+  "title": "Great Britain Day Visits Survey: August 2016 to July 2017",
+  "body": "\"The survey is undertaken jointly with VisitEngland and VisitScotland. Its aim is to measure the volume, value and profile of Tourism Day Visits taken by GB residents to destinations in GB. \"",
+  "base_path": "/government/statistics/great-britain-day-visits-survey-august-2016-to-july-2017",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    },
+    {
+      "title": "Wales",
+      "base_path": "/regional-and-local-government/wales"
+    }
+  ]
+}

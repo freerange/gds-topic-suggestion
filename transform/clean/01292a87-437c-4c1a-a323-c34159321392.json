@@ -1,0 +1,11 @@
+{
+  "title": "Legislative change to Income Tax (PAYE) regulations - employee notices of tax coding",
+  "body": "\"These legislative changes remove the requirement to issue notices of coding to individuals whose PAYE income is not chargeable to tax or where the employee has no liability to tax in respect of any PAYE income. They support HM Revenue and Customs (HMRC) operational delivery by enabling HMRC to manage customer demand and resources more effectively, thus providing a more consistent and better customer service overall. They also provide for a notice of tax coding to be issued digitally to allow for the future provision of such information through digital channels.  \"",
+  "base_path": "/government/publications/legislative-change-to-income-tax-paye-regulations-employee-notices-of-tax-coding",
+  "taxons": [
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    }
+  ]
+}

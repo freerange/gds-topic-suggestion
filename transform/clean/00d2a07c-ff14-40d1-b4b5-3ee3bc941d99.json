@@ -1,0 +1,15 @@
+{
+  "title": "Food and feed analysis training for public analysts",
+  "body": "\"A group of 8 scientists from UK public analyst laboratories undertook a week of intensive training at a residential course from 28 April to 2 May offering insights into advances in food and feed analysis.  The course was run by the Government Chemist programme at the University of Reading on behalf of the Association of Public Analysts Educational Trust and featured practical sessions on microscopy and microbiology as well as lectures and interactive exercises.  The residential course is the only dedicated formal teaching available to scientists studying for the Mastership in Chemical Analysis, the statutory qualification required to practice as a public analyst.  Michael Walker, consultant referee analyst for the Government Chemist programme, delivered the training alongside practicing public analysts and guest lecturers from organisations including Department for Environment Food & Rural Affairs, the Food Standards Agency and the Drinking Water Inspectorate.  He said: “The course was intensive for the delegates but reflects the pressures in a modern official food and feed control public analyst laboratory. The course needed to be suitable for the novice, providing an opportunity to begin to get to grips with the MChemA syllabus but also enable the experienced analyst to discuss finer points of practice with experts.”  The Food Authenticity Analytical Toolbox exercise, a highly interactive session that challenged and tested the delegates’ laboratory knowledge, was very popular and provided important insights into advanced authenticity analysis.  \"",
+  "base_path": "/government/news/food-and-feed-analysis-training-for-public-analysts",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "MGN 552 Cargo - safe stowage of specialised vehicles",
+  "body": "\"The purpose of this marine guidance notice is to draw to the attention of industry, the potential hazards when carrying specialised vehicles. \"",
+  "base_path": "/government/publications/mgn-552-cargo-safe-stowage-of-specialised-vehicles",
+  "taxons": [
+    {
+      "title": "Vessel cargo",
+      "base_path": "/transport/vessel-cargo"
+    }
+  ]
+}

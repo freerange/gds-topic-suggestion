@@ -1,0 +1,15 @@
+{
+  "title": "Animal testing and research: improve your project licence application",
+  "body": "\"This guidance includes:   a project licence application form a project licence template breeding protocols a checklist if using wild animals    We are aware this publication may have accessibility issues. We are reviewing it so that we can fix these. Read more about our accessible documents policy   \"",
+  "base_path": "/government/publications/animal-testing-and-research-improve-your-project-licence-application",
+  "taxons": [
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    },
+    {
+      "title": "Animal research and testing",
+      "base_path": "/business-and-industry/animal-research-and-testing"
+    }
+  ]
+}

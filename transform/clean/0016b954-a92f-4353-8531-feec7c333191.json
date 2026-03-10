@@ -1,0 +1,15 @@
+{
+  "title": "Academy for Justice Commissioning events",
+  "body": "\" Follow @academyjustice for news about events.   Our events programme includes monthly evening seminars with guest speakers, which take place in Bristol, London and Manchester.  We also hold a commissioning-themed annual conference.  All our events are free to attend and they offer the opportunity to network and share best practice with your commissioning colleagues.  You must be a member of the Academy for Justice Commissioning to attend these events. Membership is free. Read more about how to become a member.   To register for an event, please email your details to academy@noms.gsi.gov.uk.   \"",
+  "base_path": "/government/collections/academy-for-justice-commissioning-events",
+  "taxons": [
+    {
+      "title": "Civil service reform",
+      "base_path": "/government/civil-service-reform"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

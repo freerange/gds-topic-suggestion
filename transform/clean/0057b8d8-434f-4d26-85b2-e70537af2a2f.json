@@ -1,0 +1,11 @@
+{
+  "title": "Employee Earnings in the UK: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/employee-earnings-in-the-uk-2023",
+  "taxons": [
+    {
+      "title": "Payroll",
+      "base_path": "/employment/payroll"
+    }
+  ]
+}

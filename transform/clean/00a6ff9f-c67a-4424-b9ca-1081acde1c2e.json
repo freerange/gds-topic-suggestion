@@ -1,0 +1,23 @@
+{
+  "title": "Changes to Centrally Authorised Procedure Parallel Assessment",
+  "body": "\"With immediate effect, including existing Centrally Authorised Procedures (CAP/EUCE) will no longer run in parallel with GB National applications. Experience to date has revealed there are no benefits to this approach and the added administrative complexity has increased confusion and led to unnecessary delays to the authorisation of GB national applications.  We will continue to assess mock ups for GB national applications to verify the GB minimal information is present and legible. If the GB label is shared with NI, we will simply check any additional CAP/EUCE related text does not contradict the GB SPC.  To maximise the potential for harmonised labelling between NI and GB, you should submit updated GB SPC/QRD documents, clearly indicating any additional EU procedure related changes you wish to be considered at relevant timepoints during your GB procedure.  It should be noted that:    As VMD do not have access to EU systems, you must submit your CAP/EUCE application directly to the VMD via VMDS, in addition to your EMA eSubmission Gateway application. During the procedure, we need you to send any additional information submitted to the EMA during validation, any procedural timetables provided by the EMA, questions asked during the procedure and your responses to lists of questions. Failure to do so may result in UK(NI) not being able to recognise your product as being valid in Northern Ireland.   For EUCE/CAP biological/immunological applications, it is critical that you provide VMD with a copy of the final version of the finished product tests and specifications (at release and at the end of shelf life), in order that NI batch release activities can be completed post approval.    The guidance Apply for a Marketing Authorisation in the UK for a veterinary medicine or expiry and Submission of an application for an animal medicine authorisation has been updated to reflect this change. \"",
+  "base_path": "/government/news/changes-to-centrally-authorised-procedure-parallel-assessment",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    },
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    },
+    {
+      "title": "Pets",
+      "base_path": "/environment/pets"
+    },
+    {
+      "title": "Wildlife and animal welfare",
+      "base_path": "/environment/wildlife-and-animal-welfare"
+    }
+  ]
+}

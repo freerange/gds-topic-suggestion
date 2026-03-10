@@ -1,0 +1,11 @@
+{
+  "title": "Accessibility statement for Seed Certification",
+  "body": "\"This accessibility statement applies to the Seed Certification website. This website is run by the Animal and Plant Health Agency. \"",
+  "base_path": "/government/publications/accessibility-statement-for-seed-certification",
+  "taxons": [
+    {
+      "title": "Crops and horticulture ",
+      "base_path": "/environment/producing-distributing-food-crops-horticulture"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Antibiotic awareness: treating your infection leaflets",
+  "body": "\"These leaflets are designed to be shared with patients during the consultation. They aim to improve:   patients confidence to self-care healthcare professionals communication with the parents  \"",
+  "base_path": "/government/publications/antibiotic-awareness-resources-treating-your-infection-leaflets",
+  "taxons": [
+    {
+      "title": "Antimicrobial resistance (AMR)",
+      "base_path": "/health-and-social-care/antimicrobial-resistance"
+    }
+  ]
+}

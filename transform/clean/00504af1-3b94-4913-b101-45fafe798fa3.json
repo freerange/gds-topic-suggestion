@@ -1,0 +1,23 @@
+{
+  "title": "NDA knowledge management policy",
+  "body": "\"Policy to enable the discharge of the NDA’s responsibilities under the Energy Act 2004 and in particular to ensure the NDA Estate’s knowledge assets are managed to prevent the duplication of effort. To eradicate the repetition of error, mitigate the risks of reliance on an ageing workforce and to facilitate the goal of ensuring the right knowledge is available to the right people at the right time for the safe and efficient decommissioning of the UK’s civil nuclear legacy. \"",
+  "base_path": "/government/publications/nda-knowledge-management-policy",
+  "taxons": [
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    },
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    },
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Hydromorphological literature reviews for lakes",
+  "body": "\"This is a review of the available scientific literature reporting how lake hydromorphology affects the biology quality elements defined under the Water Framework Directive. \"",
+  "base_path": "/government/publications/hydromorphological-literature-reviews-for-lakes",
+  "taxons": [
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    }
+  ]
+}

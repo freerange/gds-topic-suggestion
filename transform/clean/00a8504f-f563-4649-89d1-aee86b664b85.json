@@ -1,0 +1,19 @@
+{
+  "title": "Methyl bromide: health effects and incident management",
+  "body": "\"These documents provide information on the health effects of exposure, the chemical’s toxicity and material for responding to a chemical incident.   Feedback survey  Help us improve the Compendium of Chemical Hazards by taking our short survey.  Start now   \"",
+  "base_path": "/government/publications/methyl-bromide-properties-and-incident-management",
+  "taxons": [
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "Chemical and environmental hazards",
+      "base_path": "/health-and-social-care/health-protection-chemical-and-environmental-hazards"
+    },
+    {
+      "title": "Health emergency planning",
+      "base_path": "/health-and-social-care/health-emergency-planning"
+    }
+  ]
+}

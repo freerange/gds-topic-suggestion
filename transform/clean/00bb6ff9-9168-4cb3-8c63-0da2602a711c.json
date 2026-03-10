@@ -1,0 +1,11 @@
+{
+  "title": "Give notice of individual person with significant control (PSC01)",
+  "body": "\"This form can be used to notify Companies House of an individual with significant control.  Use the online service to update your information as quickly as possible.  It takes longer to process paper forms sent to us by post.  Forms need to be printed at full size on white A4 size paper.   PSCs must verify their identity and provide their Companies House personal code. The period for doing this depends on your situation. See When you need to verify your identity for Companies House.   Nationalities and countries  Use our list of nationalities and countries to complete your form. We’ll only accept entries from this standard list. \"",
+  "base_path": "/government/publications/give-notice-of-individual-person-with-significant-control-psc01",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

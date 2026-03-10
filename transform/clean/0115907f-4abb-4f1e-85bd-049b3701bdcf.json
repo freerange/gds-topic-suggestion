@@ -1,0 +1,23 @@
+{
+  "title": "Decision for Jeffrey Keating",
+  "body": "\"DECISION  The Goods Vehicles (Licensing of Operators) Act 1995  Jeffrey Keating has lost his good repute as transport manager and is disqualified from acting as such until he sits and passes again the transport manager Certificate of Professional Competence. \"",
+  "base_path": "/government/publications/decision-for-jeffrey-keating",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

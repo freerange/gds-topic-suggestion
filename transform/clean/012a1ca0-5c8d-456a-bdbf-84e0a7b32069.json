@@ -1,0 +1,15 @@
+{
+  "title": "NIO: Spending Over £25,000, September 2023",
+  "body": "\"NIO publishes details of all departmental spending over £25,000 on a monthly basis.  This data is also available on data.gov.uk. \"",
+  "base_path": "/government/publications/nio-spending-over-25000-september-2023",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

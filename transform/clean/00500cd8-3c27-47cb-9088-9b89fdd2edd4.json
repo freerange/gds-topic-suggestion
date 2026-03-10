@@ -1,0 +1,11 @@
+{
+  "title": "Local authority green belt statistics for England: 2015 to 2016",
+  "body": "\"Statistics on the extent of the green belt in England.  In addition to the annex tables, a geographic boundary (shape) file setting out green belt area boundaries as at 31 March 2016 is available.  \"",
+  "base_path": "/government/statistics/local-authority-green-belt-statistics-for-england-2015-to-2016",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Biofuel statistics: Year 9 (2016 to 2017), report 4",
+  "body": "\"Statistics on the Renewable Transport Fuel Obligation for the year 15 April 2016 to 14 April 2017 (year 9) based on data currently available. This is report 4 of 6 and therefore contains an incomplete dataset for year 9.  The report includes information on the:   amount of UK road transport fuel from renewable and fossil fuel number of Renewable Transport Fuel Certificates (RTFCs) which have been issued to fuel meeting the sustainability requirements balance of RTFCs by obligation period trades of RTFCs between suppliers and traders carbon and sustainability characteristics of the renewable fuel to which RTFCs have been issued voluntary scheme data of renewable transport fuel   Contact us  Renewable fuel statistics     Email environment.stats@dft.gov.uk        \"",
+  "base_path": "/government/statistics/biofuel-statistics-year-9-2016-to-2017-report-4",
+  "taxons": [
+    {
+      "title": "Low carbon fuels",
+      "base_path": "/transport/low-carbon-fuels"
+    },
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    }
+  ]
+}

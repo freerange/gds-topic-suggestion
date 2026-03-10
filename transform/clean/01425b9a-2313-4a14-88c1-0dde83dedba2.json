@@ -1,0 +1,19 @@
+{
+  "title": "PM meeting with NATO Secretary General Jens Stoltenberg: 23 November 2016",
+  "body": "\"A Downing Street spokesperson said:   The Prime Minister hosted NATO Secretary General Jens Stoltenberg at Downing Street this afternoon for a wide-ranging discussion on security issues.  The Prime Minister reaffirmed the UK’s unwavering support for NATO and said we will remain a cornerstone of the Alliance. Secretary General Stoltenberg agreed that the UK is playing a leading role by meeting our commitment to spend 2% of GDP on defence, contributing troops to deterrence measures in Eastern Europe and maintaining our independent nuclear deterrent.  The Prime Minister and Secretary General Stoltenberg spoke about the importance of NATO members meeting the 2% commitment and agreed to continue to encourage allies to increase defence spending.  They discussed the recent US election and the importance of the transatlantic bond to security. Secretary General Stoltenberg relayed his recent conversation with President-elect Trump, in which they had agreed on the enduring importance of NATO.  The Prime Minister and Secretary General Stoltenberg agreed that any EU defence proposals should be about strengthening structures within NATO rather than duplicating existing structures.  Finally they discussed the importance of adapting to emerging threats and the way in which the UK could contribute to increasing cyber capabilities among NATO allies.   \"",
+  "base_path": "/government/news/pm-meeting-with-nato-secretary-general-jens-stoltenberg-23-november-2016",
+  "taxons": [
+    {
+      "title": "International defence commitments",
+      "base_path": "/defence/international-defence-commitments"
+    },
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

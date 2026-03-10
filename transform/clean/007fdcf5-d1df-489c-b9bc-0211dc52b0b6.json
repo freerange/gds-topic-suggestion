@@ -1,0 +1,15 @@
+{
+  "title": "Northumberland's National Nature Reserves",
+  "body": "\"Details on the management, features, location, safety and contact information for Northumberland’s NNRs:   Derwent Gorge and Muggleswick Woods Farne Islands Greenlee Lough Kielderhead Kielder Mires Lindisfarne Muckle Moss Newham Bog Whitelee Moor   Research opportunities  Some NNRs host students who are working on dissertations or similar projects. This provides the opportunity to study on a high quality site and to contribute to the research and management of the reserve.  Read more information about how we arrange these projects, the list of reserves that currently offer this facility and some suggested topic titles.  \"",
+  "base_path": "/government/publications/northumberlands-national-nature-reserves",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    },
+    {
+      "title": "Rural and countryside",
+      "base_path": "/environment/rural-and-countryside"
+    }
+  ]
+}

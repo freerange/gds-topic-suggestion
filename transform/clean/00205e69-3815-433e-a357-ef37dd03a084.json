@@ -1,0 +1,11 @@
+{
+  "title": "Welcome to the Crown Commercial Service on GOV.UK",
+  "body": "\"At the Crown Commercial Service (CCS) we’re responsible for:    increasing savings for the taxpayer by leveraging government’s buying power and centralising buying requirements for common goods and services   providing advice and support to government departments on their most complex commercial projects   managing government’s strategic suppliers   operating the legislative framework for commercial activity and leading on the development and implementation of ministerial commercial policies    For 2014-15, our priorities are to:    achieve the savings commitments made to customers on common goods and services and complex transactions   transition departmental spend on common goods and services into centralised managed service arrangements across the commercial lifecycle; market engagement through to contract and supplier management   transpose the new EU Procurement Directives into domestic law   make it easier for suppliers to do business with government and increase spend with small and medium-sized enterprises (SMEs) to support economic growth   further develop organisational capability to leverage increased savings from the spend managed for customers    About our content on GOV.UK  We hope you’ll find it straightforward to access the commercial information from CCS you need on GOV.UK.  Not all CCS content is visible on our home page, so if you can’t find what you’re looking for use the GOV.UK search bar or Google search. For example, procurement policy information from both CCS and the Cabinet Office is available here  We’ll be continuously developing our content on GOV.UK to ensure we meet your needs, so if you have any feedback, or can’t find what you’re looking for, please complete the “is there anything wrong with this page?” feedback form you will find at the bottom of every web page.   To speak to us about how we can help you with your commercial and procurement needs, please contact our help desk on 0345 410 2222 or email info@ccs.gsi.gov.uk   \"",
+  "base_path": "/government/news/welcome-to-the-crown-commercial-service-on-govuk",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

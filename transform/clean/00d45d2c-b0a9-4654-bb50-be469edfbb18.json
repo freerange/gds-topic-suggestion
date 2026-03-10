@@ -1,0 +1,15 @@
+{
+  "title": "Crime news: duty solicitor scheme boundary consultation updates",
+  "body": "\"Providers can now stay up to date with consultations about duty schemes as part of the 2017 crime tender by checking a new page on GOV.UK.  The consultations will be for scheme boundary changes following police station and court closures.  We will also list responses which detail the conclusions of these consultations.  Further information  Duty solicitor scheme boundary consultations \"",
+  "base_path": "/government/news/crime-news-duty-solicitor-scheme-boundary-consultation-updates",
+  "taxons": [
+    {
+      "title": "Legal aid",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers"
+    },
+    {
+      "title": "Legal aid reform",
+      "base_path": "/crime-justice-and-law/legal-aid-reform"
+    }
+  ]
+}

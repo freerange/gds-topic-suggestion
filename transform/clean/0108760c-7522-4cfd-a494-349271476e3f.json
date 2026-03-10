@@ -1,0 +1,15 @@
+{
+  "title": "Advice for security managers during a heightened threat level",
+  "body": "\"Operational and tactical advice for security managers of crowded places following a change of the threat level to CRITICAL. \"",
+  "base_path": "/government/publications/advice-for-security-managers-following-a-threat-level-change-to-critical",
+  "taxons": [
+    {
+      "title": "Counter-terrorism",
+      "base_path": "/crime-justice-and-law/counter-terrorism"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

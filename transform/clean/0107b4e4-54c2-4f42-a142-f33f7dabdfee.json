@@ -1,0 +1,15 @@
+{
+  "title": "VAT: artificial leasing (Spotlight 2)",
+  "body": "\"‘Spotlights’ warn you about certain tax avoidance schemes which you should be aware of. This is just one of the schemes being widely offered to help those using them to avoid tax. \"",
+  "base_path": "/government/publications/spotlight-2-vat-artificial-leasing",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Tax avoidance",
+      "base_path": "/money/tax-avoidance"
+    }
+  ]
+}

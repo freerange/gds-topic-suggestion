@@ -1,0 +1,43 @@
+{
+  "title": "Health Service Ombudsman and the Local Government Ombudsman report 2010 to 2012",
+  "body": "\"This document contains the following information:  Health Service Ombudsman and the Local Government Ombudsman report 2010 to 2012.  This is the sixth report of the Health Service Commissioner for England session 2010 to 2012.  This paper was laid before Parliament in response to a legislative requirement or as a Return to an Address and was ordered to be printed by the House of Commons. \"",
+  "base_path": "/government/publications/health-service-ombudsman-and-the-local-government-ombudsman-report-2010-to-2012",
+  "taxons": [
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Local government",
+      "base_path": "/regional-and-local-government/local-government"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

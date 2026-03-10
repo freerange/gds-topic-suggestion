@@ -1,0 +1,19 @@
+{
+  "title": "Monthly statistics: Patents, trade marks and designs: January 2025",
+  "body": "\"The statistics in this release provide factual information relating to monthly applications and registrations of intellectual property registered rights (patents, trade marks and designs). \"",
+  "base_path": "/government/statistics/monthly-statistics-patents-trade-marks-and-designs-january-2025",
+  "taxons": [
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

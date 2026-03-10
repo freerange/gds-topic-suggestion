@@ -1,0 +1,11 @@
+{
+  "title": "Rail fares index: January 2016",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/rail-fares-index-january-2016",
+  "taxons": [
+    {
+      "title": "Rail ticketing and fares",
+      "base_path": "/transport/rail-ticketing-and-fares"
+    }
+  ]
+}

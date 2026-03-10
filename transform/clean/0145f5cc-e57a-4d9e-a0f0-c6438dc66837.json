@@ -1,0 +1,11 @@
+{
+  "title": "Secure data environment policy guidelines",
+  "body": "\"Secure data environments were identified in the Data saves lives strategy as the default way that NHS health and social care data will be accessed for research and analysis in future.  These policy guidelines set out expectations for how secure data environments will be used, and the rules by which all platforms providing access to NHS data will need to comply.  The guidelines are intended to:   provide an introduction to secure data environments add detail to the policy commitments made in the Data saves lives strategy describe the minimum requirements that secure data environments must meet outline how secure data environments will be delivered communicate the next steps for secure data environments policy  \"",
+  "base_path": "/government/publications/secure-data-environment-policy-guidelines",
+  "taxons": [
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

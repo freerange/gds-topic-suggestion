@@ -1,0 +1,15 @@
+{
+  "title": "Raising standards in tax advice: protecting customers claiming tax repayments",
+  "body": "\"This consultation seeks views on proposals to address consumer protection issues for individuals who claim tax repayments via repayment agents.  It will be of interest to individuals who have used or considered using repayment agents, tax agents, charitable organisations and consumer groups, and accountancy professional bodies.  \"",
+  "base_path": "/government/consultations/raising-standards-in-tax-advice-protecting-customers-claiming-tax-repayments",
+  "taxons": [
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

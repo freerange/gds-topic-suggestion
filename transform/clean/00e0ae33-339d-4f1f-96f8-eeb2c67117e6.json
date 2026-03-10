@@ -1,0 +1,15 @@
+{
+  "title": "Data perfformiad Rheoli Dyled DWP ",
+  "body": "\"Mae Rheoli Dyled yn rhan o’r Adran Gwaith a Phensiynau (DWP). Maent yn adennill budd-daliadau nawdd cymdeithasol sydd wedi’u gordalu, gan gynnwys benthyciadau cronfa gymdeithasol, taliadau ymlaen llaw o fudd-daliadau, credyd treth a budd-dal tai.  Mae’r data perfformiad yn dangos:   y swm sydd wedi’i adfer canlyniadau arolwg boddhad cwsmeriaid nifer y galwadau cwsmeriaid â atebwyd nifer y cwynion cwsmeriaid yr ymatebwyd iddynt nifer y canmoliaethau a dderbyniwyd gan gwsmeriaid   Mae safonau gwasanaeth cwsmeriaid Rheoli Dyled yn egluro sut mae’r tîm yn bwriadu trin cwsmeriaid a chwynion.  Darganfyddwch sut mae budd-daliadau sydd wedi eu gordalu yn cael eu hadfer  \"",
+  "base_path": "/government/publications/dwp-debt-management-performance-data.cy",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

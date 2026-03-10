@@ -1,0 +1,11 @@
+{
+  "title": "Delayed transfers of care for June 2016",
+  "body": "\"This report collects data on the number of patients delayed on the last Thursday of each month and the total delayed days during the month for all patients delayed throughout the month.  Data are shown at provider organisation level, from NHS Trusts, NHS Foundation Trusts and Primary Care Trusts. Data are also shown by Local Authority that is responsible for each patient delayed.  Data is split by the agency responsible for delay (NHS, Social Services or both), type of Care that the patient receives (acute or non-acute) and reason for delay.  Official statistics are produced impartially and free from any political influence. \"",
+  "base_path": "/government/statistics/delayed-transfers-of-care-for-june-2016",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Review of AI deployment in the electricity networks: terms of reference",
+  "body": "\"The government has asked, Lucy Yu, the AI Champion for Clean Energy, to carry out a review of AI deployment in the electricity grids.  This document sets out the terms of reference for the review. It includes:   purpose and objectives scope leadership and governance methodology timelines   We will publish the final report by Summer 2026.  \"",
+  "base_path": "/government/publications/review-of-ai-deployment-in-the-electricity-networks",
+  "taxons": [
+    {
+      "title": "Clean energy",
+      "base_path": "/government/clean-energy"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

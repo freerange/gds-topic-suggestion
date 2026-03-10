@@ -1,0 +1,15 @@
+{
+  "title": "Independent Family Returns Panel: 2011 to 2012",
+  "body": "\"Report from the Independent Family Returns Panel on recommendations to the Home Office for managing family returns for 2011-2012. \"",
+  "base_path": "/government/publications/independent-family-returns-panel-annual-report-2011-to-2012",
+  "taxons": [
+    {
+      "title": "Family visas",
+      "base_path": "/entering-staying-uk/family-visas"
+    },
+    {
+      "title": "Deportation, removals and curtailment",
+      "base_path": "/entering-staying-uk/deportation-removals-curtailment"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Climate change umbrella agreement for the aerospace sector",
+  "body": "\"This is a legal document (the umbrella agreement) for the aerospace sector association (ADS). It outlines their obligations within the scheme CCA. \"",
+  "base_path": "/government/publications/climate-change-umbrella-agreement-for-the-aerospace-sector",
+  "taxons": [
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    },
+    {
+      "title": "Sustainable development",
+      "base_path": "/government/sustainable-development"
+    },
+    {
+      "title": "Energy demand reduction",
+      "base_path": "/business-and-industry/energy-demand-reduction-in-industry-business-and-the-public-sector"
+    }
+  ]
+}

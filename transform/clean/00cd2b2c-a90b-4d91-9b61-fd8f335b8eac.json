@@ -1,0 +1,15 @@
+{
+  "title": "Instruments Amending the Constitution and Convention of the International Telecommunication Union (Geneva, 1992) as amended (Amendments adopted by the Plenipotentiary Conference (Guadalajara, 2010)) [MS No.5/2016]",
+  "body": "\"Published title: Instruments Amending the Constitution of the International Telecommunication Union (Geneva, 1992) and the Convention of the International Telecommunication Union (Geneva, 1992) as amended by the Plenipotentiary Conference (Kyoto, 1994), by the Plenipotentiary Conference (Minneapolis, 1998), by the Plenipotentiary Conference (Marrakesh, 2002) and by the Plenipotentiary Conference (Antalya, 2006) (Amendments adopted by the Plenipotentiary Conference (Guadalajara, 2010)). \"",
+  "base_path": "/government/publications/ms-no52016-instruments-amending-the-constitution-and-convention-of-the-international-telecommunication-union-geneva-1992-as-amended-amendments",
+  "taxons": [
+    {
+      "title": "Telecommunications",
+      "base_path": "/government/technology-guidance-technology-guidance-telecommunications"
+    },
+    {
+      "title": "Communications and telecomms",
+      "base_path": "/business/communications-and-telecomms"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "New physical activity guidelines issued by UK Chief Medical Officers",
+  "body": "\"New guidance issued today by the UK Chief Medical Officers emphasises the importance of building strength and balance for adults, as well as focusing on cardiovascular exercise.  Falls are the main reason older people are taken to A&E, and could be avoided through daily activities such as brisk walking, carrying heavy shopping, climbing stairs, swimming and gardening.    There is strong evidence that physical activity protects against a range of chronic conditions. Meeting the guidelines can reduce the risk of:   type 2 diabetes by 40% coronary heart disease by 35% depression by 30%   The new guidelines are an update to those released in 2011, but the overall message remains the same: any activity is better than none, and more is better still.  Under the new guidelines, adults are advised to undertake strength-based exercise at least 2 days a week. This can help delay the natural decline in muscle mass and bone density that starts from around age 50. It is believed that this is a major reason why older people lose their ability to carry out daily tasks.  The guidance advises on safe levels of activity for pregnant women and new mothers, and the many benefits that this can bring as long as they listen to their body and speak to their health professional. A moderate amount of exercise for new mothers is proven to help them:   regain strength ease back pain reduce the risk of gestational diabetes   New advice is also available to encourage good development in babies and children, with the UK Chief Medical Officers recommending lots of ‘tummy time’.  As much active play as possible in children under 5 is encouraged, and older children are recommended to be active for an average of 60 minutes a day across the week. To support this, the government will work with nurseries to find fun opportunities for young children to exercise during the day through the new Daily Toddle initiative.  Chief Medical Officer for England, Professor Dame Sally Davies, said:   Physical activity is an under-appreciated asset in our clinical arsenal. It is cheap and brings a long list of health benefits.  As we age, our muscles weaken and we can become stiff, leading to falls and difficulty performing everyday activities. Physical activity can prevent fragility and support mobility in old age. By keeping active, both throughout the day and also through hobbies, we can slow muscle and bone decline, ultimately keeping us independent for longer.  \"",
+  "base_path": "/government/news/new-physical-activity-guidelines-issued-by-uk-chief-medical-officers",
+  "taxons": [
+    {
+      "title": "Disabled people",
+      "base_path": "/health-and-social-care/disabilities"
+    },
+    {
+      "title": "Exercise and physical activity",
+      "base_path": "/health-and-social-care/exercise-physical-activity"
+    },
+    {
+      "title": "Children's health and welfare",
+      "base_path": "/childcare-parenting/childrens-health-and-welfare"
+    },
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    }
+  ]
+}

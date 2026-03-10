@@ -1,0 +1,15 @@
+{
+  "title": "VOSA annual reports and accounts",
+  "body": "\"These annual reports set out how the Vehicle and Operator Services Agency (VOSA):   performed against its objectives made decisions, managed projects and managed risks managed its finances, including its income and expenditure    VOSA was replaced by the Driver and Vehicle Standards Agency (DVSA) in April 2014. There are different annual reports and accounts for DVSA.   \"",
+  "base_path": "/government/collections/vosa-annual-reports-and-accounts",
+  "taxons": [
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

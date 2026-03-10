@@ -1,0 +1,15 @@
+{
+  "title": "Early access to medicines scheme applications: pending, refused, granted",
+  "body": "\"These tables show the number of applications made to the early access to medicines scheme for the promising innovative medicine (PIM) designation and the scientific opinion.  The tables also show the number of applications that have been granted and refused as well as the number of pending applications.  The tables will be updated regularly. \"",
+  "base_path": "/government/statistics/early-access-to-medicines-scheme-applications-pending-refused-granted",
+  "taxons": [
+    {
+      "title": "Marketing authorisations, variations and licensing guidance",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-marketing-authorisations-variations-licensing"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

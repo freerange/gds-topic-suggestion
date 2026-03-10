@@ -1,0 +1,11 @@
+{
+  "title": "Ill health absence",
+  "body": "\"Average days taken in each pay grade during last 3 financial years, total number of days taken in each pay grade during last 3 financial years \"",
+  "base_path": "/government/publications/ill-health-absence",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

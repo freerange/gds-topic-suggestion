@@ -1,0 +1,11 @@
+{
+  "title": "Actual Individual Consumption per head in the UK: 2018",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/actual-individual-consumption-per-head-in-the-uk-2018",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "NHS sickness absence rates: April 2014 to June 2014",
+  "body": "\"Official statistics are produced impartially and free from any political influence. \"",
+  "base_path": "/government/statistics/nhs-sickness-absence-rates-april-2014-to-june-2014",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

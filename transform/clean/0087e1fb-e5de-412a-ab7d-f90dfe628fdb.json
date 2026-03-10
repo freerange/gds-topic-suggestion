@@ -1,0 +1,15 @@
+{
+  "title": "Zaregistrujte se do služby pohybu nákladních vozidel",
+  "body": "\"Kdo se musí zaregistrovat  Pokud dovážíte zboží do Spojeného království nebo vyvážíte zboží ze Spojeného království prostřednictvím přístavu, který využívá službu přesunu nákladních vozidel, musíte se zaregistrovat do služby pro pohyb vozidel.   Celní agent se také může registrovat vaším jménem.   Pokud přepravujete zboží přes přístav, který využívá službu přepravy zboží, musíte vytvořit referenci pohybu zboží. Tento odkaz spojí všechna prohlášení, která byla ke zboží předložena před tím, než dorazí na místo určení.  Než se zaregistrujete  Pro registraci do služby pohybu nákladních vozidel musíte použít stejnou adresu, kterou používáte pro jakoukoli jinou službu v rámci HMRC.  Pokud použijete jinou adresu, vaše žádost o registraci se opozdí.  Adresu, kterou jste použili dříve, můžete zjistit tak, že se přihlásíte do služby HMRC, kde jste již zaregistrováni, a podíváte se na své údaje.  K registraci budete potřebovatEORIčíslo začínající GB. Pokud jej nemáte, můžete požádat EORI číslo, když se zaregistrujete.  Jak se zaregistrovat  K používání této služby se musíte přihlásit. Pokud ještě nemáte přihlašovací údaje, budete si je moct vytvořit.  Tato služba je dostupná jen v angličtině a velštině. Pokud potřebujete další pomoc pro svůj jazyk, možná bude vhodné, abyste si zajistili externí pomoc s překladem.  Zaregistrovat se    Online služby mohou být v období, kdy jsou velmi vytížené, pomalé. Zkontrolujte, jestli má tato služba nějaké problémy.   Až se zaregistrujete  Musíte získat referenci o pohybu zboží pro každý pohyb zboží přes hraniční oblast pomocí služby pohybu vozidel.  Přidat člena týmu  Když do služby pohybu nákladních vozidel přidáte člena týmu, znamená to, že:   V případě potřeby může službu využívat více členů týmu Můžete spravovat úroveň přístupu jednotlivých členů ke službám HMRC, ke kterým jste se přihlásili   \"",
+  "base_path": "/guidance/register-for-the-goods-vehicle-movement-service.cs",
+  "taxons": [
+    {
+      "title": "Customs declarations, duties and tariffs (import and export)",
+      "base_path": "/business-and-industry/customs-declarations-duties-tariffs"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Defence Secretary welcomes US troop reduction in Afghanistan",
+  "body": "\"The figure represents about half of all US combat troops in Afghanistan. In December, Prime Minister David Cameron announced that UK troop numbers will be almost halved over the course of this year to 5,200.  Mr Hammond said:   I welcome the US announcement on force levels in Afghanistan, which reflects our own drawdown plans and those of our ISAF (International Security Assistance Force) partners.    As we announced in December, UK force levels will reduce from the current 9,000 to around 5,200 by the end of this year.    This is in line with the steady progress of the Afghan National Security Forces as they move towards assuming full security responsibility in Afghanistan by the end of 2014.    During my visit to Afghanistan last week, I saw for myself the increasing confidence and capability of the Afghan National Security Forces (ANSF).    Moving forward, UK and US forces will continue to closely support the Afghans in further consolidating their security lead, which already covers around 75% of the population.    We are working to promote a political settlement and have taken the lead in establishing an Afghan National Army Officer Academy.    Afghanistan will continue to face challenges in the years ahead and we are committed to supporting the Afghan Government, through funding to the ANSF and through development assistance, after the ISAF combat mission ends.   \"",
+  "base_path": "/government/news/defence-secretary-welcomes-us-troop-reduction-in-afghanistan",
+  "taxons": [
+    {
+      "title": "Afghanistan",
+      "base_path": "/international/afghanistan"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

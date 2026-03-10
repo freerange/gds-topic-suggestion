@@ -1,0 +1,15 @@
+{
+  "title": "Land Registry workforce management information: March 2014",
+  "body": "\"Data covers:   payroll staff by grade non-payroll staff by type headcount staff numbers full-time equivalent staff numbers staff costs   These figures are not official statistics. They are internal workforce management information published in the interests of transparency.  These figures have not been reconciled centrally with any national statistics. Where differences appear between the monthly information and national statistics, clarifying comments will be provided. The Office for National Statistics’ quarterly public sector employment statistics provide an official headline measure for comparing the overall size of employment in central government organisations with other sectors of the economy at the relevant quarterly reference point. \"",
+  "base_path": "/government/publications/land-registry-workforce-management-information-march-2014",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Declaration of eligibility MSF 4731",
+  "body": "\"Use this for to register your vessel under part III of the register which is for pleasure vessels less than 24 metres. \"",
+  "base_path": "/government/publications/declaration-of-eligibility-msf-4731",
+  "taxons": [
+    {
+      "title": "Vessel registration",
+      "base_path": "/transport/vessel-registration"
+    }
+  ]
+}

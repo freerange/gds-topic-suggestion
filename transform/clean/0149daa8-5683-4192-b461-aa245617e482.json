@@ -1,0 +1,19 @@
+{
+  "title": "Request for information under the environmental information regulations 2004 and Freedom of Information Act 2000 relating to correspondence between DECC and Cuadrilla Resources",
+  "body": "\"A reply under the Freedom of Information Act for the request for information on correspondence between the Department of Energy and Climate Change and Cuadrilla Resources since the beginning of May 2010. \"",
+  "base_path": "/government/publications/request-for-information-under-the-environmental-information-regulations-2004-and-freedom-of-information-act-2000-relating-to-correspondence-between-decc-and-cuadrilla-resources",
+  "taxons": [
+    {
+      "title": "Energy industry and infrastructure licensing and regulation",
+      "base_path": "/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation"
+    },
+    {
+      "title": "UK energy security",
+      "base_path": "/business/uk-energy-security"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "English Housing Survey: technical advice",
+  "body": "\"These technical reports and advice notes are to support users of the English Housing Survey findings and data sets.  They provide detailed information about:   how the survey data is collected and quality assured the sampling and weighting methodology how some of the important measures for analysis are derived the technical terms used   They will be updated periodically to reflect any changes to the survey methods.  Further information can also be found in the guidance and methodology for survey users and information for participating households. \"",
+  "base_path": "/government/collections/english-housing-survey-technical-advice",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    }
+  ]
+}

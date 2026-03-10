@@ -1,0 +1,11 @@
+{
+  "title": "A statistical approach to the assessment of coarse fish populations",
+  "body": "\"This report presents a statistical modelling approach to the analysis of coarse fish population dynamics. This approach confers many advantages in understanding fish ecology. \"",
+  "base_path": "/government/publications/a-statistical-approach-to-the-assessment-of-coarse-fish-populations",
+  "taxons": [
+    {
+      "title": "Freshwater fisheries",
+      "base_path": "/environment/freshwater-fisheries"
+    }
+  ]
+}

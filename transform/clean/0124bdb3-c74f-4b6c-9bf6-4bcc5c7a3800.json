@@ -1,0 +1,11 @@
+{
+  "title": "Social housing sales and demolitions 2023-24, England",
+  "body": "\"This publication includes information on sales and demolitions by local authorities and private registered providers.  It includes sale schemes such as Right to Buy, Preserved Right to Buy, Voluntary Right to Buy, Right to Acquire and Social HomeBuy as well as open market sales.  The underlying data for the charts within the statistical release documents are available on request from housing.statistics@communities.gov.uk. \"",
+  "base_path": "/government/statistics/social-housing-sales-and-demolitions-2023-24-england",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    }
+  ]
+}

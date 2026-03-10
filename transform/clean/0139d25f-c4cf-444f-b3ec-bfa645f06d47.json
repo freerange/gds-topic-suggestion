@@ -1,0 +1,15 @@
+{
+  "title": "Steps 2 Success: NI Statistics from October 2014 to March 2020",
+  "body": "\"Statistics relating to Steps 2 Success, the main employment programme in Northern Ireland. \"",
+  "base_path": "/government/statistics/steps-2-success-ni-statistics-from-october-2014-to-march-2020",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Finding a job",
+      "base_path": "/employment/finding-job"
+    }
+  ]
+}

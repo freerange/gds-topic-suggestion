@@ -1,0 +1,11 @@
+{
+  "title": "NHS referrals for first outpatient appointments: April to June 2016",
+  "body": "\"Therefore, GP referrals received at non-Welsh NHS providers (e.g. England) are not included. \"",
+  "base_path": "/government/statistics/nhs-referrals-for-first-outpatient-appointments-april-to-june-2016",
+  "taxons": [
+    {
+      "title": "Wales",
+      "base_path": "/regional-and-local-government/wales"
+    }
+  ]
+}

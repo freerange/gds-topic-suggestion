@@ -1,0 +1,15 @@
+{
+  "title": "Social Care Bulletin: Issue 20",
+  "body": "\"The latest edition of the Social Care Bulletin is now available. David Behan, Director General of Social Care, discusses how the Prime Minister has launched his Challenge on Dementia to tackle one of the most important issues we face as the population ages.    Read the latest Social Care Bulletin.  \"",
+  "base_path": "/government/news/social-care-bulletin-issue-20",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

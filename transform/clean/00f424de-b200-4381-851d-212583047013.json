@@ -1,0 +1,15 @@
+{
+  "title": "Nuclear Waste Services Annual Review: 2022 to 2023",
+  "body": "\"Making nuclear waste permanently safe, sooner. \"",
+  "base_path": "/government/publications/nuclear-waste-services-annual-review-2022-to-2023",
+  "taxons": [
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    }
+  ]
+}

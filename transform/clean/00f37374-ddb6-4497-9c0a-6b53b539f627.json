@@ -1,0 +1,11 @@
+{
+  "title": "ME3 9SG, OCL Regeneration Limited: environmental permit issued - EPR/SP3401PP/A001",
+  "body": "\"The Environment Agency publish permits that they issue under the Industrial Emissions Directive (IED).  This decision includes the permit and decision document and for:   Operator name: OCL Regeneration Limited Installation name: Medway Recycling Centre Permit number: EPR/SP3401PP/A001  \"",
+  "base_path": "/government/publications/me3-9sg-ocl-regeneration-limited-environmental-permit-issued-eprsp3401ppa001",
+  "taxons": [
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    }
+  ]
+}

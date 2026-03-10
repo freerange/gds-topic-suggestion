@@ -1,0 +1,11 @@
+{
+  "title": "Monitoring of SARS-CoV-2 RNA in England wastewater, monthly statistics: June 2021",
+  "body": "\"This release contains data about the EMHP wastewater programme.  The data cover the period 1 June 2021 to 28 June 2021.  This includes data on the concentration of SARS-CoV-2 RNA in wastewater sampled from Sewage Treatment Works as part of the EMHP National Monitoring programme.  \"",
+  "base_path": "/government/publications/monitoring-of-sars-cov-2-rna-in-england-wastewater-monthly-statistics-june-2021",
+  "taxons": [
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    }
+  ]
+}

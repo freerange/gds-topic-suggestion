@@ -1,0 +1,31 @@
+{
+  "title": "In work, better off: next steps to full employment",
+  "body": "\"This document contains the following information: In work, better off: next steps to full employment.  This Command Paper was laid before Parliament by a Government Minister by Command of Her Majesty. Command Papers are considered by the Government to be of interest to Parliament but are not required to be presented by legislation. \"",
+  "base_path": "/government/publications/in-work-better-off-next-steps-to-full-employment",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    },
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Regulation reform",
+      "base_path": "/business-and-industry/regulation-reform"
+    },
+    {
+      "title": "Equality, rights and citizenship",
+      "base_path": "/society-and-culture/equality-rights-and-citizenship"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Bass fisheries management plan (FMP)",
+  "body": "\"The bass fisheries management plan (FMP) covers stocks in English and Welsh waters.  The FMP was prepared by Defra and the Welsh Government, in collaboration with stakeholders from across the bass fishery sector. Stakeholder engagement was facilitated by Policy Lab, a multidisciplinary team of policy makers, designers and researchers based at the Department for Education.  The bass FMP has been prepared and published to meet the requirements set out in the Fisheries Act 2020.  Read more about fisheries management plans.  Areas covered  English and Welsh waters.  Status  A public consultation to seek views on the draft plan closed on 1 October 2023. View the consultation and the government response at Bass: proposed fisheries management plan consultation.  The final FMP was published in December 2023.  Contact us  If you would like more information, email FMPs@defra.gov.uk.  \"",
+  "base_path": "/government/publications/bass-fisheries-management-plan-fmp",
+  "taxons": [
+    {
+      "title": "Fishing regulations, monitoring and enforcement",
+      "base_path": "/environment/fishing-regulations-monitoring-enforcement"
+    },
+    {
+      "title": "Marine fisheries",
+      "base_path": "/environment/marine-fisheries"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

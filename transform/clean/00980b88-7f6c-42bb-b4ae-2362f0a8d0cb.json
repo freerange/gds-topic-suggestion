@@ -1,0 +1,15 @@
+{
+  "title": "Enrolments at schools and in funded pre-school education in Northern Ireland: 2016 to 2017",
+  "body": "\"Enrolment data from the 2016/17 annual school census was released in December 2016. The purpose of this statistical release is to present a more detailed analysis of enrolment figures for schools in Northern Ireland. The data are taken from the school census exercise, which ran in October 2016.  \"",
+  "base_path": "/government/statistics/enrolments-at-schools-and-in-funded-pre-school-education-in-northern-ireland-2016-to-2017",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

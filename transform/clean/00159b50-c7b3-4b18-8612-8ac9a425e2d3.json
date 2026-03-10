@@ -1,0 +1,19 @@
+{
+  "title": "تصريح وزير شؤون الشرق الأوسط حول انطلاق عملية استعادة الموصل ",
+  "body": "\"قال وزير شؤون الشرق الأوسط، توباياس إلوود:   إن انطلاق العمليات العراقية لاستعادة الموصل يعتبر خطوة أخرى تجاه إخراج داعش من العراق. وبعد عامين من الحكم الوحشي، بات باستطاعة أهالي الموصل البدء في حلمهم بأن يكون لهم مستقبل أفضل.  ستكون تلك أكبر معركة على الإطلاق تواجهها القوات العراقية – وهي قادرة على مواجهة ذلك التحدي. والمملكة المتحدة، كعضو في التحالف الدولي، ملتزمة بمواصلة تقديم دعم لجهود الحكومة العراقية بالمجال العسكري والإنساني وجهودها في تحقيق الاستقرار.   \"",
+  "base_path": "/government/news/minister-ellwood-statement-on-mosul.ar",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

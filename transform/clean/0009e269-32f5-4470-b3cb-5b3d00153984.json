@@ -1,0 +1,19 @@
+{
+  "title": "HIV testing in community settings in England",
+  "body": "\"The UK Health Security Agency conducts an annual survey of HIV testing in community settings in England to assess the implementation of current testing guidelines. The results of this survey are used to determine if targets are being achieved, how resources should be allocated and to identify areas for improvement. \"",
+  "base_path": "/government/publications/hiv-testing-in-community-settings-in-england",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    },
+    {
+      "title": "Sexual and reproductive health",
+      "base_path": "/health-and-social-care/sexual-and-reproductive-health"
+    }
+  ]
+}

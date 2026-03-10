@@ -1,0 +1,11 @@
+{
+  "title": "Driving test, theory test and instructor statistics, July to September 2014",
+  "body": "\"Information on the number and pass rates of driving and riding practical tests conducted in Great Britain for the quarter to 30 September 2014, and also statistics on driving instructors. The statistics are derived from data held by the Driver and Vehicle Standards Agency (DVSA), which administers the driving test and training schemes in Great Britain.  For more detailed statistics than are available in the published tables please contact FOI@dsa.gsi.gov.uk. Driving instructors should also this contact for their personal statistics.  Main results  During the latest quarter (July to September 2014):   there were 437,836 car theory tests, 6.4% more than in the same quarter of the previous year. The pass rate for these tests was 52.%, 1.1 percentage points lower than in the same period of 2013 there were 370,995 car practical tests, 5.0% more than in the same quarter of the previous year. The pass rate for these tests was 47.5 per cent, 0.1 percentage points lower than the same period in 2013 the number of motorcycle theory tests was 10.2% up compared with the same period of the previous year. The number of motorcycle practical tests was 10.4% up for module 1 and 11.9% up for module 2 compared with same period of the previous year increasing numbers of theory and practical LGV tests conducted in the latest two quarters suggest growth in this sector at a time of GDP growth   Contact us  Driving tests and instructor statistics     Email vehicles.stats@dft.gov.uk         \"",
+  "base_path": "/government/statistics/driver-and-rider-tests-and-instructor-statistics-july-to-september-2014",
+  "taxons": [
+    {
+      "title": "Car driving tests",
+      "base_path": "/transport/car-driving-tests"
+    }
+  ]
+}

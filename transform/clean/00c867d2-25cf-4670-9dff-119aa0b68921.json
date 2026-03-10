@@ -1,0 +1,11 @@
+{
+  "title": "Fuel duty: aqua-methanol",
+  "body": "\"This measure provides a reduced rate of excise duty from 1 October 2016 for aqua methanol used as fuel in any engine motor or other machinery. \"",
+  "base_path": "/government/publications/fuel-duty-aqua-methanol",
+  "taxons": [
+    {
+      "title": "Fuel Duty",
+      "base_path": "/money/fuel-duty"
+    }
+  ]
+}

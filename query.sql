@@ -9,5 +9,5 @@ COPY (
   where publishing_app = 'whitehall'
   and expanded_links?'taxons'
   order by id asc
-  limit 50
+  limit 2000
 ) to STDOUT WITH CSV HEADER;

@@ -1,0 +1,15 @@
+{
+  "title": "Total transport feasibility report and pilot review",
+  "body": "\"The Department for Transport allocated £7.6 million to 37 separate schemes run by 36 local authorities in England to pilot Total Transport solutions in their areas. These pilots were focused on rural areas.  The report considers the progress made by Total Transport pilots and the results achieved. \"",
+  "base_path": "/government/publications/total-transport-feasibility-report-and-pilot-review",
+  "taxons": [
+    {
+      "title": "Bus operators",
+      "base_path": "/transport/bus-operators"
+    },
+    {
+      "title": "Local transport funding",
+      "base_path": "/transport/local-transport-funding"
+    }
+  ]
+}

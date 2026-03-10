@@ -1,0 +1,11 @@
+{
+  "title": "Population trends of Breeding Birds in the countries of the UK, to 2021",
+  "body": "\"The Breeding Bird Survey (BBS) is the main scheme for monitoring population changes of common breeding birds in the UK, providing an important indicator of the health of the countryside. Population trends are produced annually for over 100 species. Results are presented at UK level and at country level where there are sufficient data, and are used widely to inform conservation priorities, action, and reporting.  The BBS is a Partnership jointly funded by BTO, RSPB and JNCC, and is indebted to the thousands of volunteer data recorders who take part. \"",
+  "base_path": "/government/statistics/population-trends-of-breeding-birds-in-the-countries-of-the-uk-to-2021",
+  "taxons": [
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

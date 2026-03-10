@@ -1,0 +1,15 @@
+{
+  "title": "ECHR Article 2: investigations into mental health incidents",
+  "body": "\"This document is for NHS organisations. It helps organisations meet Article 2 of the European Convention on Human Rights (ECHR) when making decisions about serious incidents in mental health services.  The procedures to be followed when managing a serious incident are set out in the NHS England Serious Incident Framework – supporting learning to prevent recurrence.  The guidance, when read together with the serious incident framework, replaces the Department of Health guidance ‘Independent investigations of adverse events in mental health services’, published in 2005. \"",
+  "base_path": "/government/publications/echr-article-2-investigations-into-mental-health-incidents",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    }
+  ]
+}

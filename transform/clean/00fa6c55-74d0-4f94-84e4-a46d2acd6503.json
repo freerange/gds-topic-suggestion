@@ -1,0 +1,31 @@
+{
+  "title": "Registrar General Quarterly Report (Northern Ireland) - January to March 2021",
+  "body": "\"Statistics: Births, Deaths and Marriages Births Cause of Death Deaths Stillbirths & Infant Deaths Registrar General Quarterly Report Registrar General Quarterly Tables \"",
+  "base_path": "/government/statistics/registrar-general-quarterly-report-northern-ireland-january-to-march-2021",
+  "taxons": [
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    },
+    {
+      "title": "Death registration disclosure",
+      "base_path": "/life-circumstances/death-registration-disclosure"
+    },
+    {
+      "title": "Having a child, parenting and adoption",
+      "base_path": "/life-circumstances/child-adoption"
+    },
+    {
+      "title": "Getting married ",
+      "base_path": "/life-circumstances/births-deaths-marriages-marriage-divorce-getting-married"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Health and wellbeing during COVID-19",
+      "base_path": "/health-and-social-care/health-and-wellbeing-during-covid-19"
+    }
+  ]
+}

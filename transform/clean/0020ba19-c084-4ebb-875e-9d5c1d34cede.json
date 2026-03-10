@@ -1,0 +1,15 @@
+{
+  "title": "Alcohol licensing: temporary event notice forms",
+  "body": "\"If you’re organising a temporary event and want to serve or sell alcohol, provide late-night refreshment, or put on regulated entertainment, you’ll need to complete a temporary event notice (TEN).  You can make your application for a TEN online  Alternatively you can access the forms and guidance below.  \"",
+  "base_path": "/government/collections/alcohol-licensing-temporary-events-notices",
+  "taxons": [
+    {
+      "title": "Alcohol licensing ",
+      "base_path": "/business-and-industry/alcohol-sales"
+    },
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    }
+  ]
+}

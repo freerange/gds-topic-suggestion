@@ -1,0 +1,15 @@
+{
+  "title": "Impact of improvement to outlier treatment for Output in the Construction Industry",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/impact-of-improvement-to-outlier-treatment-for-output-in-the-construction-industry",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

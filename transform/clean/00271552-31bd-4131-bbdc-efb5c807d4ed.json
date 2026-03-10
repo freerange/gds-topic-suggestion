@@ -1,0 +1,15 @@
+{
+  "title": "Explanatory framework for adequacy discussions",
+  "body": "\"In his statement of 3 February 2020, the Prime Minister confirmed that it is the United Kingdom’s intention to secure adequacy decisions from the European Commission to enable personal data to continue to flow freely from the European Union to the United Kingdom and Gibraltar.  Adequacy decisions are the European Commission’s legal mechanism to facilitate the free flow of personal data from the European Union to third countries. They can encompass data flows under the GDPR for general and commercial purposes and data flows under the LED for law enforcement purposes.  Adequacy decisions, delivered through Article 45 of the GDPR and Article 36 of the Law Enforcement Directive, confirm that the third country’s data protection standards are ‘essentially equivalent’ to those of the European Union. They are adopted on the basis of a positive assessment of the third country’s data protection framework by the European Commission.  This comprehensive pack of explanatory material provides an overview of the United Kingdom’s legal framework underpinning high data protection standards in order to assist the European Commission in conducting its assessment.  \"",
+  "base_path": "/government/publications/explanatory-framework-for-adequacy-discussions",
+  "taxons": [
+    {
+      "title": "Data protection",
+      "base_path": "/crime-justice-and-law/data-protection"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

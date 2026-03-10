@@ -1,0 +1,11 @@
+{
+  "title": "Vehicle online services",
+  "body": "\"This consultation is about DVLA developing an online service as well as the current paper channel. The online service will give motorists further options to tell DVLA of changes to their vehicle record including personalised registrations. This will give motorists the options to self serve or transact via an intermediary. An example of an intermediary is a motor dealer who might notify DVLA electronically of changes to the vehicle record on behalf of a customer part exchanging a vehicle.  It’s proposed that the following transactions will become available:   selling or part exchanging a vehicle to the motor trade notifying change of keeper details (private sale) notifying change of personal details (name and or address) replacement V5C notifying a permanent export putting a registration number on a vehicle (assignment) taking a registration number off a vehicle (retention) transferring a registration number from one vehicle to another personalised registration-post sale services   As part of this work we will also extend the personalised registration retention facility to Northern Ireland, where retentions are not currently available under the paper channel. \"",
+  "base_path": "/government/consultations/vehicle-online-services",
+  "taxons": [
+    {
+      "title": "Driver and vehicle record",
+      "base_path": "/transport/driver-and-vehicle-record"
+    }
+  ]
+}

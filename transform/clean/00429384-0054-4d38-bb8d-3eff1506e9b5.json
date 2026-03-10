@@ -1,0 +1,23 @@
+{
+  "title": "IPO annual report and accounts 2022 to 2023",
+  "body": "\"This report sets out the activities of the Intellectual Property Office (IPO) over the period 1 April 2022 to 31 March 2023.  It provides detailed information on:   our performance our corporate priorities our objectives   The accounts provide detailed accounting and expenditure information for the financial year 2022 to 2023.  [Intellectual Property Office is an operating name of the Patent Office]  \"",
+  "base_path": "/government/publications/ipo-annual-report-and-accounts-2022-to-2023",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    },
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

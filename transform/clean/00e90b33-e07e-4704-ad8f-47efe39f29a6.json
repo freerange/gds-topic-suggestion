@@ -1,0 +1,15 @@
+{
+  "title": "Mineral extraction in Great Britain 2012",
+  "body": "\"This report presents the results of a survey of mineral operators carried out by the Office for National Statistics. It provides data on non-energy mineral production in Great Britain and, in particular, data on extracted sales of chalk, clays, crushed rock, dolomite, granite, limestone, peat, ore minerals, salt, sandstone, sand and gravel, slate and other minerals, together with employment for each quarry type. \"",
+  "base_path": "/government/statistics/mineral-extraction-in-great-britain-2012",
+  "taxons": [
+    {
+      "title": "Energy efficiency in buildings",
+      "base_path": "/housing-local-and-community/energy-efficiency-in-buildings"
+    },
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    }
+  ]
+}

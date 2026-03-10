@@ -1,0 +1,15 @@
+{
+  "title": "Value for Money metrics – Summary and Technical regression reports",
+  "body": "\"The Value for Money Standard which took effect from April 2018 requires registered providers to report against a prescribed set of VFM metrics in order to support transparency and comparability across the sector. The introduction of a set of standard metrics is intended to enhance the consistency, comparability and transparency of value for money reporting in the sector.  The Summary report, which is published on an annual basis, supports this aim by reporting and analysing historic performance on the regulator’s standard suite of metrics.  It is accompanied by a detailed Technical regression report, intended for a technical audience, which explains the analysis in greater depth with detail of data definitions and the statistical process. The Technical regression report aims to understand how providers’ VFM metrics are related to a range of measured explanatory factors.  All the reports and guidance relating to VFM can be found on the Value for money collections page.  \"",
+  "base_path": "/government/publications/value-for-money-summary-and-technical-reports",
+  "taxons": [
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

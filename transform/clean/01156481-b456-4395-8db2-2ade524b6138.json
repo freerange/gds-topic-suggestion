@@ -1,0 +1,15 @@
+{
+  "title": "Annual report and resource accounts 2010-11",
+  "body": "\"This annual report sets out the activities of HMRC over the past year including progress against our priorities and also sets out what the aims of the Department are going forward. \"",
+  "base_path": "/government/publications/annual-report-and-resource-accounts-2010-11",
+  "taxons": [
+    {
+      "title": "Tax evasion and avoidance",
+      "base_path": "/money/tax-evasion-and-avoidance"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

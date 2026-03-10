@@ -1,0 +1,11 @@
+{
+  "title": "Business rates levy and safety net calculator 2018 to 2019",
+  "body": "\"This is a tool that allows local authorities to calculate their business rates levy or safety net for 2018 to 2019 national non-domestic rates (NNDR3) returns. \"",
+  "base_path": "/government/publications/business-rates-levy-and-safety-net-calculator-2018-to-2019",
+  "taxons": [
+    {
+      "title": "Business rates",
+      "base_path": "/regional-and-local-government/local-government-business-rates"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Provisional road traffic estimates, Great Britain: July 2020 to June 2021",
+  "body": "\"Provisional estimates of road traffic, by   vehicle type road class   in Great Britain for the year ending June 2021.  Provisional estimates show motor vehicles travelled 293.0 billion vehicle miles in Great Britain for the year ending June 2021.  When compared to the year ending June 2020:   all motor vehicle traffic decreased by 5.5% car traffic decreased by 8.6% to 217.3 billion vehicle miles van traffic increased by 5.2% to 53.9 billion vehicle miles lorry traffic increased by 8.0% to 17.7 billion vehicle miles traffic on motorways decreased by 10.2% to 53.9 billion vehicle miles traffic on ‘A’ roads decreased by 5.2% to 122.4 billion vehicle miles traffic on minor roads decreased by 3.4% to 116.7 billion vehicle miles   Contact us  Road traffic and vehicle speed compliance statistics     Email roadtraff.stats@dft.gov.uk     Media enquiries 0300 7777 878      \"",
+  "base_path": "/government/statistics/provisional-road-traffic-estimates-great-britain-july-2020-to-june-2021",
+  "taxons": [
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    }
+  ]
+}

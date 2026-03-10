@@ -1,0 +1,19 @@
+{
+  "title": "Science and Innovation in the UK: commercial benefits",
+  "body": "\"The publication provides information on:   commercial benefits UK strengths in innovation opportunities for innovation eight great technologies research and development help from UKTI  \"",
+  "base_path": "/government/publications/science-and-innovation-in-the-uk-commercial-benefits",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

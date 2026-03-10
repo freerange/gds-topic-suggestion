@@ -1,0 +1,11 @@
+{
+  "title": "Who we are and what we do",
+  "body": "\"Organisational information, structures, locations and contacts for the Foreign & Commonwealth Office. \"",
+  "base_path": "/government/collections/who-we-are-and-what-we-do",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Spain travel advice: Foreign Office statement, 14 March 2020",
+  "body": "\"A Foreign and Commonwealth Office spokesperson said:   Due to Spain declaring a State of Emergency on 14 March, which imposes significant restrictions on movement throughout the country in response to the coronavirus outbreak, we are now advising against all but essential travel to Spain.     See our guidance on Spain Travel Advice and our coronavirus travel advice.   Background    we advise against all but essential travel to the whole of mainland Spain, the Balearic Islands and the Canary Islands. British nationals with upcoming journeys planned should check with their airlines and tour operators   we advise those in Spain to stay in contact with their airlines and tour operators and to follow the instructions of local authorities   airports remain open, and flights continue to operate albeit at reduced levels. British nationals should contact their airlines for the most up-to-date information   public services and transport are operating at reduced levels   public gatherings are banned, most shops, many businesses and all schools and universities are closed, and residents have been instructed to remain at home as much as possible   there are limited, specific exceptions to the requirement to remain at home, in particular in order to buy food or other essential items, to return home to the primary residence, to go to work if unable to work from home and to carry out caring or similar duties   \"",
+  "base_path": "/government/news/fco-statement-on-spain-travel-advice",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "International travel, immigration and repatriation during COVID-19",
+      "base_path": "/health-and-social-care/international-travel-immigration-repatriation-during-covid-19"
+    }
+  ]
+}

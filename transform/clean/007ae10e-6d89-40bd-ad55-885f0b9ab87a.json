@@ -1,0 +1,19 @@
+{
+  "title": "Foreign Secretary sends message of condolence to victims of Iran Air crash",
+  "body": "\"“I was deeply saddened to hear of the crash of an Iran Air plane near Orumiyeh on 9 January, resulting in the loss of many lives. I would like to offer my sympathy to those who lost family members in the crash, and wish all those injured a swift and complete recovery.” \"",
+  "base_path": "/government/news/foreign-secretary-sends-message-of-condolence-to-victims-of-iran-air-crash",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Countries (Living In)",
+      "base_path": "/going-and-being-abroad/countries-living-in"
+    },
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    }
+  ]
+}

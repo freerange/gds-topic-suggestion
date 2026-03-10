@@ -1,0 +1,15 @@
+{
+  "title": "Bromine: health effects, incident management and toxicology",
+  "body": "\"These documents provide information on the health effects of exposure, the chemical’s toxicity and material for responding to a chemical incident. \"",
+  "base_path": "/government/publications/bromine-properties-incident-management-and-toxicology",
+  "taxons": [
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "Chemical and environmental hazards",
+      "base_path": "/health-and-social-care/health-protection-chemical-and-environmental-hazards"
+    }
+  ]
+}

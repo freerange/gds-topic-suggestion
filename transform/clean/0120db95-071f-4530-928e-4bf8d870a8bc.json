@@ -1,0 +1,11 @@
+{
+  "title": "Monthly hospital activity data for April 2016",
+  "body": "\"Monthly and quarterly activity collections contain different data items covering the same general topic area – hospital inpatient and outpatient activity. The main differences are that the quarterly data covers all specialties but only looks at elective activity whereas monthly data focuses on General & Acute and shows the split between elective and non-elective data and the elective split between ordinary admissions and day cases.  The monthly activity data is relating to elective and non-elective inpatient admissions (or first finished consultant episodes FFCEs) and outpatient referrals and attendances for first consultant outpatient appointments.  Official statistics are produced impartially and free from any political influence. \"",
+  "base_path": "/government/statistics/monthly-hospital-activity-data-for-april-2016",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

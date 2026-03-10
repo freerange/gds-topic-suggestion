@@ -1,0 +1,15 @@
+{
+  "title": "Digital polymerase chain reaction: analysis of GMOs",
+  "body": "\"A scientific research paper, published in ‘European Food Research and Technology’, describes a study that investigates the applicability of using digital PCR to estimate absolute limits of detection and quantification of genetically modified ingredients. \"",
+  "base_path": "/government/publications/digital-polymerase-chain-reaction-analysis-of-gmos",
+  "taxons": [
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    },
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

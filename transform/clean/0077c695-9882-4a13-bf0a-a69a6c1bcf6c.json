@@ -1,0 +1,11 @@
+{
+  "title": "Format 6 - PDF - Times of high water for each day of the year, contained on one page (A4 portrait)",
+  "body": "\"Times of high water for each day of the year, contained on one page (A4 portrait)   1 to 5 Ports = £45 per port 6 to 10 Ports = £41 per port 11 to 25 Ports = £38 per port 26 to 50 Ports = £36 per port   Prices exclude VAT \"",
+  "base_path": "/government/publications/ukho-tidal-prediction-service-sample-pdf-format-six",
+  "taxons": [
+    {
+      "title": "Hydrography",
+      "base_path": "/environment/hydrography"
+    }
+  ]
+}

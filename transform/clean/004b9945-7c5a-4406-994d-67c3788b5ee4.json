@@ -1,0 +1,15 @@
+{
+  "title": "Fish products: model health certificates",
+  "body": "\"Fish products exported to Great Britain must be accompanied by the relevant health certificate. Exporters should read the guide on how to complete a health certificate.  Certificate GBHC400  Must be used from 30 April 2024 by all countries.  Model health certificate for live bivalve molluscs, echinoderms, tunicates and marine gastropods (LBM).  Certificate GBHC401  Must be used from 30 April 2024 by all countries.  Model official certificate for the entry into Great Britain, the Channel Islands and Isle of Man for placing on the market of fishery products (FP).  Certificate GBHC402  Must be used from 30 April 2024 by all countries.  Model health certificate for fishery products caught by vessels flying the flag of a member state and transferred in third countries with or without storage (FPT).  Certificate GBHC403  Must be used from 30 April 2024 by all countries.  Certificate to be signed by the captain accompanying frozen fishery products when entering Great Britain for placing on the market directly from a freezer, reefer or factory vessel (CCFP).  Certificate GBHC202  Use this certificate from 21 June 2021.  Model health certificate for fishery products for human consumption (NZ) from New Zealand. \"",
+  "base_path": "/government/publications/fish-products-health-certificates",
+  "taxons": [
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

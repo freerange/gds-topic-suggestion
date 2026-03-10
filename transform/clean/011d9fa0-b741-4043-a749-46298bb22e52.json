@@ -1,0 +1,15 @@
+{
+  "title": "Changing existing regulations for an emergency alert system",
+  "body": "\"We are consulting on changing the Privacy and Electronic Communications Regulations to help implement a potential mobile phone based alert system.  In the Strategic Defence and Security Review, we committed to evaluate options for rapidly notifying people affected by an emergency. This would help them protect themselves. In autumn 2013 the government, working with local emergency response agencies and the mobile phone networks, completed the mobile alerting trials for public emergencies. The trials found that a ‘location-based SMS’ service would be the most effective way to alert people in affected areas. However existing Privacy and Electronic Communications Regulations 2003 may restrict the operation of such a system.  We invite comments on our proposal for a targeted exemption to certain regulations when it is necessary to issue an emergency alert for public safety. Exemptions already exist within the regulations on related matters, for example when someone calls 999. The proposed changes will enable similar exceptions to be in place. \"",
+  "base_path": "/government/consultations/changing-existing-regulations-for-an-emergency-alert-system",
+  "taxons": [
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

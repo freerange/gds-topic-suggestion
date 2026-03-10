@@ -1,0 +1,19 @@
+{
+  "title": "FCDO: special advisers’ gifts, hospitality and meetings, October to December 2022",
+  "body": "\"The Foreign, Commonwealth & Development Office (FCDO) publishes details of special advisers’ meetings with senior media figures and any gifts or hospitality they received every 3 months.   This data is also on data.gov.uk: Foreign, Commonwealth & Development Office: special advisers’ gifts, hospitality and meetings.  \"",
+  "base_path": "/government/publications/fcdo-special-advisers-gifts-hospitality-and-meetings-october-to-december-2022",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Overseas aid transparency",
+      "base_path": "/international/overseas-aid-transparency"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

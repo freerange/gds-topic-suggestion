@@ -1,0 +1,15 @@
+{
+  "title": "Model terms and conditions for services contracts",
+  "body": "\"This is an example of the range of terms and conditions that can be used in a Department for Work and Pensions (DWP) procurement exercise.  This example includes optional clauses, optional wording and some clauses that may be significantly amended to suit specific contracts. Other clauses may also be added to the final version of the terms and conditions.  Read more about procurement at DWP.  \"",
+  "base_path": "/government/publications/dwp-model-terms-and-conditions-for-dwp-services-contracts",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

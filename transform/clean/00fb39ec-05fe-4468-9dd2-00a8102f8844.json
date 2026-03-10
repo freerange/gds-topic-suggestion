@@ -1,0 +1,35 @@
+{
+  "title": "St Lucia: information for victims of rape and sexual assault",
+  "body": "\"Includes information on:   reporting assaults to the police medical examination and treatment the legal system in St Lucia support organisations   See also rape and sexual assault abroad: returning to the UK. \"",
+  "base_path": "/government/publications/rape-and-sexual-assault-in-st-lucia-information-for-victims",
+  "taxons": [
+    {
+      "title": "Emergency help for British nationals in St Lucia",
+      "base_path": "/world/emergency-help-for-british-nationals-st-lucia"
+    },
+    {
+      "title": "Living in St Lucia",
+      "base_path": "/world/living-in-st-lucia"
+    },
+    {
+      "title": "Travelling to St Lucia",
+      "base_path": "/world/travelling-to-st-lucia"
+    },
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

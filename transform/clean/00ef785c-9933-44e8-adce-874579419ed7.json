@@ -1,0 +1,15 @@
+{
+  "title": "Community Pharmaceutical Services Statistics for Northern Ireland, Quarter 1 2022/23",
+  "body": "\"These statistics contain information on prescription dispensing and payments in relation to community pharmaceutical services for the first quarter of 2022/23.  Information is provided at Northern Ireland level with further breakdowns at Local Government District (LGD) and Local Commissioning Group (LCG) level. \"",
+  "base_path": "/government/statistics/community-pharmaceutical-services-statistics-for-northern-ireland-quarter-1-202223",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Pharmacy",
+      "base_path": "/health-and-social-care/pharmacy"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "FCO Counter-Proliferation Programme 2015 to 2016",
+  "body": "\"Counter-Proliferation is one of the government’s top international priorities. It is at the heart of one of the Foreign Secretary’s 3 priorities for the FCO: safeguarding Britain’s national security. \"",
+  "base_path": "/government/publications/fco-counter-proliferation-programme-2015-to-2016",
+  "taxons": [
+    {
+      "title": "Weapons proliferation",
+      "base_path": "/defence-and-armed-forces/weapons-proliferation"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

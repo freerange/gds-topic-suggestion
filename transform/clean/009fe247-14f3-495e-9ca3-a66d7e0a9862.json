@@ -1,0 +1,15 @@
+{
+  "title": "UK armed forces annual personnel report: index",
+  "body": "\"This report is no longer being published. Statistics previously published in this report can now be found in UK armed forces monthly service personnel statistics and Biannual diversity statistics.  Related information   Statistics at MOD   \"",
+  "base_path": "/government/collections/uk-armed-forces-annual-manning-statistics-index",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

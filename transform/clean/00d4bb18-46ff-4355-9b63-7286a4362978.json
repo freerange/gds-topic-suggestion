@@ -1,0 +1,11 @@
+{
+  "title": "Fire test report: DCLG BS 8414 test no.3",
+  "body": "\"This report is the third of a series, commissioned by the Department for Communities and Local Government (DCLG) intended to establish how different types of Aluminium Composite Material (ACM) panels in combination with 2 different types of insulation behave in a fire.  Following the fire at Grenfell Tower in London on 14 June 2017, the government established an Independent Expert Advisory Panel to advise on immediate measures that should be put in place to help make buildings safe.  On 6 July the Independent Expert Advisory Panel recommended a series of large scale, BS 8414 tests be carried out in order to help building owners make decisions on any further measures that may need to be put in place.  This series of tests includes 6 combinations of cladding systems. The detailed design of each test specimen has been reviewed by the Expert Panel and other industry bodies to ensure that it is representative of the systems that are in common use including the way it is fixed.  The 6 tests incorporate each of the 3 common types of ACM panel, with core filler materials of unmodified polyethylene (PE), fire retardant polyethylene, and limited combustibility mineral.  The 2 insulation materials used in the testing are rigid polyisocyanurate foam or non-combustible stone wool.  Test no.3 relates to a cladding system formed using ACM panels with a fire retardant polyethylene core and a PIR foam insulation.  The test result shows that this system failed to meet the criteria set out in building regulations guidance BR 135. \"",
+  "base_path": "/government/publications/fire-test-report-dclg-bs-8414-test-no3",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "NDA group Health, Safety & Wellbeing Policy Statement",
+  "body": "\"The NDA’s number one priority is and always will be safety. We are committed to providing a safe and healthy environment across the NDA group where our employees are able to thrive at work. Our focus is to reduce the highest hazards and risks, while ensuring safe, secure and responsible operations at our sites. It’s our duty to carry out this highly complex mission safely and efficiently, ensuring people and the workplace are protected at all times. \"",
+  "base_path": "/government/publications/nda-health-safety-security-and-environmental-policy",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    }
+  ]
+}

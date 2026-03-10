@@ -1,0 +1,15 @@
+{
+  "title": "Bridge maintenance work over the M27, Southampton",
+  "body": "\"The work will involve the replacement of bridge deck joints which allow the structure to adapt to changes in temperature.  Gemma Luckhurst, Highways Agency Project Sponsor said:   The bridge joint replacement work will make sure that drivers are able to continue their journeys safely on the A334, above the M27 near junction 7.  We have planned the work carefully to minimise disruption and that is why work will take place overnight, when traffic flows are lowest, with closures on the A334 eastbound. Drivers will be able to continue their journeys by following a clearly signed diversion route.   Work will start on Monday 3 March for six nights, with the joint replacement work completed in the morning of Sunday 9 March. Work will take place overnight only, between 10pm and 6am, with a closure of the A334 eastbound in place.  During the closure, to join M27 eastbound, drivers will be directed to follow the A27 along Moorhill Road, Swaythling Road and Mansbridge Road, then Wide Lane to the A335 and M27 Junction 5. To cross the Junction 7 bridge eastbound, drivers will be directed to follow the A27 Moorhill Road, then the B3035 High Street through West End and Botley Road to the A334 Charles Watts Way.  General enquiries  Members of the public should contact the Highways Agency Information Line on 0300 123 5000  Media enquiries  Journalists should contact the Highways Agency press office on 0844 693 1448 and use the menu to speak to the most appropriate press officer \"",
+  "base_path": "/government/news/bridge-maintenance-work-over-the-m27-southampton",
+  "taxons": [
+    {
+      "title": "Planned roadworks",
+      "base_path": "/transport/planned-roadworks"
+    },
+    {
+      "title": "Overnight works",
+      "base_path": "/transport/overnight-works"
+    }
+  ]
+}

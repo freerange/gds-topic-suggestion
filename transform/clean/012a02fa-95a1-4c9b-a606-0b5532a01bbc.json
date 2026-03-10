@@ -1,0 +1,15 @@
+{
+  "title": "Civil news: changes to CCMS email addresses",
+  "body": "\"The email addresses you can use for cases and feedback about the Client and Cost Management System (CCMS) have changed.  You should note the following email addresses were closed at 5pm on 1 March 2015. These include:  CCMStranche1@legalaid.gsi.gov.uk  CCMStranche2@legalaid.gsi.gov.uk  CCMStranche3@legalaid.gsi.gov.uk  CCMSPilot@legalaid.gsi.gov.uk  CCMScasework@legalaid.gsi.gov.uk  If you email any of the above addresses you will receive an auto response. This will direct you to an alternative contact to deal with your enquiry.  You still have a number of ways to get in touch now that above emails are closed and these are detailed below.  Case related enquiries You should use the case enquiries feature in CCMS to submit case-related enquiries.  If you need to, you can also use the ‘urgent flag’ to highlight urgent applications and amendments at the point of submission.  If you have used the ‘urgent flag’, you don’t need to contact us to speed up the processing of your submission. This will happen automatically.  Further details of what is classed as ‘urgent work’ can be found in a recent GOV.UK article – see link below.  If you are unable to submit your enquiry in CCMS you should email:  contactcivil@legalaid.gsi.gov.uk  Details of the information to include in the email subject header can be found on GOV.UK – see link below.  Technical enquiries  It is important that we know about any technical enquiries or issues. You can telephone or email Online Support.  0203 334 6664  online-support@legalaid.gsi.gov.uk  General feedback  CCMS.team@legalaid.gsi.gov.uk  We will be glad to hear your suggestions for improvements or feedback regarding CCMS.  Further information  CCMS website  CCMS website: what to do if CCMS isn’t working  CCMS training and quick guides  GOV.UK  ‘Urgent work flag’ news story  Apply for legal aid – guidance on email subject headers for case enquiries \"",
+  "base_path": "/government/news/civil-news-changes-to-ccms-email-addresses",
+  "taxons": [
+    {
+      "title": "Legal aid",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers"
+    },
+    {
+      "title": "Legal aid reform",
+      "base_path": "/crime-justice-and-law/legal-aid-reform"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "About us",
+  "body": "\"The Pensions Advisory Service (TPAS) was an independent voluntary organisation that was grant-aided by the Department for Work and Pensions (DWP).  It provided information and guidance to members of the public on all pension matters, covering state, company, personal and stakeholder schemes.  It also helped any member of the public who had a problem, complaint or dispute with their occupational or private pension arrangement.  It was replaced on 1 January 2019 by the Money and Pensions Service. \"",
+  "base_path": "/government/organisations/the-pensions-advisory-service/about",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

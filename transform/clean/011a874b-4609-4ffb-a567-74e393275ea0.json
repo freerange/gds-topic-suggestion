@@ -1,0 +1,11 @@
+{
+  "title": "Building materials and components statistics: October 2018",
+  "body": "\"Presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also presents quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products. \"",
+  "base_path": "/government/statistics/building-materials-and-components-statistics-october-2018",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

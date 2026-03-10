@@ -1,0 +1,23 @@
+{
+  "title": "Flu vaccines 2025 to 2026: JCVI advice",
+  "body": "\" This document sets out JCVI’s scientific view on the use of flu vaccines in the UK for the 2025 to 2026 flu season. \"",
+  "base_path": "/government/publications/flu-vaccines-2025-to-2026-jcvi-advice",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    },
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

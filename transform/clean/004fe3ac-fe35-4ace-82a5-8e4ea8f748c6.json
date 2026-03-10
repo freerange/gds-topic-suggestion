@@ -1,0 +1,19 @@
+{
+  "title": "Enforcing the Farming Rules for Water",
+  "body": "\"The Secretary of State shares criteria for the Environment Agency to consider when assessing if they should take enforcement action under the Farming Rules for Water. \"",
+  "base_path": "/government/publications/applying-the-farming-rules-for-water",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Pollution",
+      "base_path": "/environment/environmental-management-land-management-pollution"
+    }
+  ]
+}

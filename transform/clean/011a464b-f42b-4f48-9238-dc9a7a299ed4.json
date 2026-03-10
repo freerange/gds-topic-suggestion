@@ -1,0 +1,27 @@
+{
+  "title": "Register your S1 form in Spain online",
+  "body": "\"If you cannot visit an INSS office in person, you can register your S1 form online instead.  Some parts of the process are either in Spanish or need to be completed in Spanish.  Before you start You’ll need digital copies of the following documents:   your S1 form   a completed healthcare application form – available to download on the INSS S1 registration webpage (in Spanish) your passport   your green A4 or credit-card-sized residency certificate (‘residencia’) or new TIE card (Tarjeta de Identidad Extranjera) proof of how dependants are related to the S1 holder   If you’ve applied for your TIE card but not yet received it, you can include a copy of the confirmation that your application has been approved (resolución favorable) by the Spanish authorities.  You’ll also need:   an email address a Spanish telephone number your NIE (número de identidad de extranjero)   Register your details  The INSS website has an online registration form.  The form is in Spanish.  Once you have completed and saved the healthcare application form, you will need to send this with the rest of the necessary documentation:   click on ‘enviar solicitud’ follow the instructions on your screen to confirm your identity (the process is in Spanish) provide any additional information that may be relevant to your application using the text box under ‘Datos de la solicitud’   Upload your files Attach all the documents listed at the start of this guide.  Submit your form  To complete the process, you’ll need to verify your e-mail address again and submit your application.  Get an update on your application then select ‘Ya he presentado una solicitud y quiero conocer su estado y/o aportar mas documentacion’.  The INSS will contact you if they need further information or if you need to book an appointment to visit an INSS office.  \"",
+  "base_path": "/guidance/register-your-s1-form-in-spain-online",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    },
+    {
+      "title": "Living in Spain",
+      "base_path": "/world/living-in-spain"
+    },
+    {
+      "title": "Tax, benefits, pensions and working abroad in Spain",
+      "base_path": "/world/tax-benefits-pensions-and-working-abroad-spain"
+    }
+  ]
+}

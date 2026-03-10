@@ -1,0 +1,19 @@
+{
+  "title": "Moderation of teacher assessments",
+  "body": "\"Ofqual has today (29 March 2018) published two pieces of research related to the moderation of teacher assessments.  The first is an international literature review of secondary assessments in 23 English-speaking jurisdictions, including in Australia, Canada, Hong Kong, Ireland, Singapore and South Africa. The review finds that a range of different approaches are taken to moderation, providing a variety of levels of assurance in relation to the complex question of how to secure the consistency of teacher judgements.  The second is an observational study of local authority moderation of key stage 2 writing assessments in 2017. It identifies factors that may have affected the consistency of moderation in 2017 and sets out the steps being taken by the Standards and Testing Agency to address these factors.  Dr Michelle Meadows, Deputy Chief Regulator, said:   Securing consistent judgements in non-examined assessments is challenging. Our research shows that a range of different approaches are taken internationally to address this question.  The approach to moderation taken in the UK, both in secondary qualifications and in statutory primary assessment, is similar to approaches taken in many other countries. Our key stage 2 research discusses some of the particular challenges in using moderation to secure consistency and sets out what the Standards and Testing Agency is doing to address these. We will continue to monitor this area.  \"",
+  "base_path": "/government/news/moderation-of-teacher-assessments",
+  "taxons": [
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    },
+    {
+      "title": "Tests and assessments (key stage 2)",
+      "base_path": "/education/primary-curriculum-key-stage-2-tests-and-assessments"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

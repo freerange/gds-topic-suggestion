@@ -1,0 +1,11 @@
+{
+  "title": "Customer testing of the RTI400 letter",
+  "body": "\"HM Revenue and Customs (HMRC) wanted recommendations for improving the effectiveness of a letter aimed at encouraging employers who had not yet started to begin reporting in real time.  The letter was tested prior to it being sent to employers. Additionally the research sought to understand whether or not additional information (i.e. inserts) would be helpful for recipients of the letter.  The findings from this research have been used to improve the tone, design and layout of the letters so that employers are clear on what they need to do. \"",
+  "base_path": "/government/publications/customer-testing-of-the-rti400-letter",
+  "taxons": [
+    {
+      "title": "Tax evasion and avoidance",
+      "base_path": "/money/tax-evasion-and-avoidance"
+    }
+  ]
+}

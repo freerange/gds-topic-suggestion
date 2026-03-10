@@ -1,0 +1,15 @@
+{
+  "title": "Overseas business risk for Costa Rica",
+  "body": "\"This report looks at the intellectual property, organised crime, human rights, bribery and corruption and terrorism risks that UK businesses may face when operating in Costa Rica. \"",
+  "base_path": "/government/publications/overseas-business-risk-costa-rica",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Trade and invest: Costa Rica",
+      "base_path": "/world/trade-and-invest-costa-rica"
+    }
+  ]
+}

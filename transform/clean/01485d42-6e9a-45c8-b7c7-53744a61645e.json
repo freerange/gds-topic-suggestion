@@ -1,0 +1,15 @@
+{
+  "title": "Physical energy flow accounts (PEFA)",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/physical-energy-flow-accounts-pefa",
+  "taxons": [
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

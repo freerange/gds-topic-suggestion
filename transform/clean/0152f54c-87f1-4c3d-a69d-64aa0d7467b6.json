@@ -1,0 +1,15 @@
+{
+  "title": "NHS health information available through Amazon's Alexa",
+  "body": "\"The technology will help patients, especially the elderly, blind and those who cannot access the internet through traditional means, to get professional, NHS-verified health information in seconds, through simple voice commands.  Amazon’s algorithm uses information from the NHS website to provide answers to voice questions such as:    “Alexa, how do I treat a migraine?”   “Alexa, what are the symptoms of flu?”   “Alexa, what are the symptoms of chickenpox”    The technology has the potential to reduce the pressure on the NHS and GPs by providing information for common illnesses.  Voice search has been increasing rapidly. By 2020, half of all searches are expected to be made through voice-assisted technology.  NHSX will look at ways of making more NHS services available to all patients through digital technology. The announcement supports the commitment in the NHS Long Term Plan to make more NHS services available digitially.  Secretary of State for Health and Social Care Matt Hancock said:   We want to empower every patient to take better control of their healthcare and technology like this is a great example of how people can access reliable, world-leading NHS advice from the comfort of their home, reducing the pressure on our hardworking GPs and pharmacists.    Through the NHS Long Term Plan, we want to embrace the advances in technology to build a health and care system that is fit for the future and NHSX will drive this revolution to bring the benefits to every patient, clinician and carer.   Matthew Gould, Chief Executive of NHSX, said:   The public need to be able to get reliable information about their health easily and in ways they actually use. By working closely with Amazon and other tech companies, big and small, we can ensure that the millions of users looking for health information every day can get simple, validated advice at the touch of a button or voice command.    Part of our mission at NHSX is to give citizens the tools to access services and information directly, and partnerships such as this are an important part of achieving this.  \"",
+  "base_path": "/government/news/nhs-health-information-available-through-amazon-s-alexa",
+  "taxons": [
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

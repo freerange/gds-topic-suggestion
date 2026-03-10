@@ -1,0 +1,27 @@
+{
+  "title": "Cape Verde: translators and interpreters",
+  "body": "\"The Foreign, Commonwealth & Development Office (FCDO) provides lists of service providers for information only, to assist UK nationals who may need support overseas. This list is not exhaustive, and is subject to change at any time. None of the service providers are endorsed or recommended by the FCDO. You should research whether a service provider will be suitable. The FCDO does not accept any liability arising to any person for any loss or damage suffered through using these service providers or this information. \"",
+  "base_path": "/government/publications/cape-verde-list-of-translators-and-interpreters",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Living in Cape Verde",
+      "base_path": "/world/living-in-cape-verde"
+    },
+    {
+      "title": "Countries (Living In)",
+      "base_path": "/going-and-being-abroad/countries-living-in"
+    }
+  ]
+}

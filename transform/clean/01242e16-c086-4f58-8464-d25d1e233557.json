@@ -1,0 +1,15 @@
+{
+  "title": "Being inspected as a children's centre: leaflet with guidance",
+  "body": "\"A leaflet with guidance for children’s centres. \"",
+  "base_path": "/government/publications/inspection-of-your-childrens-centre-from-april-2013",
+  "taxons": [
+    {
+      "title": "Performance and inspection of childcare providers",
+      "base_path": "/childcare-parenting/performance-and-inspection-of-childcare-providers"
+    },
+    {
+      "title": "Children's centres, childminders, pre-schools and nurseries",
+      "base_path": "/childcare-parenting/childrens-centres-childminders-pre-schools-and-nurseries"
+    }
+  ]
+}

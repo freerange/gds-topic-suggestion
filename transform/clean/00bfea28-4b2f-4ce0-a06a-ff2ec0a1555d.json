@@ -1,0 +1,19 @@
+{
+  "title": "Child Maintenance Service statistics: data to September 2019 (experimental)",
+  "body": "\" The latest release of these statistics can be found in the collection of Child Maintenance Service statistics.   Experimental statistics on child maintenance arrangements administered by the Child Maintenance Service.  Use an interactive dashboard to explore the latest Child Maintenance Service statistics by region.  This statistical series used to be called ‘2012 statutory child maintenance scheme statistics’. \"",
+  "base_path": "/government/statistics/child-maintenance-service-statistics-data-to-september-2019-experimental",
+  "taxons": [
+    {
+      "title": "Child maintenance",
+      "base_path": "/childcare-parenting/child-maintenance"
+    },
+    {
+      "title": "Financial help if you have children",
+      "base_path": "/childcare-parenting/financial-help-if-you-have-children"
+    },
+    {
+      "title": "Child maintenance reform",
+      "base_path": "/welfare/child-maintenance-reform"
+    }
+  ]
+}

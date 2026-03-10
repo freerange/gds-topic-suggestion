@@ -1,0 +1,11 @@
+{
+  "title": "Royal Navy and Royal Marines monthly personnel statistics: 2012",
+  "body": "\"This monthly publication contains information on personnel strengths, requirements, intakes and outflows from the Royal Navy and Royal Marines. \"",
+  "base_path": "/government/statistics/royal-navy-monthly-report-on-the-personnel-situation-2012",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

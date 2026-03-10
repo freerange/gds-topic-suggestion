@@ -1,0 +1,23 @@
+{
+  "title": "Civil engineering activities involving grouts or other media",
+  "body": "\"This regulatory position is only relevant where the grouts or other media involved would not qualify for an exclusion from EPR 2010 and the need for a permit under paragraph 3(3) of Schedule 22; in particular where the quantity or concentration of pollutants would be considered de minimis. \"",
+  "base_path": "/government/publications/civil-engineering-activities-involving-grouts-or-other-media",
+  "taxons": [
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    },
+    {
+      "title": "Waste and recycling",
+      "base_path": "/environment/waste-and-recycling"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

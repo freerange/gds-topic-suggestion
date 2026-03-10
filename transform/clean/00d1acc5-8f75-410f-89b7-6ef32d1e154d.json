@@ -1,0 +1,15 @@
+{
+  "title": "ETL product types: motors and drives",
+  "body": "\"The leaflet explains the types of motors and drives equipment included in the Energy Technology List:   line operated motors variable speed drives converter-fed motors   See the Energy Technology Product List for the eligible products in this category, listed by brand name.  See the Energy Technology Criteria List. \"",
+  "base_path": "/government/publications/energy-technology-list-information-leaflet-motors-and-drives",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Energy demand reduction",
+      "base_path": "/business-and-industry/energy-demand-reduction-in-industry-business-and-the-public-sector"
+    }
+  ]
+}

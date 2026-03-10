@@ -1,0 +1,15 @@
+{
+  "title": "Marine licensing selected cases",
+  "body": "\"Information on all Marine Licence applications can be found on the MMO Public Register  Details of past selected cases are available on the archived MMO website \"",
+  "base_path": "/government/collections/marine-licensing-selected-cases",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine licences",
+      "base_path": "/environment/marine-licences"
+    }
+  ]
+}

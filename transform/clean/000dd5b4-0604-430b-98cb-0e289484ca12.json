@@ -1,0 +1,19 @@
+{
+  "title": "UK steps up cyber defence",
+  "body": "\"Part of a joint investment by the MOD and the National Cyber Security Programme, the School will address specialist skills and wider education in line with National Cyber Security Strategy objectives.  Armed Forces’ Minister Mark Lancaster, who opened the school, said:   Cyber threats to the UK are constantly evolving and we take them very seriously.  That’s why the Defence Cyber School is so important.  It’s a state-of-the-art centre of excellence that will train more personnel across Defence and wider government in dealing with emerging threats.   With threats from hostile states changing at pace, the UK faces a deliberate attempt to destabilise secured peace and prosperity.  The 2016 National Cyber Security Strategy provided £1.9 billion of transformative investment in cyber, which is being used alongside more conventional land, maritime and air capabilities, to meet these threats head-on.  Now, building on current capabilities; which include the Global Operations and Security Control Centre at MOD Corsham; and the MOD Computer Emergency Response Team (MOD-CERT); Rapid Response Teams will be established from April.  Teams of specialist Incident Responders will be available to deploy to locations around the UK and overseas, to tackle malicious cyber activity.  Commander Joint Forces Command, General Sir Chris Deverell, said:   Defence has a number of very highly-trained military personnel on hand to deal with emerging and complex cyber threats. We are reinforcing these capabilities with the creation of Rapid Response Teams.  Our threat-hunters give us the ability to identify, isolate and respond to these threats, whenever and wherever they might arise.   The UK has advanced counter-cyber capabilities which can protect national interests from harm caused by adversaries.  Furthermore, offensive cyber can be used to deal with serious threats to the UK. \"",
+  "base_path": "/government/news/uk-steps-up-cyber-defence",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

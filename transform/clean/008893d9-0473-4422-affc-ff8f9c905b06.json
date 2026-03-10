@@ -1,0 +1,19 @@
+{
+  "title": "HS2 Phase One plan and profile maps: Chetwode to Handsacre",
+  "body": "\"Please be aware that some of these maps are very large and may take some time to download depending on your internet connection and speed, and the hardware or device you are using.  Should you experience any problems, please contact the HS2 helpdesk at HS2enquiries@hs2.org.uk \"",
+  "base_path": "/government/publications/hs2-plan-and-profile-maps-chetwode-to-handsacre",
+  "taxons": [
+    {
+      "title": "HS2 Phase One",
+      "base_path": "/transport/hs2-phase-one"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    },
+    {
+      "title": "HS2 planning",
+      "base_path": "/transport/hs2-planning"
+    }
+  ]
+}

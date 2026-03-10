@@ -1,0 +1,15 @@
+{
+  "title": "The UK Single Trade Window Public Consultation",
+  "body": "\"A public consultation to further develop the design and inform the development of any future legislation required to deliver the Single Trade Window. \"",
+  "base_path": "/government/consultations/the-uk-single-trade-window-public-consultation",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

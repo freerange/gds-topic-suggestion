@@ -1,0 +1,15 @@
+{
+  "title": "Salary and expenses",
+  "body": "\"A request for information was made about salaries and expenses.  The Highways Agency provided the requested information, and provided a link to where the information can be found on the Highways Agency website. \"",
+  "base_path": "/government/publications/salary-and-expenses",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    },
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    }
+  ]
+}

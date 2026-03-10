@@ -1,0 +1,11 @@
+{
+  "title": "Autism Statistics, July 2022 to June 2023",
+  "body": "\"Waiting times for autism diagnostic pathways, using both a forward-modelling approach based on referrals for suspected autism and a reverse-modelling approach based on known diagnoses of autism. By mental health provider and split by age group, gender and ethnicity. \"",
+  "base_path": "/government/statistics/autism-statistics-july-2022-to-june-2023",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

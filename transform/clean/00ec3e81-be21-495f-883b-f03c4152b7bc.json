@@ -1,0 +1,19 @@
+{
+  "title": "Northern Ireland New Dwelling Statistics Q3 2020",
+  "body": "\"Quarterly Statistics on the number of new dwellings started and completed in Northern Ireland during Jul - Sep 2020 \"",
+  "base_path": "/government/statistics/northern-ireland-new-dwelling-statistics-q3-2020",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

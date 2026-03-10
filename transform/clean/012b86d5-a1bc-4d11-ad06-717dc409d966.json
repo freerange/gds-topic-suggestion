@@ -1,0 +1,39 @@
+{
+  "title": "Department for Culture, Media and Sport resource accounts 2009 to 2010",
+  "body": "\"This paper was laid before Parliament in response to a legislative requirement or as a Return to an Address and was ordered to be printed by the House of Commons. \"",
+  "base_path": "/government/publications/department-for-culture-media-and-sport-resource-accounts-2009-to-2010",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Media and communications",
+      "base_path": "/business-and-industry/media-and-communications"
+    },
+    {
+      "title": "Arts and culture",
+      "base_path": "/society-and-culture/arts-and-culture"
+    },
+    {
+      "title": "Sports and leisure",
+      "base_path": "/society-and-culture/sports-and-leisure"
+    },
+    {
+      "title": "Local government",
+      "base_path": "/regional-and-local-government/local-government"
+    }
+  ]
+}

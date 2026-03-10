@@ -1,0 +1,11 @@
+{
+  "title": "Cattle, sheep and pig slaughter statistics:  October 2018",
+  "body": "",
+  "base_path": "/government/statistics/announcements/cattle-sheep-and-pig-slaughter-statistics-october-2018",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

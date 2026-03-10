@@ -1,0 +1,11 @@
+{
+  "title": "Real Time Information internet submissions: 2020 to 2021 technical specifications",
+  "body": "\"Test service support from October 2019. Live service from March 2020.  \"",
+  "base_path": "/government/publications/real-time-information-internet-submissions-2020-to-2021-technical-specifications",
+  "taxons": [
+    {
+      "title": "Software development for HMRC",
+      "base_path": "/money/dealing-with-hmrc-software-development"
+    }
+  ]
+}

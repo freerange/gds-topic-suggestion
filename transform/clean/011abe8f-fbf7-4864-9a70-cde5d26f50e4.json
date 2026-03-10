@@ -1,0 +1,15 @@
+{
+  "title": "Sexually transmitted infections: South West data",
+  "body": "\"These reports summarise the annual data for STIs in the South West.  Find previous reports from 2015 to 2018 published by Public Health England on the UK Government Web Archive.  Slide presentations are also available for:   2019 data   \"",
+  "base_path": "/government/publications/sexually-transmitted-infections-south-west-data",
+  "taxons": [
+    {
+      "title": "Research, testing and standards",
+      "base_path": "/health-and-social-care/health-protection-services-research-testing-and-standards"
+    },
+    {
+      "title": "Sexual and reproductive health",
+      "base_path": "/health-and-social-care/sexual-and-reproductive-health"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "MGN 471 (M) Maritime labour convention, 2006 definitions",
+  "body": "\"This notice should be read with the UK regulations implementing the provisions of the Maritime Labour Convention, 2006.  Amendment 1 updates the definition of seafarer to cover special purpose ships.  Notice to   shipowners masters seafarers recruitment and placement services  \"",
+  "base_path": "/government/publications/mgn-471-m-maritime-labour-convention-2006-definitions",
+  "taxons": [
+    {
+      "title": "Safe and compliant operation of vessels",
+      "base_path": "/transport/safe-and-compliant-operation-of-vessels"
+    },
+    {
+      "title": "Employment of seafarers",
+      "base_path": "/transport/employment-of-seafarers"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    }
+  ]
+}
