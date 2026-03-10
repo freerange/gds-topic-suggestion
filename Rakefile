@@ -176,13 +176,16 @@ desc "Prepare file public/index.html"
 file 'public/index.html' => :public_files do |f|
   puts "Generating #{f.name}"
 
-  documents = raw_data_ids
+  documents = []
+  raw_data_ids.each do |id|
+    documents << [id, JSON.load_file("transform/clean/#{id}.json")['title']]
+  end
 
   template = <<-TEMPLATE
     <h1>Index</h1>
     <ol>
-    <% documents.each do |id| %>
-      <li><a href="<%= id %>.html"><%= id %></a></li>
+    <% documents.each do |id, title| %>
+      <li><a href="<%= id %>.html"><%= title %></a></li>
     <% end %>
     </ol>
   TEMPLATE
