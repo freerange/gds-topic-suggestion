@@ -50,7 +50,8 @@ raw_data_ids.each do |id|
       JSON.pretty_generate(
         {
           title: data['title'],
-          body: strip_tags(data['body'])
+          body: strip_tags(data['body']),
+          base_path: data['base_path']
         }))
   end
 end
