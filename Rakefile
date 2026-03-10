@@ -83,7 +83,6 @@ raw_data_ids.each do |id|
       JSON.pretty_generate(
         {
           title: input_json['title'],
-          base_path: input_json['base_path'],
           vector: embedding.vectors
         }))
   end
