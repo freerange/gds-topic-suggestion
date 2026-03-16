@@ -1,0 +1,11 @@
+{
+  "title": "Withdraw your application for alcoholic products producer approval (APPA)",
+  "body": "\"About this form  You need to tell HMRC if you want to withdraw your alcoholic products producer approval (APPA) application.   You cannot withdraw your application if we have already approved it.   There are different forms if you need to:   tell HMRC about a change to your APPA  request to cancel your APPA    What you will need  You will need to tell us your:   business’s Unique Taxpayer Reference (UTR) reason for withdrawing  APPA submission reference your contact details   Withdraw your APPA application  Online  To withdraw your APPA application, you need to sign in with your Government Gateway user ID and password.  You can save your progress and come back later.  You’ll get a confirmation email with a submission reference once you have sent the form.  Start now  If you cannot use the online form  You can tell us you want to withdraw your APPA application by email or post if you are not able to use the online form.  Contact us by emailing or writing to HMRC.  After you have sent the form  We aim to review the form within 45 working days.  It may take longer if we need to ask you for more information.  \"",
+  "base_path": "/guidance/withdraw-your-application-for-alcoholic-products-producer-approval-appa",
+  "taxons": [
+    {
+      "title": "Alcohol duty",
+      "base_path": "/money/alcohol-duty"
+    }
+  ]
+}

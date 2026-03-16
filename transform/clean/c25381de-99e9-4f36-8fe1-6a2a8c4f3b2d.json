@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland New Dwelling Statistics Quarter 2 2025",
+  "body": "\"Statistics showing the number of new dwellings started and completed each quarter, as recorded by Building Control Surveyors in each Local Government District in Northern Ireland \"",
+  "base_path": "/government/statistics/northern-ireland-new-dwelling-statistics-quarter-2-2025",
+  "taxons": [
+    {
+      "title": "House building",
+      "base_path": "/housing-local-and-community/house-building"
+    },
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    }
+  ]
+}

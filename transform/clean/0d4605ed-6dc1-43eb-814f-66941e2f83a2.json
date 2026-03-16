@@ -1,0 +1,11 @@
+{
+  "title": "Department for Transport Leeds Station Enhancements",
+  "body": "\"Information relating to the Safeguarding Directions in place for one small area to the south of the existing station in central Leeds. \"",
+  "base_path": "/government/publications/department-for-transport-leeds-station-enhancements",
+  "taxons": [
+    {
+      "title": "Rail infrastructure",
+      "base_path": "/transport/rail-infrastructure"
+    }
+  ]
+}

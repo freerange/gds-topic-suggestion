@@ -1,0 +1,11 @@
+{
+  "title": "NTSN: rolling stock – locomotive and passenger",
+  "body": "\"This National Technical Specification Notice (NTSN) for rolling stock – locomotive and passenger (LOCPAS) applies to rail projects that will seek authorisation to place new, upgraded or renewed railway equipment into service.  There are 2 documents on this page:   Issue 1 of the NTSN relating to LOCPAS, published 1 January 2021 Issue 2 of the NTSN relating to LOCPAS, published 2 May 2025   Issue 2 replaces Issue 1 and applies to projects that will seek an authorisation to place LOCPAS subsystems into service after 2 May 2025 (without prejudice to exemptions and transitional phases).  These NTSNs have been published by the Secretary of State for Transport according to regulation 3B of the Railways Interoperability Regulations 2011.   In May 2025, the Secretary of State made updates to 7 NTSNs, which were informed by a consultation exercise and industry recommendation facilitated by the Rail Safety and Standards Board.  They are applicable in Great Britain only.  \"",
+  "base_path": "/government/publications/ntsn-rolling-stock-locomotive-and-passenger",
+  "taxons": [
+    {
+      "title": "Rail interoperability",
+      "base_path": "/transport/rail-interoperability"
+    }
+  ]
+}

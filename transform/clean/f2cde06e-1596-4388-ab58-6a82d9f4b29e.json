@@ -1,0 +1,15 @@
+{
+  "title": "UKEF: spend over £25,000, October 2025",
+  "body": "\"Details of UK Export Finance invoices worth £25,000 or more. \"",
+  "base_path": "/government/publications/ukef-spend-over-25000-october-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Export finance",
+      "base_path": "/business-and-industry/export-finance"
+    }
+  ]
+}

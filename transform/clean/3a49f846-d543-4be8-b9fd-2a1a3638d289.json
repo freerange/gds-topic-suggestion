@@ -1,0 +1,23 @@
+{
+  "title": "Hydrogen production: gasification, pyrolysis and emerging techniques",
+  "body": "\"This review was prepared to provide an evidence base to inform future non-statutory guidance on emerging techniques on hydrogen production for gasification, pyrolysis and other emerging technologies.  This was intended for UK environmental regulators, industry and stakeholders to support environmental permitting of these techniques.  This review is not guidance. We may update it as further evidence emerges and before developing any future guidance on emerging techniques.  Related reviews  There are also reviews of emerging techniques for hydrogen production from:   electrolysis of water methane and refinery fuel gas with carbon capture  \"",
+  "base_path": "/government/publications/hydrogen-production-gasification-pyrolysis-and-emerging-techniques",
+  "taxons": [
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    },
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Energy industry and infrastructure licensing and regulation",
+      "base_path": "/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "TRA Imports Dashboard",
+  "body": "\"About the TRA   The Trade Remedies Authority (TRA) is an Arms-Length Body of the Department for Business and Trade. The TRA investigates allegations of unfair international trade practices which are harming UK producers, as well as unforeseen surges of imports. It does this to establish whether measures should be put in place to address the injury caused, normally in the form of duties.   About the dashboard   This dashboard summarises monthly UK imports data sourced from HMRC, Overseas Trade in Goods Statistics. It provides insights into goods imported into the UK that have been, or are currently subject to investigation by the TRA, allowing users to monitor trends and analyse data relevant to our specific cases.    This dashboard exclusively covers goods subject to anti-dumping measures and countervailing measures, but it does not cover goods that are subject to safeguard measures.   Structure of the dashboard   The dashboard consists of the following pages:     The homepage provides an introduction and high-level overview of the dashboard    Countries page presents an overview of the countries subject to UK trade remedy measures, along with the type of trade remedy and the specific commodities involved in each case.    Investigations page presents an overview of UK anti-dumping and subsidy investigations, highlighting trends in import values before, during and after the lifecycle of each case.      Feedback   For feedback or requests, please contact: statistics@traderemedies.gov.uk. \"",
+  "base_path": "/government/publications/tra-imports-dashboard",
+  "taxons": [
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

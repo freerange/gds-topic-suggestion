@@ -1,0 +1,11 @@
+{
+  "title": "CS, ES and SFI option uptake data 2025",
+  "body": "\"This dataset shows the uptake of options in agreements that were live as of 1st April 2025. The data does not include any agreements that went live after 1st April 2025. Additional information about CS options is available on the farming blog: Countryside Stewardship: delivering for farmers and the environment - Farming (blog.gov.uk).  Information about the Sustainable Farming Incentive scheme is also available on the farming blog: The Sustainable Farming Incentive - Farming (blog.gov.uk) \"",
+  "base_path": "/government/statistics/cs-es-and-sfi-option-uptake-data-2025",
+  "taxons": [
+    {
+      "title": "Countryside stewardship",
+      "base_path": "/environment/countryside-stewardship"
+    }
+  ]
+}

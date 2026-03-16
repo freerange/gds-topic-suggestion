@@ -1,0 +1,11 @@
+{
+  "title": "Air pollution: effects on adverse birth outcomes",
+  "body": "\"Given growing interest from the public and the government about the effects of air pollution on pregnancy and early life, the Department of Health and Social Care (DHSC) requested that the Committee on the Medical Effects of Air Pollutants (COMEAP) undertake work on this topic. To support COMEAP’s work, DHSC approached the National Institute of Health Research (NIHR) Health Protection Research Unit (HPRU) on Health Impact of Environmental Hazards at King’s College London to undertake an evidence-based scoping review on air pollution and adverse birth outcomes.  Using the scoping review as a starting point, a Sub-group of the Committee undertook a programme of work to address the following questions:    what is the strength and consistency of epidemiological evidence linking ambient air pollutants with adverse birth outcomes? is there evidence of biological mechanisms by which air pollutants could affect adverse birth outcomes? is the evidence sufficient to propose quantification of specific adverse birth outcomes associated with air pollution in the UK? can recommendations be identified from current meta-analyses or should new meta-analyses be undertaken?   \"",
+  "base_path": "/government/publications/air-pollution-effects-on-adverse-birth-outcomes",
+  "taxons": [
+    {
+      "title": "Chemical and environmental hazards",
+      "base_path": "/health-and-social-care/health-protection-chemical-and-environmental-hazards"
+    }
+  ]
+}

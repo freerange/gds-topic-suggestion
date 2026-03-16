@@ -1,0 +1,15 @@
+{
+  "title": "Amending the hydrofluorocarbon phasedown schedule",
+  "body": "\"The Department for Environment, Food and Rural Affairs (Defra) is seeking views on proposed changes to the current HFC phasedown schedule in Great Britain.  HFCs are a type of fluorinated gas (F gas) with a high global warming potential. They are commonly used in refrigeration, air conditioning and heat pumps.  The proposed changes would reduce the amount of HFCs that can be placed on the market in Great Britain beyond current legislative limits. This aims to help the UK to meet carbon budget commitments and continue to implement international obligations under the Kigali Amendment to the Montreal Protocol.  Respondents are invited to comment on the potential effects of the proposals, including any technical or economic challenges they may create.  \"",
+  "base_path": "/government/consultations/amending-the-hydrofluorocarbon-phasedown-schedule",
+  "taxons": [
+    {
+      "title": "F-gases and HCFCs",
+      "base_path": "/environment/environmental-management-chemicals-f-gases-and-hcfcs"
+    },
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    }
+  ]
+}

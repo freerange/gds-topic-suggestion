@@ -1,0 +1,11 @@
+{
+  "title": "HAIRS risk assessment: influenza of avian origin in lactating livestock",
+  "body": "\"In this assessment, the risk associated with human exposure to all lactating livestock is being considered, not just dairy animals that are habitually kept for the production of milk for commercial reasons. This follows the finding of avian influenza virus in a lactating ewe in March 2025, which had been in close contact with captive birds at a backyard premises, which had previously been confirmed as being infected with highly pathogenic avian influenza A(H5N1).  This assessment considers the risk lactating livestock infected with influenza of avian origin presents to the UK human population, assuming infection was a more regular occurrence in lactating livestock. The assessment considers exposure to infected animals, their contaminated environments and animal products.  A PDF version of this risk assessment is available on request from HAIRS@UKHSA.gov.uk \"",
+  "base_path": "/government/publications/hairs-risk-assessment-influenza-of-avian-origin-in-lactating-livestock",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

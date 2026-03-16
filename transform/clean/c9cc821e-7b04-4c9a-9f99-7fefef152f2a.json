@@ -1,0 +1,19 @@
+{
+  "title": "Passenger lifts at stations: 1 April 2024 to 12 October 2024 (Periods 1 to 7)",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/passenger-lifts-at-stations-1-april-2024-to-12-october-2024-periods-1-to-7",
+  "taxons": [
+    {
+      "title": "Rail accessibility",
+      "base_path": "/transport/rail-accessibility"
+    },
+    {
+      "title": "Rail stations",
+      "base_path": "/transport/rail-stations"
+    },
+    {
+      "title": "Transport accessibility and disability",
+      "base_path": "/transport/transport-accessibility-and-mobility"
+    }
+  ]
+}

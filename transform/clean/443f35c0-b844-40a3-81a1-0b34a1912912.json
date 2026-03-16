@@ -1,0 +1,11 @@
+{
+  "title": "Financial remedy summary of finances: Form ES2",
+  "body": "\"You only need to complete one of the templates on this page:   .xlsx is for use with Microsoft Excel .ods is an open file format for use with other spreadsheet applications   Do not complete both.  You can send your completed ES2 to the court dealing with your case.  You must also send a summary of your finances (Form ES1). \"",
+  "base_path": "/government/publications/financial-remedy-summary-of-finances-form-es2",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "What is international migration and how do we estimate it?",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/what-is-international-migration-and-how-do-we-estimate-it",
+  "taxons": [
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    },
+    {
+      "title": "Going and being abroad",
+      "base_path": "/going-and-being-abroad"
+    },
+    {
+      "title": "Entering and staying in the UK",
+      "base_path": "/entering-staying-uk"
+    }
+  ]
+}

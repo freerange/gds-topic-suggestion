@@ -1,0 +1,11 @@
+{
+  "title": "Digital service users may need to update browsers",
+  "body": "\"As part of routine security maintenance, users of the HM Land Registry portal, Sign your mortgage deed, or Local Land Charges’s (LLC) Maintain service may face an error message when visiting the page for the first time. Most users will be unaffected as their systems and browsers will automatically update to ensure the latest public root CA (certificate authority) certificates are installed.  The SSL (secure sockets layer) security certificates are being updated for all HM Land Registry domains to ensure services remain current and secure.  If the user’s web browser is up to date but the issue continues, more guidance is available on our service maintenance page.  \"",
+  "base_path": "/government/news/digital-service-users-may-need-to-update-browsers",
+  "taxons": [
+    {
+      "title": "Land registration",
+      "base_path": "/housing-local-and-community/land-registration"
+    }
+  ]
+}

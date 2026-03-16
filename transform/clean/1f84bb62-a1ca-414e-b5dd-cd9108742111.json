@@ -1,0 +1,11 @@
+{
+  "title": "Public sector finances, UK: November 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/public-sector-finances-uk-november-2026",
+  "taxons": [
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    }
+  ]
+}

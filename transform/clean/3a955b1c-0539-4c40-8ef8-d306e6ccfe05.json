@@ -1,0 +1,11 @@
+{
+  "title": "GB rail interoperability exemption application form",
+  "body": "\"This is the template that all projects must use to submit an exemption request to the competent authority for a decision under regulation 13, 14 and 46 of the Railways (Interoperability) Regulations 2011. \"",
+  "base_path": "/government/publications/rail-interoperability-exemption-application-form",
+  "taxons": [
+    {
+      "title": "Rail interoperability",
+      "base_path": "/transport/rail-interoperability"
+    }
+  ]
+}

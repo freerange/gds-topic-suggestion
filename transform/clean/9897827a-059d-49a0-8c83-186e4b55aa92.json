@@ -1,0 +1,27 @@
+{
+  "title": "UK payrolled employments by nationality, region, industry, age and sex, from July 2014 to December 2024",
+  "body": "\"This is an Official Statistics publication produced by HM Revenue and Customs (HMRC) using HMRC’s Pay as You Earn (PAYE) Real Time Information (RTI) data and HMRC’s Migrant Worker Scan (MWS).  This publication provides analysis of payrolled employments by:   nationality (UK, EU and non-EU) geographical region (NUTS1) industrial sector (SIC2007) age sex   This is an Official statistics in development publication. Official statistics in development are official statistics that are undergoing further refinement; they may be new or existing statistics, and will be tested with users, in line with the standards of trustworthiness, quality, and value in the Code of Practice for Statistics. Until September 2023, they were called ‘experimental statistics’.  \"",
+  "base_path": "/government/statistics/uk-payrolled-employments-by-nationality-region-industry-age-and-sex-from-july-2014-to-december-2024",
+  "taxons": [
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    },
+    {
+      "title": "Payroll",
+      "base_path": "/employment/payroll"
+    },
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    },
+    {
+      "title": "COVID-19",
+      "base_path": "/health-and-social-care/covid-19"
+    }
+  ]
+}

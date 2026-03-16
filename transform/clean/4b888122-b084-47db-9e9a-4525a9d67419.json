@@ -1,0 +1,11 @@
+{
+  "title": "Revoked and declined debt relief orders by reason, England & Wales, 2024/25",
+  "body": "\"The HTML document linked above contains tables showing the numbers of DROs that were revoked and declined in England & Wales in the 2024/25 financial year, by the reason they were revoked or declined, as recorded in Insolvency Service administrative systems. \"",
+  "base_path": "/government/publications/revoked-and-declined-dros-by-reason-england-wales-202425",
+  "taxons": [
+    {
+      "title": "Court claims, debt and bankruptcy",
+      "base_path": "/money/court-claims-debt-bankruptcy"
+    }
+  ]
+}

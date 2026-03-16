@@ -1,0 +1,15 @@
+{
+  "title": "Smart meters in Great Britain, quarterly update December 2024",
+  "body": "\"These statistics include:   the number of smart meters installed by large energy suppliers in October to December 2024 total numbers of smart and non-smart meters operated by these suppliers at the end of December 2024 the full series from 2012 onwards of quarterly and annual operating and installation numbers   The next quarterly publication to end March 2025 is due for release on 29 May 2025.  Find out more about the smart meter roll-out.  Contact us  If you have questions about these statistics, please email: smartmeter.stats@energysecurity.gov.uk. \"",
+  "base_path": "/government/statistics/smart-meters-in-great-britain-quarterly-update-december-2024",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    },
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

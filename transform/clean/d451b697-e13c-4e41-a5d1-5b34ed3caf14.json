@@ -1,0 +1,15 @@
+{
+  "title": "Employer Bulletin: April 2025",
+  "body": "\"HMRC publishes the Employer Bulletin 6 times a year, giving employers and agents the latest information on topics and issues that may affect them.  The April edition of Employer Bulletin includes articles on:    the new rates of the National Minimum Wage   reporting expenses and benefits for the tax year ending 5 April 2025   changes to notifications by employers to operate PAYE (Pay As You Earn) on a proportion of a globally mobile employee’s income and changes to Overseas Workday Relief   the tax treatment of double cab pickups   Capital Gains Tax — working out your adjustment for the 2024 to 2025 tax year    You can register for HMRC’s employer email alert service to receive emails from HMRC which tell you when the latest issue is available.  You can read the bulletin on screen or print it off. It’s compatible with most screen reading software packages. \"",
+  "base_path": "/government/publications/employer-bulletin-april-2025",
+  "taxons": [
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    }
+  ]
+}

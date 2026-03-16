@@ -1,0 +1,11 @@
+{
+  "title": "Student loan forecasts, England: 2024 to 2025",
+  "body": "\"This publication has forecasts for higher education and further education student loans in England. These include forecasts for:   average costs for undergraduate students student entrant borrower numbers student loan outlay student loan repayments the proportion of student loan outlay that is subsidised by government, known as the resource accounting and budgeting (RAB) charge the total outstanding balances on student loans  \"",
+  "base_path": "/government/statistics/student-loan-forecasts-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

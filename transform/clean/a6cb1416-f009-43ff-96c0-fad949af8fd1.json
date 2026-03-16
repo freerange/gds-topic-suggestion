@@ -1,0 +1,11 @@
+{
+  "title": "Country and Regional Analysis 2025 Guidance",
+  "body": "\"Guidance  HM Treasury has issued guidance to departments for the CRA data collection exercise. The exercise is to be carried on a spreadsheet template provided to participating departments.  About the CRA  Each year we carry out an exercise to collate country and regional spending information by government departments, devolved administrations, local authorities and public corporations using a combination of actual regional spending and statistical methodologies.  The CRA of expenditure is based on the total expenditure on services (TES) framework. Two important principles of the CRA are:   firstly, the regional allocation of spending is defined by where the individuals and enterprises that benefited from that public spending are located as opposed to where it is spent secondly, expenditure that can be identified as benefiting specific regions or countries is termed ‘identifiable expenditure’; conversely, ‘non-identifiable expenditure’ is deemed to benefit the UK as a whole, such as defence spending   The CRA only includes ‘identifiable expenditure’ in its regional totals.  Read further information on CRA publications including the databases and interactive tables \"",
+  "base_path": "/government/publications/country-and-regional-analysis-2025-guidance",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

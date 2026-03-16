@@ -1,0 +1,11 @@
+{
+  "title": "Price Index of Private Rents QMI",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/price-index-of-private-rents-qmi",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    }
+  ]
+}

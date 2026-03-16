@@ -1,0 +1,15 @@
+{
+  "title": "Charity Inquiry: Olive Grove Foundation",
+  "body": "\"A statement of the results of an inquiry into Olive Grove Foundation (registered charity number 1142110). \"",
+  "base_path": "/government/publications/charity-inquiry-olive-grove-foundation",
+  "taxons": [
+    {
+      "title": "Charities, volunteering and honours",
+      "base_path": "/society-and-culture/charities-honours"
+    },
+    {
+      "title": "Charities and social enterprises",
+      "base_path": "/business-and-industry/charities-and-social-enterprises"
+    }
+  ]
+}

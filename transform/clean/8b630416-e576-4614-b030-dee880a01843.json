@@ -1,0 +1,15 @@
+{
+  "title": "Rail ticket types and journey purposes",
+  "body": "\"This research explores the rail ticket types that passengers use for travel purposes in England. It includes insights on commuting behaviour and railcard use.  Findings from this research are from an on-train survey, completed by 6,151 passengers between September and October 2024.  The sample design used means findings are representative of passenger kilometres, actual distance completed, rather than the number of individual passenger journeys taken by rail.  Newer research into these topics formed part of the business travel survey 2025, released in September 2025.  Savanta carried out this research on behalf of the Department for Transport.  \"",
+  "base_path": "/government/publications/rail-ticket-types-and-journey-purposes",
+  "taxons": [
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    },
+    {
+      "title": "Rail ticketing and fares",
+      "base_path": "/transport/rail-ticketing-and-fares"
+    }
+  ]
+}

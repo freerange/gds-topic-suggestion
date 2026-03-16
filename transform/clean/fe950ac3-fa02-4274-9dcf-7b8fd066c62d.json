@@ -1,0 +1,19 @@
+{
+  "title": "ESFA Update: 19 February 2025",
+  "body": "\"Latest for further education  No edition  Latest information for academies     Article Title     Information general annual grant allocation guide for 2025 to 2026     Latest information for local authorities  No edition \"",
+  "base_path": "/government/publications/esfa-update-19-february-2025",
+  "taxons": [
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    },
+    {
+      "title": "School and academy financial management and assurance",
+      "base_path": "/education/school-and-academy-financial-management-and-assurance"
+    },
+    {
+      "title": "School and academy funding",
+      "base_path": "/education/school-and-academy-funding"
+    }
+  ]
+}

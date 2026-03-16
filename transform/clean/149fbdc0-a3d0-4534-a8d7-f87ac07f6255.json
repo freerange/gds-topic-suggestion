@@ -1,0 +1,11 @@
+{
+  "title": "Guinea: Knowledge Base profile",
+  "body": "\"This document contains useful information about Guinea which will assist His Majesty’s Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Guinea  \"",
+  "base_path": "/government/publications/guinea-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

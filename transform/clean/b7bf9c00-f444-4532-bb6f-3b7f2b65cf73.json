@@ -1,0 +1,27 @@
+{
+  "title": "Operating in the Future Electromagnetic Environment symposium 2025",
+  "body": "\"The Defence Science and Technology Laboratory (Dstl) hosts its sixth Operating in the Future Electromagnetic Environment (OFEME) symposium from 18 to 20 November 2025 in Newport, Wales.   This year, the OFEME symposium has expanded its scope to include more content on future sensing, Position, Navigation and Timing (PNT), space and communications technologies. With over 40 sessions to attend, there is no shortage of choice.   The event, supported by the Electromagnetic Environment (EME) Hub, is designed as an in-person event, but there will be options to join virtually if you are unable to join us in Wales.  Importance of the electromagnetic environment  The EME is crucial for many sectors including healthcare and mobility (moving people, goods and services), and for a connected society. In defence, spectrum dependent systems are present across land, maritime, air and space. Their uses include communications, sensing, weapons systems and more.  As demand grows, reliable access to the electromagnetic spectrum becomes more difficult, creating a challenge for UK information advantage and maintaining situational awareness.  From a defence perspective, adversaries will actively contest access, such as through electromagnetic warfare, to deliberately deny or degrade access. Maintaining freedom of action and delivering effects in and through the congested and contested electromagnetic environment is therefore an essential and growing challenge.  Symposium details  The symposium this year will continue to expand its scope included in the previous events.  The event will cover:   shared challenges for operating within the future electromagnetic environment, emerging sensing and PNT technologies, both inside and outside of defence how research and development investment can be harnessed in future approaches   The event will feature:   a range of keynote speakers technical presentations panel discussions poster sessions interactive workshops networking sessions   These activities will cover advances and implications of a variety of technical topics including:   space metamaterials semiconductors electro-optics (to include photonics) quantum advantage (position, navigation and timing (PNT))   Panel discussions  There will be panel discussions with experts on:   quantum technology - harnessing complexity for defence and security  Dstl programme challenges in electromagnetic activities, space, comms and networks, sense and understand SAPIENT users and success stories   Workshops  OFEME 2025 will offer more than 20 workshops on varied topics covering sensing, electromagnetic activities, space, and communications.  Preliminary topics include (subject to change):   A Picture is Worth a Thousand Words: but how to Picture Military Action through Electromagnetic Operations? Accelerated transition pathways OUTPLACE – an approach to adversarial decision support for electromagnetic operations (EMO) challenges Application of futures tools and techniques for OFEME  Biomimetics Comms and networks with a D&D twist Developing SQEP through increased industry involvement with universities EM Bio-effects: understanding biological and mathematical models needed to protect personnel Facilities for Enterprise: Pershore Dark Tunnel, ACTF, Battlelab, Sennybridge trial Federated telecoms hubs Future EM trials and experimentation requirements: sensing, comms, effect, modelling and simulation Future ES/EW challenges Information-based ISR - transformation of the enterprise Multi-target tracking with stone soup: applications, enhancements, and collaboration opportunities Novel approaches for EO for space domain awareness Progress on ISSA work Space commander Spotlight on emanation protection...",
+  "base_path": "/government/news/operating-in-the-future-electromagnetic-environment-symposium-2025",
+  "taxons": [
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

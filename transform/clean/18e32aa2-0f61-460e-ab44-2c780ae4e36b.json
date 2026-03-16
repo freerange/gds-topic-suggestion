@@ -1,0 +1,11 @@
+{
+  "title": "Authorise an agent to register or amend a VAT group",
+  "body": "\"Use this form to authorise an accountant, or agent, to register or make changes to a VAT group on your behalf.  Use the VAT50/51 form with your application for VAT group registration or to amend a VAT group.  What you will need  You will need the following information to complete the form:   name of the current or prospective VAT group representative member nominated agent details — name, address, phone number details of the person authorising the agent to make applications on behalf of the group   Authorise an agent             Authority for an agent to form or amend a VAT group    PDF, 292 KB, 2 pages     This file may not be suitable for users of assistive technology.    Request an accessible format.    If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email different.format@hmrc.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.        Get all of your information together before you start.   Print form VAT53.   Fill it in by hand.   Post it to HMRC, using the postal address shown on the form.    Email HMRC to ask for this form in Welsh (Cymraeg).  Related forms and guidance  You can authorise someone else to deal with HMRC for you, for example, an accountant, friend or relative.  How to use paper forms to set up agent authorisations to deal with HMRC.  How to register a group of companies, company divisions, joint business ventures and business units for VAT and what to do if they’re changes after registration. \"",
+  "base_path": "/guidance/authorise-an-agent-to-register-or-amend-a-vat-group",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    }
+  ]
+}

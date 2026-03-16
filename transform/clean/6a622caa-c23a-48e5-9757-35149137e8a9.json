@@ -1,0 +1,11 @@
+{
+  "title": "Digital status, view and prove: data protection impact assessment",
+  "body": "\"This data protection impact assessment (DPIA) concerns “view and prove”. Individuals with a UK immigration status are required to prove their status is a variety of circumstances to access employment, housing or public services.  View and prove provides a method for status holders to check and prove their immigration status online, without recourse to physical documentation.  \"",
+  "base_path": "/government/publications/digital-status-view-and-prove-data-protection-impact-assessment",
+  "taxons": [
+    {
+      "title": "Entering and staying in the UK",
+      "base_path": "/entering-staying-uk"
+    }
+  ]
+}

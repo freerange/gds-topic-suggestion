@@ -1,0 +1,11 @@
+{
+  "title": "Transfer pricing: international controlled transactions schedule",
+  "body": "\"The government is introducing legislation to give HMRC commissioners the power to introduce regulations requiring in-scope multinationals to file an international controlled transactions schedule (ICTS).  The ICTS is expected to be an annual filing requirement that captures specific information about cross-border related party transactions in a standardised format. The information will be used for automated risk profiling and manual risk assessment by HMRC.  This legislation follows a policy consultation on the ICTS proposal at Tax update spring 2025: simplification, administration and reform (TUSAR). A technical consultation on draft regulations will be held in Spring 2026.  This change is expected to take effect for accounting periods beginning on or after 1 January 2027.  \"",
+  "base_path": "/government/publications/transfer-pricing-international-controlled-transactions-schedule",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    }
+  ]
+}

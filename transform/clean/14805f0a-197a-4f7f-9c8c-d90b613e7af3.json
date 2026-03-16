@@ -1,0 +1,15 @@
+{
+  "title": "ApprenticeshipsNI Statistical Bulletin - Oct 18 to Apr 25",
+  "body": "\"To monitor information relating to ApprenticeshipsNI in Northern Ireland. \"",
+  "base_path": "/government/statistics/apprenticeshipsni-statistical-bulletin-oct-18-to-apr-25",
+  "taxons": [
+    {
+      "title": "Types of apprenticeships",
+      "base_path": "/education/types-of-apprenticeships"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

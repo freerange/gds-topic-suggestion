@@ -1,0 +1,11 @@
+{
+  "title": "War Pensions Scheme Statistics: 2025",
+  "body": "\"Summary statistics on claims, awards and recipients of pensions, allowances or other payments under the War Pension Scheme (WPS) where disablement or death occurred as a result of service prior to 6 April 2005. \"",
+  "base_path": "/government/statistics/war-pensions-scheme-statistics-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: severe space weather",
+  "body": "\"This summary explains some of the main risks caused by severe space weather, such as disruption to satellite navigation systems and power networks and how these can affect transport. It also provides advice to help mitigate and plan for these risks.  Direct impacts from severe space weather include:   disruption to radio communications and navigation systems used in transport damage to electrical infrastructure, causing power outages that can affect transport   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-severe-space-weather",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

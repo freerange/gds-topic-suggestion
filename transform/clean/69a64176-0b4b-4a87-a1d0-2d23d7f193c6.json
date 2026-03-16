@@ -1,0 +1,11 @@
+{
+  "title": "Livestock feed controls review for England and Wales",
+  "body": "\"Strict livestock feed controls have greatly reduced the incidence of Bovine Spongiform Encephalopathy (BSE) in the UK. These controls do not reflect the latest scientific knowledge, including the ability to identify the origin of animal proteins in feed through improved testing.  This consultation seeks views on amending domestic legislation to allow:   poultry processed animal protein (PAP) in porcine feed porcine PAP in poultry feed insect PAP in pig and poultry feed ruminant collagen and gelatine in non-ruminant feed   These changes would maintain the UK’s high level of biosecurity and animal and public health protection.  \"",
+  "base_path": "/government/consultations/livestock-feed-controls-review-for-england-and-wales",
+  "taxons": [
+    {
+      "title": "Keeping farmed animals",
+      "base_path": "/environment/keeping-farmed-animals"
+    }
+  ]
+}

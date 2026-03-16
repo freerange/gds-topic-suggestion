@@ -1,0 +1,23 @@
+{
+  "title": "Business travel survey 2025",
+  "body": "\"Findings from the 2025 business travel survey of UK companies undertaking domestic or international business travel. The topics of researched included:   changes in domestic and international business travel trends changes in attitudes to business travel businesses’ future plans and policies for business travel businesses’ intentions regarding the decarbonisation of business travel   The study provides greater insight into the topics covered by Exploring connections between rail ticket type and journey purpose research in April 2025.  This is our second study into business travel. A Business travel during COVID-19: a survey of UK businesses was released in 2021.  The findings from the business travel survey 2025 will be used in future transport modelling.  Ipsos UK conducted this online survey with 1,000 UK business decision-makers on behalf of the Department for Transport in March 2025. \"",
+  "base_path": "/government/publications/business-travel-survey-2025",
+  "taxons": [
+    {
+      "title": "Aviation",
+      "base_path": "/transport/aviation"
+    },
+    {
+      "title": "Driving and road transport",
+      "base_path": "/transport/driving-and-road-transport"
+    },
+    {
+      "title": "Local transport",
+      "base_path": "/transport/local-transport"
+    },
+    {
+      "title": "Rail",
+      "base_path": "/transport/rail"
+    }
+  ]
+}

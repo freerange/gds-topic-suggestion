@@ -1,0 +1,11 @@
+{
+  "title": "Household satellite account, UK: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/household-satellite-account-uk-2023",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

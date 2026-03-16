@@ -1,0 +1,11 @@
+{
+  "title": "Strategic export controls: licensing statistics, 2024",
+  "body": "\"This report covers export licensing decisions made by the government between 1 January and 31 December 2024. \"",
+  "base_path": "/government/statistics/strategic-export-controls-licensing-statistics-2024",
+  "taxons": [
+    {
+      "title": "Export controls and licensing",
+      "base_path": "/business-and-industry/export-controls"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UKVI support videos",
+  "body": "\" \"",
+  "base_path": "/government/collections/ukvi-support-videos",
+  "taxons": [
+    {
+      "title": "Entering and staying in the UK",
+      "base_path": "/entering-staying-uk"
+    }
+  ]
+}

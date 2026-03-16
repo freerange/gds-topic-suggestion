@@ -1,0 +1,11 @@
+{
+  "title": "Safer radiotherapy: national patient safety radiotherapy event taxonomy",
+  "body": "\"The national patient safety radiotherapy event taxonomy user guide provides guidance on the application and submission of radiotherapy event reports, including terminology, definitions, taxonomies, and practical examples.  The spreadsheet supports providers with the integration of national coding taxonomies into local event learning systems.  This guidance replaces previous publications, such as the ‘Development of learning from radiotherapy errors’ supplementary guidance series.  Safer radiotherapy e-bulletins  Previous editions of our Safer radiotherapy e-bulletins are available online.  The aim of the e-bulletin is to provide a regular update on the analysis by the UK Health Security Agency (UKHSA) of radiotherapy event (RTE) reports.  Subscribe to the Safer radiotherapy publications.  \"",
+  "base_path": "/government/publications/safer-radiotherapy-national-patient-safety-radiotherapy-event-taxonomy",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

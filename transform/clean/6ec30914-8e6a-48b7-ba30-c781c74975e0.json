@@ -1,0 +1,27 @@
+{
+  "title": "Harbour Porpoise Bycatch Management Options",
+  "body": "\"MMO is drafting site-level assessments for Stage 4 MPAs to determine whether fishing management measures are needed. While no management decisions have been made the best available evidence indicates that harbour porpoise bycatch in gillnets is a concern which may require management.  The MMO Stage 4: Harbour Porpoise Bycatch Management Options Draft reviews potential options for MMO to manage bycatch of harbour porpoise from gillnets.  Alongside this technical review, there are also nine separate handouts: six documents summarising each of the six options reviewed, a handout summarising current bycatch evidence and evidence gaps, a handout explaining the spatial scales being considered for potential management options, and a handout explaining why the review focusses on management options for gillnets.  We’ve also provided Interactive WebApps to support our assessment and have provided guidance to help users make the most of this platform.  \"",
+  "base_path": "/government/publications/harbour-porpoise-bycatch-management-options",
+  "taxons": [
+    {
+      "title": "Fishing vessels",
+      "base_path": "/environment/fishing-vessels"
+    },
+    {
+      "title": "Marine fisheries",
+      "base_path": "/environment/marine-fisheries"
+    },
+    {
+      "title": "Marine",
+      "base_path": "/environment/marine"
+    },
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    },
+    {
+      "title": "Mammals",
+      "base_path": "/environment/environmental-management-wildlife-habitat-conservation-mammals"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Charity Commission monthly workforce management information: 2025 to 2026",
+  "body": "\"Details about the number of people working for the Charity Commission, and payroll costs for permanent staff and contractors. \"",
+  "base_path": "/government/publications/charity-commission-monthly-workforce-management-information-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Charities, volunteering and honours",
+      "base_path": "/society-and-culture/charities-honours"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Charities and social enterprises",
+      "base_path": "/business-and-industry/charities-and-social-enterprises"
+    }
+  ]
+}

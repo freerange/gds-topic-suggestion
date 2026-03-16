@@ -1,0 +1,11 @@
+{
+  "title": "Rail customer experience: review of existing survey collection methodologies",
+  "body": "\"Findings from a review of survey methodologies for measuring rail customer experience in Britain. The findings are based on field trials between April and June 2023.  The findings report:   evaluated the different approaches to data collection recommended a future methodology for continuous surveying focused on improving data quality, response rates and operational feasibility, with particular attention to:  face-to-face recruitment of participants as the preferred method over station-based recruitment digital response options (email and QR code) and use of paper questionnaires fieldwork shift length use of the Journey Picker Tool to improve journey accuracy sampling based on passenger volume, using MOIRA , a model for analysing timetable and demands changes, and  LENNON (Latest Earning Networked Nationally Overnight) which provide ticket and earnings data for rail operators survey response weighting data sources and strategies     The evidence provided includes:   comparative performance of on board versus station-based methods response rates, dropout patterns and demographic profiles by recruitment method and response options operational challenges and solutions for fieldwork logistics, including disruptions and permissions recommendations for future trials and pilot implementation, including modular survey design   A further, more detailed, technical report of the findings is included.  The findings of this research led to the creation of new approach to capturing rail customer experience, which was used in a pilot conducted between December 2023 and January 2024.  BVA BDRC carried out this research on behalf of the Department for Transport. \"",
+  "base_path": "/government/publications/rail-customer-experience-review-of-existing-survey-collection-methodologies",
+  "taxons": [
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    }
+  ]
+}

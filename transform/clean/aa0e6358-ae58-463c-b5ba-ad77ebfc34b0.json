@@ -1,0 +1,23 @@
+{
+  "title": "CHM's report on proposed changes to the availability of puberty blockers",
+  "body": "\" The report is technical and may not be easily interpreted by non-experts. See a factsheet designed to help readers interpret the report.   On 20 August 2024, a targeted consultation (Proposed changes to the availability of puberty blockers for under 18s) was issued on proposals to introduce a permanent order restricting the sale and supply of gonadotropin-releasing hormones (GnRH) agonists in children and young people under 18 years for the purpose of puberty suppression in respect of gender dysphoria, gender incongruence, or a combination of both, via restrictions to UK private and European Economic Area (EEA) prescriptions.  The Secretary of State for Health and Social Care and the Minister of Health for Northern Ireland jointly consulted the Commission on Human Medicines (CHM) on these proposals, as is required when deciding whether to legislate under the 1968 Medicines Act.  This independent report provides the view of CHM on the proposal and makes 8 recommendations.  The government published its response to the consultation on 11 December 2024.  Note that GnRH agonists (or GnRH analogues) are also known as puberty blockers.  \"",
+  "base_path": "/government/publications/chms-report-on-proposed-changes-to-the-availability-of-puberty-blockers",
+  "taxons": [
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    },
+    {
+      "title": "Mental health of children and young people",
+      "base_path": "/childcare-parenting/mental-health-of-children-and-young-people"
+    },
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Sexual and reproductive health",
+      "base_path": "/health-and-social-care/sexual-and-reproductive-health"
+    }
+  ]
+}

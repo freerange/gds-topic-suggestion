@@ -1,0 +1,11 @@
+{
+  "title": "Risk assessment: chronic wasting disease to Great Britain from Scandinavia and North America",
+  "body": "\"This risk assessment provides a qualitative assessment of the risk of susceptible species in Great Britain becoming infected with chronic wasting disease (CWD) prions from affected regions of Scandinavia and North America through various legal movement of animals, their commodities as well as people.  The annual likelihood of entry associated with these pathways was considered very low with low to high uncertainty.  The annual likelihood of exposure ranged from negligible to very low with low to high uncertainty, depending on the specific pathway and deer population considered (wild, farmed, or park deer).  The potential consequences of a CWD incursion, given the possible animal welfare, trade, social, and economic effects, were considered major with medium uncertainty.  \"",
+  "base_path": "/government/publications/risk-assessment-chronic-wasting-disease-to-great-britain-from-scandinavia-and-north-america",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

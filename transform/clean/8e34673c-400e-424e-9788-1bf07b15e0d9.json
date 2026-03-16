@@ -1,0 +1,19 @@
+{
+  "title": "The Environment Agency's regulation of waste pneumatic tyres and their export",
+  "body": "\"This report sets out the findings of the internal review into the Environment Agency’s regulation of waste pneumatic tyres and their export, with a focus on the export of this waste to India.  The Environment Agency focussed this review on waste tyre exports to India as 89% of the UK’s waste rubber is exported to India for recovery into secondary products. We have also received numerous stakeholder enquiries related to the environmentally sound management of waste pneumatic tyres in India.  Some information is redacted for legal reasons.  The Environment Agency welcomes comments and suggestions from stakeholders on implementation of the actions in this report. These can be emailed to wastetyresreview@environment-agency.gov.uk.  Enhanced verification of waste tyre exports to India – Effective 1 October 2025   From 1 October 2025, exporters subject to an information notice must provide evidence demonstrating that the waste tyres exported to India will be recovered in an environmentally sound manner. This process is known as enhanced verification. They must also provide the Annex VII movement forms for all exports of waste tyres from the 28 October 2025.  These checks aim to address concerns that UK waste tyres are being diverted from the facilities listed on the Annex VII document and are instead ending up at illegal pyrolysis sites in India.   If the Environment Agency is not satisfied with the evidence provided, it will use its legal powers to prevent the export of waste tyres on a shipment-by-shipment basis. \"",
+  "base_path": "/government/publications/the-environment-agencys-regulation-of-waste-pneumatic-tyres-and-their-export",
+  "taxons": [
+    {
+      "title": "Export controls and licensing",
+      "base_path": "/business-and-industry/export-controls"
+    },
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    }
+  ]
+}

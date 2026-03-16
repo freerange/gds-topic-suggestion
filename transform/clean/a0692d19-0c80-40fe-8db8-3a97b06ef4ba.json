@@ -1,0 +1,11 @@
+{
+  "title": "Segment tool: November 2025 update",
+  "body": "\" The Segment tool provides information on the causes of death and age groups that are driving inequalities in life expectancy at local area level. Targeting the causes of death and age groups which contribute most to the life expectancy gap should have the biggest impact on reducing inequalities.  The Segment tool was first published in January 2014, and last updated in January 2023. The following changes have been made since the previous update:   data for 2022 to 2023 has been added data for 2014 to 2016 has been removed from the tool but is still available in the accompanying ’Segment tool: data tables, November 2025’   The tool now contains data for England, English regions, local authorities, NHS regions and NHS integrated care boards (ICBs).  \"",
+  "base_path": "/government/statistics/segment-tool-november-2025-update",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "UK Labour Market:  October 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-labour-market-october-2025",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

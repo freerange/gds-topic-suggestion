@@ -1,0 +1,39 @@
+{
+  "title": "Help with Investment Zones — GfC15",
+  "body": "\"These Guidelines for Compliance will be useful if you are operating, or intending to operate, within an Investment Zone.    These guidelines:   outline the tax reliefs available detail how to qualify for the reliefs highlight common errors businesses make   You should read these guidelines alongside HMRC’s published guidance. You will be directed to this guidance within these guidelines. You should use these guidelines to help you make informed decisions, based on your personal circumstances.  Following these guidelines will help to reduce your risk of making errors, therefore reducing the risk of any penalty charges. \"",
+  "base_path": "/government/publications/help-with-investment-zones-gfc15",
+  "taxons": [
+    {
+      "title": "Regional and local government",
+      "base_path": "/regional-and-local-government"
+    },
+    {
+      "title": "Sustainable development",
+      "base_path": "/government/sustainable-development"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    },
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    },
+    {
+      "title": "Commodity codes and reporting",
+      "base_path": "/business/business-exports-commodity-codes-and-reporting"
+    },
+    {
+      "title": "Inward investment",
+      "base_path": "/business-and-industry/inward-investment"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

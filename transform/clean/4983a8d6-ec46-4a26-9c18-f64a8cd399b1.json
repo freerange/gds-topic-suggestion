@@ -1,0 +1,23 @@
+{
+  "title": "Cleaning out the pipes",
+  "body": "\"Across two public inquiries, a disturbing picture appeared.  Commissioner Dorrington heard that the operator’s licence, held since 2003 requires strict adherence to legal obligations, including proper use and display of vehicle identity discs but a vehicle operating under the licence displayed a disc that was invalid and did not match the licence type or vehicle registration.  Further to this, no written maintenance records were kept, breaching legal requirements and posing potential risks to road safety. The operator failed to maintain vehicles in a roadworthy condition and keep records for inspection.  During the inquiry, the director’s claims, including attempts to blame COVID-19 for administrative lapses, were deemed deliberately false. The timelines were incorrect and despite the second vehicle had being in Mr Sockett’s possession since January 2020, he offered no plausible explanation as to how in the 3 years and 10 months between acquiring the vehicle, and the DVSA taking note of it, he had not noticed the incorrect identity disc.  Commissioner Dorrington said “Being deliberately untruthful in a public inquiry, even just once, is the very worst type of conduct that any director of a company that holds an operator’s licence can embark upon. It cuts to the very heart of the operator licensing system; the issue of trust. It demonstrates that right up to and including the public inquiry the director cannot be trusted. Here that director is Mr Sockett and for being deliberately untruthful before me means that I no longer trust him.”  The commissioner did acknowledge the positive steps taken, the operator has engaged a transport consultant, initiated staff training, and committed to a compliance audit. A formal maintenance agreement has also been established, and efforts are underway to adhere to the terms the licence.  Despite these mitigating circumstances, the commissioner still revoked the licence of the Pipe Corporation and disqualified both it and the director from holding or obtaining a licence for six months, further details here and here.  For any press enquiries, please contact:  Email: pressoffice@otc.gov.uk \"",
+  "base_path": "/government/news/cleaning-out-the-pipes",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

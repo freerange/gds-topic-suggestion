@@ -1,0 +1,11 @@
+{
+  "title": "Customs data report descriptions",
+  "body": "\"These guides explain what data is in each type of customs data report. The reports are based on your import and export data from the Customs Declaration Service.   Find out how to request customs data reports.   \"",
+  "base_path": "/government/publications/customs-data-report-descriptions",
+  "taxons": [
+    {
+      "title": "Customs declarations, duties and tariffs (import and export)",
+      "base_path": "/business-and-industry/customs-declarations-duties-tariffs"
+    }
+  ]
+}

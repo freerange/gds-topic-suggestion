@@ -1,0 +1,11 @@
+{
+  "title": "High Value Council Tax Surcharge",
+  "body": "\"The government has announced that, from April 2028, it plans to introduce a new High Value Council Tax Surcharge (HVCTS) on owners of residential property in England worth £2 million or more.  A public consultation on details relating to the surcharge will be held in early 2026.  The surcharge will not be determined by current Council Tax bands, which are based on property values from 1991. For example, bands F, G and H will not be used to determine eligibility for the surcharge.  The Valuation Office Agency will carry out a separate, targeted valuation exercise to determine a property’s value in 2026. If a property is identified as being worth £2 million or more, it will then be placed into one of four HVCTS bands.  This exercise is separate from, and without reference to, existing Council Tax bands. Council Tax bands will not be used to determine eligibility for the surcharge and will have no bearing on a property’s HVCTS band.  As this charge is separate from Council Tax, current Council Tax bands will not be affected and will still apply. Equally, a change in Council Tax band will not affect eligibility for the surcharge.  More information is available in the High Value Council Tax Surcharge fact sheet. \"",
+  "base_path": "/government/news/high-value-council-tax-surcharge",
+  "taxons": [
+    {
+      "title": "Council Tax",
+      "base_path": "/regional-and-local-government/local-government-council-tax"
+    }
+  ]
+}

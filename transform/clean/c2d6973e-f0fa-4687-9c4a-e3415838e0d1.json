@@ -1,0 +1,19 @@
+{
+  "title": "Patents, trade marks, and designs: monthly statistics 1995 - 2025",
+  "body": "\"These statistics present the information on application and registration counts for patents, trade marks, and designs from January 1995 to July 2025.  The latest edition of the statistics is available in Excel format, please contact statistics@ipo.gov.uk if you would require an alternative format.  As a response to user needs, IPO have published these statistics containing monthly statistics going back to 1995. Trade mark data prior to April 2013 was not included due to loss of some data points, therefore counts would not be accurate.  There were no digitised monthly designs data prior to October 2016, however annual data going back to 2012 can be found in our past editions of the Facts and Figures annual publication, and some older versions on the National Archives website.  Intellectual property (IP) statistics should not be used alone to describe the level of innovation in the UK, or as a measure of inventorship. If you have questions about using our data, or wish to do so for research purposes, please contact us at statistics@ipo.gov.uk and we will be happy to assist you. \"",
+  "base_path": "/government/statistics/patents-trade-marks-and-designs-monthly-statistics-1995-2025",
+  "taxons": [
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

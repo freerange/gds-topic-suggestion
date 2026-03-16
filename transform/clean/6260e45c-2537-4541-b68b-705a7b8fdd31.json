@@ -1,0 +1,15 @@
+{
+  "title": "NI Annual Survey of Hours and Earnings 2024: Pension results",
+  "body": "\"The Annual Survey of Hours and Earnings (ASHE) is a UK wide survey that provides a wide range of information on hourly, weekly and annual earnings by gender, work pattern, industry and occupation including public and private sector pay comparisons.  This report presents provisional results from the pensions element of the 2024 Northern Ireland ASHE, which surveyed employee earnings for the pay-week (or other pay period if the employee was paid less frequently) that included 17th April 2024. \"",
+  "base_path": "/government/statistics/ni-annual-survey-of-hours-and-earnings-2024-pension-results",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Pensions",
+      "base_path": "/money/personal-tax-income-tax-pensions"
+    }
+  ]
+}

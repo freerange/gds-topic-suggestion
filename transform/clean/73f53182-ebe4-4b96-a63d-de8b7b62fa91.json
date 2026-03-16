@@ -1,0 +1,15 @@
+{
+  "title": "Public sector finances, UK: October 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/public-sector-finances-uk-october-2025",
+  "taxons": [
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

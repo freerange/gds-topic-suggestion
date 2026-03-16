@@ -1,0 +1,15 @@
+{
+  "title": "Road safety strategy",
+  "body": "\"This road safety strategy aims to reduce the number of people killed or seriously injured (KSI) on roads in Great Britain (GB). With an average of 4 lives lost daily in 2024, this strategy sets GB-wide targets to cut KSIs by 2035.  It commits to review policy areas such as the safety of young and novice drivers, older drivers and motorcyclists, to shape smarter, evidence-led interventions.  The strategy sets out a range of policies to support this aim and to improve overall road safety. It focuses on 4 themes:   supporting road users  taking advantage of technology, innovation and data for safer vehicles and post-collision care ensuring infrastructure is safe  robust enforcement to protect all road users   For each of these themes, policy areas, interventions and commitments are identified.  The strategy also summarises the case for change, identifies road safety targets and outlines an approach to monitoring the progress made in meeting objectives.  Alongside the strategy, 5 consultations have been launched today on:   motoring offences introducing a minimum learning period for learner drivers (category B driving licence)  introducing mandatory eyesight testing for older drivers  improving moped and motorcycle training, testing and licensing (categories AM, A1, A2 and A driving licence) mandating vehicle safety technologies in GB type approval   \"",
+  "base_path": "/government/publications/road-safety-strategy",
+  "taxons": [
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Making roads safer",
+      "base_path": "/transport/making-roads-safer"
+    }
+  ]
+}

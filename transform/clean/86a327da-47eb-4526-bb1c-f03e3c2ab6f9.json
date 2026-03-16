@@ -1,0 +1,11 @@
+{
+  "title": "MHRA statement on products containing cannabidiol (CBD)",
+  "body": "\"Products containing cannabidiol (CBD) used for medical purposes are medicines. If a company markets a CBD containing product that makes a medicinal claim it will be considered to fall within the definition of a medical product contained in The Human Medicines Regulations 2012. \"",
+  "base_path": "/government/publications/mhra-statement-on-products-containing-cannabidiol-cbd",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

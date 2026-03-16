@@ -1,0 +1,19 @@
+{
+  "title": "Charity Commission gender pay gap report 2024",
+  "body": "\"The government introduced statutory legislation for organisations (with 250 or more employees) to report annually on their gender pay gap.  This report sets out where the Charity Commission fulfils the reporting requirements. It analyses the figures in more detail and explains what we are doing to close the gender pay gap in the organisation.  You can also explore this data on a dashboard. \"",
+  "base_path": "/government/publications/charity-commission-gender-pay-gap-report-2024",
+  "taxons": [
+    {
+      "title": "Charities, volunteering and honours",
+      "base_path": "/society-and-culture/charities-honours"
+    },
+    {
+      "title": "Community and society",
+      "base_path": "/society-and-culture/community-and-society"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

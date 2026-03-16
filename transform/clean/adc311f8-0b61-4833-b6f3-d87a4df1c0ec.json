@@ -1,0 +1,11 @@
+{
+  "title": "Key stage 2 attainment and lifetime earnings",
+  "body": "\"The report uses data from the Longitudinal Educational Outcomes (LEO) dataset to estimate the earnings gains associated with improvements in key stage 2 test scores.  The estimates are used by the Department for Education in policy making, to assess the economic benefits of education spending. \"",
+  "base_path": "/government/publications/key-stage-2-attainment-and-lifetime-earnings",
+  "taxons": [
+    {
+      "title": "Primary curriculum, key stage 2",
+      "base_path": "/education/primary-curriculum-key-stage-2"
+    }
+  ]
+}

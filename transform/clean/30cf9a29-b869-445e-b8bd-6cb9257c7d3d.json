@@ -1,0 +1,11 @@
+{
+  "title": "Urgent notification for HMP Swaleside",
+  "body": "\"More detail on the reasons for this can be found on the HM Inspectorate of Prisons website. \"",
+  "base_path": "/government/publications/urgent-notification-for-hmp-swaleside",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    }
+  ]
+}

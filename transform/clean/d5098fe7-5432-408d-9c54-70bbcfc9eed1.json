@@ -1,0 +1,19 @@
+{
+  "title": "UN HRC Special Session: Democratic Republic of the Congo",
+  "body": "\"Thank you Mr President.  Let me begin by commending the Democratic Republic of the Congo for convening this special session. We welcome its broad support from across the African Continent.  The situation in eastern DRC has received far too little attention for far too long, including by this Council. We condemn the recent offensive by M23 and Rwandan Defence Forces, which has worsened an already dire humanitarian situation.  We call on all parties to ensure unimpeded humanitarian access to allow the delivery of life-saving assistance. In particular, the UK calls on M23 and Rwanda to re-open Goma airport as a matter of utmost urgency.  The scale of sexual and gender-based violence across eastern DRC is atrocious. We are horrified by reports of the brutal rape and murder of hundreds of women in Goma’s Munzenze Prison.  We must respond robustly and collectively to ensure a thorough investigation and bring an end to impunity.    The UK is convinced of the need to use all available Council mechanisms to address the human rights situation.  Thank you. \"",
+  "base_path": "/government/speeches/un-hrc-special-session-democratic-republic-of-the-congo",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Human rights internationally",
+      "base_path": "/international/human-rights-internationally"
+    },
+    {
+      "title": "Sexual violence in conflict",
+      "base_path": "/international/sexual-violence-in-conflict"
+    }
+  ]
+}

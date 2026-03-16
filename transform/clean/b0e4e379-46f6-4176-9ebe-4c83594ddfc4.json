@@ -1,0 +1,11 @@
+{
+  "title": "Emerging technology pairings and their effects on cyber security",
+  "body": "\"The convergence of emerging technologies is transforming industries, introducing both opportunities and unprecedented cyber security challenges. This paper explores the synergistic relationships between technologies such as Artificial Intelligence (AI), Blockchain, the Internet of Things (IoT), Edge Computing, Quantum Computing, and Brain-Computer Interfaces, analysing how their intersections reshape the cyber threat landscape.  Through a comprehensive review of the literature and real-world case studies, this study identifies and highlights key vulnerabilities arising from these technological pairings.  This research informs the government’s wider work to ensure good cyber security in new and emerging technologies, and to improve cyber resilience across the UK economy.  Please note this publication presents independent research commissioned by the Department for Science, Innovation and Technology. The views expressed do not represent HM Government policy. The research addresses the convergence of emerging technologies and the implications for cyber security. \"",
+  "base_path": "/government/publications/emerging-technology-pairings-and-their-effects-on-cyber-security",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Mauritius: information for victims of rape and sexual assault",
+  "body": "\"Includes information on:   medical assistance the Mauritian legal system reporting assaults to the police   See also rape and sexual assault abroad: returning to the UK \"",
+  "base_path": "/government/publications/rape-and-sexual-assault-in-mauritius-information-for-victims",
+  "taxons": [
+    {
+      "title": "Emergency help for British nationals in Mauritius",
+      "base_path": "/world/emergency-help-for-british-nationals-mauritius"
+    },
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

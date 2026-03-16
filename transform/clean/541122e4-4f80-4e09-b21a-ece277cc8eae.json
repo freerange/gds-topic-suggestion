@@ -1,0 +1,15 @@
+{
+  "title": "Comet Interceptor Monitoring & Evaluation Support",
+  "body": "\"Comet Interceptor is the European Space Agency (ESA)’s first F-Class (fast, flexible, and low-cost) mission, set for launch in 2029 in collaboration with JAXA. It aims to be the first mission to intercept a pristine comet, providing valuable insights into the early solar system.  The UK has played a leading role in designing the mission, with £16 million of national funding from the UK Space Agency planned, complementing mandatory ESA contributions. This national funding aims to achieve:    Increased scientific knowledge and UK research competitiveness, including positioning the UK as the partner of choice for future space science missions.   More international collaborations and partnerships, bolstering the UK’s international reputation and enhancing the reach of the UK space sector.   Inspired and upskilled space talent pipeline to expand the UK’s academic base and address the technical skill gaps outlined in the R&D People and Culture Strategy.    UK scientific influence is secured through the key Interdisciplinary Scientist (IDS) role for Prof. Snodgrass at the University of Edinburgh, as well as leadership over two critical instruments: MIRMIS (University of Oxford) and the Fluxgate Magnetometer (Imperial College London). As launch is still years away, most scientific benefits will emerge in the longer term as researchers analyse cometary gas, dust, and plasma data from the target comet fly-by. Early scientific trends are precursors to larger future impacts, though preparatory science is underway, with publications on Comet Interceptor’s objectives and instruments emerging since 2019. \"",
+  "base_path": "/government/publications/comet-interceptor-monitoring-evaluation-support",
+  "taxons": [
+    {
+      "title": "Government evaluation",
+      "base_path": "/government/government-evaluation"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

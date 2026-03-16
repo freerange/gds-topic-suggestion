@@ -1,0 +1,19 @@
+{
+  "title": "Beavers: planning stakeholder engagement for release projects",
+  "body": "\"You must engage with a variety of stakeholders if you’re planning to apply for a licence to release beavers into the wild.  Follow this guidance for information on how to engage with your stakeholders as required by Natural England. \"",
+  "base_path": "/government/publications/beavers-planning-stakeholder-engagement-for-release-projects",
+  "taxons": [
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    },
+    {
+      "title": "Wildlife and animal welfare",
+      "base_path": "/environment/wildlife-and-animal-welfare"
+    },
+    {
+      "title": "Mammals",
+      "base_path": "/environment/environmental-management-wildlife-habitat-conservation-mammals"
+    }
+  ]
+}

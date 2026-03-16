@@ -1,0 +1,15 @@
+{
+  "title": "Public Transport Statistics Northern Ireland 2024-25",
+  "body": "\"This report brings together information on public transport journeys, vehicles and staff.  This is an Accredited official statistics report produced by the Analysis, Statistics and Research Branch (ASRB) of the Department for Infrastructure (DfI). \"",
+  "base_path": "/government/statistics/public-transport-statistics-northern-ireland-2024-25",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Bus accessibility",
+      "base_path": "/transport/bus-accessibility"
+    }
+  ]
+}

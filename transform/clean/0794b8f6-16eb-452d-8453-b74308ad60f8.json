@@ -1,0 +1,11 @@
+{
+  "title": "Cyber Governance Code of Practice - evaluation survey",
+  "body": "\"This survey is collecting feedback on organisations’ access, understanding and implementation of Cyber Governance Code of Practice, and supporting materials, including the Cyber Governance mapping and the National Cyber Security Centre’s (NCSC) Cyber Governance training.  The results will be used by the Department for Science, Innovation and Technology (DSIT) to monitor and evaluate organisations’ use of the code of practice.  Questions are optional and your organisation does not need to have implemented or fully implemented the code of practice to participate.   The survey is open until 11:59pm on Wednesday 8 April 2026.  For more information, see the full Cyber Governance Code of Practice.  \"",
+  "base_path": "/government/publications/cyber-governance-code-of-practice-evaluation-survey",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Children’s Health in Northern Ireland 2023/24",
+  "body": "\"The Children’s Health in Northern Ireland 2023/24 report breaks down indicators such as birth weight, maternal BMI, maternal smoking, breastfeeding status, childhood obesity by various geographies and by deprivation status.  The report includes comparative data from other UK countries and the Republic of Ireland, where available. \"",
+  "base_path": "/government/statistics/childrens-health-in-northern-ireland-202324",
+  "taxons": [
+    {
+      "title": "Childcare and early years",
+      "base_path": "/childcare-parenting/childcare-and-early-years"
+    },
+    {
+      "title": "Children's health and welfare",
+      "base_path": "/childcare-parenting/childrens-health-and-welfare"
+    },
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    },
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    },
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    }
+  ]
+}

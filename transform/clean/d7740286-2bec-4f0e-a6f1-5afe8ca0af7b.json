@@ -1,0 +1,11 @@
+{
+  "title": "Estimating health effects of PM2.5 and NO2 indoors",
+  "body": "\"There is interest in estimating the effects of indoor exposure to air pollutants on health, but there is a lack of epidemiological evidence from indoor environments suitable for use as the basis for quantifying effects.  Until relevant epidemiological studies on indoor air pollution are available, it may be possible to develop methods for quantification of effects attributable to fine particulate matter (PM2.5) and nitrogen dioxide (NO2) indoors, using the large evidence base linking outdoor concentrations of these pollutants with adverse effects on health.  This statement is aimed at researchers and analysts who might wish to explore the use of these methods. In it, the Committee on the Medical Effects of Air Pollutants (COMEAP) discusses approaches that could be used to modify concentration-response functions (CRFs) reported in epidemiological studies of outdoor concentrations, in order to make them more appropriate for quantifying effects attributable to exposure in indoor microenvironments such as at home, at school, during transport and in workplaces such as offices. \"",
+  "base_path": "/government/publications/estimating-health-effects-of-pm25-and-no2-indoors",
+  "taxons": [
+    {
+      "title": "Chemical and environmental hazards",
+      "base_path": "/health-and-social-care/health-protection-chemical-and-environmental-hazards"
+    }
+  ]
+}

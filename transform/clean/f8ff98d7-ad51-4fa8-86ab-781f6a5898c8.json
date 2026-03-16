@@ -1,0 +1,19 @@
+{
+  "title": "MGN 602 (M) Amendment 1 MLC substantial equivalence for crew accommodation for 200GT to <500GT",
+  "body": "\"This notice should be read with the Merchant Shipping (Maritime Labour Convention) (minimum requirements for seafarers etc.) Regulations 2014 S.I 2014/1613, together with MGN 600 (M) which covers the inspections for coded vessels.  Amendment 1 updated references only.  Notice to   vessel owners operators and managers seafarers designers builders and surveyors.  \"",
+  "base_path": "/government/publications/mgn-602-m-amendment-1-mlc-substantial-equivalence-for-crew-accommodation-for-200gt-to-500gt",
+  "taxons": [
+    {
+      "title": "Maritime safety",
+      "base_path": "/transport/maritime-safety"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    },
+    {
+      "title": "Vessel surveys and inspection",
+      "base_path": "/transport/maritime-surveying"
+    }
+  ]
+}

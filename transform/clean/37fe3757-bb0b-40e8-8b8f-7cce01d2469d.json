@@ -1,0 +1,11 @@
+{
+  "title": "Country and regional analysis: 2025",
+  "body": "\"The Country and Regional Analysis (CRA) presents statistical estimates for the allocation of identifiable expenditure between the regions and nations of the UK. This year’s dataset covers the outturn period 2020-21 to 2024-25.  Data analysis tools  Alongside the main CRA release, the Treasury has published further analysis tools in the form of “interactive tables” and the full CRA database. These tools will allow users to manipulate the data to create their own views. The database contains the underlying “segment” level data used to construct the published tables in CRA 2025. Figures are in nominal terms. The “interactive tables” include both nominal and real terms data, but exclude the “segment” level information.  For statistical enquiries, please contact: Pesa.document@hmtreasury.gov.uk  \"",
+  "base_path": "/government/statistics/country-and-regional-analysis-2025",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Threat assessments to support sanctions compliance",
+  "body": "\" \"",
+  "base_path": "/government/collections/threat-assessments-to-support-sanctions-compliance",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    },
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    }
+  ]
+}

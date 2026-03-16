@@ -1,0 +1,11 @@
+{
+  "title": "Household Energy Efficiency Headline Release (monthly data)",
+  "body": "",
+  "base_path": "/government/statistics/announcements/household-energy-efficiency-headline-release-monthly-data--48",
+  "taxons": [
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

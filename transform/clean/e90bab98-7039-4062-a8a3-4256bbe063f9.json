@@ -1,0 +1,19 @@
+{
+  "title": "Student route evaluation (wave 2)",
+  "body": "\"The research presented throughout the following report provides insight into the experience of international Student visa applicants studying in the UK, building on themes explored in the previous wave of research published in May 2024. It examines:   visa holder decision-making the influence of policy (such as the ability to bring dependants) the impact of the Graduate route on study intentions the wider economic impacts of international students and their dependents   This research also explores the impact of recent policy changes on:   application numbers applicants route misuse non-compliance   The research also addresses the experiences and understanding of Higher Education Institutions, which sponsor students on this route. Primarily looking at their understanding of sponsorship requirements, and compliance with these requirements; the sponsor recruitment processes, and the impact of recent policy changes. \"",
+  "base_path": "/government/publications/student-route-evaluation-wave-2",
+  "taxons": [
+    {
+      "title": "Student visas",
+      "base_path": "/entering-staying-uk/student-visas"
+    },
+    {
+      "title": "Visa applications",
+      "base_path": "/entering-staying-uk/visa-applications"
+    },
+    {
+      "title": "Visa sponsorship",
+      "base_path": "/entering-staying-uk/visa-sponsorship"
+    }
+  ]
+}

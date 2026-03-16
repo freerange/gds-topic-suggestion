@@ -1,0 +1,11 @@
+{
+  "title": "Cereal and oilseed production in the United Kingdom for 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/cereal-and-oilseed-production-in-the-united-kingdom-for-2026",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

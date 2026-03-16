@@ -1,0 +1,11 @@
+{
+  "title": "Excise tax types, excise duty rates and supplementary guidance",
+  "body": "\"Use this guidance to find:   a list of tax type codes (DE 4/3) which may be declared for goods liable to excise duty associated excise duty rates information on how to determine the tax types applicable to goods liable to excise duty   Use the Trade Tariff: look up commodity codes, duty and VAT rates to check for previous duty rates by adjusting the date of trade. \"",
+  "base_path": "/government/publications/excise-tax-types-excise-duty-rates-and-supplementary-guidance",
+  "taxons": [
+    {
+      "title": "Customs declarations, duties and tariffs (import and export)",
+      "base_path": "/business-and-industry/customs-declarations-duties-tariffs"
+    }
+  ]
+}

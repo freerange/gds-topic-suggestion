@@ -1,0 +1,27 @@
+{
+  "title": "Technology and Energy Secretaries chair first meeting of AI Energy Council",
+  "body": "\"Secretary of State for Science, Innovation, and Technology Peter Kyle and Secretary of State for Energy Security and Net Zero Ed Miliband today convened the first meeting of the AI Energy Council in Westminster.  Joined by industry representatives from across the energy and technology sectors, this inaugural round of discussions centred on how the UK can drive forward its AI and power goals – supporting the growth, jobs and opportunities which are central to the government’s Plan for Change.  The Technology Secretary reflected on the desire across the country to benefit from the AI revolution – with over 200 applications from local areas putting themselves forward to become AI Growth Zones. Meanwhile the Energy Secretary highlighted how it is not only about making the UK’s energy grid fit for the age of AI, but how AI can serve the energy system too.   After delivering opening remarks, the Secretaries of State led discussions which included an agreement on the council’s 5 areas of focus for the coming year. These will be centred on ensuring the UK’s energy system is ready to support the country’s AI and compute infrastructure, promoting sustainability and the use of renewable energy solutions, and placing a strong focus on promoting the safe and secure adoption of AI across the energy system whilst also advising on how AI can be adopted to support the transition to net zero, unlocking opportunities to make the grid more flexible.  Attendees reflected on the importance of making sure sustainability is at the heart of efforts to take advantage of AI and the need to make sure the UK has what is needed to drive further investment – including quick access to the grid, accelerated planning permission and skills.  The 5 main areas of focus for the council were agreed, with attendees committing to meet quarterly – with an ambition to bring proposals to the table to make quick progress and deliver for people across the country.  \"",
+  "base_path": "/government/news/technology-and-energy-secretaries-chair-first-meeting-of-ai-energy-council",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    },
+    {
+      "title": "Clean energy",
+      "base_path": "/government/clean-energy"
+    },
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

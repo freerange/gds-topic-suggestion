@@ -1,0 +1,11 @@
+{
+  "title": "Customer declaration and medical declaration form",
+  "body": "\"This form includes a medical declaration form for a medical professional to complete and a customer declaration form for you to complete.  We require this form to be fully completed to consider you student loan for cancellation on the basis that you are permanently unfit for work. \"",
+  "base_path": "/government/publications/customer-declaration-and-medical-declaration-form",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

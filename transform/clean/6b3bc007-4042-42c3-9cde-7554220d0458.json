@@ -1,0 +1,23 @@
+{
+  "title": "Easy read: Support visits if you need help to claim benefits",
+  "body": "\"This easy read guide tells you:   when the Department for Work and Pensions (DWP) may arrange to visit you how DWP will tell you about the visit how to check that the visiting officer is really from DWP  how long the visit may last how to change the date or time of the visit    Easy read documents are designed to make information accessible to people with learning disabilities. If you do not need an easy read format, read the Support visits if you need help to claim benefits guide.   \"",
+  "base_path": "/government/publications/easy-read-support-visits-if-you-need-help-to-claim-benefits",
+  "taxons": [
+    {
+      "title": "Benefits for families",
+      "base_path": "/welfare/families"
+    },
+    {
+      "title": "Carers and disability benefits",
+      "base_path": "/welfare/disability"
+    },
+    {
+      "title": "Jobseeker's Allowance and low income benefits",
+      "base_path": "/welfare/jobseekers-allowance"
+    },
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    }
+  ]
+}

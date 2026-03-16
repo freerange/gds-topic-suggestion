@@ -1,0 +1,11 @@
+{
+  "title": "MOD common law compensation claims statistics 2023/24",
+  "body": "\"These statistics include new claims and settled claims as well as the in year expenditure on claims. These statistics do not include compensation awarded under the MOD’s no fault schemes, the Armed Forces Compensation Scheme and its predecessor the War Pension Scheme.  These claims are dealt with by the Claims Unit within the department’s Directorate of Judicial Engagement Policy, by contractors operating in accordance with instructions provided by the Claims Unit, or by delegated authorities. \"",
+  "base_path": "/government/statistics/mod-common-law-compensation-claims-statistics-202324",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

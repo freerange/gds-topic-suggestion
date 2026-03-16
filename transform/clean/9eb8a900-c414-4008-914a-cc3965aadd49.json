@@ -1,0 +1,15 @@
+{
+  "title": "The value of public R&D",
+  "body": "\"Analysis by DSIT that demonstrates that public R&D investments have substantial and positive economic impacts, with the average pound invested in public R&D generating £8 in net benefits for the UK.  \"",
+  "base_path": "/government/publications/the-value-of-public-rd",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

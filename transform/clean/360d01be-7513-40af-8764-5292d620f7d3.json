@@ -1,0 +1,19 @@
+{
+  "title": "Tuberculin order form (TR511)",
+  "body": "\"Vets can use this form to order tuberculin from the Animal and Plant Health Agency (APHA). \"",
+  "base_path": "/government/publications/tuberculin-order-form-tr511",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Veterinary medicines",
+      "base_path": "/environment/keeping-farmed-animals-veterinary-medicines"
+    }
+  ]
+}

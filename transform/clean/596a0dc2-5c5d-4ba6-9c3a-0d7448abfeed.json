@@ -1,0 +1,23 @@
+{
+  "title": "Draft TSM Direction",
+  "body": "\"This draft TSM Direction is not part of the TI&A Standard Consultation. It is provided as background information to the consultation only and is not part of the information that is being consulted on.  \"",
+  "base_path": "/government/publications/tsm-direction",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

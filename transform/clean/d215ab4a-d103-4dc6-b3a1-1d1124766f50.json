@@ -1,0 +1,15 @@
+{
+  "title": "UK Emissions Trading Scheme: Regional aviation connectivity",
+  "body": "\"The UK Emissions Trading Scheme (UK ETS) Authority (UK Government, Scottish Government, Welsh Government and the Department of Agriculture, Environment and Rural Affairs for Northern Ireland) is seeking views on:   whether intervention is needed to support regional aviation connectivity in the UK, in the context of the end of free allocation for UK ETS aircraft operators in 2026 options for potential mitigations that specifically target the potential risk to regional air connectivity to isolated communities   This consultation is open to all but will be of particular interest to affected aircraft operators and communities, and wider aviation sector stakeholders. \"",
+  "base_path": "/government/consultations/uk-emissions-trading-scheme-regional-aviation-connectivity",
+  "taxons": [
+    {
+      "title": "Aviation and the environment",
+      "base_path": "/transport/aviation-and-the-environment"
+    },
+    {
+      "title": "Emissions and emissions trading",
+      "base_path": "/environment/climate-change-energy-emissions"
+    }
+  ]
+}

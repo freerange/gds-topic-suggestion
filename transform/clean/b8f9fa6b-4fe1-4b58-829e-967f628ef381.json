@@ -1,0 +1,19 @@
+{
+  "title": "Landlords Research",
+  "body": "\"In 2023, HMRC commissioned research with landlords to better understand their experience of owning property. A representative sample of 1,243 landlords were surveyed, and 20 follow-up qualitative in-depth interviews were carried out.  The research explored:   investment behaviour among landlords use of agents and accounting systems the geographical distribution of landlords’ properties the perceived barriers to filing correct tax returns among landlords   \"",
+  "base_path": "/government/publications/landlords-research",
+  "taxons": [
+    {
+      "title": "Being a landlord and renting out a room",
+      "base_path": "/housing-local-and-community/landlords"
+    },
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

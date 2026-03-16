@@ -1,0 +1,15 @@
+{
+  "title": "Energy Price Guarantee (EPG): payments made under the scheme",
+  "body": "\"Domestic customers in the United Kingdom were provided with electricity and gas bill support, for consumption between 1 October 2022 and 30 June 2023. This was in the form of discounted electricity and gas prices by energy suppliers via the energy price cap.  Suppliers were reimbursed two weeks in arrears every two weeks during the operation of the scheme, based on electricity and gas settlement data and estimates of eligible customers in each supplier’s portfolio. Subsequent reconciliation payments made final corrections for settlement data and eligible customer numbers at a defined point after the scheme.  During the Energy Price Guarantee (EPG), the discount provided varied between electricity and gas consumption and between Great Britain (GB) and Northern Ireland (NI), owing to the differences in how the energy system operates. The figures in the publication are broken down accordingly:  1) Total EPG payments or charges made to energy suppliers by energy type and scheme phase, for GB.  2) Total EPG payments made to electricity suppliers by scheme phase and meter type, for NI.  3) Total EPG payments made to gas suppliers by payment period, for NI.  These data do not constitute an Official or National Statistics release.  \"",
+  "base_path": "/government/publications/energy-price-guarantee-epg-payments-made-under-the-scheme",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

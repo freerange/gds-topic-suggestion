@@ -1,0 +1,11 @@
+{
+  "title": "Wider Determinants of Health: February 2025 update",
+  "body": "\"This tool brings together available indicators at England and local authority levels on the wider determinants of health.  The Wider Determinants of Health tool is designed to:   draw attention to the broad range of individual, social and environmental factors which influence our health provide the public health system with intelligence on the wider determinants of health, to help improve population health and reduce health inequalities   For the February 2025 update, a new indicator has been added to the profile showing the number of fast food outlets per 100,000 population in 2024 for local authorities in England. Details of this release can be found in ‘Wider Determinants of Health: statistical commentary on the location of fast food outlets, February 2025’.  The supporting data file contains counts of fast food outlets in 2024 for electoral wards in England and also local authority level baseline comparator data on the number of fast food outlets per 100,000 population in 2017.  If you would like to send us feedback on the tool contact pha-ohid@dhsc.gov.uk. \"",
+  "base_path": "/government/statistics/wider-determinants-of-health-february-2025-update",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

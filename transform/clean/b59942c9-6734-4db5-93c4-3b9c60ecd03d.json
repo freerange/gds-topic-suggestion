@@ -1,0 +1,15 @@
+{
+  "title": "The accessibility and inclusivity of bus and coach services",
+  "body": "\"This research presents the results of mixed-methods research into the accessibility and inclusivity of bus and coach services.  The Department for Transport commissioned NatCen to explore gaps in the current research evidence base. Their report:   examines the experiences of disabled individuals and those with certain other protected characteristics, with a particular focus on health conditions and impairments explores perceptions, barriers and enablers to using bus and coach services identifies best practices for stops and stations to enhance accessibility, inclusivity and personal safety   \"",
+  "base_path": "/government/publications/the-accessibility-and-inclusivity-of-bus-and-coach-services",
+  "taxons": [
+    {
+      "title": "Bus accessibility",
+      "base_path": "/transport/bus-accessibility"
+    },
+    {
+      "title": "Transport accessibility and disability",
+      "base_path": "/transport/transport-accessibility-and-mobility"
+    }
+  ]
+}

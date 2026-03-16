@@ -1,0 +1,23 @@
+{
+  "title": "Police recorded injury road traffic collisions and casualties Northern Ireland monthly report to 30 November 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/police-recorded-injury-road-traffic-collisions-and-casualties-northern-ireland-monthly-report-to-30-november-2025",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    },
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    }
+  ]
+}

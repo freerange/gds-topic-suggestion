@@ -1,0 +1,11 @@
+{
+  "title": "Adult social care finance report, England: 2024 to 2025",
+  "body": "\"This report presents data on adult social care finances in England for the period 1 April 2024 to 31 March 2025. It provides information on:   how local authorities funded adult social care how much they spent where the money came from   The publication consists of:   a report on data from April 2024 to March 2025 associated data tables in ODS format pre-release access list a zip file containing:  data tables in CSV format universal unique identifiers (UUIDs) mapping guide data quality table metadata document     This finance report was previously published as the Adult social care activity and finance report by NHS England. See the Adult social care activity report, England: 2024 to 2025 published by the Department of Health and Social Care.   Help us improve the adult social care finance report  We are interested in understanding more about how the outputs and data from this report are used, and the decisions they inform. This is important for us so we can provide a high-quality publication that meets your needs.  Complete the survey   \"",
+  "base_path": "/government/statistics/adult-social-care-finance-report-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

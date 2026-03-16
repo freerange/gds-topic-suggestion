@@ -1,0 +1,11 @@
+{
+  "title": "Green Homes Grant (GHG) SMETER project evaluation",
+  "body": "\"This report summarises the findings of the Green Homes Grant (GHG) Smart Meter Enabled Thermal Efficiency Rating (SMETER) project, which assessed how home energy efficiency changed after retrofits funded through the Green Homes Grant scheme. It used smart meter data to estimate changes in heat loss from homes and compared these results with modelled estimates based on EPC data.  The report evaluates the reliability of different SMETER methods and provides insights into their suitability for large-scale retrofit evaluation. It also outlines the limitations of current approaches and offers recommendations for future use of smart meter data in assessing home energy performance.  \"",
+  "base_path": "/government/publications/green-homes-grant-ghg-smeter-project-evaluation",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

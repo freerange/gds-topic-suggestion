@@ -1,0 +1,15 @@
+{
+  "title": "Vets: contact APHA",
+  "body": "\"Reporting notifiable animal diseases  If you suspect a notifiable animal diseases or have animal welfare concerns, please notify APHA immediately - failure to do this is an offence.    List of notifiable diseases   Contact APHA  Sign-up to receive notifiable disease alerts Sign up for APHA disease alerts for vets, including EEDAS and SmART comms   Reporting new or re-emerging animal diseases  If you have found something new, unusual, severe, or unresponsive in relation to animal diseases, contact:   the relevant Species Expert Group veterinary lead  your nearest Veterinary Investigation Centre for advice on further investigation   Read the guidance on animal disease scanning surveillance at APHA to find out about the national surveillance network.  Use the post-mortem examination and carcase collection postcode lookup to find your allocated centre and check if your postcode is eligible for free carcase collection.  Official Veterinarian (OV) contacts  See the Official Veterinarian guidance on Improve International for further information on who to contact about OV issues.   APHA OV Team  Email: CSCOneHealthOVTeam@apha.gov.uk  Telephone: 03000 200301   Official Veterinarian Team County HallSpetchley RoadWorcesterWR5 2NP   Improve International  Email: enquiries@improve-ov.com Telephone: 0330 2020380 Website: https://www.improve-ov.com   OV Customer Services ManagerImprove International LtdGround FloorDelta 1200Delta Business ParkWelton RoadSwindonWiltshireSN5 7XZ   Central DNA Tagging Team  On return to the office/practice, OVs should package and despatch the sample capsules to the Central DNA Tagging Team, as detailed in the OV instructions.  Email: CSC.TBDNATagging@apha.gov.uk  Sam - Online TB test submissions  For queries about using Sam or the initial registration process please contact the Sam OV support desk:  Email: APHAServiceDesk@apha.gov.uk Telephone: 03300 416999  The Helpdesk is open between 08:30am – 5pm Monday to Friday.  \"",
+  "base_path": "/guidance/vets-contact-apha",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

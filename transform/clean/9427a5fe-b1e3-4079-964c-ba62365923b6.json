@@ -1,0 +1,11 @@
+{
+  "title": "Traveller caravan count statistics",
+  "body": "\"The Traveller caravan count (TCC) statistical series is compiled from information submitted by local authorities in England.  Currently, local authorities conduct the count of caravans on traveller sites twice a year, in January and July.  We are consulting on proposals to reduce the frequency and scope of data collection. The proposed changes intend to reduce the burden on local authorities and provide new opportunities for developing this data collection.  \"",
+  "base_path": "/government/consultations/traveller-caravan-count-statistics",
+  "taxons": [
+    {
+      "title": "Traveller communities",
+      "base_path": "/housing-local-and-community/traveller-communities"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Digital traffic regulation orders D-TRO service",
+  "body": "\"Traffic regulation orders  Traffic regulation orders (TROs) are legal documents that regulate or restrict the use of public roads. They are used to implement traffic management measures, such as speed limits, parking restrictions and one-way streets. TROs are essential for enabling authorities to enforce these regulations and ensure road safety. They are usually paper-based documents.  Digital traffic regulation orders  A digital traffic regulation order (D-TRO) is the digital version of a traditional traffic regulation order. It’s not a legal document, but rather a digital extract of the legal order.    It contains machine-readable data in a standardised format that can be easily shared and integrated with other digital systems.  The D-TRO service  The D-TRO service is a centralised repository to hold digital traffic regulation orders. These D-TROs are published to the service by traffic regulation authorities (TRAs) or their digital solution providers (DSPs).  The data, which is accessed via an API, can be used for purposes such as:     improving existing services, for example, sat nav routing  reducing enforcement and processing costs to highway authorities reducing congestion by providing information on road closures  supporting the development of innovative new services  providing the digital infrastructure for connected and automated vehicles   Access the service  Anyone can use the data in the service free of charge.  You will need to register the first time you access the service.  TRAs and their DSPs can also register as data publishers at the link below.  Access the D-TRO service   Support and technical documentation  You can read more information about the D-TRO service on the Transport Technology Forum website, or you can email d-tro@dft.gov.uk if you have a specific question.  Developers can find technical documentation about the service by following the Access the D-TRO service link above.  \"",
+  "base_path": "/guidance/digital-traffic-regulation-orders-d-tro-service",
+  "taxons": [
+    {
+      "title": "Road infrastructure",
+      "base_path": "/transport/road-infrastructure"
+    }
+  ]
+}

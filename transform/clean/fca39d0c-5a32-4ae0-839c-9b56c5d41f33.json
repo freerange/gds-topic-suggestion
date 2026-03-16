@@ -1,0 +1,15 @@
+{
+  "title": "RISE support for reception improvement",
+  "body": "\"The Department for Education (DfE) offers a range of online and in-person school support and professional development for improving teaching and leadership of reception.  \"",
+  "base_path": "/government/publications/reception-improvement-offer",
+  "taxons": [
+    {
+      "title": "Teacher training and professional development",
+      "base_path": "/education/teacher-training-and-professional-development"
+    },
+    {
+      "title": "Childcare and early years",
+      "base_path": "/childcare-parenting/childcare-and-early-years"
+    }
+  ]
+}

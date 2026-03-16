@@ -1,0 +1,11 @@
+{
+  "title": "Making Tax Digital for Income Tax business population statistics",
+  "body": "\"This publication provides statistics on the number of businesses who will be impacted by the introduction of Making Tax Digital for Income Tax. The statistics are based on information from Income Tax Self Assessment returns for tax year 2023 to 2024. It provides breakdowns by business type, authorised agent representation and use of commercial software.  Contact us  If you have any feedback or questions about this statistical publication please contact:   B Skittrall or C Breezepersonaltax.statistics@hmrc.gov.uk  \"",
+  "base_path": "/government/statistics/making-tax-digital-for-income-tax-business-population-statistics",
+  "taxons": [
+    {
+      "title": "Self Assessment",
+      "base_path": "/money/self-assessment"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Vehicle licensing statistics: January to March 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/vehicle-licensing-statistics-january-to-march-2026--2",
+  "taxons": [
+    {
+      "title": "Vehicle registration, log books and number plates",
+      "base_path": "/transport/vehicle-registration-log-books-and-number-plates"
+    }
+  ]
+}

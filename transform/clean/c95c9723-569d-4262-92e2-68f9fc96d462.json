@@ -1,0 +1,11 @@
+{
+  "title": "Cyber security longitudinal survey: wave four results",
+  "body": "\"The Cyber Security Longitudinal Survey (CSLS) helps us better understand cyber security policies and processes within medium and large businesses and high-income charities. It explores the links over time between these policies and processes and the likelihood and impact of a cyber incident.  This is the fourth phase of the research and therefore this report enables us to make comparisons with previous phases of the research:    CSLS wave one survey (published January 2022)  CSLS wave two survey (published December 2022)  CSLS wave three survey (published March 2024).   This report also summarises additional insight from a number of follow-up qualitative interviews with survey respondents.  This research is part of the government’s work to improve the UK’s cyber defences and ensure new and existing technologies are safely developed and deployed across the UK. It also informs the government’s work to improve the cyber resilience of organisations across the UK economy.  For more information on the cyber security behaviours of organisations, please see the annual Cyber Security Breaches Survey.  \"",
+  "base_path": "/government/publications/cyber-security-longitudinal-survey-wave-four-results",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

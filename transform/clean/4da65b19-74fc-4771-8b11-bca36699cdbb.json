@@ -1,0 +1,11 @@
+{
+  "title": "UK Space Agency spending report: December 2024",
+  "body": "\"A report on the Agency’s spend in December 2024. \"",
+  "base_path": "/government/publications/uk-space-agency-spending-report-december-2024",
+  "taxons": [
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

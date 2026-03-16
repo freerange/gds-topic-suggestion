@@ -1,0 +1,11 @@
+{
+  "title": "JADTEU airportability information and design guide",
+  "body": "\"The Joint Air Delivery Test and Evaluation Unit (JADTEU) airportability information and design guide is from the JADTEU Airportability (AP) section to aid organisations who have a requirement for cargo to be capable of being transported by air, internally in UK Military Air Transport aircraft.  This publication will offer guidance for the design and development of cargo intended to be air-portable. It is not definitive: it is advised that JADTEU AP section is consulted early in the design and development process.  This guide is applicable only to equipment that is to be internally air-transported and will be assessed by the JADTEU AP section. \"",
+  "base_path": "/government/publications/jadteu-airportability-information-and-design-guide",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

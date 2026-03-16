@@ -1,0 +1,15 @@
+{
+  "title": "General Medical Services Statistics for NI, Quarter 2 2025/26",
+  "body": "\"This report contains high level summary information on Patients, General Practitioners and GP Practices in Northern Ireland in Northern Ireland.  Information is provided at Northern Ireland level with further breakdowns presented at Local Commissioning Group (LCG), Local Government District (LGD) and GP Federation level. \"",
+  "base_path": "/government/statistics/general-medical-services-statistics-for-ni-quarter-2-202526",
+  "taxons": [
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

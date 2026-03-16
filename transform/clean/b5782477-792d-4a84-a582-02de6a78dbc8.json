@@ -1,0 +1,11 @@
+{
+  "title": "HMRC Costly Channels usage amongst Small Businesses",
+  "body": "\"HM Revenue and Customs is responsible for collecting the money that pays the UK’s public services and helps families and individuals with targeted financial support. This includes responsibility for helping small businesses meet their tax responsibilities and receive any benefits, tax credits, refunds or other support they are entitled to claim. Small businesses receive this support through a variety of communication channels.  HMRC commissioned BMG research to conduct quantitative research with small businesses investigating their communication and interaction methods with HMRC, covering those considered costly to administer (for example a telephone conversation) and non-costly (for example a customer using GOV.UK web pages).   A total of 2,001 surveys were completed with small businesses between July and August 2024.  \"",
+  "base_path": "/government/publications/hmrc-costly-channels-usage-amongst-small-businesses",
+  "taxons": [
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Births in England and Wales : 2024 (refreshed populations)",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/births-in-england-and-wales-2024-refreshed-populations",
+  "taxons": [
+    {
+      "title": "Register the birth of a child",
+      "base_path": "/childcare-parenting/register-the-birth-of-a-child"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "National population projections for Northern Ireland: 2022-based",
+  "body": "\"National projections by sex and single year of age are produced for the UK and each of the UK constituent countries by the Office for National Statistics (ONS). National projections provide an estimate of the future size and age structure of the population of Northern Ireland. \"",
+  "base_path": "/government/statistics/national-population-projections-for-northern-ireland-2022-based",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

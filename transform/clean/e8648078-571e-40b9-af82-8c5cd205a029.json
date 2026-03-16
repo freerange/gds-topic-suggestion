@@ -1,0 +1,15 @@
+{
+  "title": "Electricity generation cost study: extending the life of existing generation assets",
+  "body": "\"The government contracted Cambridge Economic Policy Associates (CEPA) to conduct research into the costs related to refurbishments of CCGT powerplants. The review used an established technical modelling software extensively used by the industry to determine the archetypes of CCGT powerplants and required refurbishment works for simple maintenance, five-year lifetime extensions, and full repowering of the powerplant requiring replacement of all major components. The second phase of the project surveyed and interviewed developers in order to validate the results from the technical modelling.   These findings were used to help support the government response to the Capacity Market consultation on proposals to maintain security of supply and enable flexible capacity to decarbonise, published at the same time.  \"",
+  "base_path": "/government/publications/electricity-generation-cost-study-extending-the-life-of-existing-generation-assets",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "UK energy security",
+      "base_path": "/business/uk-energy-security"
+    }
+  ]
+}

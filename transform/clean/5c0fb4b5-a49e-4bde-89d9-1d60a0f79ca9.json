@@ -1,0 +1,19 @@
+{
+  "title": "Preliminary Breath Tests conducted in Northern Ireland for calendar year 2024",
+  "body": "\"This publication can be accessed here \"",
+  "base_path": "/government/statistics/preliminary-breath-tests-conducted-in-northern-ireland-for-calendar-year-2024",
+  "taxons": [
+    {
+      "title": "Drink and drug driving",
+      "base_path": "/transport/drink-and-drug-driving"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

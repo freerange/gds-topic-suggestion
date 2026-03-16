@@ -1,0 +1,11 @@
+{
+  "title": "Build trust by showing your IAA registration online",
+  "body": "\"What is the IAA Yoshki badge?   The IAA Yoshki badge is a simple but powerful tool that shows clients you’re a registered and regulated immigration adviser or organisation. When added to your website, it performs a real-time check against the IAA’s official register – giving visitors instant confirmation that you’re authorised to provide immigration advice and services.   Why use the badge?   Adding the IAA Yoshki badge to your website helps you:     Build trust – show clients you’re a legitimate and regulated provider    Stand out – differentiate yourself from unregistered or rogue advisers    Protect your reputation – let users verify your status directly from the IAA’s register     How to get the badge   If you’re a registered adviser or organisation, it’s quick and free to add the badge:     Visit the Yoshki website to generate your unique badge code    Copy and paste the code into your website’s HTML    The badge will appear on your site and link to your live IAA registration    Important: If organisations have already done this using the OISC badge, no further action is needed as it will have updated automatically. Only registered advisers and organisations may use the badge. Misuse may result in enforcement action.   If you have questions about using the badge or your eligibility, please contact us at info@immigrationadviceauthority.gov.uk. \"",
+  "base_path": "/government/news/build-trust-by-showing-your-iaa-registration-online",
+  "taxons": [
+    {
+      "title": "Immigration adviser services",
+      "base_path": "/entering-staying-uk/immigration-adviser-services"
+    }
+  ]
+}

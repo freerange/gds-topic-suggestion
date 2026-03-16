@@ -1,0 +1,11 @@
+{
+  "title": "Changes to HGV, bus and trailer MOT centre service charges",
+  "body": "\"MOT centres for HGVs, buses and trailers are officially called ‘authorised testing facilities’ or ‘ATFs’.  The Driver and Vehicle Standards Agency (DVSA) is seeking views on proposals to change the maximum service charges that ATFs can make to customers for using their facilities.  These changes aim to:   help ATFs cover their rising costs allow ATFs to plan for future testing equipment needs keep the testing network sustainable – including encouraging new ATFs where the extra capacity and choice will benefit the vehicle operating industries   \"",
+  "base_path": "/government/consultations/changes-to-hgv-bus-and-trailer-mot-centre-service-charges",
+  "taxons": [
+    {
+      "title": "HGV, bus and trailer MOT tests",
+      "base_path": "/transport/hgv-bus-and-trailer-mot-tests"
+    }
+  ]
+}

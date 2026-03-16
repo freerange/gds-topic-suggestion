@@ -1,0 +1,11 @@
+{
+  "title": "NHS Maternity Statistics, England, 2024-25",
+  "body": "\"This report will combine reporting from two data sources for maternity information - Hospital Episode Statistics and Maternity Services Data Set - to give a fuller picture of NHS maternity activity for deliveries in 2024/25. \"",
+  "base_path": "/government/statistics/nhs-maternity-statistics-england-2024-25",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

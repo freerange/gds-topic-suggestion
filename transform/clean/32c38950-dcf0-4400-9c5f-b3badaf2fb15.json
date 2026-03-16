@@ -1,0 +1,11 @@
+{
+  "title": "Data tables for customs declarants and declaration volumes for international trade in 2024",
+  "body": "\"The following data tables contain the number of customs declarants and declarations for international trade in goods in 2024, with breakdowns by direction of movement, partner countries, calendar month declarant representation, location of entry/exit and declarations type category.               Customs declarants and declaration volumes for international trade in 2024 dataset    ODS, 54.5 KB     This file is in an OpenDocument format   \"",
+  "base_path": "/government/statistical-data-sets/data-tables-for-customs-declarants-and-declaration-volumes-for-international-trade-in-2024",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

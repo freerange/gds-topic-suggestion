@@ -1,0 +1,15 @@
+{
+  "title": "Environmental Impact of Taxes study",
+  "body": "\"HM Revenue and Customs commissioned Ipsos and UCL Consultants (UCLC) to undertake an evaluation study on the environmental impact of taxes (rates and reliefs).  The study was split into two phases and contains three reports.  Phase 1  Environmental impact of taxes: Evaluation proof of concept study scoping paper’ presents and assesses a range of impact evaluation methods that could be used to assess the environmental impact of taxes and allowances  Phase 2    evaluation of the Landfill Tax on environmental outcomes   methodological Paper: Climate Change Levy and related Climate Change Agreement Scheme    \"",
+  "base_path": "/government/publications/environmental-impact-of-taxes-study",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    }
+  ]
+}

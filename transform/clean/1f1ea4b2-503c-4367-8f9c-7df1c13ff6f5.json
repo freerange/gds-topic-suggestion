@@ -1,0 +1,11 @@
+{
+  "title": "Health of the region data explorer",
+  "body": "\"The Health of the region data explorer is classified as official statistics.  This interactive resource brings together a regional and local authority view of the latest annual public health data and indicators. The report draws on published data alongside context and interpretation covering a wide range of public health topics, including:   life expectancy mortality and burden of disease wider determinants of health best start in life risk factor and disease prevalence healthy ageing   The data explorer was developed to support regional and place-based decision making, prioritisation and joint strategic needs assessments. This explorer focuses on comparing current data between different regions and local areas and complements the Health trends in England report, which shows how health indicators have changed over time. It provides a snapshot of the latest public health indicators at regional and local authority level, bringing together wider context and narrative to support interpretation of data for leaders and teams working in public health and NHS settings, including:    NHS England integrated care boards (ICBs) local authorities academia emergency services voluntary sector organisations   The explorer was developed by the Office for Health Improvement and Disparities (OHID). It presents findings from data available on:   OHID Public health profiles OHID Segment tool nomis Global Burden of Disease (GBD)   If you have any comments, questions or feedback, contact us at lkis@dhsc.gov.uk. Use ‘Health of the region data explorer’ as the email subject.  \"",
+  "base_path": "/government/statistics/health-of-the-region-data-explorer",
+  "taxons": [
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    }
+  ]
+}

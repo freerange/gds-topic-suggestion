@@ -1,0 +1,27 @@
+{
+  "title": "Rail infrastructure and assets: April 2024 to March 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/rail-infrastructure-and-assets-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "Rail infrastructure",
+      "base_path": "/transport/rail-infrastructure"
+    },
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    },
+    {
+      "title": "Rail network and the environment",
+      "base_path": "/transport/rail-network-and-the-environment"
+    },
+    {
+      "title": "Rail stations",
+      "base_path": "/transport/rail-stations"
+    },
+    {
+      "title": "Rolling stock (passenger trains)",
+      "base_path": "/transport/rolling-stock-passenger-trains"
+    }
+  ]
+}

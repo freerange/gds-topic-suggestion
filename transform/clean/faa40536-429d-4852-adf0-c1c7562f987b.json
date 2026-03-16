@@ -1,0 +1,23 @@
+{
+  "title": "Pride in Place Programme: FAQ",
+  "body": "\"The Pride in Place Programme is the government’s flagship communities programme, providing up to £5 billion of long-term support to up to 250 of the most in-need communities. \"",
+  "base_path": "/government/publications/pride-in-place-programme-faq",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "City deals and growth deals",
+      "base_path": "/business-and-industry/city-deals-and-growth-deals"
+    },
+    {
+      "title": "Regional growth fund",
+      "base_path": "/business-and-industry/regional-growth-fund"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

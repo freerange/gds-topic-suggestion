@@ -1,0 +1,11 @@
+{
+  "title": "Industrial Emissions Directive (IED): environmental permits issued 2025 – M to R",
+  "body": "\"These documents include the permit and decision document for the sites issued by the Environment Agency under the Industrial Emissions Directive (IED). \"",
+  "base_path": "/government/collections/industrial-emissions-directive-ied-environmental-permits-issued-2025-m-to-r",
+  "taxons": [
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    }
+  ]
+}

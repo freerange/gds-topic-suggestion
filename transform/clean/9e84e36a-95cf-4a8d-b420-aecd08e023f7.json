@@ -1,0 +1,15 @@
+{
+  "title": "Statistical Bulletin: Cases Involving Hate Crime 2024/25",
+  "body": "\"The PPS publishes annual statistics on Cases Involving Hate Crime. The statistics are set out in two parts: In Part One, Tables 1 – 6 present key statistics in relation to cases involving hate crime submitted to the PPS by the PSNI. In Part Two, Tables 7 - 10 present key statistics in relation to cases considered by a prosecutor to have involved hate crime which was ‘aggravated by hostility’. \"",
+  "base_path": "/government/statistics/statistical-bulletin-cases-involving-hate-crime-202425",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

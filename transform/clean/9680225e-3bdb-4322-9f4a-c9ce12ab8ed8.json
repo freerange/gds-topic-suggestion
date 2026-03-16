@@ -1,0 +1,11 @@
+{
+  "title": "Local Transport Grant allocations",
+  "body": "\"The Local Transport Grant (LTG) is a consolidated grant for local transport enhancements and maintenance. It replaces the Integrated Transport Block (ITB) and comprises both capital and resource funding from 2026 to 2027 onwards.   It is allocated to local transport authorities (LTAs) in England outside of London and areas that receive City Region Sustainable Transport Settlements (CRSTS) or Transport for City Regions (TCR) funding.  \"",
+  "base_path": "/government/publications/local-transport-grant-allocations",
+  "taxons": [
+    {
+      "title": "Local transport funding",
+      "base_path": "/transport/local-transport-funding"
+    }
+  ]
+}

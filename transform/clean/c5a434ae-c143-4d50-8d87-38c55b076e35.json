@@ -1,0 +1,11 @@
+{
+  "title": "PackUK: specifying material subcategories under regulation 7 (11) ",
+  "body": "\"This publication introduces two subcategories within the plastic packaging category: rigid and flexible.  These subcategories aim to improve classification and reporting accuracy for large producers and compliance schemes under the packaging Extended producer responsibility (EPR) for packaging scheme. The publication also supports consistent and accurate record-keeping. \"",
+  "base_path": "/government/publications/packuk-specifying-material-subcategories-under-regulation-7-11",
+  "taxons": [
+    {
+      "title": "Waste and recycling",
+      "base_path": "/environment/waste-and-recycling"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Agencies discuss Kidlington clearance",
+  "body": "\"Simon Hawkins, the Environment Agency’s director of operations for South East and East of England, and Robin Rogers, director for economy and place at Oxfordshire County Council, said:   Agencies have been working closely together to monitor the potential community and environment impacts from the illegal Kidlington waste dump, manage any risks. They have agreed a strategic objective to look at all options for clearing the site.  We have agreed to work together to tackle clearing the waste in a safe manner as soon as possible. We will set out further details around options and timeframes shortly.   Background:  The Environment Agency leads the multi-agency strategic co-ordination group for the illegally-dumped waste.     The group also comprises:  Cherwell District Council, Ministry of Housing, Communities and Local Government, National Highways, Oxfordshire County Council, Oxfordshire Fire and Rescue Service, South Central Ambulance Service, SSE, Thames Valley Local Resilience Forum and Thames Valley Police.  ENDS.  Contact us - journalists only: 0800 141 2743 or communications_se@environment-agency.gov.uk. \"",
+  "base_path": "/government/news/agencies-discuss-kidlington-clearance",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Rural and countryside",
+      "base_path": "/environment/rural-and-countryside"
+    },
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    }
+  ]
+}

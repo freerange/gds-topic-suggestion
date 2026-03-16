@@ -1,0 +1,11 @@
+{
+  "title": "Companies House accessibility statements",
+  "body": "\"Each Companies House service has its own accessibility statement, with details of:   how accessible the service is how to report problems when the statement was prepared when the service was last tested  \"",
+  "base_path": "/government/publications/companies-house-accessibility-statements",
+  "taxons": [
+    {
+      "title": "Digital accessibility",
+      "base_path": "/government/digital-accessibility"
+    }
+  ]
+}

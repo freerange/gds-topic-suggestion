@@ -1,0 +1,11 @@
+{
+  "title": "UK revenue from education related exports and transnational education activity 2022",
+  "body": "\"Annual estimates of UK revenue from education related exports and transnational education (TNE) activity for 2022.  TNE activity includes education programmes that take place outside the UK, either through partner institutions, or directly through distance learning or international campuses.  Data on UK revenue from education related exports and TNE activity for 2021 is also available.  \"",
+  "base_path": "/government/statistics/uk-revenue-from-education-related-exports-and-transnational-education-activity-2022",
+  "taxons": [
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    }
+  ]
+}

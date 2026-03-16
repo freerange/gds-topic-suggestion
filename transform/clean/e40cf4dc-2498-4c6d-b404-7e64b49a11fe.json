@@ -1,0 +1,11 @@
+{
+  "title": "Dominican Republic: Knowledge Base profile",
+  "body": "\"This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Dominican Republic  \"",
+  "base_path": "/government/publications/dominican-republic-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

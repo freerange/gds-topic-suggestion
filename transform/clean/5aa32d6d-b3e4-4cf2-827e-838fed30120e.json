@@ -1,0 +1,11 @@
+{
+  "title": "Housing quality metrics in England: Coherence article",
+  "body": "\"This coherence article focuses on data from Official Statistics publications that provide information on how many dwellings in England are in poor condition, noting where they differ and the likely reasons for this. This article provides guidance for users when choosing the most suitable metrics for a purpose. We also discuss related sources of data, including those for devolved nations. \"",
+  "base_path": "/government/publications/housing-quality-metrics-in-england-coherence-article",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    }
+  ]
+}

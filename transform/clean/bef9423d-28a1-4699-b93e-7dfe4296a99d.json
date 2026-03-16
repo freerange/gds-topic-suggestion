@@ -1,0 +1,19 @@
+{
+  "title": "Animal diseases: evaluating risks through international trade",
+  "body": "\"Defra assesses and evaluates the:   risk of animal diseases coming into Great Britain through the trade of live animals and animal products measures that other countries have put in place to stop the spread of animal disease through traded animals and animal products   Defra and the Animal and Plant Health Agency (APHA) also monitor major, notifiable or new and emerging animal disease outbreaks worldwide.  \"",
+  "base_path": "/government/collections/animal-diseases-evaluating-risks-through-international-trade",
+  "taxons": [
+    {
+      "title": "Import and export of farmed animals",
+      "base_path": "/environment/keeping-farmed-animals-import-export"
+    },
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    }
+  ]
+}

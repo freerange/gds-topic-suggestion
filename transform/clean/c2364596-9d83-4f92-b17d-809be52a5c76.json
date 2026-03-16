@@ -1,0 +1,15 @@
+{
+  "title": "Civil/crime news: privacy notices on legal aid application forms",
+  "body": "\"Which forms are affected?  Changes have been made to privacy notices on all legal aid forms across both criminal and civil legal aid.  How has the privacy notice been changed?  Changes have been made to the privacy notices on all legal aid forms that we make available on GOV.UK and via our systems such as CCMS and CCQ. The privacy notice now includes reference to Advantis Credit Ltd. who took over the contract for Crown Court means testing (CCMT) debt collection and enforcement services on behalf of the Legal Aid Agency from the previous supplier Marston Holdings Ltd. with effect from 3 February 2025.  Will old forms still be accepted?  Previous versions of the application forms will continue to be accepted until 5 May 2025 so providers have time to adjust and to allow software vendors time to update their case management systems.  Show all clients updated privacy notices  Your clients need to be aware of the updated privacy notices. This is especially important if you are submitting the older version of the form. It means directing your clients to the new privacy notices when you are collecting personal information. These privacy notices are on the new forms and you can use the links at the end of this article to help you.  Updated forms  Controlled work application forms  Civil legal aid application forms  Criminal legal aid application forms \"",
+  "base_path": "/government/news/civilcrime-news-privacy-notices-on-legal-aid-application-forms",
+  "taxons": [
+    {
+      "title": "Electronic working",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-electronic-working"
+    },
+    {
+      "title": "Payments and processing",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-payments-processing"
+    }
+  ]
+}

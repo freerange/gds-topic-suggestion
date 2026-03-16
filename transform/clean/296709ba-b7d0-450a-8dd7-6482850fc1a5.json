@@ -1,0 +1,15 @@
+{
+  "title": "Creative Industries Sector Plan",
+  "body": "\"The Creative Industries Sector Plan will ensure the UK’s creative industries sector can capitalise on new commercial opportunities and is at the forefront of tackling the challenges of our era – from managing the rise of new technologies to building a resilient, skilled and diverse workforce. \"",
+  "base_path": "/government/publications/creative-industries-sector-plan",
+  "taxons": [
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    },
+    {
+      "title": "Media and creative industries",
+      "base_path": "/business-and-industry/media-and-creative-industries"
+    }
+  ]
+}

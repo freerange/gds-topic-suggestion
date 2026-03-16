@@ -1,0 +1,15 @@
+{
+  "title": "Annual Business Survey exporters and importers: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/annual-business-survey-exporters-and-importers-2023",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

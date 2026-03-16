@@ -1,0 +1,11 @@
+{
+  "title": "Deaths related to drug poisoning in England and Wales: 2024 registrations",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/deaths-related-to-drug-poisoning-in-england-and-wales-2024-registrations",
+  "taxons": [
+    {
+      "title": "Death and benefits",
+      "base_path": "/welfare/bereavement"
+    }
+  ]
+}

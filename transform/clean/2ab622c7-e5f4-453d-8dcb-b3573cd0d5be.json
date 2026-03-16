@@ -1,0 +1,23 @@
+{
+  "title": "Travel Survey for Northern Ireland Report 2022 and 2023 data",
+  "body": "\"The publication contains information on journeys taken during 2022 and 2023 by Northern Ireland residents by mode of travel and purpose of journey.  Information reported includes average number of journeys per person, average distance travelled per person and journey length.  Some further analysis on how and why people travel is included in accompanying tables.  Only travel within Northern Ireland is included. \"",
+  "base_path": "/government/statistics/travel-survey-for-northern-ireland-report-2022-and-2023-data",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Cycling and walking",
+      "base_path": "/transport/cycling-and-walking"
+    },
+    {
+      "title": "Buses",
+      "base_path": "/transport/buses"
+    },
+    {
+      "title": "Rail",
+      "base_path": "/transport/rail"
+    }
+  ]
+}

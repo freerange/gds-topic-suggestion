@@ -1,0 +1,15 @@
+{
+  "title": "ICF KPI 6 methodology: tonnes of greenhouse gas emissions reduced or avoided",
+  "body": "\"This is one of the key performance indicators (KPIs) used for reporting on our International Climate Finance (ICF) portfolio. The results against this indicator and the other KPIs can be found in the ICF results publications.  ICF KPI 6 is an outcome indicator that measures the amount of greenhouse gas (GHG) emissions reduced or avoided, as a result of UK ICF mitigation programmes. This indicator reports greenhouse gas emissions as tonnes of Carbon Dioxide Equivalent (tCO2e) which is a global standardised unit consistent with the United Nations Framework Convention on Climate Change (UNFCCC) and Paris Agreements on GHG emissions reductions. This indicator directly related to Sustainable Development Goal 13: take urgent action to combat climate change and its impacts. \"",
+  "base_path": "/government/publications/icf-kpi-6-methodology-tonnes-of-greenhouse-gas-emissions-reduced-or-avoided",
+  "taxons": [
+    {
+      "title": "Climate change impact in developing countries",
+      "base_path": "/international/climate-change-impact-in-developing-countries"
+    },
+    {
+      "title": "Climate change international action",
+      "base_path": "/environment/climate-change-international-action"
+    }
+  ]
+}

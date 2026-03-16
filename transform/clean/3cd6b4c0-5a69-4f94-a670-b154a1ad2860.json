@@ -1,0 +1,19 @@
+{
+  "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    }
+  ]
+}

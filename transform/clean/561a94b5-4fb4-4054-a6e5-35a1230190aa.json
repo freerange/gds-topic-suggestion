@@ -1,0 +1,15 @@
+{
+  "title": "Company insolvencies, June 2025",
+  "body": "\"  The number of registered company insolvencies in England and Wales was 2,043 in June 2025, 8% lower than in May 2025 (2,230) and 16% lower than the same month in the previous year (2,430 in June 2024). Monthly company insolvency numbers in the first six months of 2025 were slightly higher than the second half of 2024, but remain lower than the 30-year annual high seen in 2023.   Company insolvencies in June 2025 consisted of 332 compulsory liquidations, 1,585 creditors’ voluntary liquidations (CVLs), 111 administrations and 15 company voluntary arrangements (CVAs). There were no receivership appointments. The number of compulsory liquidations was 6% lower than May 2025, but remained higher than both June 2024 and the 2024 monthly average. The number of CVLs in June 2025 was lower than May 2025, but was similar to the average numbers seen over the last 18 months. Administrations were lower than in May 2025, while CVAs were slightly higher.   One in 191 companies on the Companies House effective register (at a rate of 52.4 per 10,000 companies) entered insolvency between 1 July 2024 and 30 June 2025. This was a decrease from the 55.8 per 10,000 companies that entered insolvency in the 12 months ending 30 June 2024. Insolvency rates are calculated on a 12-month rolling basis as a proportion of the total number of companies on the effective register. The 12-month rolling rates show longer term trends and reduce the volatility associated with estimates based on single months.   While the insolvency rate has increased since the lows seen in 2020 and 2021, it remains much lower than the peak of 113.1 per 10,000 companies seen during the 2008-09 recession. This is because the number of companies on the effective register has more than doubled over this period.   \"",
+  "base_path": "/government/statistics/company-insolvencies-june-2025",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Court claims, debt and bankruptcy",
+      "base_path": "/money/court-claims-debt-bankruptcy"
+    }
+  ]
+}

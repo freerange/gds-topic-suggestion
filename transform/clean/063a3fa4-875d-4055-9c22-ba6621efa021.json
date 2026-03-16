@@ -1,0 +1,19 @@
+{
+  "title": "Register temporary use of land or buildings to keep livestock",
+  "body": "\"Use this service to apply for either a:   temporary land association (TLA) temporary county parish holding (tCPH) number   You must read the guidance on getting a TLA or tCPH number before you use this service.  Before you start  You must get a county parish holding (CPH) number for your main holding in England before you can get a TLA or tCPH number.  You cannot apply for a TLA or tCPH number if your main holding is in Wales. Log into Rural Payments Wales (RPW) Online instead.  You must also register with the Animal and Plant Health Agency (APHA) to get a flock or herd mark.  When not to use this service  Do not use this service if you:   have had a TLA for the same land or building in the past and the landowner has not changed want to renew a TLA or tCPH number that has not yet expired   Call APHA to reactivate your TLA or renew your TLA or tCPH number instead.    Animal and Plant Health Agency Telephone (Defra rural services helpline): 03000 200 301 Monday to Friday, 8:30am to 5pm Find out about call charges   What a TLA and tCPH number are for  A TLA  is for land and buildings within 10 miles of the main area you keep livestock. It associates the land or building you’re using with your CPH number, so you do not need to record and report livestock movements.  A tCPH number is for land and buildings more than 10 miles from the main area you keep livestock. It can be used for land and buildings within 10 miles if:   you want to register, and will operate, your holdings separately the land you wish to use is in a different TB risk area from your CPH number   If you need advice, contact APHA.   Animal and Plant Health Agency Telephone (Defra rural services helpline): 03000 200 301 Monday to Friday, 8:30am to 5pm Find out about call charges Email: temporaryland@apha.gov.uk   Apply online  You can apply online to register the temporary use of land or buildings to keep livestock.  Start now   How to find an OS grid reference  For each field or building, you must provide an Ordnance Survey (OS) grid reference. This is 12 characters - 2 letters followed by 10 numbers.  If you’re applying for a tCPH number for a group of fields or buildings, you’ll also need the OS grid reference for the main area you keep livestock.  Use the Ordnance Survey website. Follow these instructions:   Search for a county, place or postcode. Using the map, locate the field or building. Use the +/- icons to zoom in and out. Right click on each individual building or field to find the OS grid reference.   How to provide a parcel ID  You can provide a parcel ID for fields (not buildings) instead of an OS grid reference if the landowner has given you this. A parcel ID is a unique 10-character ID number given to a land parcel when it’s registered with the Rural Payments service (for example, ST 6789 6789).  Do not use Magic Maps to find grid references for this service. A land parcel ID is not the same as a National Grid field reference number, which you may have used when applying for a CPH number. Your application will be delayed if you provide a National Grid field reference number.  If you’re providing...",
+  "base_path": "/guidance/register-temporary-use-of-land-or-buildings-to-keep-livestock",
+  "taxons": [
+    {
+      "title": "Cattle identification, registration and movements",
+      "base_path": "/environment/cattle-identification-registration-movements"
+    },
+    {
+      "title": "Pig identification, registration and movements",
+      "base_path": "/environment/keeping-farmed-animals-pig-identity-registration-movements"
+    },
+    {
+      "title": "Sheep and goats identification, registration and movements",
+      "base_path": "/environment/keeping-farmed-animals-sheep-identity-registration"
+    }
+  ]
+}

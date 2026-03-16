@@ -1,0 +1,11 @@
+{
+  "title": "Vision profile",
+  "body": "\" The vision profile brings together population rates across the whole eye pathway. It gives local areas comparable indicators of risk factors, healthcare provision and outcomes for vision health to support commissioning and planning and to identify unwarranted geographical variation.  The profile compiles eye health data from a range of sources and is divided into the following domains:   outpatient indicators procedures, such as intravitreal injections and cataract surgery sight loss outcomes risk factors    The vision profile updates selected indicators developed for the 2021 Atlas of variation in risk factors and healthcare for vision in England.  For enquiries or feedback relating to the vision profile please contact: healthcare.variation@dhsc.gov.uk.  \"",
+  "base_path": "/government/collections/vision-profile",
+  "taxons": [
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    }
+  ]
+}

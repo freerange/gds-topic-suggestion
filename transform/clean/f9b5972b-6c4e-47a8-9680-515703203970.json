@@ -1,0 +1,11 @@
+{
+  "title": "Family Food FYE 2024",
+  "body": "\"‘Family Food’ is an annual publication which provides detailed statistical information on purchased quantities and expenditure derived from both household and eating out food and drink. Data is collected for a sample of households in the United Kingdom using self-reported diaries of all purchases, including food eaten out, over a two week period. Where possible quantities are recorded in the diaries but otherwise estimated. Current estimates are based on data collected in the ‘Family Food Module of the Living Costs and Food Survey’.  Next update: see the Statistics release calendar   For further information please contact: Defra statistics: family food Email familyfood@defra.gov.uk   You can also contact us via Twitter/X: [@DefraStats] Defra Helpline: 03459 33 55 77 (Monday to Friday: 8:30am to 5:30pm) \"",
+  "base_path": "/government/statistics/family-food-fye-2024",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

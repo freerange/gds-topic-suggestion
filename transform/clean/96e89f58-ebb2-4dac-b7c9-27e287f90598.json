@@ -1,0 +1,11 @@
+{
+  "title": "Making changes to a vehicle and registering kit-built, kit-converted and reconstructed classic vehicles (INF318)",
+  "body": "\"Advice on:   repairs and restorations structural modifications registering kit-built, kit-conversions and reconstructed classic vehicles  \"",
+  "base_path": "/government/publications/making-changes-to-a-vehicle-and-registering-kit-built-kit-converted-and-reconstructed-classic-vehicles-inf318",
+  "taxons": [
+    {
+      "title": "Vehicle manufacturing and modification",
+      "base_path": "/transport/vehicle-manufacturing-and-modification"
+    }
+  ]
+}

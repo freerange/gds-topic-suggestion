@@ -1,0 +1,27 @@
+{
+  "title": "Government announces Women's Health Strategy to be renewed",
+  "body": "\" Government strategy will be renewed to tackle inequalities and improve access to healthcare for women across England Secretary of State commits to addressing longstanding barriers in women’s healthcare as part of mission to build NHS fit for the future Strategy follows announcement that menopause questions will be included in the NHS Health Check   Women across the country will soon benefit from better and more compassionate care as the Women’s Health Strategy is set to be renewed to address longstanding barriers, the government has announced today (23 October 2025).    This follows today’s announcement that menopause questions will be included in the NHS Health Check to better support millions of women.    The renewed strategy will set out how the government will take the next steps to improve women’s healthcare as part of the 10 Year Health Plan and create a system that listens to women’s experiences and tackles the inequalities they face.    As part of the renewal, which will be published next year, the government will look to identify specific barriers in access to healthcare and set out concrete action to remove them.   Opinions from women who contributed to our 10 Year Health Plan consultation - the biggest ever conversation about the future of the NHS - will play a central role in developing this strategy.   Health and Social Care Secretary Wes Streeting said:      We inherited a broken NHS, and as a result too many women are still subject to a system that doesn’t listen to their experiences or understand their needs.    Whether it’s being passed from one specialist to another for conditions like endometriosis or PCOS, the lack of proper pain relief during procedures, or unacceptable gynaecology waiting lists - it’s clear the system is failing women, and it shouldn’t be happening.   Our renewed strategy will set out our longer-term vision so every woman gets the healthcare she deserves, when she needs it. We’re determined to build an NHS in which women can feel safe and can trust.   The government has already begun taking immediate steps to improve women’s healthcare since taking office. Gynaecology waiting lists have begun falling for the first time in years, with additional funding invested to tackle the backlog of cases.    The newly introduced Jess’s Rule ensures GPs in England ‘think again’ if they see a patient 3 times without identifying a diagnosis, or if symptoms are getting worse.    We have also set out how we will eliminate cervical cancer by 2040 through the new cervical cancer plan for England, and emergency hormonal contraception is due to be made available free of charge on the NHS at pharmacies.      These measures form part of the government’s Plan for Change mission to build an NHS fit for the future, ensuring healthcare services are personalised and preventative.    \"",
+  "base_path": "/government/news/government-announces-womens-health-strategy-to-be-renewed",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Equality",
+      "base_path": "/society-and-culture/equality"
+    },
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    }
+  ]
+}

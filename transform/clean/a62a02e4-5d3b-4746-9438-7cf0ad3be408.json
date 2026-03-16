@@ -1,0 +1,11 @@
+{
+  "title": "DfT: workforce management information, March 2025",
+  "body": "\"The Department for Transport (DfT) publishes details about staff numbers and payroll costs for payroll and non-payroll staff on a monthly basis.  This data is also available on data.gov.uk. \"",
+  "base_path": "/government/publications/dft-workforce-management-information-march-2025",
+  "taxons": [
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    }
+  ]
+}

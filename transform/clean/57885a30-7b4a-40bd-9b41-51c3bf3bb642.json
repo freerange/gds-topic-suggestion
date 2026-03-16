@@ -1,0 +1,15 @@
+{
+  "title": "HMRC Stakeholder Research 2024",
+  "body": "\"HM Revenue and Customs (HMRC) uses the results of the stakeholder engagement research to help understand the core stakeholders’ experience of interacting with HMRC and assess communications within this group.   The report examines their:   general perceptions of HMRC  awareness of HMRC and knowledge about its remit, vision, and priorities perceptions on digital services views of HMRC’s engagement with stakeholders   \"",
+  "base_path": "/government/publications/hmrc-stakeholder-research-2024",
+  "taxons": [
+    {
+      "title": "Money",
+      "base_path": "/money"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

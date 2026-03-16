@@ -1,0 +1,11 @@
+{
+  "title": "MHCLG's prompt payment data 2024 to 2025",
+  "body": "\"MHCLG’s percentage of invoices paid within 5 days and within 30 days of receipt. The data is in yearly quarters.  The data covers the Ministry of Housing, Communities and Local Government (MHCLG), the Planning Inspectorate (PINS) and Homes England. \"",
+  "base_path": "/government/publications/mhclgs-prompt-payment-data-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

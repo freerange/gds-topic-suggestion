@@ -1,0 +1,11 @@
+{
+  "title": "Farmer Opinion Tracker for England: April 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/farmer-opinion-tracker-for-england-april-2026",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

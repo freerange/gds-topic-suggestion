@@ -1,0 +1,11 @@
+{
+  "title": "Area cost adjustment values table",
+  "body": "\"This table sets out the Area Cost Adjustment (ACA) values used in the 2026-27 Provisional Local Government Finance Settlement. \"",
+  "base_path": "/government/publications/area-cost-adjustment-values-table",
+  "taxons": [
+    {
+      "title": "Local government spending",
+      "base_path": "/regional-and-local-government/local-government-spending"
+    }
+  ]
+}

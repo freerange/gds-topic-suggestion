@@ -1,0 +1,15 @@
+{
+  "title": "Building materials and components: methodology",
+  "body": "\"Building materials and components statistics is a monthly accredited official statistics publication published by the Department for Business and Trade (DBT). This publication compiles data from multiple sources to provide insights on the price of construction goods and services, supply of key building materials and the state of imports and exports of construction materials.  This document describes the methodology used to obtain, process and produce the data released as part of this monthly publication.  The document is broken down into separate sections to describe the following processes:   Sourcing, processing and production of trade data for construction materials (Tables 13 and 14)  Production of construction material prices indices (Table 1 of building materials publication)  Product surveys for production, sales and stocks of sand, gravel, roofing tile, concrete, slate, bricks and concrete blocks data (Tables 4 to 12)    In addition to these data sources, Producer Price Indices (PPI) produced by the Office for National Statistics (ONS) are published in Table 2 of this publication. The methodology for how these are producer can be found on the ONS website.  \"",
+  "base_path": "/government/publications/building-materials-and-components-methodology",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    },
+    {
+      "title": "Manufacturing",
+      "base_path": "/business-and-industry/manufacturing"
+    }
+  ]
+}

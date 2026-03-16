@@ -1,0 +1,15 @@
+{
+  "title": "Charity Commission spending over £25,000: April 2025 to March 2026",
+  "body": "\"As part of our commitment to transparency we publish all expenditure over £25,000.  Expenditure, in this instance, is all individual invoices, grant payments, expense payments or other such transactions that are over £25,000.  Expenditure on paybill is excluded from the scope of these invoices. \"",
+  "base_path": "/government/publications/charity-commission-spending-over-25000-april-2025-to-march-2026",
+  "taxons": [
+    {
+      "title": "Charities, volunteering and honours",
+      "base_path": "/society-and-culture/charities-honours"
+    },
+    {
+      "title": "Charities and social enterprises",
+      "base_path": "/business-and-industry/charities-and-social-enterprises"
+    }
+  ]
+}

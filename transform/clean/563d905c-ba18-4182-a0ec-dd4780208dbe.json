@@ -1,0 +1,11 @@
+{
+  "title": "Land use in England",
+  "body": "\"England has limited land with growing demands being made of it. This consultation explores the land use changes implied by commitments to restore nature, support food production, improve climate resilience and deliver new housing and infrastructure.  It seeks views on the type and scale of land use changes that might be needed, as well as the actions government could take to support this. This will help to foster a public discussion about how land can better support government’s plan for change. \"",
+  "base_path": "/government/consultations/land-use-in-england",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

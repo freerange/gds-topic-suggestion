@@ -1,0 +1,11 @@
+{
+  "title": "Revenue and Customs Brief 1 (2026): Removal of linked goods concession",
+  "body": "\"This brief confirms that the Extra Statutory Concession (ESC) described in paragraph 3.7 of Notice 48 is no longer needed. HMRC considers that the supplies previously eligible to be treated as single supplies under the concession should be treated as single supplies under the legislation, as confirmed by existing case law. \"",
+  "base_path": "/government/publications/revenue-and-customs-brief-1-2026-removal-of-linked-goods-concession",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    }
+  ]
+}

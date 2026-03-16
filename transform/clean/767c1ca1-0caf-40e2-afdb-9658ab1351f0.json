@@ -1,0 +1,15 @@
+{
+  "title": "Maintaining Income Tax and equivalent National Insurance contributions thresholds until 5 April 2031",
+  "body": "\"This measure maintains the current Income Tax Personal Allowance and basic rate limit at the current level from 6 April 2028 to 5 April 2031. It will set the Personal Allowance at £12,570 and the basic rate limit at £37,700 for the tax years:    2028 to 2029   2029 to 2030   2030 to 2031    The higher rate threshold will be £50,270 until 5 April 2031.  The Primary Threshold (PT) for Class 1 National Insurance contributions and Lower Profits Limit (LPL) for Class 4 National Insurance contributions  will remain aligned with the Personal Allowance for Income Tax for these years.  The National Insurance contributions Upper Earnings Limit (UEL) and Upper Profits Limit (UPL) will remain aligned to the higher rate threshold at £50,270 for these years.  \"",
+  "base_path": "/government/publications/maintaining-income-tax-and-equivalent-national-insurance-contributions-thresholds-until-5-april-2031",
+  "taxons": [
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    },
+    {
+      "title": "National Insurance",
+      "base_path": "/money/national-insurance"
+    }
+  ]
+}

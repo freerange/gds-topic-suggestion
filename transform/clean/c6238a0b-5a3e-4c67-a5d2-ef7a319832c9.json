@@ -1,0 +1,11 @@
+{
+  "title": "Employment Data Lab Analysis: Springboard Hull and Humber programme",
+  "body": "\"This report presents analysis on the impact of the Springboard Hull and Humber programme by comparing employment, benefit, and education-related outcomes of participants to those of a matched comparison group who did not participate.  The comparison group is used to estimate the outcomes of participants had they not participated in the programme and was created using a method called propensity score matching (PSM). Further information about how the analysis was conducted can be found in the associated methodology document.  \"",
+  "base_path": "/government/statistics/employment-data-lab-analysis-springboard-hull-and-humber-programme",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

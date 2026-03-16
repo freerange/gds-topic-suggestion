@@ -1,0 +1,11 @@
+{
+  "title": "HyNet Track 1 expansion: selected projects",
+  "body": "\"A list of the projects selected to enter negotiations for expansion of HyNet CCUS cluster following the assessment process.  \"",
+  "base_path": "/government/publications/hynet-track-1-expansion-selected-projects",
+  "taxons": [
+    {
+      "title": "Carbon capture and storage",
+      "base_path": "/environment/oil-and-gas-carbon-capture-and-storage"
+    }
+  ]
+}

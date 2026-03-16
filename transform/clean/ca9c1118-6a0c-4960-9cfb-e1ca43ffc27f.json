@@ -1,0 +1,19 @@
+{
+  "title": "DfT issues warning about scam text messages asking people to pay fines",
+  "body": "\"The Department for Transport is aware of text messages claiming to be from the department asking people to pay fines for outstanding traffic tickets.  This is a scam and was not sent by the department.  Do not click on the link or share personal and financial details.  If you have received this text or a similar one, please report it to the National Cyber Security Centre at report@phishing.gov.uk or by forwarding it for free to 7726.  Further advice on how to avoid and report internet scams and phishing is available on GOV.UK. \"",
+  "base_path": "/government/news/dft-issues-warning-about-scam-text-messages-asking-people-to-pay-fines",
+  "taxons": [
+    {
+      "title": "Penalty points, fines and driving bans",
+      "base_path": "/transport/penalty-points-fines-and-driving-bans"
+    },
+    {
+      "title": "Road infrastructure",
+      "base_path": "/transport/road-infrastructure"
+    },
+    {
+      "title": "Reporting crimes and getting compensation",
+      "base_path": "/crime-justice-and-law/reporting-crimes-compensation"
+    }
+  ]
+}

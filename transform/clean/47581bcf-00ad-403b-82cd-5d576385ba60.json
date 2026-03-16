@@ -1,0 +1,11 @@
+{
+  "title": "Rail customer experience: revised survey design pilot",
+  "body": "\"Findings from a pilot survey testing the feasibility of a methodology for measuring rail customer experience across Britain. The pilot was conducted between December 2023 and January 2024.  The pilot focused on understanding the operational feasibility of a recommended revised survey design for data collection.  The main areas researched included:   the use of on-board recruitment of participants as the primary method digital response options (QR code, email) use of the Journey Picker Tool, a software solution to improve the accuracy of rail journey information sampling based on data from MOIRA, a model for analysing timetable and demand changes, and LENNON (Latest Earning Networked Nationally Overnight) which provide ticket and earnings data for rail operators to ensure representativeness weighting of response by time of day, station size, journey volume, age, and gender   The reports provide recommendations for improving future surveys.  Evidence provided includes:   the overall and individual method response rates fieldworker feedback on recruitment challenges and passenger engagement the sample sizes achieved across train operating companies operational insights into shift scheduling, permissions and data flow   A further, more detailed, technical report of the findings is included as well as guides for both the Journey Picker Tool and response weighting.  This pilot built on the earlier method review and field trials and was used in the Rail Customer Experience Survey.  BVA BDRC carried out this research on behalf of the Department for Transport. \"",
+  "base_path": "/government/publications/rail-customer-experience-revised-survey-design-pilot",
+  "taxons": [
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    }
+  ]
+}

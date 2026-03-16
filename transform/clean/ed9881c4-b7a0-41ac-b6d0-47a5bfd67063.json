@@ -1,0 +1,15 @@
+{
+  "title": "Legal Aid Agency spending over £25,000: 2024",
+  "body": "\"Legal Aid Agency publishes details of all departmental spending over £25,000. \"",
+  "base_path": "/government/publications/legal-aid-agency-spending-over-25000-2024",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

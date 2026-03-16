@@ -1,0 +1,11 @@
+{
+  "title": "Flood-health action cards",
+  "body": "\"These action cards are intended for:   voluntary and  community sector health and social care providers commissioners  \"",
+  "base_path": "/government/publications/flood-health-action-cards",
+  "taxons": [
+    {
+      "title": "Emergency response",
+      "base_path": "/health-and-social-care/health-protection-emergency-response"
+    }
+  ]
+}

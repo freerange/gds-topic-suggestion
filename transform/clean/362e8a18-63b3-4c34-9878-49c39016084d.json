@@ -1,0 +1,11 @@
+{
+  "title": "UK residual fuel consumption at regional and local authority level, 2005 to 2024",
+  "body": "",
+  "base_path": "/government/statistics/announcements/sub-national-consumption-of-residual-fuel-during-2024",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

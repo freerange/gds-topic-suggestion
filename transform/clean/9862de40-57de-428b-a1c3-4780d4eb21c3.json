@@ -1,0 +1,15 @@
+{
+  "title": "Business Demography Northern Ireland, 2023",
+  "body": "\"The data reported in this publication is sourced from the Inter-Departmental Business Register (IDBR), which is a comprehensive list of businesses registered for Value Added Tax (VAT) and/or operating a Pay As You Earn (PAYE) scheme in Northern Ireland. \"",
+  "base_path": "/government/statistics/business-demography-northern-ireland-2023",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "UK/EU Summit -  Key documentation",
+  "body": "\"The United Kingdom and European Union has agreed a substantial package to take forward our future partnership, at the first UK-EU Summit in London. The Joint Statement and Common Understanding, as well as an explainer document can be found here. The Security and Defence Partnership can be found on the Foreign, Commonwealth, and Development Office GOV.UK page. \"",
+  "base_path": "/government/publications/ukeu-summit-key-documentation",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    }
+  ]
+}

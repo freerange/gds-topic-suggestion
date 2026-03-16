@@ -1,0 +1,11 @@
+{
+  "title": "Sizewell C: Regulated Asset Base (RAB)",
+  "body": "\"The Sizewell C capital structure will be backed by the new funding model - the nuclear Regulated Asset Base (RAB).  The RAB structure will be regulated by the UK’s independent energy regulator, Ofgem.  The Cost of Debt Adjustment (CDA) Calculation Model forms part of Special Condition 39 of the Licence. It will work with the Price Control Financial Model (PCFM) which is published by Ofgem.  Revenues will be collected from electricity suppliers by the Low Carbon Contracts Company, previously designated as the counterparty for revenue collection contracts for the purposes of the nuclear RAB model.  \"",
+  "base_path": "/government/publications/sizewell-c-regulated-asset-base-rab",
+  "taxons": [
+    {
+      "title": "Energy industry and infrastructure licensing and regulation",
+      "base_path": "/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation"
+    }
+  ]
+}

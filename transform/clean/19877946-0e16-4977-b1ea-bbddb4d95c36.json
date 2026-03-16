@@ -1,0 +1,15 @@
+{
+  "title": "Trusted third-party AI assurance roadmap",
+  "body": "\"AI capabilities are advancing at an extraordinary pace and will play an increasingly important role in driving forward the government’s ambition to:   boost economic growth provide jobs for the future improve people’s everyday lives   Ensuring businesses have the confidence to develop and deploy these technologies responsibly will be critical to seize the opportunities AI presents.    This roadmap is intended as the next step to set us on this path and ensure the widespread adoption of secure and trusted AI across the UK. It sets out our ambitions for the third-party assurance market and the immediate actions that government will take to support this emerging sector.   This roadmap commits to:     convening a multistakeholder UK consortium to work towards a future AI assurance profession to ensure market quality developing a skills and competencies framework for AI assurance to support these efforts and create clear learning pathways for future professional development establishing an AI Assurance Innovation Fund, focused on the 8 industrial strategy sectors, to develop novel assurance solutions to future-proof the market   By creating a world-leading AI assurance market, we can increase trust and confidence in AI, drive economic growth and make the UK the most attractive home for businesses seeking to adopt AI.  \"",
+  "base_path": "/government/publications/trusted-third-party-ai-assurance-roadmap",
+  "taxons": [
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

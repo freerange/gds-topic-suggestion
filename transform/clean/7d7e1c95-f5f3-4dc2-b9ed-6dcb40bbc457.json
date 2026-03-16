@@ -1,0 +1,15 @@
+{
+  "title": "Life Sciences Sector Plan",
+  "body": "\"The Life Sciences Sector Plan outlines targeted actions to support world-class research and development, attract investment, grow advanced manufacturing, and accelerate health innovation.  The Plan aims to position the UK as the leading life sciences economy in Europe by 2030, and the third globally by 2035, behind only the United States and China. \"",
+  "base_path": "/government/publications/life-sciences-sector-plan",
+  "taxons": [
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK-India Trade Deal",
+  "body": "\"The UK signed a trade deal with India on 24 July 2025. Negotiations were launched on 13 January 2022. \"",
+  "base_path": "/government/collections/uk-india-trade-deal",
+  "taxons": [
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    }
+  ]
+}

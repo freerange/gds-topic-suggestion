@@ -1,0 +1,11 @@
+{
+  "title": "Short Form Terms",
+  "body": "\"Short Form Terms for contracts between £12,000 and £135,018 inclusive of VAT. It may be appropriate to use short form terms for non-complex requirements over £135,000. \"",
+  "base_path": "/government/publications/short-form-terms",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

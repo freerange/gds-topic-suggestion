@@ -1,0 +1,19 @@
+{
+  "title": "Nepal: in prison abroad",
+  "body": "\"Explains how to:   arrange visits send money to a prisoner apply for a transfer to a UK prison   See also help if you’re arrested abroad. \"",
+  "base_path": "/government/publications/nepal-prisoner-pack",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Emergency help for British nationals in Nepal",
+      "base_path": "/world/emergency-help-for-british-nationals-nepal"
+    },
+    {
+      "title": "Countries (Living In)",
+      "base_path": "/going-and-being-abroad/countries-living-in"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "UK/France: Agreement on Safety and Interoperability Requirements in the Channel Fixed Link [CS France No.1/2025]",
+  "body": "\"Published title: Agreement between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the French Republic on Safety and Interoperability Requirements in the Channel Fixed Link. \"",
+  "base_path": "/government/publications/ukfrance-agreement-on-safety-and-interoperability-requirements-in-the-channel-fixed-link-cs-france-no12025",
+  "taxons": [
+    {
+      "title": "Rail interoperability",
+      "base_path": "/transport/rail-interoperability"
+    },
+    {
+      "title": "Rail safety and security",
+      "base_path": "/transport/rail-safety-and-security"
+    }
+  ]
+}

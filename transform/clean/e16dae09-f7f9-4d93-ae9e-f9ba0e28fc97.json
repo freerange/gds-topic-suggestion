@@ -1,0 +1,11 @@
+{
+  "title": "Data for Theme B: Water",
+  "body": "\"This document contains data corresponding to the ‘Theme B: Water’ indicators of the Environmental Indicator Framework. \"",
+  "base_path": "/government/publications/data-for-theme-b-water",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

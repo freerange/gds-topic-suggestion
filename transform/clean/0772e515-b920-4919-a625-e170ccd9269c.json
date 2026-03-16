@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 4 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/northern-ireland-composite-economic-index-nicei-quarter-4-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

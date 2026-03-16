@@ -1,0 +1,11 @@
+{
+  "title": "Snapshot survey",
+  "body": "\"  CCHS navigation menu:  CCHS homepageTopic: health impacts Vector-borne disease: mosquitoesPart of: monitoring and research    Important resources for snapshot survey:  Snapshot survey  More content:   Nationwide mosquito survey Mosquitoes species profiles Mosquito summary - research projects    Summary  The Snapshot expands mosquito surveillance in wetland habitats. It encourages the public to get involved in arbovirus surveillance across England. In 2024 this was a volunteer-supported project in collaboration with the RADAR project. All mosquito traps were run by volunteers from the RSPB, BTO, WWT, the Wildlife Trust and other organisations.  The 2024 project aimed to run a BG Pro mosquito trap at a wetland site in every 50km² grid-square in England during the late summer of 2024. Traps were run for 3 consecutive nights during two trapping sessions: once from the 12 and 25 of August, and again between the 2 and 20 of September.  A total of 72 volunteers were recruited in 2024 to run a trap. They represent most of the 50km² grid-squares. All mosquitoes caught in the project were tested for Usutu virus and West Nile virus. For more information about the snapshot survey see the mosquito map.  Figure 1: Map of England divided into 50km grid squares, showing Snapshot Mosquito Survey site from 2024   \"",
+  "base_path": "/guidance/snapshot-survey",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Regulation for growth",
+  "body": "\"This document collection sets out the government’s programme to promote innovation among UK businesses and stimulate economic growth.    How we will do this   The Department for Business and Trade plans to:      tackle the complexity and the burden of regulation by committing to cut administrative costs for business by 25%   reduce uncertainty across our regulatory system by working with regulators to achieve greater clarity on their roles, approach and processes   challenge excessive risk aversion in the system by strengthening the model of accountability and formalising performance   \"",
+  "base_path": "/government/collections/regulation-for-growth",
+  "taxons": [
+    {
+      "title": "Regulation reform",
+      "base_path": "/business-and-industry/regulation-reform"
+    }
+  ]
+}

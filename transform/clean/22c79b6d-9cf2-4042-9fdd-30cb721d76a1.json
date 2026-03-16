@@ -1,0 +1,11 @@
+{
+  "title": "Building Digital UK (BDUK) performance information",
+  "body": "\"Building Digital UK (BDUK) reports on its delivery progress through its annual report and accounts and official statistics.  You may also be interested in BDUK’s Open Market Review (OMR) determinations and premises in BDUK plans. \"",
+  "base_path": "/government/collections/building-digital-uk-bduk-performance-information",
+  "taxons": [
+    {
+      "title": "Broadband investment",
+      "base_path": "/business/broadband-investment"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK House Price Index: data downloads October 2025",
+  "body": "\"The UK House Price Index is a National Statistic.  Create your report   Download the full UK House Price Index data below, or use our tool to create your own bespoke reports.   Download the data  Datasets are available as CSV files. Find out about republishing and making use of the data.  Full file  This file includes a derived back series for the new UK HPI. Under the UK HPI, data is available from 1995 for England and Wales, 2004 for Scotland and 2005 for Northern Ireland. A longer back series has been derived by using the historic path of the Office for National Statistics HPI to construct a series back to 1968.  Download the full UK HPI background file:    UK HPI full file (CSV, 33KB)   Individual attributes files  If you are interested in a specific attribute, we have separated them into these CSV files:    Average price (CSV, 7.2KB)   Average price by property type (CSV, 15.5KB)   Sales (CSV, 5.3KB)   Cash mortgage sales (CSV, 5KB)   First time buyer and former owner occupier (CSV, 4.6KB)   New build and existing resold property (CSV, 11KB)   Index (CSV, 5.5KB)   Index seasonally adjusted (CSV, 198KB)   Average price seasonally adjusted (CSV, 208KB)   Repossessions (CSV, 44KB)    For more information about the data in these files, see About the UK HPI – Data tables.  Revisions tables  The following files detail any revisions to data published in the previous 12 months:    UK revisions (CSV, 65KB)   England revisions (CSV, 64KB)   Wales revisions (CSV, 62KB)   Scotland revisions (CSV, 62KB)   Northern Ireland revisions (CSV, 62KB)    For more information about the UK HPI revisions policy, see About the UK HPI – Revisions to the UK HPI data. \"",
+  "base_path": "/government/statistical-data-sets/uk-house-price-index-data-downloads-october-2025",
+  "taxons": [
+    {
+      "title": "Land Registration Data ",
+      "base_path": "/housing-local-and-community/land-registration-data"
+    }
+  ]
+}

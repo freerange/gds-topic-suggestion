@@ -1,0 +1,11 @@
+{
+  "title": "Personal food imports: posters",
+  "body": "\"We’ve produced some posters about personal food imports that you can download, print and display.  These include PDF files for printing, and image files that may be more suitable for use online.  These materials are all © Crown copyright 2025 but you may re-use them free of charge in any format or medium, under the terms of the Open Government Licence v.3. \"",
+  "base_path": "/government/publications/personal-food-imports-posters",
+  "taxons": [
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    }
+  ]
+}

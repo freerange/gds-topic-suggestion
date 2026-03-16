@@ -1,0 +1,15 @@
+{
+  "title": "Resilience Guidance and Doctrine",
+  "body": "\"About  The COBR Directorate has overall responsibility for the management of UK government’s resilience guidance and doctrine. This includes ensuring that the individuals and organisations that make up the public sector resilience system, at both a national and local level, have easy access to the guidance which enables them to deliver their roles effectively.  There are a variety  of guidance and doctrine documents which support organisations’ practitioners to understand their role, the expectations on them, and how to deliver their responsibilities within the resilience system. This page includes a collection of the legislation, policy, and supporting guidance which underpin the UK’s approach to resilience. It provides an easy-to-navigate source of key information to help resilience practitioners fulfil their roles effectively.  This summary of guidance is not exhaustive. If you cannot find the guidance you are looking for on this page, you should consult the Emergency Preparedness, Response and Recovery page on gov.uk or Resilience Direct.  Publications  Core Guidance: essential overarching guidance for the public sector resilience system. It includes guidance on resilience structures, expectations on national and local responders, and a common terminology to support interoperability.  Thematic Guidance: supplementary guidance which provides further detail on specific topics. This guidance supports the delivery of the overarching arrangements set out within core guidance.  Good Practice Guidance: guidance which captures and disseminates evidence-based good practice on how to undertake a specific activity. This category of guidance is not formal government guidance, but instead provides a recommended approach for achieving high standards in a specific field. \"",
+  "base_path": "/guidance/resilience-guidance-and-doctrine",
+  "taxons": [
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

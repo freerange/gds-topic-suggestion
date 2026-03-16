@@ -1,0 +1,15 @@
+{
+  "title": "Conceptions in England and Wales: 2022",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/conceptions-in-england-and-wales-2022",
+  "taxons": [
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

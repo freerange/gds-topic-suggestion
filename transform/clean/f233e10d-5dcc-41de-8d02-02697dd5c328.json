@@ -1,0 +1,11 @@
+{
+  "title": "Census 2031 Topic Consultation",
+  "body": "\"At the Office for National Statistics (ONS), we’d like to hear about how you use census data and your requirements for topic data from Census 2031. For each of the 13 census topic groups, we will ask about:   the purposes you use census data for your requirements for Census 2031 data how you use census data at small geographies, to understand small populations, to make comparisons over time and across geographies  how you compare census data with other census variables (multivariate analysis)    Similar questions are asked for new topics that may be required for Census 2031. \"",
+  "base_path": "/government/consultations/census-2031-topic-consultation",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    }
+  ]
+}

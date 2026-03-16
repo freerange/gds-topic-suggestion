@@ -1,0 +1,15 @@
+{
+  "title": "Nominate someone for a gallantry award",
+  "body": "\"You can use this form to nominate someone who lives in the UK for a gallantry award. It includes guidance about:   how to fill out the form how the gallantry process works   You can also nominate a UK resident for a national honour online, or nominate someone who lives or works abroad. \"",
+  "base_path": "/government/publications/nominate-someone-for-a-gallantry-award",
+  "taxons": [
+    {
+      "title": "Community and society",
+      "base_path": "/society-and-culture/community-and-society"
+    },
+    {
+      "title": "Equality, rights and citizenship",
+      "base_path": "/society-and-culture/equality-rights-and-citizenship"
+    }
+  ]
+}

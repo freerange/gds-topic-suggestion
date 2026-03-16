@@ -1,0 +1,47 @@
+{
+  "title": "Research into experiences of traders moving goods between Great Britain and Northern Ireland",
+  "body": "\"The UK left the EU on 31 January 2020 and entered a transition period which lasted until 31 December 2020. From 1 January 2021, the Northern Ireland Protocol took effect, which established special provisions for moving goods between Great Britain and Northern Ireland.  HM Revenue and Customs (HMRC) commissioned Verian to undertake qualitative research to provide insight into:    levels of understanding and preparedness for the implementation of the Northern Ireland Protocol amongst Great Britain-based small and mid-sized businesses   their experiences of moving goods to Northern Ireland following the end of the transition period    Verian undertook 45 in-depth interviews with GB-based businesses and 10 in-depth interviews with NI-based businesses. All fieldwork took place between March and June 2021.  \"",
+  "base_path": "/government/publications/research-into-experiences-of-traders-moving-goods-between-great-britain-and-northern-ireland",
+  "taxons": [
+    {
+      "title": "Freight, haulage and cargo",
+      "base_path": "/transport/freight-haulage-and-cargo"
+    },
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "Scotland",
+      "base_path": "/regional-and-local-government/scotland"
+    },
+    {
+      "title": "Wales",
+      "base_path": "/regional-and-local-government/wales"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    },
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    },
+    {
+      "title": "Customs declarations, duties and tariffs (import and export)",
+      "base_path": "/business-and-industry/customs-declarations-duties-tariffs"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    },
+    {
+      "title": "Trade barriers",
+      "base_path": "/business-and-industry/trade-barriers"
+    }
+  ]
+}

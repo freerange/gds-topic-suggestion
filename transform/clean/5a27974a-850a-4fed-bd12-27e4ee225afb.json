@@ -1,0 +1,27 @@
+{
+  "title": "Fuller inquiry: government interim update on phase 2 recommendations",
+  "body": "\"Phase 2 of the Fuller inquiry considered whether procedures and practices in hospital and other settings in England protect the security and dignity of the deceased.  The government has accepted:   11 of the recommendations in full 43 recommendations in principle   The government is still considering 21 recommendations. It will continue to work on its response to the recommendations and provide a full response to the Fuller inquiry phase 2 report by summer 2026.  \"",
+  "base_path": "/government/publications/fuller-inquiry-government-interim-update-on-phase-2-recommendations",
+  "taxons": [
+    {
+      "title": "Patient safety",
+      "base_path": "/health-and-social-care/patient-safety"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Local councils and services",
+      "base_path": "/regional-and-local-government/local-councils"
+    }
+  ]
+}

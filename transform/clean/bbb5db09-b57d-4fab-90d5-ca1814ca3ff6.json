@@ -1,0 +1,11 @@
+{
+  "title": "National Risk Register 2025",
+  "body": "\"The National Risk Register (NRR) is the external version of the National Security Risk Assessment (NSRA), which is the government’s assessment of the most serious risks facing the UK. It provides the government’s updated assessment of the likelihood and potential impact of a broad range of risks that may directly affect the UK and its interests.   The NRR is aimed at risk and resilience practitioners, including businesses and voluntary and community sector organisations. Information for individuals, households and communities on preparing for emergencies can be found on GOV.UK/Prepare  The NSRA now operates as a dynamic assessment process, with risks reassessed on a more regular basis to reflect the changing risk landscape. This version of the National Risk Register is the first to align with that dynamic process, drawing from the latest risk information available. \"",
+  "base_path": "/government/publications/national-risk-register-2025",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

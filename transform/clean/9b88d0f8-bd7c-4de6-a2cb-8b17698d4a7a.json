@@ -1,0 +1,23 @@
+{
+  "title": "Memorandum of Understanding between the Regulator of Social Housing and The Charity Commission for England and Wales",
+  "body": "\"This memorandum of understanding between the Charity Commission for England and Wales and the Regulator of Social Housing sets out the functions of both organisations and the continued framework of communication, cooperation and exchange of information between the parties. \"",
+  "base_path": "/government/publications/memorandum-of-understanding-between-the-regulator-of-social-housing-and-the-charity-commission-for-england-and-wales",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

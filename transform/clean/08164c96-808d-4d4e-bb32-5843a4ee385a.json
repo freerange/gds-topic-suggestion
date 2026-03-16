@@ -1,0 +1,23 @@
+{
+  "title": "Offsetting unauthorised payments for Chapter 1 members",
+  "body": "\"Who qualifies for offsetting  Offsetting new unauthorised payment charges is possible for Chapter 1 members if:   they are due a lump sum top-up due to the remedy they had an earlier unauthorised payment charge their original lump sum was paid after 5 April 2019 the scheme used the mandating procedure to pay the original charge   This can apply to:   members with legacy scheme benefits under rollback or immediate choice protected, taper-protected, or immediate choice members who chose 2015 scheme benefits members who retired on or after 1 October 2023 and later chose 2015 scheme benefits any other immediate choice members whose benefits changed due to the McCloud remedy   When offsetting applies  If a member originally received a pension commencement lump sum and it has increased due to the remedy, they can receive a top-up payment.  The top-up due to the member may incur an unauthorised payments tax charge and scheme sanction charge.  The resulting top-up payment will be subject to interest due to the member, as per HM Treasury directions.  If the original lump sum included an unauthorised payment and the member has an increase in their pension rights, increasing their pension commencement lump sum, this may reduce the original:   unauthorised payments charge scheme sanction charge   Where the original unauthorised payments charge has reduced and a refund is due, that refund can be used against the top-up unauthorised payments charge. The same applies to the scheme sanction charge.  Interest on the top-up is still an unauthorised payment but must be reported separately as the scheme sanction charge does not apply to it.  Offsetting repayment interest  The member is entitled to repayment interest on the refunded unauthorised payment charge and scheme sanction charge. Repayment interest can be used in the offsetting of new charges.  Repayment interest is calculated to start from the later of the:   tax payment due date (31 January after the end of the relevant tax year) for the original charge date on which the tax was paid   The period of repayment interest ends on the date the top-up payment is made to the member.  What the scheme administrator needs to do  You must calculate the:   revised unauthorised payments charge on the original lump sum paid amount of overpaid unauthorised payments charge on the original lump sum repayment interest on the overpaid unauthorised payments charge new unauthorised payments tax charge on the top-up amount and interest at 40%   You can offset the original overpaid charge and repayment interest against the new charge. The scheme administrator and member are jointly and severally liable to the charge. This means you do not need to use the mandating procedure. You only use the mandating procedure when the scheme administrator is not liable to the tax charge.  The same offsetting rules apply to the scheme sanction charge, but the interest, as provided for in HM Treasury directions, is not applied.  If no new unauthorised payment and scheme sanction charge applies, the scheme can still claim a refund of the overpaid tax.  What to report...",
+  "base_path": "/guidance/offsetting-unauthorised-payments-for-chapter-1-members",
+  "taxons": [
+    {
+      "title": "Administering a pension scheme",
+      "base_path": "/money/business-tax-pension-scheme-administration-administering-a-pension-scheme"
+    },
+    {
+      "title": "Paying into a pension scheme",
+      "base_path": "/money/business-tax-pension-scheme-administration-paying-into-a-pension-scheme"
+    },
+    {
+      "title": "Pension scheme trustees",
+      "base_path": "/money/business-tax-pension-scheme-administration-pension-scheme-trustees"
+    },
+    {
+      "title": "Tax on pensions",
+      "base_path": "/money/business-tax-pension-scheme-administration-tax-on-pensions"
+    }
+  ]
+}

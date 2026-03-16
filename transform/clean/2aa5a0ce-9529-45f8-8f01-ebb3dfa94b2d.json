@@ -1,0 +1,19 @@
+{
+  "title": "Mandatory training on learning disability and autism",
+  "body": "\"The Health and Care Act 2022 introduced a statutory requirement that health and social care providers that are registered with the Care Quality Commission (CQC), must ensure their staff receive learning disability and autism training appropriate to their role. This training will help ensure that staff have the right knowledge and skills to provide safe and informed care.  The Oliver McGowan code of practice sets out clear standards for CQC-registered providers on meeting the training requirement, such as expectations on training content and delivery. The code became final on 6 September 2025.  The code also provides information about the Oliver McGowan Mandatory Training on Learning Disability and Autism, which is the preferred and recommended training package developed by the government to support providers to meet the requirement.  The code and the training are named after Oliver McGowan, whose death shone a light on the need for health and social care staff to have a better understanding of learning disability and autism.  \"",
+  "base_path": "/government/collections/mandatory-training-on-learning-disability-and-autism",
+  "taxons": [
+    {
+      "title": "Health and social care training",
+      "base_path": "/health-and-social-care/health-social-care-training"
+    },
+    {
+      "title": "Patient safety",
+      "base_path": "/health-and-social-care/patient-safety"
+    },
+    {
+      "title": "Autism",
+      "base_path": "/health-and-social-care/autism"
+    }
+  ]
+}

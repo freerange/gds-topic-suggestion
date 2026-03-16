@@ -1,0 +1,11 @@
+{
+  "title": "Energy calculation as a service (ECaaS): Access the Home Energy Model",
+  "body": "\"Energy Calculation as a Service (ECaaS) is a calculator service run by MHCLG (Ministry of Housing, Communities, and Local Government) that provides a performant implementation of the Home Energy Model (HEM), a methodology for predicting the energy performance of buildings, for various future statutory purposes including, but not limited to, calculating compliance with the Future Homes Standard (FHS).  The service takes the form of an API that can be used by authorised bodies to build software for statutory purposes that require calculations using the Home Energy Model. The service will become the only valid means to confirm compliance with Part L of the Building Regulations when referring to the Future Homes Standard. For other users, the underlying software libraries are open source and can be used to conduct calculations for non-statutory purposes.  If you think you should have access to the ECaaS API contact ECaaS@communities.gov.uk  The Rust library used by ECaaS, developed within MHCLG, can be found on GitHub, and the Python implementation written by BRE under commission from DESNZ (Department of Energy Security and Net Zero) is published on BRE’s Azure DevOps space.  A basic web frontend is being developed to support stakeholders as they familiarise themselves with the HEM methodology and work out the impact on the types of home that they are building. \"",
+  "base_path": "/guidance/energy-calculation-as-a-service-ecaas-access-the-home-energy-model",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Rental e-scooter trials monitoring data, January 2022 to May 2024",
+  "body": "\"Monitoring data regarding rental e-scooters for the January 2022 to May 2024 period.  The data tables present the:   number of e-scooter trips number of available e-scooters number of trips per e-scooter per day (utilisation rate) trip duration trip distance   The data was collected as part of the ongoing e-scooters trials taking place across England and includes a report summarising the findings. It contributes towards the evidence base the Department for Transport will use to inform future e-scooter policy.  London trial area  This publication includes data from e-scooter trials across England except for the London trial area. Transport for London has published monitoring data for the London area for the January 2022 to May 2024 period.  Data for previous period  Previous monitoring data on the usage and availability of rental e-scooters, for the July 2020 to December 2021 period, can be found in the operator data tables of the first national evaluation of e-scooter trials.  \"",
+  "base_path": "/government/publications/rental-e-scooter-trials-monitoring-data-january-2022-to-may-2024",
+  "taxons": [
+    {
+      "title": "Cycling and walking",
+      "base_path": "/transport/cycling-and-walking"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Estimates of Residual Waste and Municipal Residual Waste in England",
+  "body": "",
+  "base_path": "/government/statistics/announcements/estimates-of-residual-waste-and-municipal-residual-waste-in-england",
+  "taxons": [
+    {
+      "title": "Waste and recycling",
+      "base_path": "/environment/waste-and-recycling"
+    }
+  ]
+}

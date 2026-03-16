@@ -1,0 +1,11 @@
+{
+  "title": "Combatting fraud in universal credit self declaration 2023",
+  "body": "\"This agreement is published as part of the Code of Practice for public authorities disclosing information under chapters 1, 3 and 4 (Public Service Delivery, Debt and Fraud) of part 5 of the Digital Economy Act 2017.  The purpose of this data share is to allow Department for Work and Pensions (DWP) to check the feasibility of merging HMRC Construction Industry Scheme and DWP Universal Credit data to estimate the level of potential fraud within the Universal Credit population. The data share will enable estimation of the likely scale of fraud due to under-reporting of earnings in Universal Credit by subcontractors.  \"",
+  "base_path": "/government/publications/combatting-fraud-in-universal-credit-self-declaration-2023",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    }
+  ]
+}

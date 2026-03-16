@@ -1,0 +1,15 @@
+{
+  "title": "Consumer Scotland super-complaint application",
+  "body": "\" A super-complainant has the right to make a ‘super-complaint’ where they consider there is a feature, or combination of features of a market in the UK that is, or appears to be, significantly harming the interests of consumers.   Consumer Scotland’s annual report and accounts for the past 2 years provide supporting evidence that it is managed, controlled and acts independently, impartially and with complete integrity.  Further information on and guidance on the super-complaint designation process can be found at: GOV.UK’s guidance for bodies seeking designation as super-complainants.  We will process your personal data in accordance with all applicable data protection laws. For more information, see our privacy notice. \"",
+  "base_path": "/government/consultations/consumer-scotland-super-complaint-application",
+  "taxons": [
+    {
+      "title": "Competition",
+      "base_path": "/business/competition"
+    },
+    {
+      "title": "Consumer rights and issues",
+      "base_path": "/business-and-industry/consumer-rights-and-issues"
+    }
+  ]
+}

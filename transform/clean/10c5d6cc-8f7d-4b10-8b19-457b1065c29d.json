@@ -1,0 +1,11 @@
+{
+  "title": "Police Activity Survey",
+  "body": "\"The Police Activity Survey (PAS) was a survey carried out by 35 of the 43 territorial police forces in England and Wales in February 2023. This publication presents the results of the PAS and an analysis of police time based on the results; it focuses on 4 key areas:   the allocation of how police spend their time across specific crime incident activities, specific public safety and welfare (PSW) incident activities, and general crime/PSW activities not related to a specific crime or PSW incident the impact of ‘complexities’ such as drugs, alcohol, and mental health on how much time is spent on incidents the estimated cost of responding to an incident breakdowns specific to neighbourhood police departments  \"",
+  "base_path": "/government/publications/police-activity-survey",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

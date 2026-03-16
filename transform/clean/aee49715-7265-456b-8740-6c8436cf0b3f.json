@@ -1,0 +1,11 @@
+{
+  "title": "Tax-free savings newsletter 15",
+  "body": "\"This newsletter is published by HMRC to update stakeholders on the latest news for Individual Savings Account (ISA) managers and Child Trust Fund (CTF) providers.  Tax-free savings newsletter 15 has articles on:    Individual Savings Account (ISA) manager guidance European Economic Area (EEA) Undertakings for Collective Investment in Transferable Securities (UCITS) and the Overseas Funds Regime (OFR)  Extended period for issuing tax calculation (P800) letters   \"",
+  "base_path": "/government/publications/tax-free-savings-newsletter-15",
+  "taxons": [
+    {
+      "title": "Tax on savings and investments",
+      "base_path": "/money/savings-investment-tax"
+    }
+  ]
+}

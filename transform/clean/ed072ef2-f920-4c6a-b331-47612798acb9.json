@@ -1,0 +1,27 @@
+{
+  "title": "Tax treatment for payments made under the Capture Redress Scheme",
+  "body": "\"These measures exempt compensation payments made under the Capture Redress Scheme from Inheritance Tax from the following taxes:   Income Tax Capital Gains Tax Corporation Tax (where applicable) National Insurance contributions   These measures support the government’s commitment to delivering redress to postmasters affected by historical IT failures. \"",
+  "base_path": "/government/publications/tax-treatment-for-payments-made-under-the-capture-redress-scheme",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "Capital Gains Tax",
+      "base_path": "/money/capital-gains-tax"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    },
+    {
+      "title": "Inheritance Tax",
+      "base_path": "/money/personal-tax-inheritance-tax"
+    },
+    {
+      "title": "National Insurance",
+      "base_path": "/money/national-insurance"
+    }
+  ]
+}

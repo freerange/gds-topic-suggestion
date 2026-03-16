@@ -1,0 +1,11 @@
+{
+  "title": "Community Services Statistics, October 2025",
+  "body": "\"This is a monthly report on publicly funded community services for children, young people and adults using data from the Community Services Data Set (CSDS) reported in England. The CSDS is a patient-level dataset and has been developed to help achieve better outcomes for children, young people and adults. It provides data that will be used to commission services in a way that improves health, reduces inequalities, and supports service improvement and clinical quality. These services can include NHS Trusts, health centres, schools, mental health trusts, and local authorities. The data collected in CSDS includes personal and demographic information, diagnoses including long-term conditions and disabilities and care events plus screening activities. These statistics are classified as experimental and should be used with caution. Experimental statistics are new official statistics undergoing evaluation. They are published in order to involve users and stakeholders in their development and as a means to build in quality at an early stage. More information about experimental statistics can be found on the UK Statistics Authority website. We hope this information is helpful and would be grateful if you could spare a couple of minutes to complete a short customer satisfaction survey. Please use the survey in the related links to provide us with any feedback or suggestions for improving the report. \"",
+  "base_path": "/government/statistics/community-services-statistics-october-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

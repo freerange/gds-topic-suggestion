@@ -1,0 +1,15 @@
+{
+  "title": "Gwirio faint o dreth rydych yn ei thalu ar ddifidendau a llog o gynilion",
+  "body": "\"Gall y rhan fwyaf o bobl ennill rhywfaint o incwm o ddifidendau a llog o’u cynilion heb dalu treth.  Mae rhagor o wybodaeth ar gael am y canlynol:    sut y mae treth ar log o gynilion yn gweithio sut y mae treth ar ddifidendau yn gweithio   Defnyddiwch yr offeryn hwn os ydych am wirio a oes angen i chi dalu treth ar eich incwm o ddifidendau neu log o gynilon, a dysgwch sut y mae’r dreth yn cael ei chyfrifo.  Cyn i chi ddechrau  Ni allwch ddefnyddio’r offeryn hwn os ydych yn gwneud y canlynol:    cyflwyno Ffurflen Dreth Hunanasesiad  cael unrhyw incwm tramor  cael Lwfans Priodasol  cael Lwfans Person Dall   I wirio’ch treth gan ddefnyddio’r gwasanaeth hwn, bydd angen cod treth 1257L arnoch.  Bydd hefyd angen i chi wybod y manylion am unrhyw incwm o gyflogaeth neu bensiwn ar gyfer y flwyddyn dreth dan sylw, yn ogystal â’r manylion am unrhyw fuddiannau trethadwy’r Wladwriaeth yr ydych yn eu cael, os o gwbl.  Gwirio faint o dreth y gallai fod yn rhaid i chi ei thalu  Gwirio nawr   \"",
+  "base_path": "/guidance/check-how-much-tax-you-pay-on-dividends-and-interest-from-savings.cy",
+  "taxons": [
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    },
+    {
+      "title": "Tax on savings and investments",
+      "base_path": "/money/savings-investment-tax"
+    }
+  ]
+}

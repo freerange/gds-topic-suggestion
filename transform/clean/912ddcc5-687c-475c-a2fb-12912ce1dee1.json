@@ -1,0 +1,15 @@
+{
+  "title": "Building materials and components statistics: November 2025",
+  "body": "\"This publication presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also provides quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.  ONS has resumed publication of Producer Price Indices (PPIs) following a pause in publication this year while issues with chain linking of data were resolved. We are hoping to resume the publication of Construction Material Price Indices (Table 1) as soon as possible. \"",
+  "base_path": "/government/statistics/building-materials-and-components-statistics-november-2025",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    },
+    {
+      "title": "Manufacturing",
+      "base_path": "/business-and-industry/manufacturing"
+    }
+  ]
+}

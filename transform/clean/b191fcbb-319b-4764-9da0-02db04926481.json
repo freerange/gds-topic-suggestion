@@ -1,0 +1,31 @@
+{
+  "title": "UK 5-year action plan for AMR: 1-year progress report",
+  "body": "\"The UK 5-year action plan for antimicrobial resistance 2024 to 2029 included a commitment to annually publish a short report summarising progress made. This 1-year progress report provides the update on activity during the first year. \"",
+  "base_path": "/government/publications/uk-5-year-action-plan-for-amr-1-year-progress-report",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    },
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    },
+    {
+      "title": "Patient safety",
+      "base_path": "/health-and-social-care/patient-safety"
+    },
+    {
+      "title": "Antimicrobial resistance (AMR)",
+      "base_path": "/health-and-social-care/antimicrobial-resistance"
+    }
+  ]
+}

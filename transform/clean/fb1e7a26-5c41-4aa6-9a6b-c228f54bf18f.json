@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland HSC Workforce Statistics March 2025",
+  "body": "\"A quarterly summary of HSC staff by organisation and staff group including summary of 5 year trends. \"",
+  "base_path": "/government/statistics/northern-ireland-hsc-workforce-statistics-march-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Health workforce",
+      "base_path": "/health-and-social-care/health-workforce"
+    }
+  ]
+}

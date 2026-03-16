@@ -1,0 +1,15 @@
+{
+  "title": "Consumer price inflation, UK: November 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/consumer-price-inflation-uk-november-2025",
+  "taxons": [
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

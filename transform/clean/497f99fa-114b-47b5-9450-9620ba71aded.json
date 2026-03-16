@@ -1,0 +1,11 @@
+{
+  "title": "Mpox: technical assessments",
+  "body": "\"These documents assess the global epidemiology of mpox and assess the risk to the UK. \"",
+  "base_path": "/government/publications/mpox-technical-assessments",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

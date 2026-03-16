@@ -1,0 +1,15 @@
+{
+  "title": "AI Research Resource",
+  "body": "\"The AIRR offers compute access to users through Isambard-AI at the University of Bristol and Dawn at the University of Cambridge. Providing specialised compute capacity enables SMEs and the research and development (R&D) community to drive innovation and advancement in AI.  AIRR is a partnership between:   UK government UK Research and Innovation (UKRI) University of Cambridge University of Bristol HPE Nvidia Intel Dell    Compute capacity is the amount of processing power and storage available in a computing system.   Guidance from UKRI     Gateway route: designed for researchers from academia, industry, or other UK organisations  Rapid Access route: open to UK-registered for micro, small and medium organisations  How to use the AIRRPortal: includes how to login and apply   \"",
+  "base_path": "/government/publications/ai-research-resource",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

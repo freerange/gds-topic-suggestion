@@ -1,0 +1,15 @@
+{
+  "title": "Mosquitoes",
+  "body": "\" Report a mosquito through our online form.  Start now   For all other information about mosquitos, see below. \"",
+  "base_path": "/government/collections/mosquitoes",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

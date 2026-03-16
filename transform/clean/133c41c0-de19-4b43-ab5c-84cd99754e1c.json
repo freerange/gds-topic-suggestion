@@ -1,0 +1,15 @@
+{
+  "title": "Cyber Governance Code of Practice pilot",
+  "body": "\"Effective management of cyber risks is critical to the operation of modern businesses. To support effective cyber risk management across the economy, the government is developing  a Cyber Governance Code of Practice.  The proposed code of practice sets out how company boards and directors can build resilience to cyber risks that face their organisation. As part of its development the Department for Science, Innovation and Technology (DSIT) commissioned Arculus Cyber Security to deliver user testing of the draft code of practice. The code brings together the critical actions that all boards and directors should take to govern cyber risk effectively. It formalises government’s expectations of directors for governing cyber risk as they would any other principal business risk.   The implementation phase of the pilot ran for five weeks in 2024, during which time organisations attempted to implement all or part of the code. This report details the results of that pilot.  For more information on the government’s work on cyber governance, please see the recent government response on cyber governance.  This research informs the government’s policy on cyber resilience. It is part of the government’s work to improve the UK’s cyber defences and protect and grow our digital economy.  \"",
+  "base_path": "/government/publications/cyber-governance-code-of-practice-pilot",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Corporate governance",
+      "base_path": "/business-and-industry/corporate-governance"
+    }
+  ]
+}

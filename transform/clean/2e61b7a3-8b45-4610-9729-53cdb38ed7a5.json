@@ -1,0 +1,11 @@
+{
+  "title": "Flame retardant scoping review",
+  "body": "\"This project was a scoping exercise to identify flame retardant (FR) substances manufactured and used in Great Britain, and assess their market size, known or suspected dangerous properties (hazards), potential risks and regulatory status.  The findings will help the Environment Agency to establish priorities for further assessment and help Government develop a strategic approach for FR substances on the market. \"",
+  "base_path": "/government/publications/flame-retardant-scoping-review",
+  "taxons": [
+    {
+      "title": "REACH regulations",
+      "base_path": "/environment/environmental-management-chemicals-reach-regulations"
+    }
+  ]
+}

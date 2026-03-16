@@ -1,0 +1,15 @@
+{
+  "title": "National life tables - life expectancy in the UK: 2022 to 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/national-life-tables-life-expectancy-in-the-uk-2022-to-2024--2",
+  "taxons": [
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

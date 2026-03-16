@@ -1,0 +1,11 @@
+{
+  "title": "Public Switch Telephone Network (PSTN)",
+  "body": "\"For the majority of customers the upgrade to VoIP (Voice Over Internet Protocol) has already happened and will be completed by January 2027. The government is working together with the telecommunications industry to ensure that all customers and critical services are protected and prepared.  If someone uses a landline to make voice calls today (in 2025) then they can continue to use a landline in future. However, in some cases it may be necessary to change communication provider, if the current provider does not offer a voice service in future.   More information here: moving landlines to digital technologies.   Further information is also available at: https://digitalphoneswitchover.com.  \"",
+  "base_path": "/government/collections/public-switch-telephone-network-pstn",
+  "taxons": [
+    {
+      "title": "Communications and telecomms",
+      "base_path": "/business/communications-and-telecomms"
+    }
+  ]
+}

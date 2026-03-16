@@ -1,0 +1,11 @@
+{
+  "title": "Report suspicious activity happening in your HMRC online account",
+  "body": "\"Examples of suspicious activity  Signs to help you identify suspicious activity include:   account access codes being sent to your phone when you have not tried to sign in   not being able to access your online account because your password has been changed   changes to your tax records you did not make  letters or payments from HMRC you were not expecting   If someone has used your personal information to access your online account or make changes without your permission, it is identity fraud.   If you think someone has accessed your account, you should:   report this immediately to HMRC change your online account password, if you still have access   Reporting suspicious activity  If you are an individual and still have access to your online account, you can sign in to HMRC online services and report suspicious activity from the security console. The security console is currently  not available for agents to use.  Use the reporting form  You will need to provide:    your National Insurance number  an email address  a contact number with preferred times to contact you  details of the suspicious activity   Report now   Keeping your personal information safe   Do not share your National Insurance number with anyone who does not need it — this will help prevent identity fraud. Find out more about your National Insurance number and examples of organisations who may need to know it.   Stop! Think Fraud has advice on protecting yourself from phishing attacks and fraud.   You can also find out more on how to protect your details and what HMRC does to help keep you safe online. \"",
+  "base_path": "/guidance/report-suspicious-activity-happening-in-your-hmrc-online-account",
+  "taxons": [
+    {
+      "title": "Phishing and scams",
+      "base_path": "/money/phishing-scams"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Seafarers in the UK Shipping Industry: 2024",
+  "body": "\"These statistics show:   there were an estimated 23,700 UK seafarers active at sea in 2024, a 2% decrease compared to 2023 52% of active UK seafarers were Officers (10,620 certificated and 1,700 uncertificated) 42% of active UK seafarers were Ratings, and there were 1,500 Officer Cadets in training during the financial year ending 2024 the majority of UK seafarers active at sea were male (84%), with most female seafarers working as Uncertificated Officers or as Ratings    In 2020, an adjustment method was developed to account for non-response in the Chamber of Shipping (CoS) survey. In this publication, the adjusted figures are provided in SFR0101 and the SFR03 series of published tables as an extra tab so that users can see the adjusted figures against the reported figures.  In the next annual release, the Department for Transport is proposing to only present the adjusted figures, as this is assessed to be a more robust picture of trends. We welcome your feedback on this approach, and whether this meets your needs. If you wish to provide feedback, please contact seafarer.stats@dft.gov.uk.    Revision details  Following the discovery of some miscategorised data received from the Maritime and Coastguard Agency, and a minor processing error affecting the methodology to correct for non-responses in the UK Chamber of Shipping survey, revisions were made to the 2022 and 2023 figures.  Tables SFR0203, SFR0205, SFR0301 and SFR0303 have been updated with the revised figures. The revisions made have had a minor effect on the trends in table SFR0203 and no effect on the trends in tables SFR0301 and SFR0303. The revisions have not affected the overall trends.   Contact us  Seafarer statistics     Email seafarer.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats. \"",
+  "base_path": "/government/statistics/seafarers-in-the-uk-shipping-industry-2024",
+  "taxons": [
+    {
+      "title": "Seafarer management, training and certification",
+      "base_path": "/transport/seafarer-management-training-and-certification"
+    }
+  ]
+}

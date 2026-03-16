@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Research & Development 2024 Results",
+  "body": "\"This release provides information on the level of Research & Development (R&D) activity in Northern Ireland. R&D activity is defined as research or technological development with an appreciable element of novelty or innovation in line with international criteria (the Frascati manual). R&D activity contributes to the development of new technologies, products and processes and is a key driver of productivity growth. The Northern Ireland R&D surveys cover the business sector, higher education and other government financed activities. It provides important indicators of the extent to which Northern Ireland companies and higher education establishments are investing in the activities that underlie future economic development. All companies believed to be performing R&D are included in the survey - in effect therefore, a census of known R&D performers is carried out. \"",
+  "base_path": "/government/statistics/northern-ireland-research-development-2024-results",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

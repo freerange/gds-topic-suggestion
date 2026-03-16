@@ -1,0 +1,15 @@
+{
+  "title": "UK Space Agency spending report: March 2025",
+  "body": "\"A report on the UK Space Agency’s spend in February 2025. \"",
+  "base_path": "/government/publications/uk-space-agency-spending-report-march-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

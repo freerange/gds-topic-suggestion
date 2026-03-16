@@ -1,0 +1,11 @@
+{
+  "title": "Managing a robust and resilient supply of medicines: data pack",
+  "body": "\"This is an ad-hoc publication of the data underlying the policy paper Managing a robust and resilient supply of medicines.  It includes data about:   UK licensed medicines by legal status type Discontinuations and Shortages (DaSH) portal notifications risk ‘tiering’ of DaSH notifications Medicine Supply Notifications (MSNs) root causes of UK supply issues   A wide range of people and organisations are impacted by the stability and reliability of the supply of medicines. Therefore, the policy paper and this accompanying data pack are aimed at a broad audience, including all those operating across the supply chain and in the provision of care to patients and patient groups. \"",
+  "base_path": "/government/publications/managing-a-robust-and-resilient-supply-of-medicines-data-pack",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

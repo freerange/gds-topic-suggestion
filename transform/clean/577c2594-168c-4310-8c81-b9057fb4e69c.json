@@ -1,0 +1,11 @@
+{
+  "title": "Reported road casualties Great Britain, provisional results: 2024",
+  "body": "\" Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing us with any comments about how we meet these standards.   In the last decade road fatality trends have been generally stable (excluding the period impacted by COVID-19), with a steady decline in overall casualties.  In reported road collisions in Great Britain in 2024 there were an estimated:   1,633 fatalities, an increase of 1% compared to 2023 29,537 killed or seriously injured (KSI) casualties, little change compared to 2023 128,375 casualties of all severities, a decline of 3% compared to 2023   Alongside the main publication we are publishing an update to our exploratory analysis  linking police and fire road collision data and a summary of recent engagement with police force data suppliers which has helped us to understand current data collection practices and areas for potential improvement.  The next reported road casualty statistics, final annual estimates for 2024, are scheduled for publication in September 2025.   Following notification of forthcoming changes to these statistics in May 2024 and a request for user feedback, we have implemented the proposed changes. This includes no longer updating the provisional e-scooter factsheets and instead summarising the e-scooter figures within the main publication. Further details of these changes, and other responses to user feedback, are available from our user engagement page.   Contact us   Road safety statistics     Email roadacc.stats@dft.gov.uk         To hear more about DfT statistical publications as they are released, follow us on X at DfTstats. \"",
+  "base_path": "/government/statistics/reported-road-casualties-great-britain-provisional-results-2024",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

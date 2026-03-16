@@ -1,0 +1,11 @@
+{
+  "title": "Foot and mouth disease posters",
+  "body": "\"Download and print posters to help you raise awareness of the risks of foot and mouth disease.  Read our guidance on how to spot and report foot and mouth disease. \"",
+  "base_path": "/government/publications/foot-and-mouth-disease-posters",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    }
+  ]
+}

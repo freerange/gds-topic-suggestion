@@ -1,0 +1,23 @@
+{
+  "title": "UK overseas intellectual property attaché network",
+  "body": "\"The role of an IP attaché (liaison officer)  Also referred to as Intellectual Property (IP) liaison officers, the attachés work with local UK Department for Business and Trade (DBT), Foreign Commonwealth and Development Office (FCDO) leads to provide support for UK businesses seeking advice on local IP matters.  They also:    raise awareness of IP through business outreach. This includes briefing business delegations, joint webinars with DBT and local trade associations   liaise with host governments and stakeholders about local and international IP frameworks / environment    The links below provides information about who the attachés are around the world, how they can help businesses, how they can be contacted, as well as advice for UK exporters and typical issues to be aware of for each region.  \"",
+  "base_path": "/government/collections/uk-overseas-intellectual-property-attache-network",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    },
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

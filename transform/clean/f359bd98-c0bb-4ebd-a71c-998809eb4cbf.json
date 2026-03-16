@@ -1,0 +1,19 @@
+{
+  "title": "List of Russia sanctions targets, 15 October 2025",
+  "body": "\"For additional detail on today’s sanctions, please read here. \"",
+  "base_path": "/government/publications/list-of-russia-sanctions-targets-15-october-2025",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Emergency preparedness, resilience and response: concept of operations",
+  "body": "\"The emergency preparedness, resilience and response (EPRR) concept of operations (CONOP) sets out UKHSA’s approach to systematically preparing for, responding to and recovering from health security incidents. These include:   infectious diseases pandemics chemical, biological, radiological and nuclear (CBRN) events extreme adverse weather events business continuity challenges cyber security events   The CONOP applies across the whole of UKHSA.  It describes the UKHSA’s EPRR responsibilities:   as a Category 1 responder as an executive agency of the Department of Health and Social Care for devolved health security within England and across the UK on reserved health security matters   \"",
+  "base_path": "/government/publications/emergency-preparedness-resilience-and-response-concept-of-operations",
+  "taxons": [
+    {
+      "title": "Emergency response",
+      "base_path": "/health-and-social-care/health-protection-emergency-response"
+    },
+    {
+      "title": "Health emergency planning",
+      "base_path": "/health-and-social-care/health-emergency-planning"
+    }
+  ]
+}

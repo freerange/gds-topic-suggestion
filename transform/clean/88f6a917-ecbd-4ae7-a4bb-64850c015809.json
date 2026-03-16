@@ -1,0 +1,31 @@
+{
+  "title": "OFSI General licence INT/2025/7328184",
+  "body": "\" OFSI General licence INT/2025/7328184 OFSI General licence INT/2025/7328184 Publication notice   On 26 September 2025, OFSI issued General Licence INT/2025/7328184 under all UK Autonomous Sanctions Regulations (see Annex 1 of the General Licence for the list of relevant Regulations) which allows a Revenue Authority to make Permitted Payments to UK DPs’ Frozen UK Bank Accounts. A Revenue Authority may also set-off, to the extent permitted or required under any enactment, the amount of any Permitted Payment (as a credit) against any liability of the same UK DP to pay an amount to that Revenue Authority (as a debit). \"",
+  "base_path": "/government/publications/ofsi-general-licence-int20257328184",
+  "taxons": [
+    {
+      "title": "International",
+      "base_path": "/international"
+    },
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

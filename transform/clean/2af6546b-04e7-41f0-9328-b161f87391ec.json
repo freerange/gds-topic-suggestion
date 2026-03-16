@@ -1,0 +1,11 @@
+{
+  "title": "Residues of veterinary medicines in food: 2025",
+  "body": "\"This document contains information on substances found in the UK where the level of concentration of a residue in an animal product is above the action point.  Where a Maximum Residue Limit (MRL) is set, this is the concentration used. Where no MRL has been set, the Limit of Quantification (LOQ) is used which is the smallest analyte concentration for which a method has been validated with specified accuracy and precision to enable quantification.  The first table is a summary of the following detailed results table with outcomes of investigations into non-compliant samples and what action is being taken to avoid unacceptable residues in the future. \"",
+  "base_path": "/government/statistics/residues-of-veterinary-medicines-in-food-2025",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Road goods vehicles travelling to Europe: 2024",
+  "body": "\" Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality, and value in the Code of Practice for Statistics that all producers of official statistics should adhere to.  This publication contains accredited official statistics.  Accredited official statistics are called National Statistics in the Statistics and Registration Service Act 2007.  You are welcome to contact us directly by emailing road freight statistics with any comments about how we meet these standards.     Important note for users   Following an audit of data in Autumn 2024, it was discovered that some of the ferry operators that provides our data had erroneously included vehicles that did not fall under the correct definitions for this publication.  Revisions have been made to the published data for January 2022 to December 2023. A detailed explanation of the impact on the data can be found within the accompanying revision note.   Statistics on the number of trips made by road goods vehicles travelling from Great Britain to Europe in 2024.  In 2024, 2.85 million trips were made by road goods vehicles travelling from Great Britain to Europe, of which:   1.87 million were by powered vehicles 0.97 million were by unaccompanied trailer   Contact us  Roll-on roll-off international freight statistics     Email roadfreight.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats. \"",
+  "base_path": "/government/statistics/road-goods-vehicles-travelling-to-europe-2024",
+  "taxons": [
+    {
+      "title": "Road haulage",
+      "base_path": "/transport/road-haulage"
+    }
+  ]
+}

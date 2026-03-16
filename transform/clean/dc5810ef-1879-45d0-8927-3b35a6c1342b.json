@@ -1,0 +1,15 @@
+{
+  "title": "Skin lesions in newly arrived migrants",
+  "body": "\"This guidance is for clinicians and accommodation providers working with newly arrived migrants in England, in particular people seeking asylum who have arrived by small boat where there may be an increased risk of skin lesions compared to other arrival routes.  Use this guidance in conjunction with Outbreak management in short term asylum seeker accommodation and the Migrant Health Guide. The Migrant Health Guide has more comprehensive advice and guidance on the health needs of migrant patients for healthcare practitioners. \"",
+  "base_path": "/government/publications/skin-lesions-in-newly-arrived-migrants",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    },
+    {
+      "title": "Migrant health",
+      "base_path": "/health-and-social-care/health-protection-migrant-health-guide"
+    }
+  ]
+}

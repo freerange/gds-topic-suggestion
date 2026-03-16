@@ -1,0 +1,11 @@
+{
+  "title": "Greenhouse gas emissions, UK: provisional estimates: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/greenhouse-gas-emissions-uk-provisional-estimates-2024",
+  "taxons": [
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    }
+  ]
+}

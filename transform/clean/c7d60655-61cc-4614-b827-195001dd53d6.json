@@ -1,0 +1,11 @@
+{
+  "title": "PPN 001: SME and VCSE procurement spend targets",
+  "body": "\"This PPN sets out the requirements to set targets for direct spend with SMEs and VCSEs and to publish results annually. \"",
+  "base_path": "/government/publications/ppn-001-sme-and-vcse-procurement-spend-targets",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

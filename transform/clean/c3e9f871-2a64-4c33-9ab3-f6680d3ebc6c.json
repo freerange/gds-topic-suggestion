@@ -1,0 +1,11 @@
+{
+  "title": "Non-domestic rating: stock of properties, 2025",
+  "body": "\"This release contains statistics relating to stock of properties for England and Wales. The statistics provide information on the number and value of the stock of rateable properties (known as “hereditaments”), broken down by sector and geographic location.  If you would like any further information on this release or any other statistical release please contact:  The VOA statistics team  Email statistics@voa.gov.uk  For more details on upcoming statistical releases planned by the Agency please visit the recent and upcoming publications. \"",
+  "base_path": "/government/statistics/non-domestic-rating-stock-of-properties-2025",
+  "taxons": [
+    {
+      "title": "Business rates",
+      "base_path": "/regional-and-local-government/local-government-business-rates"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "NI Participation in Education and Vocational Training",
+  "body": "\"To monitor information relating to participation rates of participants aged 16 to 19 years in Schools, Further Education Colleges, Higher Education Institutions and Other Training organisations. The years covered by this publication are from 2018/19 to 2022/23. \"",
+  "base_path": "/government/statistics/ni-participation-in-education-and-vocational-training",
+  "taxons": [
+    {
+      "title": "Apprenticeships, traineeships and internships",
+      "base_path": "/education/apprenticeships-traineeships-and-internships"
+    },
+    {
+      "title": "Further and higher education courses and qualifications",
+      "base_path": "/education/further-and-higher-education-courses-and-qualifications"
+    },
+    {
+      "title": "Data collection and censuses for schools",
+      "base_path": "/education/data-collection-and-censuses-for-schools"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

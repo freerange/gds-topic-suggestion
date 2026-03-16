@@ -1,0 +1,11 @@
+{
+  "title": "Producer price inflation, UK: November 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/producer-price-inflation-uk-november-2026",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

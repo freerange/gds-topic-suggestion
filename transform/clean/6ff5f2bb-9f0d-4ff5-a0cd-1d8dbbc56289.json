@@ -1,0 +1,15 @@
+{
+  "title": "Driving an electric or hydrogen-powered vehicle",
+  "body": "\"If you hold a category B driving licence, you can drive an electric or hydrogen-powered vehicle with a maximum authorised mass (MAM) of up to 4,250kg. The vehicle must be a zero emission vehicle.  The normal MAM limit for petrol and diesel vehicles with a category B licence is 3,500kg.  This guidance provides more information about the MAM limits for zero emission vehicles and safety advice for using these heavier vehicles, including:   driving the vehicle preparing the vehicle for use towing safely   Read separate guidance about:    vehicle weights explained   which categories of vehicle you can drive with your licence    \"",
+  "base_path": "/government/publications/driving-an-electric-or-hydrogen-powered-vehicle",
+  "taxons": [
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Zero emission and electric vehicles",
+      "base_path": "/transport/zero-emission-and-electric-vehicles"
+    }
+  ]
+}

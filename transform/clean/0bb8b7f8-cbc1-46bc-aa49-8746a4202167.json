@@ -1,0 +1,23 @@
+{
+  "title": "Whistleblowing report 2024-25",
+  "body": "\"The regulator considers all referrals and information received, including those which take the form of whistleblowing disclosures. We consider whether we have the remit to investigate the referral, and where we do, we follow the approach explained in Regulating the standards.  In cases where the issue referred is outside our remit, we consider whether it would be appropriate to refer the matter to another organisation better placed to respond. \"",
+  "base_path": "/government/publications/whistleblowing-report-2024-25",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

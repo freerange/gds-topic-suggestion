@@ -1,0 +1,15 @@
+{
+  "title": "Government response to the Animal Sentience Committee’s report on the Online Safety Act",
+  "body": "\"This report is a response to the recommendations made in the Animal Sentience Committee’s: Online Safety Act report.  The Animal Sentience Committee is an independent committee of experts that was established by the Animal Welfare (Sentience) Act 2022. It is hosted by the Department for the Environment, Food and Rural Affairs (Defra).  The Committee helps Parliament consider how ministerial decisions take the welfare of sentient animals into account. The Committee has a statutory ability to produce reports for Parliament and following publication of a report, the relevant Secretary of State has a statutory duty to lay a response before Parliament within 3 months.  \"",
+  "base_path": "/government/publications/government-response-to-the-animal-sentience-committees-report-on-the-online-safety-act",
+  "taxons": [
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    },
+    {
+      "title": "Online safety",
+      "base_path": "/society-and-culture/online-safety"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Good Practice Resilience Guidance",
+  "body": "\"This collection is created under Resilience Guidance and Doctrine. \"",
+  "base_path": "/government/collections/good-practice-resilience-guidance",
+  "taxons": [
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

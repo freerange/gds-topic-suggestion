@@ -1,0 +1,15 @@
+{
+  "title": "SLC Welsh Language Standards Annual Report 23-24",
+  "body": "\"SLC is required to produce a report in relation to each financial year, which deals with the way in which we have complied with the operational standards with which we were under a duty to comply during that year. \"",
+  "base_path": "/government/publications/slc-welsh-language-standards-annual-report-23-24",
+  "taxons": [
+    {
+      "title": "Student grants, bursaries and scholarships",
+      "base_path": "/education/student-grants-bursaries-scholarships"
+    },
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

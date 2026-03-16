@@ -1,0 +1,11 @@
+{
+  "title": "Service Police super-complaints",
+  "body": "\"The Service Police super-complaints system became operational on 19 June 2023.   Please note individuals cannot make super-complaints. Super-complaints can only be submitted by organisations designated by the Ministry of Defence. If you have a complaint against the Service Police, please contact the Service Police force in question, or the Service Police Complaints Commissioner.  Designated bodies may submit super-complaints for consideration by HMICFRS and the Service Police Complaints Commissioner.  Any updates, including any super-complaints received, will be published on this page.   For more information, please get in touch at policesupercomplaint@hmicfrs.gov.uk.  \"",
+  "base_path": "/government/collections/service-police-super-complaints",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

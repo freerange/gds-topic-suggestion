@@ -1,0 +1,11 @@
+{
+  "title": "Complexity application routing solution (family): caseworker guidance",
+  "body": "\"UK Visas and Immigration guidance for staff on the arrangements which Marriage and Family Operational Teams must follow when routing and processing applications from customers applying for a visa in a marriage and family route (CARS (FM)). \"",
+  "base_path": "/government/publications/complexity-application-routing-solution-family-caseworker-guidance",
+  "taxons": [
+    {
+      "title": "Family visas",
+      "base_path": "/entering-staying-uk/family-visas"
+    }
+  ]
+}

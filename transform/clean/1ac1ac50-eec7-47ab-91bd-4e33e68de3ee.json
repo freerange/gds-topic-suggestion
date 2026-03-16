@@ -1,0 +1,11 @@
+{
+  "title": "Coastal change management",
+  "body": "\"If you work on flood and coastal erosion projects on the coast and require current technical guidance,  contact coastalresilience@environment-agency.gov.uk.  You can also access the archived version of the coastal handbook. \"",
+  "base_path": "/government/collections/coastal-change-management",
+  "taxons": [
+    {
+      "title": "River maintenance, flooding and coastal erosion",
+      "base_path": "/environment/river-maintenance-flooding-coastal-erosion"
+    }
+  ]
+}

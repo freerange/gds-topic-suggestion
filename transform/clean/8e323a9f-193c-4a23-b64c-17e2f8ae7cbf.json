@@ -1,0 +1,15 @@
+{
+  "title": "Industry-to-industry payment flows, UK: 2017 to 2024, experimental data",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/industry-to-industry-payment-flows-uk-2017-to-2024-experimental-data",
+  "taxons": [
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    },
+    {
+      "title": "Running a business",
+      "base_path": "/business-and-industry/running-a-business"
+    }
+  ]
+}

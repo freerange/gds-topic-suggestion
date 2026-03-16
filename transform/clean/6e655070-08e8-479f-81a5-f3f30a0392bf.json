@@ -1,0 +1,11 @@
+{
+  "title": "Vehicle speed compliance statistics for Great Britain: 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/vehicle-speed-compliance-statistics-for-great-britain-2025",
+  "taxons": [
+    {
+      "title": "Speeding",
+      "base_path": "/transport/speeding"
+    }
+  ]
+}

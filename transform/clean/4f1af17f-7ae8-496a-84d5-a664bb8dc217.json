@@ -1,0 +1,11 @@
+{
+  "title": "Pets: activities you need licences for",
+  "body": "\"You may need to get a licence from your local council if you run a business or activities involving animals like dogs, cats and horses. \"",
+  "base_path": "/government/collections/pets-activities-you-need-licences-for",
+  "taxons": [
+    {
+      "title": "Pets",
+      "base_path": "/environment/pets"
+    }
+  ]
+}

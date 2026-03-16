@@ -1,0 +1,19 @@
+{
+  "title": "Market access barrier quarterly statistics: July to September 2025",
+  "body": "\"This release covers statistics and analysis related to the Department for Business and Trade’s (DBT) activities to record and address market access barriers.  It contains information on the number of market access barriers resolved in full and in part, with breakdowns by His Majesty’s Trade Commissioner (HMTC) region and trading partner.  DBT defines barriers as the presence or absence of any legal, regulatory or administrative practice by another government or regulator that can impede a business exporting or investing overseas.  \"",
+  "base_path": "/government/statistics/market-access-barrier-quarterly-statistics-july-to-september-2025",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Trade barriers",
+      "base_path": "/business-and-industry/trade-barriers"
+    }
+  ]
+}

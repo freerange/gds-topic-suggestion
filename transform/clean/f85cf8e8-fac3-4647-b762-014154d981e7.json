@@ -1,0 +1,11 @@
+{
+  "title": "The MHCLG Appraisal Guide",
+  "body": "\"This is the third edition of the Appraisal Guide. It is intended to be read in conjunction with the HM Treasury Green Book and aims to:    ​help ensure consistency in MHCLG appraisals update and develop the methods and assumptions employed in MHCLG appraisals  \"",
+  "base_path": "/government/publications/the-mhclg-appraisal-guide",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Universal Credit statistics, 29 April 2013 to 11 September 2025",
+  "body": "\"These official statistics contain data on:     the number of people who made a claim or started on Universal Credit to July 2025   the number of people who are on Universal Credit to September 2025 the number of households who are on Universal Credit to May 2025   See the background information and methodology note for guidance on these statistics, such as timeliness, uses, and procedures. Universal Credit claims and starts breakdowns by postcode are no longer available from April 2022 onwards, due to missing geography data. The missing information has been captured and action is being taken to reinstate these breakdowns in future releases. Updates will be provided via Stat-Xplore and the GOV.UK website.    Interactive tools    Software used for the interactive maps is no longer supported. These showed households on Universal Credit at the local authority level and people on Universal Credit at Jobcentre Plus level.    The interactive maps have therefore been withdrawn and a replacement is currently under development. Once completed and launched, the interactive tool (called Examine-a-Stat) will have improved functionality, including interactive maps, to better meet a wider range of user needs. It will be available in due course and the statistics are currently accessible on Stat-Xplore.    Pre-release access    In addition to staff who are responsible for the production and quality assurance of the statistics, up to 24-hour pre-release access is provided to ministers and other officials. We publish the job titles and organisations of the people who have been granted up to 24-hour pre-release access to the latest Universal Credit statistics. \"",
+  "base_path": "/government/statistics/universal-credit-statistics-29-april-2013-to-11-september-2025",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    }
+  ]
+}

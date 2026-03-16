@@ -1,0 +1,15 @@
+{
+  "title": "Self Assessment technical specifications (2026) for partnership returns",
+  "body": "\"Partnership returns technical specifications for software developers working with the Self Assessment online service. \"",
+  "base_path": "/government/publications/self-assessment-technical-specifications-2026-for-partnership-returns",
+  "taxons": [
+    {
+      "title": "Software development support",
+      "base_path": "/money/dealing-with-hmrc-software-development-software-development-support"
+    },
+    {
+      "title": "Self Assessment",
+      "base_path": "/money/self-assessment"
+    }
+  ]
+}

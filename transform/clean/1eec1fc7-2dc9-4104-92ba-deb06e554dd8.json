@@ -1,0 +1,11 @@
+{
+  "title": "Rail factsheet: 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/rail-factsheet-2025",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    }
+  ]
+}

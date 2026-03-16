@@ -1,0 +1,23 @@
+{
+  "title": "Co-occurring mental health and substance use: delivery framework",
+  "body": "\"This joint delivery framework between the Department of Health and Social Care and NHS England outlines how drug and alcohol services and mental health services should work together more effectively and improve service provision for people with co-occurring mental health and substance use conditions. It sets out national commitments across 4 priority areas covering:   strategic leadership and service design data and monitoring workforce and training commissioning and incentives   The framework explains the actions the government and NHS England will take nationally. It also recommends further actions that commissioners, service providers and others can take to improve care. It aims to ensure people with co-occurring mental health and substance use conditions receive integrated, person-centred care rather than being passed between separate services.  The framework is for commissioners, service providers, clinicians and others working with people with co-occurring mental health and substance use conditions. \"",
+  "base_path": "/government/publications/co-occurring-mental-health-and-substance-use-delivery-framework",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Drug misuse and dependency",
+      "base_path": "/health-and-social-care/drug-misuse-and-dependency"
+    },
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    },
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    }
+  ]
+}

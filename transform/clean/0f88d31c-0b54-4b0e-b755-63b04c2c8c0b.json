@@ -1,0 +1,11 @@
+{
+  "title": "UK and England soil nutrient balances, 2024",
+  "body": "\"Soil nutrient balances provide a method for estimating the annual nutrient loadings of nitrogen and phosphorus to agricultural soils. They give an indication of the potential risk associated with losses of nutrients to the environment; losses which can impact on air and water quality and on climate change. The nutrient balances are used as a high-level indicator of farming’s pressure on the environment and of how that pressure is changing over time.  Next update: see the release calendar.  For further information please contact: Agri.EnvironmentStatistics@defra.gov.uk X: @DefraStats \"",
+  "base_path": "/government/statistics/uk-and-england-soil-nutrient-balances-2024",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

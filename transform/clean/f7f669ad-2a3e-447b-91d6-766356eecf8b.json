@@ -1,0 +1,11 @@
+{
+  "title": "Student loan repayments via PAYE eligible for refund - Tax Year 2024/25",
+  "body": "\"The statistics include students ordinarily domiciled in England, Wales, Northern Ireland, Scotland and the EU who received an income contingent student loan. \"",
+  "base_path": "/government/statistics/student-loan-repayments-via-paye-eligible-for-refund-tax-year-202425",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

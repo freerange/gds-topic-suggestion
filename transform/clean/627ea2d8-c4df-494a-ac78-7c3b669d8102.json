@@ -1,0 +1,11 @@
+{
+  "title": "Edition 2: Ready, Steady, File!",
+  "body": "\"‘Ready, Steady, File!’ keeps participants up to date with the latest news, resources, and important milestones in the Making Tax Digital for Income Tax beta testing journey.  This is the second edition of the newsletter. \"",
+  "base_path": "/government/publications/edition-2-ready-steady-file",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Pride in Place",
+  "body": "\" \"",
+  "base_path": "/government/collections/pride-in-place",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "Community integration",
+      "base_path": "/society-and-culture/community-integration"
+    },
+    {
+      "title": "City deals and growth deals",
+      "base_path": "/business-and-industry/city-deals-and-growth-deals"
+    },
+    {
+      "title": "Regional growth fund",
+      "base_path": "/business-and-industry/regional-growth-fund"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

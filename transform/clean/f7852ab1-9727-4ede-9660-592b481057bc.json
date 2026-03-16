@@ -1,0 +1,11 @@
+{
+  "title": "Deaths registered in England and Wales: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/deaths-registered-in-england-and-wales-2024",
+  "taxons": [
+    {
+      "title": "Death registration disclosure",
+      "base_path": "/life-circumstances/death-registration-disclosure"
+    }
+  ]
+}

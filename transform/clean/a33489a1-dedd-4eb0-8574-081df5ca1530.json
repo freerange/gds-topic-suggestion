@@ -1,0 +1,11 @@
+{
+  "title": "Personal Independence Payment statistics to April 2025",
+  "body": "\"These official statistics include data up to 30 April 2025 for:   caseloads (cases with entitlement) registrations clearances and awards, including award types & review periods. award reviews and changes of circumstance mandatory reconsiderations average clearance times and average outstanding times mandatory reconsideration clearance times customer journey statistics (tracking of initial decisions and award review outcomes following a Personal Independence Payment (PIP) assessment through to Mandatory Reconsideration (MR) and appeal)   Feedback and queries  Email cm.analysis.research@dwp.gov.uk with feedback and queries about the PIP statistics. We are only able to reply to questions about the statistics.  Users can also contribute their views using our user feedback questionnaire.  \"",
+  "base_path": "/government/statistics/personal-independence-payment-statistics-to-april-2025",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    }
+  ]
+}

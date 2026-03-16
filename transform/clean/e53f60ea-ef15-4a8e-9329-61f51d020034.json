@@ -1,0 +1,15 @@
+{
+  "title": "Financial health notice to improve: Mary Ward Settlement",
+  "body": "\"This letter and its annex serve as a notice to improve financial health at Mary Ward Settlement. \"",
+  "base_path": "/government/publications/financial-health-notice-to-improve-mary-ward-settlement",
+  "taxons": [
+    {
+      "title": "Financial management for further education providers",
+      "base_path": "/education/financial-management-for-further-education-providers"
+    },
+    {
+      "title": "Inspection and performance of further education providers",
+      "base_path": "/education/inspection-and-performance-of-further-education-providers"
+    }
+  ]
+}

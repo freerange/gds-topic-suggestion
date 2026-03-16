@@ -1,0 +1,35 @@
+{
+  "title": "DCMS Sector Economic Estimates: Research and Development (R&D)",
+  "body": "\"Headline finding     In  2023, expenditure on R&D by businesses in the included DCMS sectors accounted for around 17% of R&D expenditure by UK businesses overall.     About  DCMS R&D estimates provide an estimate of expenditure on R&D by UK businesses in DCMS sectors. These R&D estimates are designed to complement our other economic estimates and to give a deeper understanding of the economic performance of DCMS sectors to the UK economy.   All estimates on this page represent the latest version.  Included estimates:   R&D expenditure by businesses in the DCMS sectors   For information on how these estimates are produced please see the relevant technical report for each release.  Latest release:  DCMS Sector Economic Estimates: Research and Development (R&D), 2023  \"",
+  "base_path": "/government/collections/dcms-sector-economic-estimates-research-and-development-rd",
+  "taxons": [
+    {
+      "title": "Library services",
+      "base_path": "/society-and-culture/library-services"
+    },
+    {
+      "title": "Museums and galleries",
+      "base_path": "/society-and-culture/museums-and-galleries"
+    },
+    {
+      "title": "Sports and leisure",
+      "base_path": "/society-and-culture/sports-and-leisure"
+    },
+    {
+      "title": "Charities and social enterprises",
+      "base_path": "/business-and-industry/charities-and-social-enterprises"
+    },
+    {
+      "title": "Media and creative industries",
+      "base_path": "/business-and-industry/media-and-creative-industries"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

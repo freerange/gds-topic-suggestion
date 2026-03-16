@@ -1,0 +1,15 @@
+{
+  "title": "Strengthening ties with Europe",
+  "body": "\"The UK government is determined to see a strong and connected UK and Europe.  UK security is indivisible from European security and this government is committed to reset relationships, deepening ties with European friends, neighbours, and allies.  By upgrading cooperation across shared priorities, barriers to trade will be broken down, creating opportunities to invest, and helping businesses sell in each other’s markets.  From agreements on defence and migration, to new investment and jobs, the UK and Europe are delivering security and prosperity for people across the continent.  Resetting the UK’s relationship with Europe \"",
+  "base_path": "/government/collections/the-uks-reset-with-europe",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    }
+  ]
+}

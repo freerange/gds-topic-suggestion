@@ -1,0 +1,11 @@
+{
+  "title": "NHS Staff Earnings Estimates, August 2025",
+  "body": "\"As expected with provisional statistics, some figures may be revised from month to month as issues are uncovered and resolved.  No refreshes of the provisional data will take place either as part of the regular publication process, or where minor enhancements to the methodology have an insignificant impact on the figures at a national level. However, the provisional status allows for this to occur if it is determined that a refresh of data is required subsequent to initial release.  Where a refresh of data occurs, it will be clearly documented in the publications. \"",
+  "base_path": "/government/statistics/nhs-staff-earnings-estimates-august-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

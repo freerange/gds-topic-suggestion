@@ -1,0 +1,11 @@
+{
+  "title": "Organic farming statistics 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/organic-farming-statistics-2025",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

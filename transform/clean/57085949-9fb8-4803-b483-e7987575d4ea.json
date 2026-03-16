@@ -1,0 +1,23 @@
+{
+  "title": "UK Science & Innovation Network Summary: United Arab Emirates",
+  "body": "\"The UK Science and Innovation Network (SIN) leads on developing science partnerships and using science in diplomacy around the world. This Science and Innovation Network summary for United Arab Emirates outlines:   the science and innovation landscape in United Arab Emirates United Arab Emirates’ priorities in research, development and innovation UK-United Arab Emirates science cooperation   \"",
+  "base_path": "/government/publications/uk-science-innovation-network-summary-united-arab-emirates",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

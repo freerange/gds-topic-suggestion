@@ -1,0 +1,19 @@
+{
+  "title": "AI Opportunities Action Plan: government response",
+  "body": "\"Government response to recommendations set out in the AI Opportunities Action Plan which aims to grow the UK’s AI sector and drive adoption of AI across the economy, boosting growth and improving products and services.  The AI Opportunities Action Plan is a roadmap for government to capture the opportunities of AI to enhance growth and productivity and create tangible benefits for UK citizens. Read the terms of reference.  \"",
+  "base_path": "/government/publications/ai-opportunities-action-plan-government-response",
+  "taxons": [
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

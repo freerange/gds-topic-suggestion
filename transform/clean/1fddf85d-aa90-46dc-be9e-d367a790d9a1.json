@@ -1,0 +1,11 @@
+{
+  "title": "NHS Cancelled Elective Operations, Q3 2024/25",
+  "body": "\"This section holds data on the number of cancelled elective operations and breaches of the standard. Data is also available on the total number of operating theatres and those which are dedicated day case theatres.  Official statistics are produced impartially and free from any political influence. \"",
+  "base_path": "/government/statistics/nhs-cancelled-elective-operations-q3-202425",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

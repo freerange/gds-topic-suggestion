@@ -1,0 +1,11 @@
+{
+  "title": "VOA: prompt payment data April 2025 to March 2026",
+  "body": "\"VOA’s percentage of invoices paid within 5 days and within 30 days of receipt. The data is in yearly quarters.  VOA is an agency of HM Revenue and Customs.  \"",
+  "base_path": "/government/publications/voa-prompt-payment-data-april-2025-to-march-2026",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

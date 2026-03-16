@@ -1,0 +1,11 @@
+{
+  "title": "Postcode level electricity statistics: 2024",
+  "body": "\"Data is available for:   all domestic electricity meters standard meters economy 7 meters   Economy 7 is for customers that have an additional off-peak electricity period. Typically customers have a 7 hour off-peak period at night when their electricity is cheaper.  Please read the accompanying notes before using the statistics. \"",
+  "base_path": "/government/statistics/postcode-level-electricity-statistics-2024",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

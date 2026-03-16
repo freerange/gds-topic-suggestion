@@ -1,0 +1,11 @@
+{
+  "title": "Pay VAT to HMRC after cancelling your VAT registration",
+  "body": "\"Before you pay  You must reclaim VAT or tell HMRC VAT is due on goods sold to satisfy a debt, after a business has cancelled its VAT registration.  When to pay  If you’re due to pay VAT, you must make the payment within 21 days of the sale of the goods.  What you’ll need to pay  You’ll need to use your payment reference number starting with CAT2V833 followed by your VAT registration number. For example, CAT2V833123456789.  Pay from a UK bank account  You can pay HMRC directly from a UK bank account with Faster Payments, CHAPS (Clearing House Automated Payment System) or Bacs (Bankers Automated Clearing System).  To make the payment you can contact your bank, use your online bank account or banking app.  Use the following details to make a payment if your account is in the UK:   sort code — 08-32-00 account number — 12000903 account name — Indirect Miscellaneous Account   Pay from an overseas bank account  Use the following details to make a payment if your account is overseas:   account number (IBAN) — GB20 BARC 2005 1730 3364 91 Business Identifier Code (BIC) — BARCGB22 account name — Indirect Miscellaneous Account   You should make overseas payments in pounds sterling (GBP). Your bank may charge you if you use any other currency.  If needed, you can provide your bank with the following HMRC banking address:    Barclays Bank plc1 Churchill Place London United Kingdom E14 5HP   \"",
+  "base_path": "/guidance/pay-vat-to-hmrc-after-cancelling-your-vat-registration",
+  "taxons": [
+    {
+      "title": "Paying",
+      "base_path": "/money/business-tax-vat-paying"
+    }
+  ]
+}

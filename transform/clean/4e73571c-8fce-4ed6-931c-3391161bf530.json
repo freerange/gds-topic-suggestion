@@ -1,0 +1,15 @@
+{
+  "title": "Criminal investigations: indecent and obscene materials",
+  "body": "\"This guidance tells criminal investigators in Immigration Enforcement (IE) and suitably trained and accredited criminal investigators within the Home Office about indecent and obscene materials and how to deal with them. \"",
+  "base_path": "/government/publications/criminal-investigations-indecent-and-obscene-materials",
+  "taxons": [
+    {
+      "title": "Immigration offences",
+      "base_path": "/entering-staying-uk/immigration-offences"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    }
+  ]
+}

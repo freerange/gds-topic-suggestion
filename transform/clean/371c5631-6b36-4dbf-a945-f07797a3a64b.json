@@ -1,0 +1,11 @@
+{
+  "title": "Thames Estuary TE3A Sunk 2024",
+  "body": "\"An assessment of the 2024 hydrographic survey of the area TE3A: to monitor recent seabed movement; to identify any implications for shipping; and to make recommendations for future surveys. \"",
+  "base_path": "/government/publications/thames-estuary-te3a-sunk-2024",
+  "taxons": [
+    {
+      "title": "Hydrography",
+      "base_path": "/environment/hydrography"
+    }
+  ]
+}

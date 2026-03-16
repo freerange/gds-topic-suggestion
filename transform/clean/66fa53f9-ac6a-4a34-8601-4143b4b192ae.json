@@ -1,0 +1,11 @@
+{
+  "title": "Exploring recreational water use in England",
+  "body": "\"This project reported on the extent of recreational use of environmental waters in England based on data from 2017 to 2024 provided by 17 organisations including government, national governing bodies and community sources.  This provides a collated national overview and expands our understanding of where, when and how surface waters are used for recreation.  The dataset from the project can be accessed on data.gov. \"",
+  "base_path": "/government/publications/exploring-recreational-water-use-in-england",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

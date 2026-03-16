@@ -1,0 +1,15 @@
+{
+  "title": "Fishing industry 2024 statistics published",
+  "body": "\"View the full report, tables and underlying datasets here.  The Sea Fisheries Statistics brings together statistics for all UK fishing authorities to provide a complete picture of fishing activity in the UK.   The report includes statistics about the size and composition of the UK fleet, including the number of vessels and capacity, landings of sea fish, including the volume and value of fish landed, fishing effort and trade of fisheries products.    Key statistics include:     In 2024, UK vessels landed 745 thousand tonnes of sea fish with a value of £1.16 billion. Compared to 2023, this is an increase of 4% in quantity (26 thousand tonnes) and an increase in value of 5% (£53.88 million).     In 2024 there were 5,232 UK registered fishing vessels. Approximately 79% (4,140 vessels) of the UK fleet is represented by vessels under 10 metres in length, accounting for 4% of quantity of all landings.    Effort is a measure of the amount of time spent at sea. Since 2004, fishing effort (kW days at sea) by the over 10 metre fleet has decreased by around 40%. Most of the reduction in effort is driven by a 41% decline in effort in the demersal trawl and seine segment.    In 2024, the UK imported 633 thousand tonnes of fish and fish preparations, with an import value of £3.5 billion. It exported 380 thousand tonnes of fish and fish preparations, with an export value of £2.0 billion.       View the full report, tables and underlying datasets at: UK sea fisheries annual statistics - GOV.UK. \"",
+  "base_path": "/government/news/fishing-industry-2024-statistics-published",
+  "taxons": [
+    {
+      "title": "Fisheries statistics",
+      "base_path": "/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-fisheries-statistics"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

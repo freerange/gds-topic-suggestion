@@ -1,0 +1,11 @@
+{
+  "title": "HS1: second evaluation",
+  "body": "\"This second evaluation examines the long-term economic and social impacts of the Channel Tunnel Rail Link, known as High Speed 1 (HS1), in Kent.  The Department for Transport (DfT) commissioned Steer Economics to complete this evaluation.  See HS1 first evaluation for more information.  \"",
+  "base_path": "/government/publications/hs1-second-evaluation",
+  "taxons": [
+    {
+      "title": "Rail",
+      "base_path": "/transport/rail"
+    }
+  ]
+}

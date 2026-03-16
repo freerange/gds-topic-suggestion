@@ -1,0 +1,15 @@
+{
+  "title": "Les femmes et l’agro-industrie en Mauritanie",
+  "body": "\"En Mauritanie, les femmes jouent un rôle économique actif dans le secteur agricole ; toutefois, leurs entreprises demeurent généralement de petite envergure et sont difficiles à faire évoluer. Le développement de l’agro-industrie est entravé par des réglementations contraignantes, une coordination insuffisante des chaînes de valeur et la concurrence des pays tiers. Par ailleurs, les femmes sont confrontées à des barrières spécifiques liées au genre, notamment un accès restreint aux ressources productives, la charge disproportionnée du travail domestique et de soins non rémunérés, ainsi que des normes socioculturelles profondément ancrées. \"",
+  "base_path": "/government/publications/women-and-agribusiness-in-mauritania.fr",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Women and girls in developing countries",
+      "base_path": "/international/women-and-girls-in-developing-countries"
+    }
+  ]
+}

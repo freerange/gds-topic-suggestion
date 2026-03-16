@@ -1,0 +1,11 @@
+{
+  "title": "Crime outcomes year to September 2024: data tables",
+  "body": "\"Outcomes assigned to offences recorded to September 2024 and the total number of outcomes recorded, by outcome type and offence type.  Updates to this page \"",
+  "base_path": "/government/statistics/crime-outcomes-year-to-september-2024-data-tables",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

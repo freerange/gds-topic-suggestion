@@ -1,0 +1,23 @@
+{
+  "title": "England Rare Diseases Action Plan 2025",
+  "body": "\"The UK government and devolved governments published the UK Rare Diseases Framework in January 2021, setting out a shared vision for addressing health inequalities and improving the lives of people living with rare diseases across the UK.  The framework outlined 4 key national priorities:   helping patients get a final diagnosis faster increasing awareness among healthcare professionals better co-ordination of care improving access to specialist care, treatment and drugs   To turn this vision into action, each of the 4 UK nations has committed to developing nation-specific action plans detailing how these priorities will be addressed.  This is England’s fourth Rare Diseases Action Plan, following our commitment to publish action plans annually during the lifetime of the UK Rare Diseases Framework. This action plan has been developed in close collaboration with delivery partners across the health system and the rare disease community. The 2025 England Rare Diseases Action Plan will report on progress against our existing 36 actions as well as introducing 3 new actions to improve the lives of people with rare diseases for the year ahead. \"",
+  "base_path": "/government/publications/england-rare-diseases-action-plan-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    },
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    }
+  ]
+}

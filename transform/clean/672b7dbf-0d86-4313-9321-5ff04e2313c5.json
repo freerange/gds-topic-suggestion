@@ -1,0 +1,11 @@
+{
+  "title": "Inspection and regulation of children's social care providers",
+  "body": "\"This dataset covers different inspection and regulatory activities for different periods. It includes:     Data Period covered     The number of providers of children’s social care and supported accommodation, and the number of places they are registered for As at 30 September   The most recent inspection outcomes for all regulated and inspected children’s social care and supported accommodation provision As at 30 September, published by 31 October   Inspections and outcomes for all regulated and inspected children’s social care and supported accommodation provision 1 April to 30 September, published by 31 October   Children’s social care and supported accommodation provider applications and application outcomes 1 January to 31 December   Registered manager vacancies in children’s homes As at 31 December   Investigations into suspected unregistered children’s homes 1 January to 31 December   Incident notifications 1 January to 31 December   Compliance, Investigation and Enforcement (CIE) cases 1 January to 31 December   Enforcement activity in children’s homes and supported accommodation 1 January to 31 December     For data on inspection outcomes of children’s homes before June 2024, see Inspections Outcomes of Children’s Homes. \"",
+  "base_path": "/government/publications/inspection-and-regulation-of-childrens-social-care-providers",
+  "taxons": [
+    {
+      "title": "Inspection of children's social care providers",
+      "base_path": "/childcare-parenting/inspection-of-childrens-social-care-providers"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "COMEAP: shape of the concentration-response curve linking PM2.5 with all-cause mortality",
+  "body": "\"This document updates the Committee on the Medical Effects of Air Pollutants (COMEAP)’s views on the shape of the concentration-response function (CRF) that associates mortality with long-term exposure to fine particulate air pollution (PM2.5).  \"",
+  "base_path": "/government/publications/comeap-shape-of-the-concentration-response-curve-linking-pm25-with-all-cause-mortality",
+  "taxons": [
+    {
+      "title": "Chemical and environmental hazards",
+      "base_path": "/health-and-social-care/health-protection-chemical-and-environmental-hazards"
+    }
+  ]
+}

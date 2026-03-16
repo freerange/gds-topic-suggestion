@@ -1,0 +1,11 @@
+{
+  "title": "Work and health regional data explorer",
+  "body": "\" The Work and health regional data explorer is classified as official statistics.  The data explorer will support professionals working in policy, commissioning and service planning relating to employment, economic inactivity and health.  It provides latest trends for the government office regions with comparison to the England average. Data for combined and local authorities is presented for the latest available 12-month period.  The data explorer also includes analysis for integrated care boards (ICBs) with breakdown of the causes for economic inactivity by the Office for National Statistics (ONS) for the 2023 to 2024 financial year.  The data explorer was developed by the Office for Health Improvement and Disparities (OHID), presenting findings from publicly available data from:   the OHID Public health profiles  ONS  nomis (a leading source for employment and economic data for England)   If you have any comments, questions or feedback, contact us at lkis@dhsc.gov.uk. Please use ‘Work and health regional data explorer’ as the email subject.  \"",
+  "base_path": "/government/statistics/work-and-health-regional-data-explorer",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

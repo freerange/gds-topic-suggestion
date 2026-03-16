@@ -1,0 +1,11 @@
+{
+  "title": "Mortality profile: May 2025 update",
+  "body": "\" The Office for Health Improvement and Disparities (OHID) has updated mortality rates for integrated care boards (ICBs) and NHS regions, and has added Lower layer Super Output Area (LSOA) based deprivation deciles within England in the mortality profile.  This profile provides trends in mortality rates for a wide range of causes of death, allowing outcomes to be easily compared. Rates for sub-national geographies allow comparisons between areas.  \"",
+  "base_path": "/government/statistics/mortality-profile-may-2025-update",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

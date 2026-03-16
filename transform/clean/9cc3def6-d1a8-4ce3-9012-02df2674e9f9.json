@@ -1,0 +1,15 @@
+{
+  "title": "Variation in the Universal Credit sanction rate between jobcentres",
+  "body": "\"The roll-out of Universal Credit (UC) full service to all jobcentres was completed at the end of 2018.  To help monitor the sanctions regime these releases assess variations in the Universal Credit sanction rate across jobcentres in Great Britain.  \"",
+  "base_path": "/government/collections/variation-in-the-universal-credit-sanction-rate-between-jobcentres",
+  "taxons": [
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

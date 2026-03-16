@@ -1,0 +1,23 @@
+{
+  "title": "Travel to/from school by pupils in Northern Ireland 2023/24",
+  "body": "\"This report provides annual statistics on the main method of travel to/from school and, in particular, on the proportion of primary school and post primary school pupils who walk and cycle to school. \"",
+  "base_path": "/government/statistics/travel-tofrom-school-by-pupils-in-northern-ireland-202324",
+  "taxons": [
+    {
+      "title": "Cycling and walking",
+      "base_path": "/transport/cycling-and-walking"
+    },
+    {
+      "title": "Buses",
+      "base_path": "/transport/buses"
+    },
+    {
+      "title": "Rail",
+      "base_path": "/transport/rail"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

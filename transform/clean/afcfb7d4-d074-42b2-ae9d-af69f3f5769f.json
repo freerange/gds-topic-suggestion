@@ -1,0 +1,23 @@
+{
+  "title": "What to do after a British person dies in Central Africa Republic",
+  "body": "\"Includes information on:   what to do when someone dies in Central African Republic burial and cremation returning bodies to UK (repatriation)   See also what to do when someone dies: death abroad \"",
+  "base_path": "/government/publications/central-african-republic-bereavement-information",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    }
+  ]
+}

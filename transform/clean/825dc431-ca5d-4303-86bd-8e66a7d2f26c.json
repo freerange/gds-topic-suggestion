@@ -1,0 +1,43 @@
+{
+  "title": "Secure by Design Problem Book",
+  "body": "\"Living in uncertain times, it’s more important than ever that the UK government is cyber resilient, and the ‘Secure by Design’ approach is helping us achieve this cyber resilience. And within the Ministry of Defence (MOD), teams are thinking about security much earlier and more frequently than they did before, which is a good thing. But step changes in thinking never come without friction.  The Defence Science and Technology Laboratory (Dstl) recently identified lessons that can be learned from MOD’s adoption of ‘Secure by Design’, and the broader adoption of ‘Secure by Design’ within the UK and internationally.  These lessons form the Secure by Design Problem Book.     To help us deliver secure military capabilities at pace, we challenge suppliers - old and new, and from industry and academia - to propose new thinking and solutions to help us overcome these problems.  Many of these problems are specific to defence, but we expect solutions may be found elsewhere. A vibrant ‘Secure by Design’ ecosystem helps us find and exploit these solutions.   We hope this problem book is the next step in growing this critical part of our industrial base.  If you would like to get in touch, please email: fsbd@dstl.gov.uk  \"",
+  "base_path": "/government/publications/secure-by-design-problem-book",
+  "taxons": [
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "APIs and app development",
+      "base_path": "/government/apis-and-app-development"
+    },
+    {
+      "title": "Design and build of government services",
+      "base_path": "/government/design-and-build-of-government-services"
+    },
+    {
+      "title": "Digital security",
+      "base_path": "/government/technology-guidance-digital-security"
+    },
+    {
+      "title": "Digital transformation",
+      "base_path": "/government/technology-guidance-technology-guidance-digital-transformation"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

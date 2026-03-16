@@ -1,0 +1,11 @@
+{
+  "title": "Benefit cap: number of households capped to November 2024",
+  "body": "\"These Department for Work and Pensions (DWP) quarterly publications provide statistics on households affected by the benefit cap and include:   cumulative and point-in-time numbers of households capped number of households that were previously capped but have moved off the cap   \"",
+  "base_path": "/government/statistics/benefit-cap-number-of-households-capped-to-november-2024",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    }
+  ]
+}

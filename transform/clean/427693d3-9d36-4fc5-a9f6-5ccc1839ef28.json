@@ -1,0 +1,11 @@
+{
+  "title": "Producer price inflation, UK: August 2026 time series",
+  "body": "",
+  "base_path": "/government/statistics/announcements/producer-price-inflation-uk-august-2026-time-series",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

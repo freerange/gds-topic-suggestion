@@ -1,0 +1,15 @@
+{
+  "title": "Benefits in kind statistics: June 2025",
+  "body": "\"What does this publication tell me?  This publication contains a series of tables about the company cars provided as benefits in kind to employees by employers. These tables show the number of recipients of such benefits, the taxable value of the benefits and the Income Tax and National Insurance contributions (NIC) liabilities on them. Breakdowns are provided by income level and geographical region of the recipient and by the Carbon Dioxide (CO2) emission level and fuel type of the vehicle.  Company car statistics are provided for tax year 2022 to 2023 alongside earlier years. Provisional information for 2023 to 2024 has also been included in this publication.  Figures are based on 2 sources of data on company cars:    P11D forms returned by employers after the end of the tax year company cars reported by employers in Real-Time Information submissions   A further table reports the total amount of Class 1A National Insurance paid on all benefits in kind (including company cars), and the corresponding value of those benefits.  These statistics are produced annually.  The background quality report provides further details of the tax and National Insurance treatment of company cars, describes the data sources and modelling and projection methods and describes the completeness and accuracy of the data used.  Statistical contacts  Enquiries about statistics on taxable benefits in kind and expenses should be directed to the statisticians responsible for these statistics by contacting personaltax.statistics@hmrc.gov.uk.  Any media enquiries should be directed to the HM Revenue and Customs (HMRC) Press Office.  \"",
+  "base_path": "/government/statistics/benefits-in-kind-statistics-june-2025",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

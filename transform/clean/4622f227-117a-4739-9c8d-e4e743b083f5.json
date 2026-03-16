@@ -1,0 +1,11 @@
+{
+  "title": "Application for order to inspect and copy bank records",
+  "body": "\"This form is for use with the Criminal Procedure Rules, Part 17 Witness summonses, warrants and orders. \"",
+  "base_path": "/government/publications/application-for-order-to-inspect-and-copy-bank-records",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "2024 Global Accounts of private registered providers",
+  "body": "\"The Global accounts sets out information such as private registered providers’ income and costs, the value of their housing assets and the level of borrowing that they have. The Global accounts cover the year up to the end of March 2024.  All the Regulator of Social Housing’s Global accounts are available on the Global accounts collections page  This page also includes the annex on Value for money metrics. More information about value for money can be found on the Value for money reports and guidance page.  \"",
+  "base_path": "/government/publications/2024-global-accounts-of-private-registered-providers",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

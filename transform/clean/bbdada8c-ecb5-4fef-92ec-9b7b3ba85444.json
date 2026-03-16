@@ -1,0 +1,19 @@
+{
+  "title": "Water recycling for public water supply: Environment Agency position statement",
+  "body": "\"This statement sets out the Environment Agency’s position on water recycling as a public water supply option in England. \"",
+  "base_path": "/government/publications/water-recycling-for-public-water-supply-environment-agency-position-statement",
+  "taxons": [
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Environmental Indicator Framework: Indicator Reporting Status",
+  "body": "\"This document summarises the reporting status of the constituent indicators of the Environmental Indicator Framework. Overall status is presented as well as status by theme. \"",
+  "base_path": "/government/publications/environmental-indicator-framework-indicator-reporting-status",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

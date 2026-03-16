@@ -1,0 +1,35 @@
+{
+  "title": "Cameroon’s hidden green treasures unveiled in a book",
+  "body": "\"In a powerful moment for conservation, the book “Important Plant Areas of Cameroon” was officially launched on 18 June during UK - Cameroon Climate Week. This groundbreaking publication reveals a stunning yet sobering reality: over 850 endangered plant species are spread across 49 critical biodiversity hotspots in Cameroon.  Co-authored by experts from Cameroon’s Institute of Agricultural Research for Development (IRAD) National Herbarium, and the Royal Botanic Gardens, Kew, the book positions Cameroon as Africa’s most tropically diverse nation. From lush rainforests to arid deserts, the country’s ecosystems are as varied as they are vital. Yet, this rich biodiversity faces mounting threats. 10% of Cameroon’s plant species are now endangered, and the country holds the highest number of threatened trees on the continent.  The culprits? Expanding mining operations, aggressive logging, and the relentless spread of palm oil plantations are rapidly eroding Cameroon’s forests. These activities not only endanger plant life but also jeopardize the ecological balance of the entire Congo Basin.  British High Commissioner Matt Woods used the book’s launch to spotlight Cameroon’s critical role in global climate discussions. He urged the international community to amplify Cameroon’s voice at major forums like COP30 and called for stronger global support to safeguard the Congo Basin’s irreplaceable biodiversity.  Speaking during the book launch, the representative of Royal Botanical Gardens in Kew, Prof. Philip Stevenson said:   It’s been a fantastic week of new collaboration. We’ve been working with IRAD National Herbarium and developing opportunities to extend our reach and do more work here in Cameroon.   This book is more than a catalogue of rare plants; it is a call to action. As the world grapples with climate change and biodiversity loss, Cameroon’s green treasures remind us of what’s at stake and what we still have the power to protect.  \"",
+  "base_path": "/government/news/cameroons-hidden-green-treasures-unveiled-in-a-book",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Climate change international action",
+      "base_path": "/environment/climate-change-international-action"
+    },
+    {
+      "title": "Emissions and emissions trading",
+      "base_path": "/environment/climate-change-energy-emissions"
+    },
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    },
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    },
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    }
+  ]
+}

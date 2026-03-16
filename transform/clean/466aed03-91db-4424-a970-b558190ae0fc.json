@@ -1,0 +1,19 @@
+{
+  "title": "Evaluation of the County Lines Programme",
+  "body": "\"The County Lines Programme aims to tackle the drug gangs that run county lines through violence and exploitation. The Home Office commissioned the London School of Economics to independently assess the impact of the programme on a range of crime types, primarily serious violence. The Home Office has also produced an updated assessment of the effectiveness of the County Lines Programme in addressing its key crime outcomes, expanding on the previous evaluation conducted in 2024 by the London School of Economics.  The 2025 evaluation and previous 2024 evaluation both indicate that the County Lines Programme leads to reductions in knife crime (measured through hospitalisations due to assault with a sharp object), and drug-related harms, as indicated by drug-misuse hospitalisations, within the exporter forces. Additionally, the evidence suggests that police-recorded crimes, such as violent offences and law enforcement efforts are increasing due to the County Lines Programme. However, this likely reflects heightened and targeted policing and changes in recording practices. \"",
+  "base_path": "/government/publications/evaluation-of-the-county-lines-programme",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Knife, gun and gang crime",
+      "base_path": "/crime-justice-and-law/knife-gun-and-gang-crime"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

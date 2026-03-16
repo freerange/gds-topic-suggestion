@@ -1,0 +1,11 @@
+{
+  "title": "Sea passenger statistics, all routes: 2024",
+  "body": "\" The number of cruise passengers in 2019, 2022 and 2023 has been revised due to an over-estimation of passengers at Southampton for these years. The trends are not affected.    Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing us with any comments about how we meet these standards.   Annual statistics on the number of sea passengers which include all vehicle drivers, their passengers and foot passengers on ferries and cruise ships.  For international passengers in 2024:   the total number of international short sea passengers (on ferry routes) grew by 1% to 15.3 million but remained 17% below 2019 levels cruise passengers increased to 3.1 million in 2024, a 16% increase from 2.6 million in 2023 and a 51% increase from 2.0 million in 2019   For domestic passengers in 2024:   the total number of passengers on domestic sea crossings remained stable at 3.8 million, but was 9% higher than 2019 levels inter-island passengers were at similar levels to 2023, but remained 14% lower than in 2019 the number of passengers on river ferries increased 3% compared to 2023 and was 7% lower than in 2019   Guidance on current and previous sea passenger statistics are available.  Contact us  Sea passenger statistics     Email sea-passenger.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats.  \"",
+  "base_path": "/government/statistics/sea-passenger-statistics-all-routes-2024",
+  "taxons": [
+    {
+      "title": "UK sea passengers",
+      "base_path": "/transport/uk-sea-passengers"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "India-UK Connectivity and Innovation Centre",
+  "body": "\"The India-UK Connectivity and Innovation Centre will bring together complementary strengths in UK and Indian innovation in advanced connectivity, which is a priority technology in the UK’s Industrial Strategy. The UK and Indian governments have committed a combined initial £24 million over four years, in collaboration with industry partners including BT, Ericsson and Nokia who plan to directly contribute to the research areas the Centre will focus on.  The centre will drive advancements in:   transforming telecoms with AI non-terrestrial networks telecoms cybersecurity   This Centre, delivered as part of the UK-India Technology Security Initiative, stands as a flagship example of the UK-India Research and Innovation Corridor in action, and reflects the shared ambition set out in the Prime Minister–Prime Minister 2035 Vision. \"",
+  "base_path": "/government/publications/india-uk-connectivity-and-innovation-centre",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Networks and telecommunications",
+      "base_path": "/government/networks-and-telecommunications"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

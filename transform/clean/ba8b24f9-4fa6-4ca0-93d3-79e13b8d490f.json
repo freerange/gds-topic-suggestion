@@ -1,0 +1,11 @@
+{
+  "title": "DSIT accessibility statement for the UK Innovation Cluster Map",
+  "body": "\"An accessibility statement for the Department for Science, Innovation and Technology’s Cluster Map website. \"",
+  "base_path": "/government/publications/dsit-accessibility-statement-for-the-uk-innovation-cluster-map",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

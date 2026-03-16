@@ -1,0 +1,23 @@
+{
+  "title": "Pride in Place Programme prospectus",
+  "body": "\"Fund summary  Type of fund: Un-competed.  Eligibility: 244 communities across Great Britain, including 75 phase 1 places and 169 phase 2 places.  Funding available: Up to £20 million funding and support for each place over a 10-year period.  Important dates:   28 November 2025: 75 phase 1 Neighbourhood Boards submit their Pride in Place Plan to MHCLG for assessment and approval.  From April 2026: phase 1 programme delivery funding released to local authorities, and delivery phase begins. Phase 2 areas begin to receive initial funding.  17 July 2026: 169 phase 2 Neighbourhood Boards to confirm finalised membership and any proposals to alter the ‘default’ area boundary.  \"",
+  "base_path": "/government/publications/pride-in-place-programme-prospectus",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "City deals and growth deals",
+      "base_path": "/business-and-industry/city-deals-and-growth-deals"
+    },
+    {
+      "title": "Regional growth fund",
+      "base_path": "/business-and-industry/regional-growth-fund"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

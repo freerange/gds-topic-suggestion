@@ -1,0 +1,11 @@
+{
+  "title": "Port freight quarterly statistics: April to June 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/port-freight-quarterly-statistics-april-to-june-2026",
+  "taxons": [
+    {
+      "title": "Ports, harbours and offshore installations",
+      "base_path": "/transport/ports-harbours-and-offshore-installations"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "New films showcase the landscapes of the South West",
+  "body": "\"The stunning beauty of the South West has inspired many writers and artists, but now Natural England has joined forces with a poet and film maker to create a series of six inspiring videos about nature on protected sites in this corner of the country.  Taking in protected sites across Cornwall, Devon and Somerset, the films, called “Wild Westcountry Odyssey” are a result of a collaboration between Natural England’s Protected Site Strategies (PSS) Research and Development Programme and the [RENEW Biodiversity project] (https://renewbiodiversity.org.uk/) at the University of Exeter. RENEW (Renewing biodiversity through a people in nature approach) is a collaboration between the University and the  National Trust, funded by the Natural Environment Research Council. It also partners with major conservation bodies like the RSPB and Wildlife Trusts.  The aim of future Protected Site Strategies will be to ensure the root causes of environmental issues – often driven by factors beyond the sites themselves – are addressed in ways that guarantee wildlife thrives on those sites, while helping nature recovery beyond their boundaries. All six of the Protected Sites chosen for the films are Sites of Special Scientific Interest and Habitat Sites.  Each film includes two short poems, specially written by John Wedgwood Clarke. The films celebrate the beauty and diversity of nature on the sites and the key achievements and projects that have restored habitats and species and are successfully tackling environmental change and impacts resulting from human activity  David Burton, Natural England’s Principal Officer for the Protected Site Strategies Implementation and Development programme, said:   We supported the production of the films to research how creative media can help re-set the relationships between people and nature within the framework of Protected Site Strategies. The approach is to educate and highlight the need for nature recovery to everyone.  Too often the environment sector has failed to communicate the plight of biodiversity in accessible, positive and thought-provoking ways. For Protected Site Strategies to realise the ambition we have set for them, resetting the relationships between nature and people in ways that build a resilient future for all, we need to harness the power of creative channels for our call to action.  John, Simon, and the rest of the ‘Wild Westcountry Odyssey’ team have created inspirational stories through film and poetry to help set our first few Protected Site Strategies on their way.   Simon Willis, filmmaker, said:   It’s been a privilege to work with all the nature reserves and John. The human effort that goes into keeping them thriving for wildlife is remarkable.  I hope our images and John’s words encourage people to look beyond the picture postcard and really value the wildlife that makes the South West such a great place to visit.   John Wedgwood Clarke, Professor of Poetry at the University of Exeter, said:   The South West’s diverse and beautiful landscapes have been the source of great joy for so many people and have inspired writers and artists over time. But take a closer look and you realise how fragile many of our ecosystems...",
+  "base_path": "/government/news/new-films-showcase-the-landscapes-of-the-south-west",
+  "taxons": [
+    {
+      "title": "Parks, trails and nature reserves",
+      "base_path": "/environment/parks-trails-nature-reserves"
+    },
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    },
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    },
+    {
+      "title": "Wildlife and habitat conservation",
+      "base_path": "/environment/wildlife-habitat-conservation"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Bluefin Tuna Catch and Release Recreational Fishery (CRRF) 2025",
+  "body": "\"This is an official statistics release.  Starting in 2024, an English Catch and Release Recreational Fishery (CRRF) for Bluefin Tuna (BFT) has been opened. The MMO collects data from this fishery for operational purposes, including monitoring and managing the fishery throughout the season. The MMO is also required to submit data to the International Council for the Conservation of Atlantic Tuna (ICCAT) to fulfil the UK’s reporting obligations as a contracting party.  These official statistics contain details about fishing activity from the Bluefin Tuna CRRF in the 2025 season.  View the accompanying underlying datasets and annexes above  For details on the methodology and revisions policy please refer to the methodology page. \"",
+  "base_path": "/government/statistics/bluefin-tuna-catch-and-release-recreational-fishery-crrf-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "MGN 587 (F) Amendment 2 ILO health and safety responsibilities",
+  "body": "\"This notice should be read in conjunction with the Merchant Shipping and Fishing Vessels (Health and Safety at Work) Regulations 1997 as amended in 2018 and MGN 587 (F) Amendment 1.  Amendment 2 updates references only.  Notice to   fishing vessel owners operators and managers employers of fishermen skippers officers and fishermen on fishing vessels.  \"",
+  "base_path": "/government/publications/mgn-587-f-amendment-2-ilo-health-and-safety-responsibilities",
+  "taxons": [
+    {
+      "title": "Fishing",
+      "base_path": "/transport/fishing"
+    },
+    {
+      "title": "Safe and compliant operation of vessels",
+      "base_path": "/transport/safe-and-compliant-operation-of-vessels"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    }
+  ]
+}

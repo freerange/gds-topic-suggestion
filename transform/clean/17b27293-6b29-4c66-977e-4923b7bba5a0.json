@@ -1,0 +1,15 @@
+{
+  "title": "HMCTS management information – reformed services December 2024",
+  "body": "\"The information in these tables covers a range of reformed service components in the criminal, civil, family and tribunals jurisdictions. The management information primarily focuses on the digital uptake, number of applications and user satisfaction of services reformed under the HMCTS Reform Programme.  This edition of Management Information also includes information about calls to HMCTS and paper savings achieved through the Reform Programme.  We plan to publish this management information on our reformed services twice a year with the potential for further metrics and more services being added to the publication over time.  These figures reflect the data held on the relevant case management systems so there are definitional and timing differences from any reference to these services in Ministry of Justice official statistics. Footnotes underneath the tables provide further detail on the services and metric definitions included in the dataset.               Reformed services Management Information    MS Excel Spreadsheet, 66.3 KB     This file may not be suitable for users of assistive technology.    Request an accessible format.    If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email hmctsforms@justice.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.      \"",
+  "base_path": "/government/statistical-data-sets/hmcts-management-information-reformed-services-december-2024",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    },
+    {
+      "title": "Justice system transparency",
+      "base_path": "/crime-justice-and-law/justice-system-transparency"
+    }
+  ]
+}

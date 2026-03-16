@@ -1,0 +1,11 @@
+{
+  "title": "Summary Hospital-level Mortality Indicator (SHMI), Deaths associated with hospitalisation, England, June 2024 - May 2025",
+  "body": "\"The Summary Hospital-level Mortality Indicator (SHMI) reports on mortality at trust level across the NHS in England using a standard and transparent methodology. It is produced and published monthly as a Accredited Official Statistic by NHS England.  The SHMI is the ratio between the actual number of patients who die following hospitalisation at the trust and the number that would be expected to die on the basis of average England figures, given the characteristics of the patients treated there. \"",
+  "base_path": "/government/statistics/summary-hospital-level-mortality-indicator-shmi-deaths-associated-with-hospitalisation-england-june-2024-may-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

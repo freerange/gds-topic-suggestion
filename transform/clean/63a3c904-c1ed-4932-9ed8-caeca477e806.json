@@ -1,0 +1,11 @@
+{
+  "title": "AI for Science Strategy",
+  "body": "\"The AI for Science Strategy positions the UK to benefit from the transformation of scientific research by AI.  It has 2 objectives to develop leading capabilities in AI-driven science, and to ensure the UK retains its position of global scientific leadership.  \"",
+  "base_path": "/government/publications/ai-for-science-strategy",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

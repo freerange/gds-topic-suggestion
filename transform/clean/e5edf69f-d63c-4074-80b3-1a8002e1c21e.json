@@ -1,0 +1,11 @@
+{
+  "title": "Access to Work grant expenditure forecasts",
+  "body": "\"This publication covers the Department for Work and Pensions (DWP) Access to Work grant expenditure forecasts and methodology. \"",
+  "base_path": "/government/publications/access-to-work-grant-expenditure-forecasts",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Boost in funding for care homes providing nursing",
+  "body": "\"More than 75,000 people will be better supported in the community following an increase in funding for nursing care.  The government has announced a 7.7% increase in funding for care homes providing nursing care in the community, which is tailored to an individual’s needs and health outcomes. This includes administering medicines and performing procedures.  The funding will help reduce the pressure on hospitals by preventing unnecessary admissions and supports the discharge of individuals into social care settings to free up hospital beds.  The uplift for 2025 to 2026 means the standard weekly rate per person provided for NHS-funded nursing care will increase from £235.88 to £254.06 from 1 April 2025, with funding paid by the NHS directly to care homes which provide nursing care. The higher rate will increase from £324.50 to £349.50.  Care homes play a vital role in our healthcare system, providing specialist nursing care to some of our most vulnerable citizens.  The uplift follows the government’s immediate actions to improve adult social care, as part of the Plan for Change, to help create a sustainable care system for the future. This includes making available £3.7 billion to local authorities, and providing a total of £172 million in additional funding for the Disabled Facilities Grant to deliver around 15,000 new adaptations to help disabled people live safely and independently in their own homes.  In the longer term, Baroness Louise Casey is leading an independent commission to develop recommendations for a national care service which will provide high-quality care for everybody who needs it and rebuild the sector so that it is fit for the future. \"",
+  "base_path": "/government/news/boost-in-funding-for-care-homes-providing-nursing",
+  "taxons": [
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    },
+    {
+      "title": "Health workforce",
+      "base_path": "/health-and-social-care/health-workforce"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

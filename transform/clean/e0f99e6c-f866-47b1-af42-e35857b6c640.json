@@ -1,0 +1,11 @@
+{
+  "title": "List of statistics with pre-release access",
+  "body": "\"The document provides a list of our key official statistics which have pre-release access and the roles of those who have been granted pre-release access to those key official statistics. \"",
+  "base_path": "/government/publications/list-of-statistics-with-pre-release-access",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

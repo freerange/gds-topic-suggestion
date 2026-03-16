@@ -1,0 +1,11 @@
+{
+  "title": "DBT inward investment results for Central Europe: 2020 to 2025",
+  "body": "\"The inward investment results contain information on the:   number of investment projects from Central Europe landing in the UK by country number of investment projects from Central Europe landing in the UK by sector number of new jobs created from the investment projects landing in the UK   The statistics cover investments landing in the UK between 1 April 2020 and 31 March 2025.  \"",
+  "base_path": "/government/statistics/dbt-inward-investment-results-for-central-europe-2020-to-2025",
+  "taxons": [
+    {
+      "title": "Inward investment",
+      "base_path": "/business-and-industry/inward-investment"
+    }
+  ]
+}

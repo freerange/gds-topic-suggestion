@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Diagnostic Waiting Time Statistics Quarter Ending December 2024",
+  "body": "\"Information is detailed on the number of patients waiting, and length of time waiting, for diagnostic services, as well as diagnostic reporting turnaround times at health and social care trusts in Northern Ireland. The information in the publication reports on performance against the ministerial diagnostic target in Northern Ireland. \"",
+  "base_path": "/government/statistics/northern-ireland-diagnostic-waiting-time-statistics-quarter-ending-december-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

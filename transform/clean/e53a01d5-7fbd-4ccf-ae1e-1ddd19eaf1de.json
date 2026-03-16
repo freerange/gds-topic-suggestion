@@ -1,0 +1,19 @@
+{
+  "title": "Changes to GOV.UK",
+  "body": "\"Overview  You may see some differences while using GOV.UK. Its look and feel are being updated to make sure GOV.UK works well for everyone, as it expands into new channels such as the GOV.UK App and the GOV.UK Wallet.  You can expect to see the old and new branding for a while as changes are made to the website and other GOV.UK products. This is normal and you should continue using GOV.UK as usual.  How to know you’re in the right place  On the website, you will see either the previous logo and wordmark:   The previous GOV.UK logo and wordmark - the Tudor Crown with GOV.UK written next to it with a dot between GOV and UK on a black background.  Or the new version:   The new GOV.UK logo and wordmark - the Tudor Crown with GOV.UK written next to it, with a light blue coloured dot up in the middle between GOV and UK on a blue background.  You will also see this updated wordmark in other channels, alongside new elements including:   greater use of colour, including the blue colour already featured on the GOV.UK homepage the introduction of animation into the GOV.UK identity, primarily in the GOV.UK App and on GOV.UK’s social media accounts   As new GOV.UK products and services are made available, they will use the updated visual identity. \"",
+  "base_path": "/guidance/changes-to-govuk",
+  "taxons": [
+    {
+      "title": "Government content and publishing",
+      "base_path": "/government/content-publishing"
+    },
+    {
+      "title": "GOV.UK services",
+      "base_path": "/government/govuk-services"
+    },
+    {
+      "title": "Managing government websites",
+      "base_path": "/government/technology-guidance-technology-guidance-managing-government-websites"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Surveillance protocol for the C. difficile ribotyping network",
+  "body": "\"The Clostridioides difficile ribotyping network (CDRN) for England and Northern Ireland was established in 2007. Its aim was to support NHS trusts by determining the scale and spread of high virulence and highly transmissible ribotypes in acute trusts in England. The CDRN provides timely access to Clostridioides difficile culture, ribotyping and DNA fingerprinting services, according to standardised submission criteria. National CDRN services are centralised at the UK Health Security Agency (UKHSA) Laboratory Leeds (Reference Laboratory, Leeds Teaching Hospitals Trust).  To provide a more structured sample of cases, and enhance the information available per sample, UKHSA has introduced active surveillance of C. difficile strains circulating in England and implemented WGS. This new ‘sentinel’ scheme using WGS, is designed to identify newly circulating strains more rapidly than current surveillance does, and will study isolates from specific, named trusts. For all trusts, whether within the sentinel scheme or not, the CDRN will maintain the on-request service for polymerase chain reaction (PCR)-ribotyping or multi-locus variable number tandem repeat analysis (MLVA).  \"",
+  "base_path": "/government/publications/surveillance-protocol-for-the-c-difficile-ribotyping-network",
+  "taxons": [
+    {
+      "title": "Laboratories and reference facilities",
+      "base_path": "/health-and-social-care/health-protection-services-laboratories-and-reference-facilities"
+    }
+  ]
+}

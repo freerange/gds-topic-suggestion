@@ -1,0 +1,19 @@
+{
+  "title": "FCDO ministerial gifts, hospitality, travel and meetings, July to September 2024",
+  "body": "\"The Foreign, Commonwealth & Development Office (FCDO) publishes details of ministers’ meetings with external organisations, gifts (given and received), hospitality and overseas travel every 3 months.  This data is also on data.gov.uk: Foreign, Commonwealth & Development Office: Ministers gifts, hospitality, travel and meetings. \"",
+  "base_path": "/government/publications/fcdo-ministerial-gifts-hospitality-travel-and-meetings-july-to-september-2024",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "International aid and development",
+      "base_path": "/international/international-aid-and-development"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

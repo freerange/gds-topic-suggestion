@@ -1,0 +1,27 @@
+{
+  "title": "Lebanon: funeral directors",
+  "body": "\"The Foreign, Commonwealth & Development Office (FCDO) does not accept any liability to any person or company for any financial loss or damage arising from the use of this information or from any failure to give information. \"",
+  "base_path": "/government/publications/lebanon-funeral-directors",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Birth, death and marriage abroad in Lebanon",
+      "base_path": "/world/birth-death-and-marriage-abroad-lebanon"
+    }
+  ]
+}

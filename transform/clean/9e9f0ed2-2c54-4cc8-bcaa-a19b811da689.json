@@ -1,0 +1,11 @@
+{
+  "title": "Scoping the value of travel time and value of travel time reliability",
+  "body": "\"The value of travel time (VTT) and value of travel time reliability (VTTR) are used by the Department for Transport (DfT) to appraise transport schemes.  The current VTT and VTTR recommended in DfT’s transport analysis guidance (TAG) were estimated in a national UK study.  This report presents the outcomes of updating the VTT and VTTR.  It was carried out by a consortium of ARUP, the Institute for Transport Studies (University of Leeds) and Accent on behalf of DfT.  \"",
+  "base_path": "/government/publications/scoping-the-value-of-travel-time-and-value-of-travel-time-reliability",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "NI Labour Market statistics: April 2025",
+  "body": "\"The labour market report is produced by Economic and Labour Market Statistics Branch which is part of the Northern Ireland Statistics and Research Agency (NISRA). It is published on a monthly basis with the latest labour market statistics for Northern Ireland. \"",
+  "base_path": "/government/statistics/ni-labour-market-statistics-april-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

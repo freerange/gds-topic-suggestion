@@ -1,0 +1,19 @@
+{
+  "title": "The Prevalence of Autism (including Aspergers Syndrome) in School Age Children in Northern Ireland 2025",
+  "body": "\"This annual report aims to show the prevalence rate of autism amongst the compulsory school age population. Analyses are provided by health and social care trust, gender, school year, special educational needs and multiple deprivation measure. \"",
+  "base_path": "/government/statistics/the-prevalence-of-autism-including-aspergers-syndrome-in-school-age-children-in-northern-ireland-2025",
+  "taxons": [
+    {
+      "title": "Help for children with a long-term illness or disability",
+      "base_path": "/childcare-parenting/help-for-children-with-a-long-term-illness-or-disability"
+    },
+    {
+      "title": "Support for children with special educational needs and disabilities (SEND)",
+      "base_path": "/childcare-parenting/support-for-children-with-send"
+    },
+    {
+      "title": "Autism",
+      "base_path": "/health-and-social-care/autism"
+    }
+  ]
+}

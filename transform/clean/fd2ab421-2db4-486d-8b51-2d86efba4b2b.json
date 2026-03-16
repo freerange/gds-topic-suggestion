@@ -1,0 +1,15 @@
+{
+  "title": "Qualification price statistics: 2025",
+  "body": "\"This report presents Ofqual’s annual qualification price statistics, tracking price changes and average costs across different qualification types in England. It provides year-on-year inflation data for general qualifications (GCSEs, AS and A levels), vocational and technical qualifications, and – for the first time – apprenticeship end-point assessments, comparing these figures with wider economic indicators.  The statistics support Ofqual’s objective to ensure regulated qualifications offer value for money. By monitoring price trends across different qualification sectors, levels and subject areas, the report provides transparency for stakeholders while providing appropriate economic and sectoral context.  Standard qualification fee (SQF) data has been published as a supplementary document to the qualification price statistics. For the most accurate and up-to-date fee information, users should consult awarding organisations’ websites, where current fees are required to be published. \"",
+  "base_path": "/government/publications/qualification-price-statistics-2025",
+  "taxons": [
+    {
+      "title": "Further and higher education courses and qualifications",
+      "base_path": "/education/further-and-higher-education-courses-and-qualifications"
+    },
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    }
+  ]
+}

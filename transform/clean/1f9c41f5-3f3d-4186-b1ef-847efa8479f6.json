@@ -1,0 +1,11 @@
+{
+  "title": "Air accident monthly bulletin February 2025",
+  "body": "\"AAIB Correspondence Investigations   These are reports on accidents and incidents which were not subject to a Field Investigation.   They are wholly, or largely, based on information provided by the aircraft commander in an Aircraft Accident Report Form (AARF) and in some cases additional information from other sources.   The accuracy of the information provided cannot be assured.   Commercial Air Transport    Boeing 787-8 (G-TUIB), declaration of a fuel emergency following a missed approach due to windshear, Birmingham Airport, 21 December 2023   General Aviation   Socata TB-20 Trinidad (N33NW), collision with trees during takeoff, Langham Airfield, Norfolk, 10 October 2023   Unmanned Aircraft Systems   UAS Malloy T005 (UAS registration n/a), loss of control after flight mode change, White Waltham Airfield, Berkshire, 2 April 2024   Record-Only Investigations  This section provides details of accidents and incidents which were not subject to a Field or full Correspondence Investigation.  They are wholly, or largely, based on information provided by the aircraft commander at the time of reporting and in some cases additional information from other sources.  The accuracy of the information provided cannot be assured.  Record-only Correspondence investigations reviewed in November and December 2024.) \"",
+  "base_path": "/government/publications/air-accident-monthly-bulletin-february-2025",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

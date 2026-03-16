@@ -1,0 +1,23 @@
+{
+  "title": "Lebanon: information for victims of rape and sexual assault",
+  "body": "\"This information is provided to help British nationals make an informed decision about whether to seek medical advice or police assistance following a rape or sexual offence in Lebanon. It is intended to provide detailed information regarding engaging with foreign legal authorities and what help is available after making an allegation of such a crime.  \"",
+  "base_path": "/government/publications/rape-and-sexual-assault-in-lebanon-information-for-victims",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Legal aid",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers"
+    },
+    {
+      "title": "Victims of crime",
+      "base_path": "/crime-justice-and-law/victims-of-crime"
+    }
+  ]
+}

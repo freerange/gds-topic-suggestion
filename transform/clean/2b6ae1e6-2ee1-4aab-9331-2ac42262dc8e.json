@@ -1,0 +1,15 @@
+{
+  "title": "Prime Minister's strategic steer to the nuclear sector",
+  "body": "\"This strategic steer sets out the government’s priorities for modernising and expanding the UK’s civil and defence nuclear programmes.  It calls for urgent action to embed principles of efficient delivery, uncompromising safety, and a ‘one-team’ regulatory approach across strategies and operations, ensuring timely, cost-effective delivery while maintaining public trust and national security.  International engagement and streamlined regulation will underpin efforts to deliver a resilient, low-carbon energy future and strengthen the UK’s nuclear deterrent.  The steer follows the 2025 Nuclear Regulatory Taskforce Review. \"",
+  "base_path": "/government/publications/prime-ministers-strategic-steer-to-the-nuclear-sector",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Energy industry and infrastructure licensing and regulation",
+      "base_path": "/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation"
+    }
+  ]
+}

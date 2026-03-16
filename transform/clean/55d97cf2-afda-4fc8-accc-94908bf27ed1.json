@@ -1,0 +1,11 @@
+{
+  "title": "Small area gross value added estimates, UK: 1998 to 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/small-area-gross-value-added-estimates-uk-1998-to-2023",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

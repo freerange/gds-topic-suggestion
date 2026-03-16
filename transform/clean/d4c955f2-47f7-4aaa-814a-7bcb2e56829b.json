@@ -1,0 +1,11 @@
+{
+  "title": "April effort statistics 2025",
+  "body": "\"Crabs     Trip type BSA(c) ICES V-VI ICES VII     Effort deployed (kW days) - 47,628 63,073   Maximum allowable effort (d) (kW days) 393 702,292 543,946   Uptake (%) 0% 7% 12%     Demersal     Trip type BSA(c) ICES V-VI ICES VII     Effort deployed (kW days) 84,887 1,566,328 2,028,355   Maximum allowable effort (d) (kW days)   3,061,485   24,017,229   25,786,266   Uptake (%) 3% 7% 8%     Scallops     Trip type BSA(c) ICES V-VI ICES VII      Effort deployed (kW days) 0 87,639 895,013 -   Maximum allowable effort (d) (f) (kW days) 1,223 1,974,425 3,315,619     Uptake (%) 0% 4% 27%      \"",
+  "base_path": "/government/statistical-data-sets/april-effort-statistics-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

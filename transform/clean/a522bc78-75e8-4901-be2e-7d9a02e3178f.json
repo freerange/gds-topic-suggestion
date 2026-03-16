@@ -1,0 +1,23 @@
+{
+  "title": "Value for money 2024 benchmarking tool",
+  "body": "\"The Value for Money benchmarking tool allows providers and other stakeholders to assess registered providers’ performance against the regulator’s VFM metrics and to compare them with other providers with similar characteristics.  \"",
+  "base_path": "/government/publications/value-for-money-2024-benchmarking-tool",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

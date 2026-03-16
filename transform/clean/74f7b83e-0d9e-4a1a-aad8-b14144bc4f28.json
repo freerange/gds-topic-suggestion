@@ -1,0 +1,11 @@
+{
+  "title": "DSIT regulatory spectrum sandboxes",
+  "body": "\"The regulatory spectrum sandboxes were a 12-month, £5 million DSIT funded initiative that brought together industry and academia in defined areas to explore how different spectrum applications and systems could coexist. Participants considered different approaches and mechanisms for sharing spectrum, examining how these could potentially foster quicker and more innovative sharing.    Each sandbox project explored enhanced spectrum sharing through three work packages:  1. Practical testbeds: Collected field measurements and compared system performance under conventional and intensive sharing. 2. Simulation and modelling: Assessed the applicability of sharing solutions across different parameters, locations, frequencies, and technologies. 3. Economic and regulatory assessment: Evaluated the economic value of sharing solutions and suggested regulatory mechanisms and tools.  The spectrum sandboxes were led by Real Wireless, Durham University and Queen Mary University of London.  Spectrum is the lifeblood of wireless technology. As technology advances and more devices are connected there is increasing pressure on this finite resource. Facilitating more intensive spectrum sharing will ensure we are making the most of the spectrum and will open up spectrum for future connectivity, helping to unlock our connectivity ambitions, and support economic growth across the country. \"",
+  "base_path": "/government/collections/dsit-regulatory-spectrum-sandboxes",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

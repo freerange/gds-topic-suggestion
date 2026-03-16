@@ -1,0 +1,11 @@
+{
+  "title": "Past and projected period and cohort life tables: 2022-based, UK, 1981 to 2072",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/past-and-projected-period-and-cohort-life-tables-2022-based-uk-1981-to-2072",
+  "taxons": [
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    }
+  ]
+}

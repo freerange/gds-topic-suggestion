@@ -1,0 +1,11 @@
+{
+  "title": "Rail Trends 2025",
+  "body": "\"This publication provides an overview of statistical releases on rail in Great Britain for the period April 2024 to March 2025. It covers passenger and freight usage, performance, accessibility, finance, health and safety, infrastructure, and environmental impact. This includes summary statistics drawn from several government departments, including the Department for Transport, the Office of Rail and Road, HM Treasury, the Office for National Statistics, and other departments. It also incorporates data from industry bodies such as Network Rail, as well as passenger and freight operators.  Contact us  For questions relating to Rail Passenger Crowding, the National Travel Survey (NTS), or Country and Regional Analysis (CRA), please email Rail Statistics Team at Department for Transport. For all other queries, please contact the Office of Rail and Road (ORR).   Rail statistics enquiries     Email rail.stats@dft.gov.uk     Media enquiries 0300 7777 878        Office of Rail and Road rail statistics     Email rail.stats@orr.gov.uk     Media enquiries 07856 279808       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats. \"",
+  "base_path": "/government/statistics/rail-trends-2025",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    }
+  ]
+}

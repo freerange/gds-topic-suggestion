@@ -1,0 +1,15 @@
+{
+  "title": "Quarterly Employment Survey: March 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/quarterly-employment-survey-march-2026",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

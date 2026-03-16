@@ -1,0 +1,15 @@
+{
+  "title": "Secondary school performance data in England: 2024 to 2025",
+  "body": "\"The Compare school and college performance in England service now includes secondary school performance data for 2024 to 2025.  This shows:   attainment results for pupils at the end of key stage 4 the progress made by pupils between the end of primary school and the end of secondary school  \"",
+  "base_path": "/government/statistics/secondary-school-performance-data-in-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Pupil performance in schools",
+      "base_path": "/education/pupil-performance-in-schools"
+    },
+    {
+      "title": "School performance tables and Ofsted reports",
+      "base_path": "/education/school-performance-tables-and-ofsted-reports"
+    }
+  ]
+}

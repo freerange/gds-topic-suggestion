@@ -1,0 +1,11 @@
+{
+  "title": "Crime outcomes year to June 2025: data tables",
+  "body": "\"Outcomes assigned to offences recorded to June 2025 and the total number of outcomes recorded, by outcome type and offence type. \"",
+  "base_path": "/government/statistics/crime-outcomes-year-to-june-2025-data-tables",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

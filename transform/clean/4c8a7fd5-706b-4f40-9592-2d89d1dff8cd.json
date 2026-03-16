@@ -1,0 +1,19 @@
+{
+  "title": "Universal Credit Local Housing Allowance rates: 2025 to 2026",
+  "body": "\"This data sets out the monthly Universal Credit Local Housing Allowance rates from 2025 to 2026.  The data uses the following terms:     Term Explanation     BRMA An area relating to access to facilities and services containing a variety of residential lettings across which Local Housing Allowances are determined   CAT A A dwelling where the tenant has exclusive use of only one bedroom with shared use of other facilities   CAT B A dwelling where the tenant has exclusive use of only one bedroom with exclusive use of other facilities   CAT C A dwelling where the tenant has the use of only 2 bedrooms   CAT D A dwelling where the tenant has the use of only 3 bedrooms   CAT E A dwelling where the tenant has the use of only 4 bedrooms    \"",
+  "base_path": "/government/publications/universal-credit-local-housing-allowance-rates-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    },
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

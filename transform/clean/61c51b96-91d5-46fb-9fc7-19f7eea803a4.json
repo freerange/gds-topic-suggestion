@@ -1,0 +1,15 @@
+{
+  "title": "Safety in the Children and Young People Secure Estate: Update to September 2024",
+  "body": "\"Safety in the Children and Young People Secure Estate statistics captures information on assaults, self-harm, use of force, separations and deaths for all sectors within the Youth Custody Service: Young Offender Institutes (YOIs), the Secure Training Centre (STC), Secure Children’s Homes (SCHs) and Oasis Restore Secure School (ORSS).  Information for ORSS is not included in the accompanying tables.  Information on assaults, self-harm and deaths will be published quarterly, in January, April and October.  Information on assaults, self-harm, use of force, separations and deaths will be published annually in July.  This publication is released by the Youth Custody Service, HMPPS and produced in accordance with arrangements approved by the UK Statistics Authority. \"",
+  "base_path": "/government/statistics/safety-in-the-children-and-young-people-secure-estate-update-to-september-2024",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Young people and the law",
+      "base_path": "/crime-justice-and-law/young-people-and-the-law"
+    }
+  ]
+}

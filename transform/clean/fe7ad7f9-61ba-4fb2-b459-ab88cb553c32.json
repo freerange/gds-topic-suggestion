@@ -1,0 +1,15 @@
+{
+  "title": "Visual impairment and road safety: rapid evidence review",
+  "body": "\"This evidence review was commissioned in response to action 31 of the Road safety statement 2019, which committed the Department for Transport (DfT) to ‘commission research to understand the extent to which driver vision issues pose a road safety risk’.  This action was developed:   due to the growing numbers of older drivers, and the relationship between ageing, and visual and cognitive function in recognition of the fact that the relationship between age and functional decline is not linear   The review found little clear evidence on the relationship between visual impairment and the risk of road collision or casualty, particularly from the UK.  The literature indicates that cataract is the only condition clearly associated with significantly higher rates of motor vehicle collisions.  ScotCen Social Research undertook this research on behalf of DfT.  \"",
+  "base_path": "/government/publications/visual-impairment-and-road-safety-rapid-evidence-review",
+  "taxons": [
+    {
+      "title": "Driving and medical conditions",
+      "base_path": "/transport/driving-and-medical-conditions"
+    },
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

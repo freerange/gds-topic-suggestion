@@ -1,0 +1,11 @@
+{
+  "title": "Study post licence priority service",
+  "body": "\"Guidance about the priority service for Study sponsors. It gives information about the service and how to apply.  Full guidance on how to submit a change of circumstances request on the sponsorship management system (SMS) can be found in the SMS Manual. \"",
+  "base_path": "/government/publications/study-post-licence-priority-service",
+  "taxons": [
+    {
+      "title": "Visa sponsorship",
+      "base_path": "/entering-staying-uk/visa-sponsorship"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Plant varieties and seeds framework for precision bred plant varieties in England",
+  "body": "\"We want to know what you think of our plans to introduce a new framework for precision bred plant varieties in England.  The framework includes a precision bred plant variety list for England for precision bred agricultural and vegetable plant varieties.  We want to understand how the proposed variety list will impact businesses and other organisations. \"",
+  "base_path": "/government/consultations/plant-varieties-and-seeds-framework-for-precision-bred-plant-varieties-in-england",
+  "taxons": [
+    {
+      "title": "Crops and horticulture ",
+      "base_path": "/environment/producing-distributing-food-crops-horticulture"
+    }
+  ]
+}

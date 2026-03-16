@@ -1,0 +1,15 @@
+{
+  "title": "Agricultural and Rural Crime in Northern Ireland, period ending 31 December 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/agricultural-and-rural-crime-in-northern-ireland-period-ending-31-december-2025",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

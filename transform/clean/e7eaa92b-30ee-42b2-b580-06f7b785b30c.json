@@ -1,0 +1,15 @@
+{
+  "title": "DHSC: spending over £25,000, February 2025",
+  "body": "\"The Department of Health and Social Care (DHSC) publishes details of all departmental spending over £25,000 on a monthly basis.   ‘View online’ will only show the first 1,000 rows of data. To view the full data, download and open the CSV file.  \"",
+  "base_path": "/government/publications/dhsc-spending-over-25000-february-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

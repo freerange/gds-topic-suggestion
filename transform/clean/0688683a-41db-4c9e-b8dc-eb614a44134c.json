@@ -1,0 +1,15 @@
+{
+  "title": "Get flood warnings",
+  "body": "\"Our vision is for a warning service for the future which:     meets needs inspires action builds trust   The Environment Agency’s Get flood warnings service provides timely and accurate flood warning messages to those at risk in England. This guidance will help professional (organisation) users manage their Get flood warnings accounts.    It offers step-by-step instructions for main tasks, including:     uploading locations  tailoring flood message preferences  adding contacts   The professional (organisation) service is designed for large organisations and businesses, and Category 1 or 2 responders who require more advanced features.  There are guidance documents for:   adding locations  adding contacts  linking contacts  using keywords  flood messages  checking live flood warnings  reports   You can find out more in the Get flood warning service YouTube tutorials. \"",
+  "base_path": "/government/publications/get-flood-warnings",
+  "taxons": [
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "River maintenance, flooding and coastal erosion",
+      "base_path": "/environment/river-maintenance-flooding-coastal-erosion"
+    }
+  ]
+}

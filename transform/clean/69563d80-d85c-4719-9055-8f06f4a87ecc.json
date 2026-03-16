@@ -1,0 +1,11 @@
+{
+  "title": "Quarterly Child Protection Statistics for Northern Ireland (March 2025)",
+  "body": "\"This publication presents information on the number of children on the child protection register at the end of each quarter by age, gender, category of abuse, legal status and duration on the register. The number of child protection referrals received during each quarter is reported by source of referral. \"",
+  "base_path": "/government/statistics/quarterly-child-protection-statistics-for-northern-ireland-march-2025",
+  "taxons": [
+    {
+      "title": "Data collection for safeguarding and child protection",
+      "base_path": "/childcare-parenting/data-collection-safeguarding-child-protection"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Simplified Process for Internal Market Movements (SPIMM) or UK Carrier (UKC) Scheme: Customs Declaration Service Data Element Completion Guide",
+  "body": "\"This Data Element completion guide provides a detailed breakdown of the specific data elements needed for each declaration category and their completion instructions that may be used for imports to Northern Ireland (NI) from Great Britain (GB) using Simplified Process for Internal Market Movements (SPIMM) and UK Carrier (UKC) Scheme.  It does not cover data element completion instructions for Exports, Inventory Exports, GB Imports and Other NI Import Goods Movements.   SPIMM and UKC eligibility  Where goods are not eligible for SPIMM or UKC, the procedures contained in Other NI Goods Movements Completion Instructions must be used.  The terms of conditions for using SPIMM or UKC must be met.  Read more information about what goods may be imported using SPIMM or UKC.  \"",
+  "base_path": "/government/publications/simplified-process-for-internal-market-movements-spimm-or-uk-carrier-ukc-scheme-customs-declaration-service-data-element-completion-guide",
+  "taxons": [
+    {
+      "title": "UK Trade Tariff and classification of goods",
+      "base_path": "/business/business-tax-import-export-uk-trade-tariff-and-classification-of-goods"
+    }
+  ]
+}

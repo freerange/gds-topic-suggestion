@@ -1,0 +1,11 @@
+{
+  "title": "E-seminar: Optimisation of quantitative real-time PCR assays",
+  "body": "\"This e-seminar will introduce the viewer to the topic of qPCR assay optimisation and provides best practice guidance on how to undertake the process. Assay parameters that routinely require optimisation include: primer annealing temperature; primer and probe concentration, and magnesium concentration of the PCR reaction buffer. Characterisation of assay performance is described, and examples of critical performance criteria provided.  Those who should consider viewing this e-seminar include individuals currently working within the molecular food testing area, particularly representatives from UK Official Control Laboratories, industry and members of organisations associated with the UK official control network. The information presented will equip viewers with the necessary knowledge and skills to broaden the scope of food authenticity testing currently utilised by official and industrial control laboratories.  The production of this e-seminar was funded by Defra, FSA, FSS and BEIS under the Joint Knowledge Transfer Framework for Food Standards and Food Safety Analysis.  Watch the E-seminar: An introduction to the optimisation of quantitative real-time PCR assays \"",
+  "base_path": "/government/news/e-seminar-optimisation-of-quantitative-real-time-pcr-assays",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

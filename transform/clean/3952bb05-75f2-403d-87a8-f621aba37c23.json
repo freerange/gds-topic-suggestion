@@ -1,0 +1,11 @@
+{
+  "title": "Industrial Emissions Directive (IED): environmental permits issued 2026 - A to F",
+  "body": "\" \"",
+  "base_path": "/government/collections/industrial-emissions-directive-ied-environmental-permits-issued-2026-a-to-f",
+  "taxons": [
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    }
+  ]
+}

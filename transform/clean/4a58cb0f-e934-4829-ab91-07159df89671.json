@@ -1,0 +1,15 @@
+{
+  "title": "Provisional woodland statistics 2025",
+  "body": "\"This release provides initial estimates of woodland area, certified woodland area, planting and uptake of the Woodland Carbon Code for the UK and for England, Wales, Scotland and Northern Ireland in the latest year. \"",
+  "base_path": "/government/statistics/provisional-woodland-statistics-2025",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

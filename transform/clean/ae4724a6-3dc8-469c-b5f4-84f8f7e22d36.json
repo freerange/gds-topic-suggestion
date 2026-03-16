@@ -1,0 +1,11 @@
+{
+  "title": "Public Health Outcomes Framework: February 2025 data update",
+  "body": "\" The Office for Health Improvement and Disparities (OHID) has published the Public Health Outcomes Framework (PHOF) quarterly data update for February 2025.   The data is presented in an interactive tool that allows users to view it in a user friendly format. The data tool also provides links to further supporting information, to aid understanding of public health in a local population.   This update includes new data for 50 indicators, including indicators on:   life expectancy and healthy life expectancy infant mortality hospital admissions due to injuries, falls, violent crime, self harm, alcohol related conditions and hip fractures cancer screening and new born screening loneliness and social isolation homelessness school readiness violent crime and domestic abuse offences deaths due to drug misuse   Further details of all indicators in the PHOF, including date of last update, geographies included and inequality breakdowns, are available from PHOF indicator details.  \"",
+  "base_path": "/government/statistics/public-health-outcomes-framework-february-2025-data-update",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Individuals referred to Prevent: to March 2025",
+  "body": "\"This release contains statistics on the number of individuals referred to and supported through the Prevent Programme in England and Wales from April 2024 to March 2025. It includes their journey from referral to support, followed by demographic statistics, including:   age gender concern raised by the initial referrer mental health and neurodiversity conditions geographical location of the individual consent status   We are seeking feedback from users to help us improve future releases of the Prevent statistics publication. Please complete our short user survey to tell us how you use this publication, which parts you find most useful, and any other comments or feedback you may have. The survey should take no longer than 10 minutes to complete, and your views will help shape future publications. Responses can be submitted until 17:00 on Friday 9 January 2026. \"",
+  "base_path": "/government/statistics/individuals-referred-to-prevent-to-march-2025",
+  "taxons": [
+    {
+      "title": "Counter-extremism ",
+      "base_path": "/crime-justice-and-law/counter-extremism"
+    },
+    {
+      "title": "Counter-terrorism",
+      "base_path": "/crime-justice-and-law/counter-terrorism"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

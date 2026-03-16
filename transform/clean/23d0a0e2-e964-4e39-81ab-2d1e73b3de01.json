@@ -1,0 +1,19 @@
+{
+  "title": "Research: individuals generating income through an intermediary",
+  "body": "\"HM Revenue and Customs commissioned Yonder in September 2020 to carry out quantitative research with individuals in the UK in receipt of income which is facilitated by a third-party ‘intermediary’.  Fieldwork was carried out between January and August 2021.  \"",
+  "base_path": "/government/publications/research-individuals-generating-income-through-an-intermediary",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

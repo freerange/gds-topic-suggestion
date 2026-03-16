@@ -1,0 +1,15 @@
+{
+  "title": "Animal welfare strategy for England",
+  "body": "\"The animal welfare strategy sets out the government’s priorities for improving animal welfare, and the steps needed to deliver them. The strategy outlines an ambitious programme of reforms across pets and companion animals, wild and kept wild animals and farmed animals.   The strategy takes an approach which considers animal welfare in the round, prioritising those actions which make the biggest difference. We will work closely with relevant stakeholders - particularly industry bodies, businesses, enforcement bodies and animal welfare organisations - to deliver and embed lasting improvements that will have the greatest impact on animal welfare. \"",
+  "base_path": "/government/publications/animal-welfare-strategy-for-england",
+  "taxons": [
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    },
+    {
+      "title": "Wildlife and animal welfare",
+      "base_path": "/environment/wildlife-and-animal-welfare"
+    }
+  ]
+}

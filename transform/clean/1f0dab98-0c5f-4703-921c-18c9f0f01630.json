@@ -1,0 +1,15 @@
+{
+  "title": "Agreement on defence export controls [MS No.5/2025]",
+  "body": "\"Published title: Agreement on defence export controls. \"",
+  "base_path": "/government/publications/agreement-on-defence-export-controls-ms-no52025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Export controls and licensing",
+      "base_path": "/business-and-industry/export-controls"
+    }
+  ]
+}

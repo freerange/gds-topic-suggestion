@@ -1,0 +1,23 @@
+{
+  "title": "New drainage standards tackle pollution in England’s communities ",
+  "body": "\"In a move to tackle water pollution and protect communities from flooding, the government is updating the national standards for Sustainable Drainage Systems (SuDS) for the first time in a decade.    The new standards – welcomed by the construction industry - will give developers clearer guidance on how to create rainwater management systems that mimic the natural environment and deliver better outcomes.  Suggested features include spaces designed to collect and filter rainwater, which will relieve pressure on our crumbling sewage system and prevent pollution overflowing into our waterways.   Impermeable surfaces such as roads and pavements increase the risk of flooding in heavy downpours, as the excess water has nowhere to go. By introducing materials designed to soak up water, new developments will be better protected against flooding.   The new standards will also encourage design features like green roofs and soakaways. These provide a place for nature to thrive and improve a building’s energy efficiency –reducing energy bills, bringing mental and physical health benefits to communities by expanding access to nature and supporting wildlife.   The updated standards signify the government’s ambition to build 1.5 million homes sustainably without delaying the planning process and comes following the record £104 billion secured from private sector investment to clean up our rivers, lakes and seas.   Water Minister Emma Hardy said:    The Government will introduce new standards to tackle water pollution, protect communities from flooding and make our new towns beautiful.   Nature recovery and growth can go hand in hand, and these new standards will enable the sustainable building of 1.5 million homes as part of the Plan for Change.    Key features of the new standards include:   Reducing flood risk by actively managing surface water on site Improving water quality before it enters rivers and streams Provide community benefits by creating more attractive and resilient places to live and work  Prioritising solutions that enhance biodiversity and green space Encouraging water efficiency, by enabling the reuse of rainwater through harvesting and collection systems Emphasising long-term maintenance and performance    To support the government’s Plan for Change, the updated standards are aligned with the National Planning Policy Framework and will complement wider planning reforms which will take place later this year. Developers are encouraged to innovate and demonstrate how their systems meet the outcomes, rather than follow a one-size-fits-all checklist.  \"",
+  "base_path": "/government/news/new-drainage-standards-tackle-pollution-in-englands-communities",
+  "taxons": [
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Discharge water",
+      "base_path": "/business/environmental-management-water-discharge-water"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

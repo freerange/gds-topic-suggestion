@@ -1,0 +1,15 @@
+{
+  "title": "Pandemic preparedness, prevention and response: health and care research and development framework",
+  "body": "\"The UK government’s health and care research and development framework for pandemic preparedness, prevention and response outlines the strategic themes and governance for research funding prior to and in the event of a pandemic.  This framework was developed by a group of cross-government research funders, public sector research establishments, public and animal health bodies, industry and academia. This is a cross-UK framework and governance structure including England, Scotland, Wales and Northern Ireland. \"",
+  "base_path": "/government/publications/pandemic-preparedness-prevention-and-response-health-and-care-research-and-development-framework",
+  "taxons": [
+    {
+      "title": "Health emergency planning",
+      "base_path": "/health-and-social-care/health-emergency-planning"
+    },
+    {
+      "title": "Vaccine development",
+      "base_path": "/health-and-social-care/vaccine-development"
+    }
+  ]
+}

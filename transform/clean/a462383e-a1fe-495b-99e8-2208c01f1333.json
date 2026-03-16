@@ -1,0 +1,15 @@
+{
+  "title": "Highest qualification and participation in education and training 2024",
+  "body": "\"For working aged adults (aged 16 to 64) and the participation of those in education or training of people aged 25 to 64  (as measured by the lifelong learning indicator). Also provided are additional breakdowns of working aged adults qualified to level 2 and above and level 3 and above in Northern Ireland and in each LGD. \"",
+  "base_path": "/government/statistics/highest-qualification-and-participation-in-education-and-training-2024",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

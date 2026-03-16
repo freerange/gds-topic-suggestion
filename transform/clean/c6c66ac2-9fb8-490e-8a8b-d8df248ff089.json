@@ -1,0 +1,11 @@
+{
+  "title": "Myanmar (Burma): Knowledge Base profile",
+  "body": "\"This document contains useful information about Myanmar (Burma) which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy documents from Myanmar (Burma)  \"",
+  "base_path": "/government/publications/myanmar-burma-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

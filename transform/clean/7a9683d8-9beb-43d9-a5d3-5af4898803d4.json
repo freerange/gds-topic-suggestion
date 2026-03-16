@@ -1,0 +1,15 @@
+{
+  "title": "British Ambassador meets with Minister of Defence",
+  "body": "\"Ambassador Correa and Minister Saenz met to discuss defence cooperation and shared priorities, including regional security, cyber defence and international peace efforts.  The Ambassador praised Guatemalan army commitments towards continued embracement of human rights principles and contributing to natural disasters relief. The discussion also included ways to further technological advancements and exchange valuable experiences.  Both the Ambassador and the Mininster committed to increasing and building upon existing bilateral cooperation between our militaries. \"",
+  "base_path": "/government/news/british-ambassador-meets-with-minister-of-defence",
+  "taxons": [
+    {
+      "title": "International",
+      "base_path": "/international"
+    },
+    {
+      "title": "International defence commitments",
+      "base_path": "/defence/international-defence-commitments"
+    }
+  ]
+}

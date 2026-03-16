@@ -1,0 +1,11 @@
+{
+  "title": "MOD Land Holdings Bulletin: 2025",
+  "body": "\"This is an annual publication which provides figures on Ministry of Defence land holdings in the UK, by top level budget holder, country, type of use and whether owned, leased or with legal rights.  This edition provides statistics for 2000 to 2025 (figures are given for 1 April each year), and updates figures released in the 2024 edition of this publication, which provided statistics up to 1 April 2024.  This publication does not provide information on the overseas defence estate. \"",
+  "base_path": "/government/statistics/mod-land-holdings-bulletin-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

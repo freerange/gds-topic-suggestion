@@ -1,0 +1,11 @@
+{
+  "title": "Personal social services adult social care survey report, England: 2024 to 2025",
+  "body": "\"This statistical release contains England-level findings from the personal social services adult social care survey (ASCS) undertaken in 2024 to 2025. This national survey takes place every year and is conducted by local authorities that provide or commission adult social care services.  The ASCS asks service users aged 18 and over what they think of the long-term care and support they receive. It provides critical user experience information that is designed to:   help the adult social care sector understand more about how services are affecting lives enable service user choice inform service development   This publication consists of:   a commentary on the data from 2024 to 2025 associated question responses and demographic data tables, and time-series data (in ODS format) a data quality statement and associated data quality tables (in ODS format) the report’s methodology a pre-release access list a zip folder that contains a CSV file of all ASCS data aimed at analysts and guidance on how to use it   This release should be read alongside Personal social services: adult social care survey, England - information and guidance for the 2024 to 2025 survey year, which sets out the guidelines local authorities followed when conducting the survey.  Official statistics on the ASCS prior to 2024 were previously published by NHS England.  \"",
+  "base_path": "/government/statistics/personal-social-services-adult-social-care-survey-report-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "The home learning environment and attainment",
+  "body": "\"This report examines how young people’s attainment of level 2 and level 3 qualifications at the age of 19 is linked to their:   socioeconomic background behaviour relationship with parents and carers perceptions of safety   It is based on matched survey and administrative data from the longitudinal study of young people in England 2 and the national pupil database.  The appendix has detailed tables that support the findings and analysis in the report. \"",
+  "base_path": "/government/publications/the-home-learning-environment-and-attainment",
+  "taxons": [
+    {
+      "title": "Key stage 5 (AS and A Levels)",
+      "base_path": "/education/key-stage-5-as-and-a-levels"
+    },
+    {
+      "title": "Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",
+      "base_path": "/education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses"
+    }
+  ]
+}

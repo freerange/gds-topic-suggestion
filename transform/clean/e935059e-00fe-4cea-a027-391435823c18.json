@@ -1,0 +1,47 @@
+{
+  "title": "Defence and Security Accelerator (DASA) Open Call for Innovation",
+  "body": "\"The Defence and Security Accelerator (DASA) updates this page with links to closed cycles of the Open Call for Innovation as soon as a competition closes for submissions in line with the published closing dates. Below you will be able to find the details of the competition requirements for previous cycles.  You can view our Open Call for Innovation competitions currently accepting submissions here.  For a list of DASA open themed competitions, please see here.  \"",
+  "base_path": "/government/collections/defence-and-security-accelerator-dasa-open-call-for-innovation",
+  "taxons": [
+    {
+      "title": "Transport security",
+      "base_path": "/transport/transport-security"
+    },
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Counter-extremism ",
+      "base_path": "/crime-justice-and-law/counter-extremism"
+    },
+    {
+      "title": "Counter-terrorism",
+      "base_path": "/crime-justice-and-law/counter-terrorism"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

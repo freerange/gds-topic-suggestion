@@ -1,0 +1,11 @@
+{
+  "title": "Restart Scheme statistics to April 2025",
+  "body": "\"This release of statistics covers data from July 2021 to the end of October 2024 on:    referrals to Restart  starts to Restart  first earnings from employment  job outcome rates and performance by contract area, month, and cohort  participant demographics – gender, age   Feedback  We welcome user feedback on plans for the release of these statistics and their scope. If you have comments, email: cep.statistics@dwp.gov.uk \"",
+  "base_path": "/government/statistics/restart-scheme-statistics-to-april-2025",
+  "taxons": [
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "New and improved marine licensing service fit for the future",
+  "body": "\"Marine licensing users will be able to benefit in future from an improved and enhanced customer experience thanks to a raft of improvements being made to the Marine Management Organisation’s marine licensing service.    As part of a new and improved service offer, MMO is moving away from the current marine case management system (MCMS) to a new modern and more efficient platform that offers long term stability, enhanced security and a significantly improved user experience. This upgrade marks a major advancement in how marine licensing is managed, with a strong focus on user needs and future readiness.   The changeover will also be accompanied by a wave of holistic end-to-end service improvements aimed at enhancing the user journey and creating a more efficient process.   Trudi Wakelin, Director of Marine Development, said:   These improvements are more than a system upgrade. It is a significant strategic shift in how we manage marine licensing for the benefit of our customers and stakeholders.   Providing an improved and more streamlined marine plan led licensing service aligns with our ambitions as a customer focused world-leading marine regulator and enables more sustainable marine development.   The transfer onto the new service will take place in stages over the coming months, with each type of licensing journey application tackled in turn. This phased approach allows us to learn and improve at each stage, ensuring a smoother experience for our users.   Customers using the new service will also benefit from a range of new digital tools, improved processes, and enhanced user guidance, which will help to make the process of using the service easier for users. This is turn, will allow MMO to provide timely, expert and enforceable decisions that will help the service in its core goal of supporting sustainable commercial growth, whilst protecting the marine environment. \"",
+  "base_path": "/government/news/new-and-improved-marine-licensing-service-fit-for-the-future",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine licences",
+      "base_path": "/environment/marine-licences"
+    },
+    {
+      "title": "Marine planning",
+      "base_path": "/environment/marine-planning"
+    }
+  ]
+}

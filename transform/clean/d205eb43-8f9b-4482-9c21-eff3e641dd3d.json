@@ -1,0 +1,15 @@
+{
+  "title": "National norovirus and rotavirus surveillance reports: 2025 to 2026 season",
+  "body": "\"This report provides an overview of norovirus and rotavirus activity in England during the 2025 to 2026 season. It is published weekly during the winter period and monthly during the summer period.  From now on this report will include data up to the Sunday 4 days prior to publication, rather than the Sunday 11 days prior (as previously) in order to ensure timely release of information. Due to a reporting delay, figures for the most recent week prior to publication are likely to increase in subsequent reports as more samples become available. This change in the methodology will be explained further in an upcoming Quality and Methodology Information report.  The data presented is derived from 3 national UK Health Security Agency (UKHSA) systems, including laboratory reporting of norovirus and rotavirus, suspected and confirmed norovirus outbreaks in acute NHS trust hospitals, and molecular surveillance data on circulating strains of norovirus.  All surveillance data included in this report is extracted from live reporting systems, is subject to a reporting delay and so the number reported in the most recent weeks may rise further as more reports are received.  A quality and methodology information report is available for this publication.  You can view pre-release access lists for national norovirus and rotavirus surveillance reports online. \"",
+  "base_path": "/government/statistics/national-norovirus-and-rotavirus-surveillance-reports-2025-to-2026-season",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    }
+  ]
+}

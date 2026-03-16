@@ -1,0 +1,11 @@
+{
+  "title": "UK Trade: January 2025 Time Series",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-trade-january-2025-time-series",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

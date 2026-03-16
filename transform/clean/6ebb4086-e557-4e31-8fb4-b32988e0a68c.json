@@ -1,0 +1,23 @@
+{
+  "title": "Faster cancer treatment thanks to new radiotherapy machines",
+  "body": "\"  Cutting-edge machines will cut waiting times and help 4,500 more patients get treatment faster   Upgraded tech being rolled out at 28 hospitals can cut the rounds of radiotherapy needed and reach cancers in harder to treat areas like chest, abdomen and pelvis   Rollout is backed by £70 million provided by government as part of its mission to improve cancer care through its Plan for Change    Thousands of patients will benefit from faster and safer cancer treatment thanks to new cutting-edge radiotherapy machines being rolled out to every region in the country.   The government has paid for new linear accelerator (LINAC) machines at 28 hospitals, which use modern technology to reduce delays to treatment and, in some cases, could reduce the number of hospital visits a patient needs to make by half, helping to cut waiting lists faster.    Replacing these older machines will save as many as 13,000 appointments from being lost to equipment breakdown.  The machines will be rolled out at hospitals across the country from August, funded by a £70 million government investment as part of its plans to improve cancer care through the Plan for Change.   By March 2027, up to 27,500 additional treatments per year will be delivered, including up to 4,500 receiving their first treatment for cancer within 62 days of referral, helping to treat more cancer patients in faster time.  Equipped with cutting-edge technology, the machines are safer for patients and can more precisely target tumours, causing less damage to surrounding healthy tissues. They are particularly effective at targeting cancers in harder to treat areas, such as the chest, abdomen and pelvis.    Health and Social Care Secretary, Wes Streeting, said:    There is a revolution taking place in medical technology which can transform treatment for cancer patients. But NHS hospitals are forced to use outdated, malfunctioning equipment thanks to 14 years of underinvestment under the previous government.  Thanks to the investment this government is making in our NHS, we will provide more cancer patients with world-class, cutting-edge care.  By reducing the number of hospital visits required and preventing cancelled appointments, these state of the art radiotherapy machines free up capacity so that thousands more patients are treated on time.  As a cancer survivor, I know just how important timely treatment is. These machines are part of the investment and modernisation that will cut waiting times for patients, through our Plan for Change.   The tech is being prioritised in hospitals which are currently using outdated treatment machines older than 10 years, meaning patients can be treated faster and reducing cancelled appointments due to faults.   It will also increase the availability of Stereotactic Ablative Radiotherapy (SABR) cancer treatments, which can more precisely target tumours.    NHS national clinical director for cancer, Professor Peter Johnson, said:     Radiotherapy is essential for many cancer patients, so it’s great news that the investment in new machines means that some will need fewer rounds of treatment, as we bring in more sophisticated techniques.   These machines will deliver more precise treatment for patients,...",
+  "base_path": "/government/news/faster-cancer-treatment-thanks-to-new-radiotherapy-machines",
+  "taxons": [
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Cancer research and treatment",
+      "base_path": "/health-and-social-care/cancer-research-and-treatment"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

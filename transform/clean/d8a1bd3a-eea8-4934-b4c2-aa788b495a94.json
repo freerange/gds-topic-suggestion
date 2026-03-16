@@ -1,0 +1,19 @@
+{
+  "title": "Trade and Cooperation Agreement Partnership Council Decision number 1 for 2025: Fisheries",
+  "body": "\"The Trade and Cooperation Agreement (TCA) Partnership Council oversees UK and EU implementation, application and interpretation of the Trade and Cooperation Agreement. This document is the first decision of the TCA Partnership Council in 2025 and relates to fisheries. \"",
+  "base_path": "/government/publications/trade-and-cooperation-agreement-partnership-council-decision-number-1-for-2025-fisheries",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    },
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    }
+  ]
+}

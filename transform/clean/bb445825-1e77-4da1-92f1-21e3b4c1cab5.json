@@ -1,0 +1,27 @@
+{
+  "title": "When someone dies in Rwanda",
+  "body": "\"Includes information on:   what to do when someone dies in Rwanda burial and cremation returning bodies to the UK (repatriation)   See also what to do when someone dies: death abroad. \"",
+  "base_path": "/government/publications/rwanda-bereavement-information-pack",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Birth, death and marriage abroad in Rwanda",
+      "base_path": "/world/birth-death-and-marriage-abroad-rwanda"
+    },
+    {
+      "title": "Living in Rwanda",
+      "base_path": "/world/living-in-rwanda"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "2025 UK and foreign vessels landings by UK port and UK vessel landings abroad: provisional data",
+  "body": "\"UK and foreign vessels landings by UK port and UK vessel landings abroad: provisional data. \"",
+  "base_path": "/government/statistics/2025-uk-and-foreign-vessels-landings-by-uk-port-and-uk-vessel-landings-abroad-provisional-data",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

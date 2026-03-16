@@ -1,0 +1,11 @@
+{
+  "title": "Carbon intensity indicators: Northern Ireland 2025",
+  "body": "\"To complement the emissions data available from the historic greenhouse gas inventory and the Northern Ireland greenhouse gas projection tool, and to help Government track the effectiveness of their carbon reduction policies, a set of local carbon intensity indicators have been developed. \"",
+  "base_path": "/government/statistics/carbon-intensity-indicators-northern-ireland-2025",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

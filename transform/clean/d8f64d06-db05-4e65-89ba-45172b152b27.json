@@ -1,0 +1,15 @@
+{
+  "title": "Liquor Licences in Northern Ireland 2024",
+  "body": "\"This is the fourth publication of official statistics in relation to the number of liquor licences that are held by 1) public houses and 2) off-licences. It also provides statistics at District Electoral Area (DEA) for the number of licences by public house, and other additional summary data. \"",
+  "base_path": "/government/statistics/liquor-licences-in-northern-ireland-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Alcohol licensing ",
+      "base_path": "/business-and-industry/alcohol-sales"
+    }
+  ]
+}

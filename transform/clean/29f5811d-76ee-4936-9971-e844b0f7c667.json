@@ -1,0 +1,11 @@
+{
+  "title": "Analysis of Future Pension Incomes",
+  "body": "\"Additional statistical analyses (ad hoc analyses) that are not included in Department for Work and Pensions (DWP) standard publications.  \"",
+  "base_path": "/government/collections/analysis-of-future-pension-incomes",
+  "taxons": [
+    {
+      "title": "Pensions and ageing society",
+      "base_path": "/work/pensions-and-ageing-society"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Public bodies 2024",
+  "body": "\"Public Bodies 2024 gives data on non-departmental public bodies, executive agencies and non-ministerial departments. \"",
+  "base_path": "/government/publications/public-bodies-2024",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

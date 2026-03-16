@@ -1,0 +1,35 @@
+{
+  "title": "Economic Estimates: Earnings 2024 for DCMS Sectors",
+  "body": "\"About  These economic estimates are used to provide an estimate of the contribution of DCMS sectors to the UK economy, measured by employee median earnings. These estimates are calculated based on the Office for National Statistics (ONS) Annual Survey of Hours and Earnings (ASHE).  Content  DCMS Sectors  These statistics cover the contributions of the following DCMS sectors to the UK economy;   civil society creative industries cultural sector gambling sport   Tourism is not included as the data is not available for the latest year (2024) of the publication but is available for the time series 2016-2023.  Users should note that there is overlap between DCMS sector definitions. In particular, several cultural sector industries are simultaneously creative industries. The release also includes estimates for the audio visual sector and computer games sector but they do not form part of the DCMS total.  A definition for each sector is available in the tables published alongside this release. Further information on all these sectors is available in the associated technical report along with details of methods and data limitations.  Headline findings  As of April 2024, median annual earnings for employees in the included DCMS sectors were £32,000; 1.3% greater than the UK overall (£31,602). Median annual earnings for included DCMS sectors have grown at a slightly slower rate than the UK overall compared to the previous year, 6.1% and 7.1% respectively (not adjusted for inflation). Compared to pre-pandemic (2019), median annual earnings have grown at a slightly slower rate in included DCMS sectors, an increase of 25.0%, than for the UK overall, which grew 26.7%.  Employees in the creative industries (£42,399) and overlapping cultural sector (£32,432) had higher median annual earnings than the UK overall but employees in the civil society (£29,434), gambling (£25,435), and sport sectors (£21,802) had lower median annual earnings.  As of April 2024, for every £1.00 earned by a man employed in the included DCMS sectors, a woman earns £0.80. This means that there is a gender pay gap of 18.3%, larger than the UK overall (13.1%). This has narrowed by 1.3 percentage points from last year (19.6%), and by 2.6 percentage points from 2019 (22.9%).  Released  First published on 3rd April 2025.  Pre-release access  A document is provided that contains a list of ministers and officials who have received privileged early access to this release. In line with best practice, the list has been kept to a minimum and those given access for briefing purposes had a maximum of 24 hours.  Office for Statistics Regulation  Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to.  You are welcome to contact us directly with any comments about how we meet these standards by emailing evidence@dcms.gov.uk. Alternatively, you can contact OSR by emailing regulation@statistics.gov.uk or via the OSR website.  The responsible analyst for this release is Nicholas Hamilton Wu.  For further details about the...",
+  "base_path": "/government/statistics/economic-estimates-earnings-2024-for-dcms-sectors",
+  "taxons": [
+    {
+      "title": "Library services",
+      "base_path": "/society-and-culture/library-services"
+    },
+    {
+      "title": "Museums and galleries",
+      "base_path": "/society-and-culture/museums-and-galleries"
+    },
+    {
+      "title": "Sports and leisure",
+      "base_path": "/society-and-culture/sports-and-leisure"
+    },
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    },
+    {
+      "title": "Charities and social enterprises",
+      "base_path": "/business-and-industry/charities-and-social-enterprises"
+    },
+    {
+      "title": "Media and creative industries",
+      "base_path": "/business-and-industry/media-and-creative-industries"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

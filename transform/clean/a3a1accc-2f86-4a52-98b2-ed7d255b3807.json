@@ -1,0 +1,11 @@
+{
+  "title": "Liberia: Knowledge Base profile",
+  "body": "\"This document contains useful information about Liberia which will assist HM Passport Office staff process passport applications.  This document includes information about:   nationality legitimacy and parental responsibility civil partnerships and marriage  \"",
+  "base_path": "/government/publications/liberia-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

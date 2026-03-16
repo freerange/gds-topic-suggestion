@@ -1,0 +1,11 @@
+{
+  "title": "Producer price inflation, UK: December 2024 including services, October to December 2024 time series",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/producer-price-inflation-uk-december-2024-including-services-october-to-december-2024-time-series",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

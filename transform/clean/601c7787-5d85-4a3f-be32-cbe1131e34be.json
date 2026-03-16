@@ -1,0 +1,23 @@
+{
+  "title": "Rural Payments Agency annual report and accounts 2024 to 2025",
+  "body": "\"The Rural Payments Agency (RPA) is an executive agency of the Department for Environment, Food and Rural Affairs (Defra).  We have responsibility for making direct aid and rural development payments to farmers in England, to help ensure we have a healthy rural economy and strong rural communities.  This report sets out how we have performed for the period 1 April 2024 to 31 March 2025. \"",
+  "base_path": "/government/publications/rural-payments-agency-annual-report-and-accounts-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Rural grants and payments",
+      "base_path": "/environment/farming-food-grants-payments-rural-grants-payments"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Rural and countryside",
+      "base_path": "/environment/rural-and-countryside"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "MOD biannual civilian personnel report: October 2025",
+  "body": "\"Biannual statistics on the strength, intake and outflow of Ministry of Defence civil servants, by grade equivalence, top level budgetary area, demographics and civil servants time series. \"",
+  "base_path": "/government/statistics/mod-biannual-civilian-personnel-report-october-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

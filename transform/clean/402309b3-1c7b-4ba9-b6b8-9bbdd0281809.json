@@ -1,0 +1,15 @@
+{
+  "title": "Driver 2020 evaluation",
+  "body": "\"These reports present findings from the Driver 2020 research project, which explored voluntary interventions designed to help young and new drivers (aged between 17 and 24) to improve their skills and safety.  This project investigated the effectiveness of:   telematics use of a logbook extra hazard perception classroom-based education mentoring agreements   Over 28,000 learner and novice drivers were recruited to take part in the research.  This research was commissioned by the Department for Transport (DfT) in 2019 and conducted by the Transport Research Laboratory (TRL). \"",
+  "base_path": "/government/publications/driver-2020-evaluation",
+  "taxons": [
+    {
+      "title": "Driving instruction and driving lessons",
+      "base_path": "/transport/driving-instruction-and-driving-lessons"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    }
+  ]
+}

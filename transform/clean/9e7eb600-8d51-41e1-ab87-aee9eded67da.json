@@ -1,0 +1,11 @@
+{
+  "title": "Child Poverty Strategy",
+  "body": "\"In July 2024 the Prime Minister announced the creation of the Child Poverty Taskforce to deliver a lasting reduction in child poverty this Parliament through an ambitious 10-year strategy. The Taskforce, supported by the Child Poverty Unit in the Cabinet Office, has worked extensively across government and with external stakeholders to build a comprehensive evidence base, listening to children and families with lived experience, to develop a package of policies which tackle the structural and root causes of child poverty.  The government’s Child Poverty Strategy sets out the steps we are taking to reduce child poverty in the short term, as well as putting in place the building blocks we need to change the course we’re on and create long-term change. The strategy brings together the action the government has already taken, alongside new measures, to increase incomes, reduce essential costs and strengthen local services.  The Strategy also outlines how we will hold ourselves to account on delivering the impact we have promised through this Parliament and beyond through a robust approach to monitoring and evaluation.  The Child Poverty Strategy is UK wide and will deliver for children across all four nations. \"",
+  "base_path": "/government/collections/child-poverty-strategy",
+  "taxons": [
+    {
+      "title": "Child poverty",
+      "base_path": "/childcare-parenting/child-poverty"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Shake up of tech and AI usage across NHS and other public services to deliver plan for change",
+  "body": "\"  New plan to put technology to work across public services announced, set to speed up delays for citizens and stop admin wasting their time Data sharing across the public sector will be tackled in bid to stamp out nonsensical delays and save taxpayers billions  AI tools “Humphrey” launched to speed up work of Whitehall and cut back on consultant spending, with more government-built tech to be unveiled later today    Technology will be better used to improve public services and AI will make the civil service more efficient to turbocharge the Prime Minister’s Plan for Change, under a shake up that changes how government experiments with, buys and builds new tech.  A new package of AI tools – nicknamed ‘Humphrey’ – will be available to civil servants in an effort to modernise tech and deliver better public services to set the country on course for a decade of national renewal.  This follows a review which found that the government inherited a dire system which over relies on ways of communicating that should be left in the last century – with HMRC taking 100,000 calls a day and DVLA processing 45,000 letters.  The Technology Secretary is today setting out a plan to set that right – launching his department as the digital centre of government to overhaul digital services and target £45 billion in productivity savings every year.  It will do away with insensitive and antiquated processes that have been holding this country back for too long. That means scrapping the need for people to queue at the local council to register the death of a loved one, and doing away with the need to post an advert in your local paper if you want to get a license to drive a lorry – getting in the way of growth.  It will also apply a common-sense approach to sharing information, which could help central government departments, like HMRC and the Department for Business and Trade, share data with each other and local councils more seamlessly to crack down on fraud and get businesses the help they need to grow.  This is hot on the heels of the AI Opportunities Action Plan, which has put the UK on course to become an AI superpower – already attracting over £14 billion in investment since being launched last Monday.  Science Secretary Peter Kyle said:   Sluggish technology has hampered our public services for too long, and it’s costing us all a fortune in time and money.  Not to mention the headaches and stresses we’re left with after being put on hold or forced to take a trip to fill out a form.  My department will put AI to work, speeding up our ability to deliver our Plan for Change, improve lives and drive growth.  We will use technology to bear down hard to the nonsensical approach the public sector takes to sharing information and working together to help the people it serves.  We will also end delays businesses face when they are applying for licenses...",
+  "base_path": "/government/news/shake-up-of-tech-and-ai-usage-across-nhs-and-other-public-services-to-deliver-plan-for-change",
+  "taxons": [
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Government technology and digital services",
+      "base_path": "/government/government-technology-and-digital-services"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

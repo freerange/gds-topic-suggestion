@@ -1,0 +1,15 @@
+{
+  "title": "Poverty impacts of social security changes at Budget 2025",
+  "body": "\"In November 2025, the UK government announced that from April 2026 it will be removing the two-child limit so that families can receive the child element of Universal Credit for all children regardless of family size. This publication provides an estimate of the impact on low income poverty levels as well as information on households and children who are affected by the two-child limit and not affected by the benefit cap, broken down by country and parliamentary constituency. \"",
+  "base_path": "/government/publications/poverty-impacts-of-social-security-changes-at-budget-2025",
+  "taxons": [
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    },
+    {
+      "title": "Child poverty",
+      "base_path": "/childcare-parenting/child-poverty"
+    }
+  ]
+}

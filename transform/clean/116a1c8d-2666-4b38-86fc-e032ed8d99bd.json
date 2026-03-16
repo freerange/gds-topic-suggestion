@@ -1,0 +1,11 @@
+{
+  "title": "Location statistics for UK regular armed forces and civilians: 2025",
+  "body": "\"Figures on the national and international locations of all UK regular armed forces personnel and Ministry of Defence (MOD) civilian personnel. \"",
+  "base_path": "/government/statistics/location-statistics-for-uk-regular-armed-forces-and-civilians-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

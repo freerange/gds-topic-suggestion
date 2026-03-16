@@ -1,0 +1,15 @@
+{
+  "title": "Better use of new and improved third-party data",
+  "body": "\"We welcome engagement from third-party data suppliers to HMRC who are within the scope of this consultation (financial services providers including banks, building societies, merchant acquirers and other providers of card acquiring services).  The government also welcomes engagement from any taxpayer or interested party with views on the efficacy and reform of our bulk data gathering powers and safeguards.  \"",
+  "base_path": "/government/consultations/better-use-of-new-and-improved-third-party-data",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    }
+  ]
+}

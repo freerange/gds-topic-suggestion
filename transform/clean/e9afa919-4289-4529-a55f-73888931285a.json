@@ -1,0 +1,11 @@
+{
+  "title": "Mortality profile",
+  "body": "\"Monitoring trends in mortality is central to understanding the health of our population.  The mortality profile provides trends in mortality rates for a wide range of causes of death, allowing outcomes to be easily compared. Rates for sub-national geographies allow comparisons between areas.  Mortality rates are provided using 3-year rolling averages and single-year (where appropriate) time periods. Details of updates since December 2018 are published on this website.  Rates are available for England, English regions, local authorities (upper and lower tier) as well as deprivation deciles based on local authorities. Where possible, rates are also provided for integrated care boards and NHS regions.  For enquiries or feedback relating to the mortality profile, email profilefeedback@dhsc.gov.uk. \"",
+  "base_path": "/government/collections/mortality-profile",
+  "taxons": [
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

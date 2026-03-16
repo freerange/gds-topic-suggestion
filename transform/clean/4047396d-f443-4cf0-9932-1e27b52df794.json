@@ -1,0 +1,19 @@
+{
+  "title": "FCDO business appointment rules advice, April to June 2025",
+  "body": "\"This page provides information about outside appointments or employment taken up by former members of the Foreign, Commonwealth & Development Office (FCDO).  It covers former staff at Senior Civil Service grades SCS1 and SCS2 and equivalents that fall within the scope of the business appointment rules. It also covers special advisers of equivalent level.   This data is also on data.gov.uk: Foreign, Commonwealth and Development Office: business appointment rules advice  \"",
+  "base_path": "/government/publications/fcdo-business-appointment-rules-advice-april-to-june-2025",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "International aid and development",
+      "base_path": "/international/international-aid-and-development"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

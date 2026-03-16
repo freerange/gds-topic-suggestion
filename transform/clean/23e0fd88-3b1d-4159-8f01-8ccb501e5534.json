@@ -1,0 +1,11 @@
+{
+  "title": "Household Costs Indices for UK household groups: April 2025 to June 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/household-costs-indices-for-uk-household-groups-april-2025-to-june-2025",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Identified offender needs, custody and community, 31 October 2024",
+  "body": "\"This is an update and adaptation to a 2022 publication containing data on identified needs of offenders serving custodial sentences, community orders, or on licence on 31st October 2024.  This publication contains information on accommodation, employability, drug misuse, alcohol misuse, lifestyles and associates, thinking and behaviour, relationship and attitudes and mental health needs. Data is also included on those identified as victims of domestic abuse.     This release expands upon previous releases, and includes mental health needs, domestic abuse, breakdowns for Imprisoned for Public Protection (IPP) prisoners, trends in identified needs over time (June 2019 to April 2024), count of identified needs of individuals, commonly identified combinations of multiple needs and breakdowns by ethnic background. \"",
+  "base_path": "/government/statistics/identified-offender-needs-custody-and-community-31-october-2024",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    }
+  ]
+}

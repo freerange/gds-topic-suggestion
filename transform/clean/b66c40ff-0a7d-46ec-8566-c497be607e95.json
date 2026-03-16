@@ -1,0 +1,11 @@
+{
+  "title": "Crime news: annotating bank statements to support applications",
+  "body": "\"Sometimes bank statements are an applicant’s only evidence of income, for example, if they are recently self-employed. In such instances, all credits will be counted as income unless noted otherwise. If applicants annotate their bank statements before submitting them, this will assist us in accurately assessing their means on first submission.  Annotating statements can explain why certain credits should not be included as self-employed income. In addition, for any bank statements provided in support of an application, we will include any credits that appear to form regular income, such as regular credits from friends and family, online sales, and gambling.  Further information  The Criminal Legal Aid Manual - Criminal Legal Aid Manual - GOV.UK (www.gov.uk) \"",
+  "base_path": "/government/news/crime-news-annotating-bank-statements-to-support-applications",
+  "taxons": [
+    {
+      "title": "Crime",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-crime"
+    }
+  ]
+}

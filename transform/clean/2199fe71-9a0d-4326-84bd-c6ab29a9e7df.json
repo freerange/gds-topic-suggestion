@@ -1,0 +1,11 @@
+{
+  "title": "Tri-service reserves continuous attitude survey: 2025",
+  "body": "\"Tri-service results from the 2025 reserves continuous attitude survey (RESCAS) including the main report, reference tables and background quality report.  The purpose of a background quality report is to inform users of the statistics about the quality of the data used to produce the publication and any statistics derived from that data. \"",
+  "base_path": "/government/statistics/tri-service-reserves-continuous-attitude-survey-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

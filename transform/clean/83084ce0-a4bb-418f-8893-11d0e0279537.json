@@ -1,0 +1,15 @@
+{
+  "title": "Structure & Performance of the NI Economy 2021",
+  "body": "\"These latest estimates of the flows of goods and services in the Northern Ireland (NI) economy have been produced in line with guidance from the European System of Accounts (2010) – an international standard approach. The statistics provide the most complete picture of the detailed structure and characteristics of the local economy currently available. A detailed set of Supply-Use tables are included for 2021. \"",
+  "base_path": "/government/statistics/structure-performance-of-the-ni-economy-2021",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

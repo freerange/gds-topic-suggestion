@@ -1,0 +1,27 @@
+{
+  "title": "Starter guide to UK sanctions",
+  "body": "\"Who must comply with sanctions regulations     If you do any business that involves transactions, financial services, trading, supplying professional services or insurance, you could be dealing with sanctioned individuals or organisations, or with sanctioned goods and services.       Sanctions regulations apply to:    any individual, business or organisation undertaking activities anywhere in the UK (including the territorial sea) any business or organisation incorporated or constituted under the law of any part of the UK undertaking activities anywhere in the world any UK national, wherever they are in the world   This guidance outlines what sanctions are, how they work, and how to comply with them. It does not represent legal advice.  Anyone can report a suspected breach of sanctions. This online service helps you to report a suspected breach of sanctions to the correct government body.  Sanctions regulations impose reporting obligations on certain types of firms – these types are listed in:     section 5 of the guidance from the Office of Financial Sanctions Implementation section 3 of the guidance on the Trade, Aircraft and Shipping Sanctions regulations section 9 of the guidance from the Department for Transport   If you are unsure about your obligations in a given case, you should consider seeking independent legal advice.  Overview of UK sanctions   Sanctions are ‘restrictive measures’ that the UK Government imposes on individuals, businesses, organisations and ships as a policy decision, then made into law. The government puts sanctions in place to fulfil a range of purposes, which include:   complying with UN and other international obligations supporting foreign policy and national security objectives maintaining international peace and security preventing terrorism   Sanctions and UK foreign policy is led by the Foreign Commonwealth and Development Office (FCDO). The FCDO can apply sanctions regimes in a specific geographic area (known as ‘geographic regimes’) or along a thematic basis (‘thematic regimes’).  Types of sanctions   The UK may impose different types of sanctions as part of a sanctions regime. See more details in this guide about:    financial sanctions director disqualification sanctions trade sanctions immigration sanctions transport sanctions    You can also look up details about which government departments and agencies are responsible for different types of sanctions.    How sanctions work  Each sanctions regime has its own particular measures, but the various mechanisms for targeting sanctions are common to many regimes.  Designated persons and specified ships   Some sanctions measures (such as asset freezes, travel bans or arms embargoes) apply in relation to individuals and entities (businesses, public bodies or other organisations) that have been named as the targets for certain sanctions. The general term ‘designated persons’ covers both individuals and entities.  An asset freeze will apply to all funds or economic resources owned, held or controlled by a designated person. This may include financial assets that are held by a third party which is owned or controlled by the designated person – see Ownership and control.  The government can also, under some regimes , specify ships as being subject to transport or other sanctions.   You can find out which people, entities and ships are designated...",
+  "base_path": "/guidance/starter-guide-to-uk-sanctions",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Maritime and shipping",
+      "base_path": "/transport/maritime-and-shipping"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    },
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    }
+  ]
+}

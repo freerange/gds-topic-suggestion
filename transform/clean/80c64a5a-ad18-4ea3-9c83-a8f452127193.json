@@ -1,0 +1,15 @@
+{
+  "title": "Accessible railways roadmap",
+  "body": "\"The accessibility roadmap for rail sets out steps being taken to improve accessibility across the rail network in the lead up to the establishment of Great British Railways (GBR).    It is designed to be practical and achievable, focusing on actions that are underway or planned and sets a strong foundation for GBR to build on.  \"",
+  "base_path": "/government/publications/accessible-railways-roadmap",
+  "taxons": [
+    {
+      "title": "Rail accessibility",
+      "base_path": "/transport/rail-accessibility"
+    },
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    }
+  ]
+}

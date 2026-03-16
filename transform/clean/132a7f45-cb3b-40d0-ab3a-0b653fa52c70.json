@@ -1,0 +1,15 @@
+{
+  "title": "Functioning of the UK carbon market",
+  "body": "\"These reports provide high-level operational summaries for each scheme year of the UK ETS, including:   participant data (installation and aviation operators) supply of allowances through free allocation and auctions auction price data emissions and compliance data   \"",
+  "base_path": "/government/collections/functioning-of-the-uk-carbon-market",
+  "taxons": [
+    {
+      "title": "UK energy security",
+      "base_path": "/business/uk-energy-security"
+    },
+    {
+      "title": "Energy industry and infrastructure licensing and regulation",
+      "base_path": "/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation"
+    }
+  ]
+}

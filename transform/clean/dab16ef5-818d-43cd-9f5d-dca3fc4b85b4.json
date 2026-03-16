@@ -1,0 +1,27 @@
+{
+  "title": "Desalination for public water supply: Environment Agency position statement",
+  "body": "\"This statement sets out the Environment Agency’s position on desalination as an option for public water supply in England. \"",
+  "base_path": "/government/publications/desalination-for-public-water-supply-environment-agency-position-statement",
+  "taxons": [
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Abstract (take) water",
+      "base_path": "/business/environmental-management-water-abstract-take-water"
+    },
+    {
+      "title": "Drought and water availability",
+      "base_path": "/business/environmental-management-water-drought-and-water-availability"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

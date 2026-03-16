@@ -1,0 +1,11 @@
+{
+  "title": "Lumpy skin disease poster",
+  "body": "\"Download and print our poster on how to spot the signs of lumpy skin disease.  Read our guidance on lumpy skin disease. \"",
+  "base_path": "/government/publications/lumpy-skin-disease-poster",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    }
+  ]
+}

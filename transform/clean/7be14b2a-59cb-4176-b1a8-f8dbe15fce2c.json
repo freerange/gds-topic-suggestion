@@ -1,0 +1,11 @@
+{
+  "title": "Indicators of species abundance in England",
+  "body": "",
+  "base_path": "/government/statistics/announcements/indicators-of-species-abundance-in-england--3",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

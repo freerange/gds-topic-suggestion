@@ -1,0 +1,15 @@
+{
+  "title": "Background quality report: statistics on trusts in the UK",
+  "body": "\"Assessment of the quality of HMRC’s statistics on trusts and estates in the UK. \"",
+  "base_path": "/government/statistics/background-quality-report-statistics-on-trusts-in-the-uk",
+  "taxons": [
+    {
+      "title": "Filing a tax return",
+      "base_path": "/money/personal-tax-self-assessment-filing-a-tax-return"
+    },
+    {
+      "title": "Trusts",
+      "base_path": "/money/trusts"
+    }
+  ]
+}

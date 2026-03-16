@@ -1,0 +1,11 @@
+{
+  "title": "Local road maintenance ratings",
+  "body": "\"Local highways authorities are responsible for maintaining local roads in England.    The Department for Transport has introduced a rating system measuring how well each local highway authority is maintaining its local roads and making use of its increased government funding. This allows local people to see how well their council is maintaining roads in their area.  The document on this page:   lists all the local highway authorities in England  gives them a performance rating of either red, amber or green - green is the highest and red is the lowest  explains what the performance ratings mean in detail, how they will help to improve road condition, and what support is available to local highway authorities to improve their ratings   You can also:   view a map giving an overview of the ratings by county read technical information about how the ratings are calculated  \"",
+  "base_path": "/government/publications/local-road-maintenance-ratings",
+  "taxons": [
+    {
+      "title": "Local roads",
+      "base_path": "/transport/local-roads"
+    }
+  ]
+}

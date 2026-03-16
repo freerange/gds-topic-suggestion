@@ -1,0 +1,11 @@
+{
+  "title": "Independent schools: applications, changes and closures",
+  "body": "\"Data on the number of independent school applications, requests for material changes and closures processed by DfE in England.  \"",
+  "base_path": "/government/publications/independent-schools-applications-changes-and-closures",
+  "taxons": [
+    {
+      "title": "Inspection of independent schools",
+      "base_path": "/education/inspection-of-independent-schools"
+    }
+  ]
+}

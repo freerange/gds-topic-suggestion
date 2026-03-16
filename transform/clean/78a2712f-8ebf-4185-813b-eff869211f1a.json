@@ -1,0 +1,11 @@
+{
+  "title": "Anniversary Statement: ATR-72-212, G-ISLM",
+  "body": "\"This statement provides an update on the AAIB investigation into the serious incident involving an ATR-72-212, registration G-ISLM, which suffered multiple electrical system failures on departure from Guernsey Airport on the 10 January 2025.  The aircraft returned to Guernsey safely.  Examination of the electrical system components has identified the Starter/Generator fitted to the right engine as the source of the overvoltage which affected the aircraft, but the reason this overvoltage was not isolated by the safety systems fitted to the aircraft remains unclear.  The investigation is ongoing, and the final report will be published in due course. \"",
+  "base_path": "/government/news/anniversary-statement-atr-72-212-g-islm",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

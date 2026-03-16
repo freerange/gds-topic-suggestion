@@ -1,0 +1,11 @@
+{
+  "title": "Aggregate minerals survey for Great Britain, 2023",
+  "body": "\"Aggregate minerals surveys provide an in-depth and up-to-date understanding of national and sub-national sales, inter-regional flows, transportation, consumption and permitted reserves of primary aggregates.  The survey aims to provide comprehensive data for monitoring and facilitating aggregates provision at local, regional and national level. The output is used mainly by the government, mineral planning authorities, industry and environmental interest groups. The surveys are used to inform the development of minerals policy in respect to the production, movement and consumption of aggregates. The data are made publicly available.  This report is the collation of the data for primary aggregates for 2023. This is the first Great Britain wide survey. Historically a joint survey has been undertaken for England and Wales, with Scotland undertaking a separate survey. In addition to presenting information on regional and national sales, consumption, and permitted reserves of primary aggregates, the aggregate minerals survey for 2023 report also presents data on the movement and consumption of primary aggregates by country and sub-region.  Information is also presented on the quantity of aggregate minerals granted and refused planning permission and planning applications withdrawn between 2020 and 2023. In addition, information is presented on the quantity of aggregate minerals within planning applications submitted between 2020 and 2023 which were awaiting a decision at 31 December 2023. \"",
+  "base_path": "/government/publications/aggregate-minerals-survey-for-great-britain-2023",
+  "taxons": [
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    }
+  ]
+}

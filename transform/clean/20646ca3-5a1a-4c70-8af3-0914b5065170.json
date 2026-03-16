@@ -1,0 +1,19 @@
+{
+  "title": "Public attitudes to housing: findings from the British Social Attitudes survey 2023",
+  "body": "\"This report examines public attitudes to housing using the British Social Attitudes (BSA) survey data from 2021 and 2023. \"",
+  "base_path": "/government/publications/public-attitudes-to-housing-findings-from-the-british-social-attitudes-survey-2023",
+  "taxons": [
+    {
+      "title": "Homebuying",
+      "base_path": "/housing-local-and-community/homebuying"
+    },
+    {
+      "title": "Owning and renting a property",
+      "base_path": "/housing-local-and-community/owning-renting-property"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Self-build and custom housebuilding data",
+  "body": "\"The Self-build and Custom Housebuilding Act 2015 requires each relevant local authority to keep a register of individuals and groups who are seeking to acquire serviced plots of land in the authority’s area for their own self-build and custom housebuilding.  Since 2016, the department has collected information from relevant local authorities in England on self-build and custom housebuilding activity in their areas. This release of data – in the form of management information – provides the figures reported by local authorities for the period 2016 to 2023-24. \"",
+  "base_path": "/government/publications/self-build-and-custom-housebuilding-data",
+  "taxons": [
+    {
+      "title": "House building",
+      "base_path": "/housing-local-and-community/house-building"
+    }
+  ]
+}

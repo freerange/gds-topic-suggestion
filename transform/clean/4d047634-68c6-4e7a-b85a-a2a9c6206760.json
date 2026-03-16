@@ -1,0 +1,11 @@
+{
+  "title": "State of digital government review",
+  "body": "\"This review presents key findings on the state of digital government, including where we can build on success, where we must improve, and identifies 5 root causes for the challenges we face.  The review assess how effectively the public sector uses digital technology to deliver services to people, communities and businesses, evaluates the technology base that supports these services and the readiness of public sector organisations to meet the government’s digital ambitions. \"",
+  "base_path": "/government/publications/state-of-digital-government-review",
+  "taxons": [
+    {
+      "title": "Government technology and digital services",
+      "base_path": "/government/government-technology-and-digital-services"
+    }
+  ]
+}

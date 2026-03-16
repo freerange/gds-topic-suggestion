@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Births (Northern Ireland): December 2024",
+  "body": "\"Monthly Births (Northern Ireland): December 2024 \"",
+  "base_path": "/government/statistics/monthly-births-northern-ireland-december-2024",
+  "taxons": [
+    {
+      "title": "Having a child, parenting and adoption",
+      "base_path": "/life-circumstances/child-adoption"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

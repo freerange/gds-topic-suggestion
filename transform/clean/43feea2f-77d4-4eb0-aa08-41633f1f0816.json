@@ -1,0 +1,19 @@
+{
+  "title": "COVID-19 response meta evaluation",
+  "body": "\"This meta evaluation synthesises evidence in relation to the effectiveness and impacts of 12 schemes launched as part of BEIS’ package of pandemic interventions. This includes major economic response programmes, such as the £23 billion local authority COVID-19 Business Support Grants Scheme and the COVID-19 Debt Guarantee Schemes.  The meta evaluation draws on process and impact evaluations of individual schemes alongside other investigations into the effectiveness of the COVID-19 response.  \"",
+  "base_path": "/government/publications/covid-19-response-meta-evaluation",
+  "taxons": [
+    {
+      "title": "State aid",
+      "base_path": "/business-and-industry/state-aid"
+    },
+    {
+      "title": "Funding and support for businesses during COVID-19",
+      "base_path": "/health-and-social-care/funding-and-support-for-businesses-during-covid-19"
+    },
+    {
+      "title": "Managing your business during COVID-19",
+      "base_path": "/health-and-social-care/managing-your-business-during-covid-19"
+    }
+  ]
+}

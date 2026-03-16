@@ -1,0 +1,19 @@
+{
+  "title": "4CMenB vaccine for gonorrhoea: information for healthcare practitioners",
+  "body": "\"From 1 August 2025, the meningococcal B (MenB) vaccination for use against gonorrhoea is being offered to gay, bisexual, and men who have sex with men (GBMSM) by specialist sexual health services (SHS).  A training slideset is also available.  \"",
+  "base_path": "/government/publications/4cmenb-vaccine-for-gonorrhoea-information-for-healthcare-practitioners",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    },
+    {
+      "title": "Sexual and reproductive health",
+      "base_path": "/health-and-social-care/sexual-and-reproductive-health"
+    }
+  ]
+}

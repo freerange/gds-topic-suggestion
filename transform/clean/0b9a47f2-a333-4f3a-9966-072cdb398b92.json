@@ -1,0 +1,11 @@
+{
+  "title": "Vision Profile: July 2025",
+  "body": "\" The vision profile provides local areas comparable indicators of risk factors, healthcare provision and outcomes for vision health to support commissioning and planning and to identify unwarranted geographical variation.  The vision profile updates selected indicators developed for the 2021 Atlas of variation in risk factors and healthcare for vision in England. \"",
+  "base_path": "/government/statistics/vision-profile-july-2025",
+  "taxons": [
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    }
+  ]
+}

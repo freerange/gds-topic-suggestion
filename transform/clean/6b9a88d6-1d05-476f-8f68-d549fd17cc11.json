@@ -1,0 +1,11 @@
+{
+  "title": "Understanding Attitudes of HMRC Customers to Data Sharing",
+  "body": "\"In 2020, the last government published the 10-year Tax Administration Strategy (TAS), setting out how HMRC would make sure tax administration keeps up with the rapid changes taking place in society, the economy and technology to deliver the flexible, resilient and responsive tax system the UK would need in the years ahead. To achieve this ambition, data sharing between HMRC and third parties would increase, third parties include banks, other government departments, third party contractors, software developers and agents.   The research was conducted on HMRC’s behalf by Verian (formerly known as Kantar Public).    The research focused on individual taxpayers paying tax via PAYE and or Self-Assessment and involved a two-stage mixed-method approach. The qualitative research was carried out in March and April 2022, comprising of 12 online focus groups and 6 telephone depth interviews. The quantitative survey was carried out in August and September 2022 with 2,435 individuals.   This research study aimed to understand the attitudes of individual taxpayers towards data sharing between HMRC and third parties, in the context of HMRC’s TAS reforms.    The study involved an initial exploratory qualitative stage followed by a quantitative survey. The research explored what drives attitudes towards data sharing and how they vary between customers. It has also established a baseline measurement for HMRC.  \"",
+  "base_path": "/government/publications/understanding-attitudes-of-hmrc-customers-to-data-sharing",
+  "taxons": [
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    }
+  ]
+}

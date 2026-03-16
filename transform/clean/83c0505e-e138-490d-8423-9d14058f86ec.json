@@ -1,0 +1,11 @@
+{
+  "title": "Child Maintenance Service statistics: data to September 2025",
+  "body": "\"Statistics on child maintenance arrangements administered by the Child Maintenance Service (CMS).  CMS statistics are also available on Stat-Xplore an online tool for exploring some of the Department for Work and Pensions’ main statistics.  \"",
+  "base_path": "/government/statistics/child-maintenance-service-statistics-data-to-september-2025",
+  "taxons": [
+    {
+      "title": "Child maintenance",
+      "base_path": "/childcare-parenting/child-maintenance"
+    }
+  ]
+}

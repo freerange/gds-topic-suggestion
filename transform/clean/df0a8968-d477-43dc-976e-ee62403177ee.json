@@ -1,0 +1,23 @@
+{
+  "title": "Planning Inspectorate Business Plan 2025/26",
+  "body": "\"This document contains the following information: The Planning Inspectorate Business Plan 2025/26. \"",
+  "base_path": "/government/publications/planning-inspectorate-business-plan-202526",
+  "taxons": [
+    {
+      "title": "Local Plans",
+      "base_path": "/housing-local-and-community/local-plans"
+    },
+    {
+      "title": "Planning permission and appeals",
+      "base_path": "/housing-local-and-community/planning-permission-appeals"
+    },
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

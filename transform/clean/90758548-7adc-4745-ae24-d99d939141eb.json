@@ -1,0 +1,11 @@
+{
+  "title": "Business rates: forward look",
+  "body": "\"The government is creating a fairer business rates system that protects the high street, supports investment, and is fit for the 21st century. This process began with announcements at Autumn Budget 2024, where the government announced its intention to introduce two lower multipliers for Retail, Hospitality and Leisure properties with rateable values below £500,000. At that Budget, the government also published the ‘Transforming Business Rates’ Discussion Paper to kickstart a process of working with stakeholders to design improvements to the business rates system.    Transforming the business rates system is a multi-year process. The government will consider reforms to the system over the course of this Parliament, alongside the revaluation of properties in 2026 and 2029. \"",
+  "base_path": "/government/publications/business-rates-forward-look",
+  "taxons": [
+    {
+      "title": "Business premises and business rates",
+      "base_path": "/business/premises-rates"
+    }
+  ]
+}

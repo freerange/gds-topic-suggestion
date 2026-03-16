@@ -1,0 +1,19 @@
+{
+  "title": "Understanding evasion in small businesses",
+  "body": "\"This report presents the findings from a qualitative research project exploring tax evasion among small businesses.  The project was conducted by the National Centre for Social Research (NatCen) with support from Walnut on behalf of HMRC. The project consisted of 18 in-depth interviews with small, micro and nano businesses who had recently had a tax enquiry with HMRC.  The research sought to understand the types of tax behaviours that lead to enquiries, the drivers of these behaviours and the attitudes of small businesses towards tax evasion. \"",
+  "base_path": "/government/publications/understanding-evasion-in-small-businesses",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    },
+    {
+      "title": "Tax evasion and avoidance",
+      "base_path": "/money/tax-evasion-and-avoidance"
+    }
+  ]
+}

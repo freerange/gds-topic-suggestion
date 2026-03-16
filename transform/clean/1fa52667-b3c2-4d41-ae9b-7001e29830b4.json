@@ -1,0 +1,39 @@
+{
+  "title": "UK sanctions",
+  "body": "\" The OFSI Consolidated List of Asset Freeze Targets is closing. From Wednesday 28 January 2026 the UK Sanctions List will be the only source for all UK sanctions designations.  There will be no changes to the structure of the current UK Sanctions List.  See how to prepare for the change.  \"",
+  "base_path": "/government/collections/uk-sanctions",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    },
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    },
+    {
+      "title": "Import controls",
+      "base_path": "/business-and-industry/import-controls"
+    },
+    {
+      "title": "Law and practice",
+      "base_path": "/crime-justice-and-law/law-practice"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Transport security",
+      "base_path": "/transport/transport-security"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Private rent and house prices, UK: June 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/private-rent-and-house-prices-uk-june-2025",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    }
+  ]
+}

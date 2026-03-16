@@ -1,0 +1,15 @@
+{
+  "title": "UK port freight traffic: 2024 forecasts",
+  "body": "\"This document sets out the Department for Transport (DfT) 2024 forecasts for freight traffic at UK ports between 2024 and 2050.  These forecasts aim to inform long-term strategic thinking for the UK ports sector, including in the context of the National Policy Statement for Ports (NPSP). The NPSP highlights the importance of the ports sector to the UK economy.  The port traffic forecast model looks at 14 cargo categories and matches those used in port freight statistics. They can be grouped into 4 broad types of transportation:   unitised freight liquid bulk dry bulk general cargo   The forecasts are given at a national level and are based on freight traffic data passing through major UK ports only. They replace the previous set of UK port freight traffic forecasts, published in 2019.  If you have any feedback on the forecasts, contact: maritimeforecasts@dft.gov.uk. \"",
+  "base_path": "/government/publications/uk-port-freight-traffic-2024-forecasts",
+  "taxons": [
+    {
+      "title": "Vessel cargo",
+      "base_path": "/transport/vessel-cargo"
+    },
+    {
+      "title": "Ports, harbours and offshore installations",
+      "base_path": "/transport/ports-harbours-and-offshore-installations"
+    }
+  ]
+}

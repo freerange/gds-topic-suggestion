@@ -1,0 +1,11 @@
+{
+  "title": "DESNZ: spend control data for July to September 2025",
+  "body": "\"The Department for Energy Security and Net Zero (DESNZ) publishes details of approved expenditure in areas limited by spending controls on a quarterly basis.  This data is also available on data.gov.uk:   DESNZ: spend control data   \"",
+  "base_path": "/government/publications/desnz-spend-control-data-for-july-to-september-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

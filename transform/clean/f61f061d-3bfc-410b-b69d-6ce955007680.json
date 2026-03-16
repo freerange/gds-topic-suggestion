@@ -1,0 +1,19 @@
+{
+  "title": "Provisional population estimate for the UK: mid-2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/provisional-population-estimate-for-the-uk-mid-2025",
+  "taxons": [
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    },
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    },
+    {
+      "title": "Entering and staying in the UK",
+      "base_path": "/entering-staying-uk"
+    }
+  ]
+}

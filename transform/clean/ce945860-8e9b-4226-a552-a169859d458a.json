@@ -1,0 +1,11 @@
+{
+  "title": "UK Critical Minerals Strategy",
+  "body": "\"The UK’s Critical Minerals Strategy sets the 10-year vision for securing critical minerals for the UK. The government will harness our competitive advantage in midstream processing and recycling by optimising domestic production and diversify our sources by working with international partners. \"",
+  "base_path": "/government/publications/uk-critical-minerals-strategy",
+  "taxons": [
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    }
+  ]
+}

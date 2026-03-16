@@ -1,0 +1,11 @@
+{
+  "title": "Climate change and mental health",
+  "body": "\"This collection brings together summaries of the evidence on the pathways between climate change mental health. \"",
+  "base_path": "/government/collections/climate-change-and-mental-health",
+  "taxons": [
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    }
+  ]
+}

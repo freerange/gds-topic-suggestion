@@ -1,0 +1,11 @@
+{
+  "title": "HMRC: spending over £25,000, February 2025",
+  "body": "\"HM Revenue and Customs (HMRC) publishes details of all departmental spending over £25,000 on a monthly basis.  You can read a list of abbreviations and terms used by HMRC when recording spend of more than £25,000 with suppliers.  This data is also available on data.gov.uk.  \"",
+  "base_path": "/government/publications/hmrc-spending-over-25000-february-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

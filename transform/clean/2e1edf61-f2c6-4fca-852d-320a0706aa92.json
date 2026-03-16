@@ -1,0 +1,11 @@
+{
+  "title": "Population trends for UK bat species  (2025 publication; includes dates up to 2024)",
+  "body": "\"Statistics comprise population trends for 11 of the UK’s 17 breeding bat species, based on National Bat Monitoring Programme (NBMP) data. Population trends are provided at GB level and, where possible, at country level. UK trend is published only for Daubenton’s bat due to availability of sufficient data from Northern Ireland.  Data contribute to UK and England Biodiversity indicators, and are important for reporting on and implementation of country biodiversity strategies, and the report to EUROBATS.  NBMP is a partnership between Bat Conservation Trust and JNCC, with fieldwork carried out by hundreds of volunteer bat surveyors. \"",
+  "base_path": "/government/statistics/population-trends-for-uk-bat-species-2025-publication-includes-dates-up-to-2024",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

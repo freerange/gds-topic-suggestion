@@ -1,0 +1,19 @@
+{
+  "title": "Making sense of mode effects",
+  "body": "\"A substantial body of literature comparing performance on equivalent paper-based and digital assessments has accumulated over the past 40 years. Broadly, differences in performance between the 2 modes have come to be known as ‘mode effects’.  This paper aims to provide a framework to support researchers and practitioners, such as test developers, in anticipating whether specific test items — or features and properties of those items — are likely to elicit mode effects.  To develop this framework, a comprehensive review of the literature was conducted, focusing on mode effects at the item or item feature level. The review explores the underlying causes of mode effects to help practitioners evaluate their generalisability and assist researchers in designing targeted studies to investigate these phenomena further.   Analysis of the findings from the literature revealed that the causes of mode effects can be attributed to one of 4 stages in the process of answering test questions. This insight led to the development of a 4-stage framework. By organising the evidence for mode effects according to these stages, the framework enables practitioners to systematically review test items under development in relation to potential mode effects at each stage.  Author   Ezekiel Sweiry   With thanks to   Tom Bramley Ian Stockford Jo Handford   How to cite this publication  Sweiry, E. (2025). Making sense of mode effects: A framework for anticipating performance differences in equivalent paper-based and digital test items. (Ofqual research report 25/7278). Ofqual. Retrieved from: https://www.gov.uk/government/publications/making-sense-of-mode-effects \"",
+  "base_path": "/government/publications/making-sense-of-mode-effects",
+  "taxons": [
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    },
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

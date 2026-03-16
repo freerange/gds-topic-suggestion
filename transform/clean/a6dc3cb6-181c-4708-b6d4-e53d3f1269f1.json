@@ -1,0 +1,15 @@
+{
+  "title": "HM Prison and Probation Service spending over £25,000: 2024",
+  "body": "\"HM Prison and Probation Service publishes details of all departmental spending over £25,000. \"",
+  "base_path": "/government/publications/hm-prison-and-probation-service-spending-over-25000-2024",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

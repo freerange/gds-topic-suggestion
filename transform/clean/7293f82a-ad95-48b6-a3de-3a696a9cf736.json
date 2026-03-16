@@ -1,0 +1,11 @@
+{
+  "title": "Avoidable mortality in England and Wales: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/avoidable-mortality-in-england-and-wales-2023",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    }
+  ]
+}

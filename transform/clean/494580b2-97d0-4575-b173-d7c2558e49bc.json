@@ -1,0 +1,11 @@
+{
+  "title": "Digest of UK Energy Statistics (DUKES) 2025",
+  "body": "\"The Digest of United Kingdom Energy Statistics (DUKES) is the annual energy statistics publication produced by DESNZ. It provides a detailed and comprehensive picture on the production and consumption of individual fuels and of energy as a whole.  If you require supporting data tables please refer to the DUKES table of tables, or alternatively email: energy.stats@energysecurity.gov.uk. \"",
+  "base_path": "/government/statistics/digest-of-uk-energy-statistics-dukes-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

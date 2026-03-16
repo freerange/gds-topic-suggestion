@@ -1,0 +1,11 @@
+{
+  "title": "Reported road casualties Great Britain: casualties and deprivation factsheet 2024 (England)",
+  "body": "\"This factsheet presents the latest available statistics for reported road casualties broken down by deprivation deciles, based on the Index of Multiple Deprivation (IMD).  The purpose of the factsheet is to highlight, at a high level, the relationship between casualties and deprivation, based on the latest official data. This includes casualty data to 2024, though the most recent IMD relates to 2019.  Links are given to more in-depth analyses conducted by others. Any feedback on this factsheet is welcome to the department’s road safety statistics team.  Contact us  Road safety statistics     Email roadacc.stats@dft.gov.uk         \"",
+  "base_path": "/government/statistics/reported-road-casualties-great-britain-casualties-and-deprivation-factsheet-2024-england",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

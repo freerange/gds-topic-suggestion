@@ -1,0 +1,15 @@
+{
+  "title": "MOD: workforce management information January to December 2025",
+  "body": "\"MOD publishes details about headcount and payroll costs for permanent staff and contractors on a monthly basis.  These figures are not official statistics. They are internal workforce management information published in the interests of transparency.  \"",
+  "base_path": "/government/publications/mod-workforce-management-information-january-to-december-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

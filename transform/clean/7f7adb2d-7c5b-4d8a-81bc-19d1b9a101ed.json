@@ -1,0 +1,15 @@
+{
+  "title": "Multi-Annual National Control Plan (MANCP): annual reports",
+  "body": "\"Following EU Exit in January of 2020, responsibility for the Great Britain Multi-Annual National Control Plan (GB MANCP) and its annual report transferred to Defra.  As the lead department, Defra manages the collation, maintenance, and publication of these documents, with contributions from all UK competent authorities and devolved administrations. Northern Ireland produces their own separate report (the Annual Report on Official Controls) which is submitted directly to the EU Commission, in line with the Northern Ireland Protocol.   The annual report provides key official control data and activities for Great Britain relating to feed and food safety, animal health and welfare (including aquatics), and plant health.  Any queries relating to the MANCP, and its annual reports should be sent to mancp@defra.gov.uk  \"",
+  "base_path": "/government/publications/multi-annual-national-control-plan-mancp-annual-reports",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    },
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    }
+  ]
+}

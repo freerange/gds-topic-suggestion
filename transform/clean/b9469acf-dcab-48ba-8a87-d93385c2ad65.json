@@ -1,0 +1,19 @@
+{
+  "title": "Animal testing to be phased out faster as UK unveils roadmap for alternative methods",
+  "body": "\"  Government vows to phase out animal tests as alternative methods come on stream with new strategy welcomed as ‘ambitious’ and ‘timely’ by animal welfare and life sciences organisations New £75 million funding will help bring forward new testing methods for products that can save lives and make path to regulation clearer for researchers Strategy developed by government with life sciences, business and animal welfare organisations, meeting government’s manifesto commitment    Animal testing in science is set to be phased out faster under a new plan to deliver on the government’s manifesto commitment, unveiled by Science Minister Lord Vallance today (Tuesday 11 November).   The comprehensive roadmap backs researchers to seize on new and developing opportunities to replace certain animal tests, which are currently still used – where necessary – to determine the safety of products like life-saving vaccines and the impact chemicals like pesticides can have on living beings and the environment.   The strategy recognises that phasing out the use of animals in science can only happen where reliable and effective alternative methods, with the same level of safety for human exposure, can replace them. By working in tandem with partners, backing researchers with new funding and streamlining regulation, the plan will enable teams to pivot safely to methods like:     organ-on-a-chip systems – tiny devices that mimic how human organs work using real human cells greater use of AI to analyse huge amounts of information about molecules to predict whether new medicines will be safe and work well on humans  3D bioprinted tissues could create realistic human tissue samples, from skin to liver, for testing – providing lifelike environments for studying human biology and checking if substances are toxic   The plan sets out specific commitments for the coming years, marking it out as one of the most detailed of its kind in the world and opening up new opportunities for the UK to lead on unearthing alternatives to phase out animal tests while growing our economy.  This includes an end to regulatory testing on animals to assess the potential for new treatments to cause skin and eye irritation and skin sensitisation by the end of 2026. By 2027 researchers are expected to end tests of the strength of botox on mice and to use only DNA-based lab methods for adventitious agent testing of human medicines – the process for detecting viruses or bacteria that might accidentally contaminate medicines.   By 2030 it will also reduce pharmacokinetic studies – which track how a drug moves through the body over time – on dogs and non-human primates.  The strategy builds on the UK’s strong track record in developing and adopting alternative methods, such as in establishing the National Centre for the Replacement, Refinement and Reduction of Animals in Research (NC3Rs) – the first organisation of its kind, which has successfully delivered non-animal alternatives in areas like vaccines, backed by millions of pounds of government funding.    Developed by government with close consultation from life sciences experts, businesses and animal welfare organisations, the plan will deliver on the government’s...",
+  "base_path": "/government/news/animal-testing-to-be-phased-out-faster-as-uk-unveils-roadmap-for-alternative-methods",
+  "taxons": [
+    {
+      "title": "Animal research and testing",
+      "base_path": "/business-and-industry/animal-research-and-testing"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

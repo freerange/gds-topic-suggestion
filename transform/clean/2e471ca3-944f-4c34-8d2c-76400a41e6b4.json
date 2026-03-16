@@ -1,0 +1,11 @@
+{
+  "title": "OPSS Product Safety Testing Sampling Protocol Programme",
+  "body": "\"This report is based on data collected by the Office for Product Safety and Standards through its Sampling Protocol programme, which is operated to provide UK local authorities with cost-free access to scientific and technical expertise for product assessment and testing, supporting their regulatory activities. \"",
+  "base_path": "/government/publications/opss-product-safety-testing-sampling-protocol-programme",
+  "taxons": [
+    {
+      "title": "Product safety",
+      "base_path": "/business-and-industry/product-safety"
+    }
+  ]
+}

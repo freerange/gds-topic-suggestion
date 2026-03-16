@@ -1,0 +1,11 @@
+{
+  "title": "Common biomass sustainability framework",
+  "body": "\"This consultation is seeking views on the development of a common biomass sustainability framework, which includes proposals for strengthening existing biomass sustainability criteria in line with latest evidence as well as improvements to current monitoring, reporting and verification practices, and sets out guiding principles for addressing non-compliance. It aims to provide a consistent view on biomass sustainability across all relevant bioenergy sectors.  We welcome views from stakeholders focussed on biomass feedstock production and use across a range of sectors, including those looking at the wider environmental impacts of biomass use in the UK and elsewhere. It will be particularly relevant to stakeholders with an interest in bioenergy production, including with carbon capture and storage. \"",
+  "base_path": "/government/consultations/common-biomass-sustainability-framework",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Review into the North Hyde Substation outage: terms of reference",
+  "body": "\"The Energy Secretary has commissioned the independent National Energy System Operator (NESO) to investigate the power outage that affected Heathrow Airport and the surrounding area.  The review will focus on 3 main areas:   resilience of energy infrastructure response and restoration of energy infrastructure enhancing the resilience of critical infrastructure to energy disruption   NESO will report on initial findings within 6 weeks and provide a final report by the end of June 2025.  \"",
+  "base_path": "/government/publications/review-into-the-north-hyde-substation-outage-terms-of-reference",
+  "taxons": [
+    {
+      "title": "Aviation",
+      "base_path": "/transport/aviation"
+    },
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    }
+  ]
+}

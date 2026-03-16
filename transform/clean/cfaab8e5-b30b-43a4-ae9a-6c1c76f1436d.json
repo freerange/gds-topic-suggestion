@@ -1,0 +1,23 @@
+{
+  "title": "Government’s tech reform to transform cancer diagnosis",
+  "body": "\" Millions of patients to receive faster cancer diagnosis, helping slash treatment delays as groundbreaking new tech rolled out on NHS as part of major reform to health service For first time, all NHS trusts will have access to technology that brings key patient information together so medical teams can easily spot those in need of urgent attention The £2 billion tech investment from the Autumn Budget will drive essential reforms, freeing up staff time and saving lives, delivering on the government’s Plan for Change   Millions of cancer patients will receive a faster diagnosis, helping cut treatment delays and boost survival rates as the government rolls out pioneering new technology across the NHS through the Plan for Change.  Currently, there are over 2 million people living with cancer, many of whom face a complex journey of tests, appointments or treatments. But a trailblazing new tool - dubbed Cancer 360 - brings all that data into one central system, so clinicians can prioritise those most in need and see patients quicker - with the technology set to benefit millions over the next 5 to 10 years.  This government inherited a broken NHS. Lord Ara Darzi’s independent investigation found the NHS in “critical condition” - with surging waiting lists and deteriorating national health - and set out the need to improve cancer waiting time performance and cancer survival.  Cancer 360 represents the crucial reform that must accompany investment, shifting the NHS from analogue to digital, by creating a simple dashboard showing clinicians all the information they need about their patients in one place. Instead of having to gather vital information about each cancer patient from various systems, spreadsheets, emails, and records.  Health and Social Care Secretary Wes Streeting said:   This government grasped the nettle and made difficult but necessary choices to invest £26 billion into our NHS - a move that is already helping millions of patients and will help millions more.  It’s a long road, but we’re already getting our NHS back on its feet, giving patients over 3 million more appointments, hiring 1,500 new GPs and starting the roll out of new tech that will save lives.  It is only this government’s Plan for Change that will deliver for patients and make our NHS fit for the future.   The real-time tool will help teams to easily track a patient’s progress, avert delays, and even produce personalised treatment plans. It will dramatically reduce paperwork and help ensure vital warning signs are not missed.   Cancer 360 is a prime example of the government’s commitment to reform - doing things differently by harnessing digital innovation to improve patient outcomes.  Following recent expansion of the NHS App, which has already stopped 1.5 million hospital appointments being missed and saved 5.7 million staff hours since July 2024, Cancer 360 demonstrates how we are continuing to drive the NHS from analogue to digital, giving patients better care and more control over their healthcare journey.  The investment comes from the Autumn Budget - where the government made...",
+  "base_path": "/government/news/governments-tech-reform-to-transform-cancer-diagnosis",
+  "taxons": [
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Cancer research and treatment",
+      "base_path": "/health-and-social-care/cancer-research-and-treatment"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

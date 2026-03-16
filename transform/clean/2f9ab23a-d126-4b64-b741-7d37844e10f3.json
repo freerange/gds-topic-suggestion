@@ -1,0 +1,15 @@
+{
+  "title": "Substance misuse treatment for adults: statistics 2024 to 2025",
+  "body": "\"The Office for Health Improvement and Disparities collects data on people receiving treatment for alcohol and drug misuse. This includes details of their treatment and the outcomes.  The report and tables present statistical analysis of treatment data from 1 April 2024 to 31 March 2025. Treatment services from across England submitted the data.  Healthcare professionals can use these resources to understand:   the availability and effectiveness of alcohol and drug treatment for adults in England trends in drug and alcohol use among adults receiving treatment the profile of adults accessing alcohol and drug treatment services   For previous annual statistical reports and details of the methodology visit the NDTMS website.  These statistics were produced in partnership with the National Drug Evidence Centre.  \"",
+  "base_path": "/government/statistics/substance-misuse-treatment-for-adults-statistics-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Drug misuse and dependency",
+      "base_path": "/health-and-social-care/drug-misuse-and-dependency"
+    },
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    }
+  ]
+}

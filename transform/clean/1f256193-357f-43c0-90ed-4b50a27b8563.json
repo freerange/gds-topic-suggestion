@@ -1,0 +1,23 @@
+{
+  "title": "UK-backed AI companies to transform British cancer care and spark new drug breakthroughs",
+  "body": "\"  £82.6 million in new flexible forms of research funding to support UK companies tackling cancer and accelerating drug discovery using AI and more Collaboration between British and European experts on AI and High-Performance Computing gets match-funding boost Backing for both these schemes shows the UK’s commitment to seizing the potential of new technologies like AI, to drive forward the Plan for Change    The UK government is today (Tuesday 11 February) unveiling £82.6 million in new flexible forms of research funding, plus a new commitment to give UK researchers access to cutting-edge computing resources as part of a plan to unlock the power of AI.    Two of the three projects benefiting from this support, which is helping to pioneer new ways of conducting research, will harness the power of AI to develop treatments and diagnostics for diseases like cancer and Alzheimer’s.  Coming as day two of the AI Action Summit gets underway, this is the latest evidence of the government’s commitment to seizing the potential of new technologies like AI to drive forward the Plan for Change, delivering economic growth and progress in key fields like health.   The government is putting £37.9 million backing behind three innovative British research projects, the Research Ventures Catalyst (RVC) programme. Together with a further £44.7 million in co-investment across the three projects, from other sources, this makes for a total £82.6 million backing.   The RVC programme is delivering novel ways of funding groundbreaking research, such as endowments, which are flexible and reflect the real needs of cutting-edge innovators. Too often, inflexible funding has been a barrier to some of the most innovative and creative research or has been an obstacle to new innovative businesses looking to scale-up. The RVC programme will support pioneering work training AI on the NHS’s vast pool of cancer data, drug discovery research, and more.   Today also sees the government expand UK involvement in the European High-Performance Computing (EuroHPC) Joint Undertaking by committing £7.8 million to fund UK researchers and businesses’ participation in EuroHPC research. This will mean British AI and high-performance computing researchers can work unobstructed with their peers across Europe. International collaboration and broad access to computational resources will be key to unlocking the benefits AI promises to deliver across society and the economy.  These announcements come on the final day of the AI Action Summit in France, where world leaders and AI companies have been holding a series of talks focused on the opportunities the technology can deliver for communities across the globe. The opportunities of AI are an area the UK government has placed a heavy focus on to kickstart 2025 - unveiling a new blueprint with 50 proposals in January which will spark a decade of national renewal.   Science and Technology Secretary, Peter Kyle said:    The focus of this Summit has been on how we can put AI to work in the public interest, and today’s announcements are living proof of how the UK is leading that charge through our Plan for Change.    We’ve already...",
+  "base_path": "/government/news/uk-backed-ai-companies-to-transform-british-cancer-care-and-spark-new-drug-breakthroughs",
+  "taxons": [
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Cancer research and treatment",
+      "base_path": "/health-and-social-care/cancer-research-and-treatment"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "MOD: ministerial overseas travel, and meetings",
+  "body": "\"Government publishes details of ministers’ overseas travel and meetings with external individuals and organisations every quarter. \"",
+  "base_path": "/government/collections/mod-ministerial-overseas-travel-and-meetings",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

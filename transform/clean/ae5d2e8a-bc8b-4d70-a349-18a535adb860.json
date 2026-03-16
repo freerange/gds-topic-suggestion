@@ -1,0 +1,11 @@
+{
+  "title": "Check if you need to report Pillar 2 Top-up Taxes",
+  "body": "\"Who needs to register  Your group must use this service to register for Pillar 2 Top-up Taxes, if it has:   at least one entity located in the UK consolidated group annual revenues of 750 million euros or more, in at least 2 of the previous 4 accounting periods   References to ‘groups’ within this service also include single entities.  You must register with the service if your group meets these criteria, even if you do not have to pay any top-up tax. You must register no later than 6 months after the end of the group’s first accounting period that met the criteria.  There are two Pillar 2 Top-up Taxes in the UK:   Domestic Top-up Tax Multinational Top-up Tax   If your group only has entities located in the UK, you must register to report for Domestic Top-up Tax.  If your group has entities located both inside and outside the UK, you must register to report for both Pillar 2 Top-up Taxes.  Pillar 2 Top-up Taxes operate at a group level. Only one filing member must register on behalf of all group members for both taxes.  More information  If you need more information before you register, you can:   read Pillar 2 Top-up Taxes registration (notice 1), for legal information about registering and reporting contact your customer compliance manager, if you have one contact us by email: pillar2mailbox@hmrc.gov.uk — we’ll respond as soon as we can, but if your query is more complex, this could take up to 30 working days   Registering to report  Find out how to register to report Pillar 2 Top-up Taxes. \"",
+  "base_path": "/guidance/check-if-you-need-to-report-pillar-2-top-up-taxes",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    }
+  ]
+}

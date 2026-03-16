@@ -1,0 +1,27 @@
+{
+  "title": "Traffic Commissioners: annual report 2024 to 2025",
+  "body": "\"This annual report for 2024 to 2025 provides information on major aspects of the Traffic Commissioners’ judicial, regulatory and administrative roles. \"",
+  "base_path": "/government/publications/traffic-commissioners-annual-report-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

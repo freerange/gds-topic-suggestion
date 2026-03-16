@@ -1,0 +1,19 @@
+{
+  "title": "Shaping the national cancer plan (easy read)",
+  "body": "\"Cancer will affect 1 in every 2 people during in their lives. They might have cancer themselves or know someone who has cancer.  The Department of Health and Social Care (DHSC) is asking people what they think about cancer care. This is because we want to make sure that everyone who has cancer gets the best care.  We will use what people tell us to make our national cancer plan.   This call for  evidence is also available as a non-easy read version.  \"",
+  "base_path": "/government/calls-for-evidence/shaping-the-national-cancer-plan-easy-read",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Cancer research and treatment",
+      "base_path": "/health-and-social-care/cancer-research-and-treatment"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    }
+  ]
+}

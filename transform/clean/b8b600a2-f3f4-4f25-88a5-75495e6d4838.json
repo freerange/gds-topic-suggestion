@@ -1,0 +1,15 @@
+{
+  "title": "Port freight annual statistics: 2024",
+  "body": "\"About this release  This statistical release provides information on trends and patterns in the handling of freight traffic at UK sea ports in terms of cargo (units and tonnage) as well as the route taken.   Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing maritime.stats@dft.gov.uk with any comments about how we meet these standards.   Overview of port freight statistics   In the 2024 publication, some data for previous years has been revised following increased engagement with data providers, to improve the accuracy of our statistics. Some data for London between 2019 to 2023 and some 2019 data for Hull were revised. For more information on revisions, please go to the notes and definitions.   In 2024, all UK ports handled a total of 429.7 million tonnes, reaching the lowest levels since this time series began in 2000. Tonnage has declined 1% from 2023, following a 5% decline last year.  Below is a summary of the main points from the latest port freight trends.  In 2024:    major port traffic decreased by 1% from 2023, down to 421.0 million tonnes   minor port traffic declined by 3% from 2023, reaching the lowest levels seen from 2000   domestic traffic decreased by 6%, driven by coastwise movements   international traffic remained at similar levels to 2023, increasing less than 1% to 334.5 million tonnes   London handled the most tonnage traffic of all UK ports, accounting for 12% of all UK traffic, followed closely by Grimsby and Immingham (10%)   liquid bulk saw the largest absolute decline of all cargo groups, from 2023, followed by dry bulk    Contact us   Maritime and shipping statistics     Email maritime.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats. \"",
+  "base_path": "/government/statistics/port-freight-annual-statistics-2024",
+  "taxons": [
+    {
+      "title": "Ports, harbours and offshore installations",
+      "base_path": "/transport/ports-harbours-and-offshore-installations"
+    },
+    {
+      "title": "Waterways (maritime)",
+      "base_path": "/transport/waterways-maritime"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Late payments research",
+  "body": "\"The research papers consider:   what causes late payments between businesses, and how this affects payment performance and practices across businesses of different sectors and sizes – supported by a quantitative survey and interview case studies the total economic cost of late payments and their impact on the UK economy – supported by a quantitative survey and econometric analysis of secondary data sources  \"",
+  "base_path": "/government/collections/late-payments-research",
+  "taxons": [
+    {
+      "title": "Running a business",
+      "base_path": "/business-and-industry/running-a-business"
+    }
+  ]
+}

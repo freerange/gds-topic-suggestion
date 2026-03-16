@@ -1,0 +1,11 @@
+{
+  "title": "Export client reported impact survey",
+  "body": "\"The Reported Impact Survey (RIS) is a follow-up from the Quality Survey (QS) and is administered 12 months after receiving the initial support. Around 2,500 UK businesses agree to be re-contacted and participate in this survey each year. \"",
+  "base_path": "/government/publications/export-client-reported-impact-survey",
+  "taxons": [
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    }
+  ]
+}

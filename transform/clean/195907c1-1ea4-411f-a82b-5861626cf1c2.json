@@ -1,0 +1,11 @@
+{
+  "title": "English Housing Survey 2023 to 2024: climate resilient homes - fact sheet",
+  "body": "\"This fact sheet brings together evidence on how prepared homes are for climate change by focusing on dwelling age in relation to dwelling characteristics, self-reported overheating, ability of households to keep warm during winter and self-reported moisture damage to homes following a storm. It also explores working from home and energy costs and the reasons households carried out or didn’t carry out EPC recommendations on their home. \"",
+  "base_path": "/government/statistics/english-housing-survey-2023-to-2024-climate-resilient-homes-fact-sheet",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    }
+  ]
+}

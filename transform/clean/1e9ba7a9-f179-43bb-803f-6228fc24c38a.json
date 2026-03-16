@@ -1,0 +1,11 @@
+{
+  "title": "Ivory Coast: Knowledge Base profile",
+  "body": "\"This document contains useful information about Ivory Coast which will assist HM Passport Office staff to process passport applications.  This document includes information about:   names nationality legitimacy documents from Ivory Coast  \"",
+  "base_path": "/government/publications/ivory-coast-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "FCDO Services spending over £500, August 2025",
+  "body": "\"FCDO Services publishes details of all spending over £500 using the government procurement card on a monthly basis. \"",
+  "base_path": "/government/publications/fcdo-services-spending-over-500-august-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

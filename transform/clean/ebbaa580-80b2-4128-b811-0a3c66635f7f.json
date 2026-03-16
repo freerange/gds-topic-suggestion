@@ -1,0 +1,11 @@
+{
+  "title": "Project Gigabit Evaluation Plan",
+  "body": "\"Building Digital UK (BDUK), an Executive Agency within the Department for Science, Innovation and Technology (DSIT) commissioned Ipsos UK and partners to undertake an evaluation of Project Gigabit, which includes the Gigabit Infrastructure Subsidy (GIS) interventions and the Gigabit Broadband Voucher Scheme (GBVS). This report sets out the recommended approach to the evaluation of Project Gigabit, and both the GBVS and GIS interventions individually.  Project Gigabit is a government-funded programme to enable hard-to-reach communities to access fast, reliable gigabit-capable broadband. It targets homes and businesses that are not included in broadband suppliers’ commercial plans, reaching parts of the UK that might otherwise miss out on upgrades to next-generation speeds. There are several mechanisms through which Project Gigabit aims to provide this connectivity, including:    The Gigabit Infrastructure Subsidy (GIS) interventions– which awards contracts which provide subsidies to network providers to make it commercially viable to deliver gigabit capable networks (those offering downloads speeds of at least 1,000 Mbps) to premises which are not expected to benefit from commercial deployments.   The GBVS – which aims to provide communities with rapid access to gigabit capable connections through providing vouchers, worth up to £4,500, to businesses and homes to cover the cost of installing gigabit capable networks in their area.   GigaHubs – which provides funding for public sector buildings such as GP surgeries, libraries and schools - in hard-to-reach parts of the UK to access gigabit capable connections. The GigaHubs are included in the BDUK Hubs Evaluation Plan and are not included here.   \"",
+  "base_path": "/government/publications/project-gigabit-evaluation-plan",
+  "taxons": [
+    {
+      "title": "Broadband investment",
+      "base_path": "/business/broadband-investment"
+    }
+  ]
+}

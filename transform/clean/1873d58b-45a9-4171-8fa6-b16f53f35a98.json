@@ -1,0 +1,11 @@
+{
+  "title": "In Vitro Diagnostic roadmap",
+  "body": "\"The MHRA committed to publishing an In Vitro Diagnostics (IVD) roadmap as part of the MedTech Regulatory Reform roadmap. There are commitments in the 10 Year Health Plan and the Life Sciences Sector Plan to expand diagnostics into community settings and speed up access to innovative diagnostics. The roadmap supports the development and access of innovative IVD devices which play a critical role in improving patient outcomes through timely diagnosis and effective treatment.    We are continuing to focus on strong research and high standards to support rapid assay development, such as Next Generation Sequencing (NGS)-based cancer diagnostics, while providing best practice guidance for complex technologies like genetic testing, and strengthened pandemic preparedness.  The roadmap sets out broad timelines and deliverables across 2026 and 2027 across three themes:    Regulatory support for innovative IVD technologies - Guidance for new technologies and companion diagnostics.  Regulatory science and research - Promoting scientific research, standards, and reference materials for emerging diagnostics.  Pandemic preparedness and resilience - Strengthening regulatory frameworks and international collaboration for future health emergencies.  \"",
+  "base_path": "/government/publications/in-vitro-diagnostic-roadmap",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

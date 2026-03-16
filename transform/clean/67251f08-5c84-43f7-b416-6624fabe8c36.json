@@ -1,0 +1,11 @@
+{
+  "title": "Great British Railways online rail ticket retailing",
+  "body": "\"After Great British Railways is established following legislation, it will retail online by bringing together individual train operators’ ticket websites.  \"",
+  "base_path": "/government/publications/great-british-railways-online-rail-ticket-retailing",
+  "taxons": [
+    {
+      "title": "Rail ticketing and fares",
+      "base_path": "/transport/rail-ticketing-and-fares"
+    }
+  ]
+}

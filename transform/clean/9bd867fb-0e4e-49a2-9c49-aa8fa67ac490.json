@@ -1,0 +1,11 @@
+{
+  "title": "Railways Bill",
+  "body": "\"The factsheets explain measures in the Railways Bill, why they are needed and what impact they will have.  Railways Bill   A railway fit for Britain’s future: government response Our roadmap to an accessible railway   \"",
+  "base_path": "/government/publications/railways-bill",
+  "taxons": [
+    {
+      "title": "Rail",
+      "base_path": "/transport/rail"
+    }
+  ]
+}

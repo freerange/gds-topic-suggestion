@@ -1,0 +1,23 @@
+{
+  "title": "A catalogue of errors",
+  "body": "\"The licence itself had already been downgraded from standard international.  The public inquiry uncovered severe and persistent compliance failings, jeopardising road safety and undermining fair competition.  The commissioner’s findings included tax and MOT violations, where multiple vehicles were operated without valid tax or MOTs for extended periods and maintenance shortcomings with infrequent safety inspections - with some vehicles operating in dangerous conditions, including one driven with three bald tyres after being declared unroadworthy. Driver hours were mismanaged, and tachograph downloads were delayed by up to 237 days, with drivers failing to record required manual entries.  On top of this, a there was a lack of oversight from former transport manager Richard Simcox who failed to fulfil basic compliance duties, contributing to widespread operational failings and a culture of non-compliance.  The operator also engaged in subcontracting work to a company without the required operator’s licence, violating legal requirements, and Mr. Gettings admitted to lying during a DVSA investigation and failed to cooperate with vehicle inspections.  Commissioner Rooney said “The compliance shortcomings alone with vehicles untaxed, untested and un-inspected, the lack of any drivers’ hours management or working time, mean that this is not a business I can have any confidence will be compliant in the future. The operation has been so dangerous that it must come to an end… The shortcomings I have found reflect a recklessness on the part of the operator, and a recklessness that is shown still to persist by the actions in October. Road safety has been compromised and the use of a Ltd Company driver is unfair competition.”  The commissioner determined that K & B Haulage Limited was no longer fit to hold an operator’s licence. The company’s licence has been revoked, and its director, Kyle Gettings, has been disqualified as an operator for a period of two years. Transport manager Richard Simcox has also lost his good repute and been disqualified for an extended period.  More details can be found here.  For any further details or enquiries, please contact: pressoffice@otc.gov.uk \"",
+  "base_path": "/government/news/a-catalogue-of-errors",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

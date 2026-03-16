@@ -1,0 +1,15 @@
+{
+  "title": "Environmental capacity for industrial clusters: factsheets",
+  "body": "\"The project examined environmental challenges – and identified potential impacts – associated with water availability, water quality, air quality, flood risk, and climate impacts in the Humber, Teesside, and HyNet industrial areas.  These one-page factsheets:   summarise the environmental capacity for industrial clusters project provide an overview of the findings and recommendations for each of the 3 clusters and a fourth overview of the project   They are intended as a non-technical summary of the project for all stakeholders. \"",
+  "base_path": "/government/publications/environmental-capacity-for-industrial-clusters-factsheets",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Carbon capture and storage",
+      "base_path": "/environment/oil-and-gas-carbon-capture-and-storage"
+    }
+  ]
+}

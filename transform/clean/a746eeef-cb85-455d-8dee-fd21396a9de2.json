@@ -1,0 +1,15 @@
+{
+  "title": "Complaints and Compliments Received by HSC Trusts in Northern Ireland for 2024/25",
+  "body": "\"Summary of information collected on complaint issues, by subject and programme of care (POC), and compliments received by each of the six HSC trusts in Northern Ireland. \"",
+  "base_path": "/government/statistics/complaints-and-compliments-received-by-hsc-trusts-in-northern-ireland-for-202425",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

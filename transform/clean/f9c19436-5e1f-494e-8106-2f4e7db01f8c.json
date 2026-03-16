@@ -1,0 +1,11 @@
+{
+  "title": "Epidemiology of COVID-19 in England",
+  "body": "\"These reports summarise trends in the epidemiology of COVID-19 in England. Reports will be published approximately every 6 months to describe COVID-19 activity in line with the current COVID-19 immunisation programme. \"",
+  "base_path": "/government/publications/epidemiology-of-covid-19-in-england",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

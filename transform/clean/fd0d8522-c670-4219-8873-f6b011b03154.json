@@ -1,0 +1,11 @@
+{
+  "title": "Low income poverty projections for children, FYE 2025 to FYE 2030, November 2025",
+  "body": "\"In November 2025, the UK government announced that from April 2026 it will be removing the two-child limit so that families can receive the child element of Universal Credit for all children regardless of family size. This publication provides an estimate of the future low income poverty trends for children after this policy was announced. \"",
+  "base_path": "/government/publications/low-income-poverty-projections-for-children-fye-2025-to-fye-2030-november-2025",
+  "taxons": [
+    {
+      "title": "Child poverty",
+      "base_path": "/childcare-parenting/child-poverty"
+    }
+  ]
+}

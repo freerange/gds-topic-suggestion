@@ -1,0 +1,11 @@
+{
+  "title": "Northern Ireland Index of Services: Quarter 3 2025",
+  "body": "\"   The Index of Services (IOS) is an Accredited Official Statistics survey designed to measure changes in quarterly output for the services sector. The sampling frame used is Inter-departmental Business Register (IDBR). A stratified sampling technique known as the Neyman Allocation is used. The overall Index of Services is calculated by weighting together industry level indices that describe the activity of an industry sector using the Standard Industrial Classification (SIC). Weights are based on the relative share of regional GVA on an annual basis. The Experimental Northern Ireland Retail Sales Index Statistic, which refers to the change in output with the private retail service industries (SIC 47-Retail trade, except of motor vehicles and motorcycles) is included within this publication as it is a subset of IOS.    \"",
+  "base_path": "/government/statistics/northern-ireland-index-of-services-quarter-3-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    }
+  ]
+}

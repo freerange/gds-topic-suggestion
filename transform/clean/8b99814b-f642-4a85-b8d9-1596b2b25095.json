@@ -1,0 +1,19 @@
+{
+  "title": "Northern Ireland Business Register and Employment Survey 2023",
+  "body": "\"The BRES is a statutory enquiry of employers in Northern Ireland, carried out annually under the Statistics of Trade and Employment (Northern Ireland) Order 1988. Results are available according to sex, full- or part-time working, industrial activity and location (District Council Area), subject to confidentiality constraints. \"",
+  "base_path": "/government/statistics/northern-ireland-business-register-and-employment-survey-2023",
+  "taxons": [
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    },
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

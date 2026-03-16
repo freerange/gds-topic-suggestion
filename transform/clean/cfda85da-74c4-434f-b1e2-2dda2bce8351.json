@@ -1,0 +1,11 @@
+{
+  "title": "Homes England spend for transactions over £25,000",
+  "body": "\"Details of Homes England spend for transactions over £25,000.  View details of Homes England spend over £250 before April 2025. \"",
+  "base_path": "/government/publications/homes-england-spend-for-transactions-over-25000",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    }
+  ]
+}

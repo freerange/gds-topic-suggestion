@@ -1,0 +1,19 @@
+{
+  "title": "DfT: annual report and accounts 2024 to 2025",
+  "body": "\"This document provides a comprehensive account of the Department for Transport’s (DfT’s) use of resources and activities between 1 April 2024 and 31 March 2025.  It provides detailed information for DfT, its agencies and arm’s length bodies on:   our financial performance and position how we used our resources our strategy and achievements over the period our objectives our governance arrangements   The resource accounts provide detailed accounting and expenditure information for the financial year.  The common core tables support the annual report and accounts for the financial year.  \"",
+  "base_path": "/government/publications/dft-annual-report-and-accounts-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    }
+  ]
+}

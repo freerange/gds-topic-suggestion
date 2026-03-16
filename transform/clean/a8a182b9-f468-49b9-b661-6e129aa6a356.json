@@ -1,0 +1,11 @@
+{
+  "title": "Estates Returns Information Collection, Summary page and dataset for ERIC 2024/25",
+  "body": "\"ERIC collects information relating to the costs of providing and maintaining the NHS Estate including such things as building, maintaining and equipping hospitals, the provision of services such as cleaning, laundry, food and portering and the consumption and associated costs of utilities. \"",
+  "base_path": "/government/statistics/estates-returns-information-collection-summary-page-and-dataset-for-eric-202425",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

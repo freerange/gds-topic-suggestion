@@ -1,0 +1,11 @@
+{
+  "title": "National Cancer Patient Experience Survey (NCPES) 2024",
+  "body": "\" The survey is conducted on an annual basis and includes all adult patients (aged 16 and over), with a confirmed primary diagnosis of cancer, who have been admitted to hospital as inpatients for cancer related treatment, or who were seen as day case patients for cancer related treatment, and have been discharged between the months of April, May or June 2022.  Description/Body: This section of the website contains important national and local documentation on the 2022 National Cancer Patient Experience Survey. Here you can find the national report on the survey, local level reports (Trusts, Integrated Care Boards and Cancer Alliances) including spreadsheets and data tables, and an online reporting tool allowing users to interrogate the data.  Official statistics are produced impartially and free from any political influence. \"",
+  "base_path": "/government/statistics/national-cancer-patient-experience-survey-ncpes-2024",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

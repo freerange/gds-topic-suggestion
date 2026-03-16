@@ -1,0 +1,15 @@
+{
+  "title": "Public opinions and social trends, Great Britain: January 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/public-opinions-and-social-trends-great-britain-january-2025",
+  "taxons": [
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    },
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    }
+  ]
+}

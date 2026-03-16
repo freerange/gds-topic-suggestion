@@ -1,0 +1,15 @@
+{
+  "title": "Foot and mouth disease control strategy",
+  "body": "\"This document describes how a suspect case and outbreak of foot and mouth disease (FMD) would be managed in Great Britain (England, Scotland and Wales, not including Northern Ireland) and the measures to be applied within the framework of national law. It also describes the measures and wider framework in place for reducing the risk of an incursion of FMD.  The strategy aims to provide information on the policies to be applied so all those affected by an outbreak of FMD can be better prepared to respond quickly and effectively to control it, mitigating the likely impact of the control measures.  \"",
+  "base_path": "/government/publications/foot-and-mouth-disease-control-strategy",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

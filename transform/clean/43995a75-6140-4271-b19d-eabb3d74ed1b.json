@@ -1,0 +1,15 @@
+{
+  "title": "Noise Complaint statistics for NI 2024/25",
+  "body": "\"The purpose of this report is to inform central government, district councils, the general public and any other interested parties as to the number and nature of noise complaints received each year by district councils across Northern Ireland​. \"",
+  "base_path": "/government/statistics/noise-complaint-statistics-for-ni-202425",
+  "taxons": [
+    {
+      "title": "Neighbours, noise and pests",
+      "base_path": "/housing-local-and-community/neighours-noise-pests"
+    },
+    {
+      "title": "Local councils and services",
+      "base_path": "/regional-and-local-government/local-councils"
+    }
+  ]
+}

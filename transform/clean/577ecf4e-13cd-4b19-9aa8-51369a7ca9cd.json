@@ -1,0 +1,11 @@
+{
+  "title": "Partial equilibrium trade models modelling paper",
+  "body": "\"This working paper illustrates how the UK’s Department for Business and Trade’s (DBT) partial equilibrium (PE) models work by presenting results from running simulations of a notional trade agreement between 2 countries. It uses these to show:   how these models function what they can deliver the key parameters that drive their results how sensitive the results are to changes in these parameters  \"",
+  "base_path": "/government/publications/partial-equilibrium-trade-models-modelling-paper",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

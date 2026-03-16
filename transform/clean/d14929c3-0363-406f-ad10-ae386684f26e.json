@@ -1,0 +1,11 @@
+{
+  "title": "Tax Credits statistics: supplement on payments 2023 to 2025",
+  "body": "\"The Child and Working Tax Credits statistics on the supplement on payments from the finalised annual awards of 2023 to 2024 and 2024 to 2025 consists of a series of tables showing whether people were overpaid, underpaid or paid the entitled amount of Child Tax Credit and/or Working Tax Credit, based upon what we now know about any changes in their circumstances in 2023 to 2024 and 2024 to 2025 . The tables show a time series of payments (overpaid, underpaid or paid the entitled amount) as well as a breakdown of type of tax credits overpaid or underpaid. A breakdown is also shown by whether the recipients of the payments were single or in a couple.  This is the final release of these statistics. \"",
+  "base_path": "/government/statistics/tax-credits-statistics-supplement-on-payments-2023-to-2025",
+  "taxons": [
+    {
+      "title": "Tax credits",
+      "base_path": "/welfare/tax-credits"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Decision for Hugo Miller t/a Arun Coaches",
+  "body": "\"Decisions  Breach of Sections 17(3) (a) and (aa) of the Public Passenger Vehicles Act 1981 found  Curtailment of licence to one vehicle and indefinite suspension of the licence with immediate effect ordered. Licence disc to be sent to the Office of the Traffic Commissioner and only returned to Mr Miller when an up to date roadworthiness certificate and pre- use preventative maintenance inspection record is provided for vehicle ARU 500A. No other vehicle can be added to the licence during the period of the suspension. \"",
+  "base_path": "/government/publications/decision-for-hugo-miller-ta-arun-coaches",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

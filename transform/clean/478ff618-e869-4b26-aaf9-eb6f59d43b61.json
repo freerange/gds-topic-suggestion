@@ -1,0 +1,15 @@
+{
+  "title": "Insolvency practitioner bulletin 4 (2024): update on paying Income Tax and National Insurance contributions due to HMRC",
+  "body": "\"This bulletin explains that you should deduct and account for all the Income Tax and National Insurance contributions due for the payment period, when a payment to an employee covers pre and post-appointment periods.  This bulletin replaces Insolvency practitioner bulletin 3 (2024): paying Income Tax and National Insurance contributions due to HMRC.  \"",
+  "base_path": "/government/publications/insolvency-practitioner-bulletin-4-2024-update-on-paying-income-tax-and-national-insurance-contributions-due-to-hmrc",
+  "taxons": [
+    {
+      "title": "Paying HMRC",
+      "base_path": "/money/business-tax-paye-paying-hmrc"
+    },
+    {
+      "title": "Income Tax and National Insurance",
+      "base_path": "/money/dealing-with-hmrc-paying-hmrc-income-tax-and-national-insurance"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Prescription Cost Analysis for Northern Ireland, 2024",
+  "body": "\"Prescription Cost Analysis (PCA) provides details of the number of items and the net ingredient cost of all prescriptions dispensed in Northern Ireland. The drugs dispensed are listed by British National Formulary (BNF) therapeutic class. \"",
+  "base_path": "/government/statistics/prescription-cost-analysis-for-northern-ireland-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Pharmacy",
+      "base_path": "/health-and-social-care/pharmacy"
+    }
+  ]
+}

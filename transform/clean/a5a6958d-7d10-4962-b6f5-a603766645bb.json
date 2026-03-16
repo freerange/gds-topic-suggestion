@@ -1,0 +1,11 @@
+{
+  "title": "Child and maternal health profiles: May 2025 update",
+  "body": "\" The child and maternal health profiles provide an overview of child and maternal health and wellbeing. They are intended for use by local government and health service professionals to inform planning for health and associated services for local populations.  The following indicators have been updated based on Emergency Care Data Set (ECDS) and Hospital Episode Statistics (HES) data:    A&E attendances (0 to 4 years and under 18 years)  admissions for gastroenteritis and for lower respiratory tract infections (0 to 4 years)   hospital admissions for dental caries (0 to 5 years)   hospital admissions for asthma, for diabetes and for epilepsy (under 19 years)   teenage mothers  percentage of deliveries to women aged 35 years or above and to women from ethnic minority groups admission of babies under 14 days percentage of deliveries by caesarean section   The indicator for premature births has also been updated based on Office for National Statistics (ONS) births data.  Data is presented for England, with most indicators also available at regional level and for upper and lower tier local authorities. Data is also available for integrated care boards (ICBs) and NHS England regions (up to financial year ending 2023) and includes information about inequalities where possible.  In July 2024, ONS updated its mid-year population estimates for 2022. All indicators using these estimates have been updated using the new population estimates.  To simplify presentation indicators for admissions for gastroenteritis, lower respiratory tract infections, asthma, diabetes and epilepsy now have age groups as an inequality option rather than separate indicators for each age group.  Indicators for under 18 conceptions have not been updated as data has not been published by ONS. Information about when these indicators will be updated as part of a future release will be included in the research and statistics calendar.  \"",
+  "base_path": "/government/statistics/child-and-maternal-health-profiles-may-2025-update",
+  "taxons": [
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    }
+  ]
+}

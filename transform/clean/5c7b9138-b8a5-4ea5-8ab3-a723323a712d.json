@@ -1,0 +1,11 @@
+{
+  "title": "Income Tax charge on Winter Fuel Payments",
+  "body": "\"From 6 April 2025, HMRC will recover the Income Tax charge automatically, either through Self Assessment or PAYE tax code adjustments for most individuals.  People receiving certain means-tested benefits during the qualifying week will not pay the charge.  Pensioners can opt out of receiving the payment if they expect to exceed the income threshold. \"",
+  "base_path": "/government/publications/income-tax-charge-on-winter-fuel-payments",
+  "taxons": [
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

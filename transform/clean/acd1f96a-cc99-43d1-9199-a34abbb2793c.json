@@ -1,0 +1,11 @@
+{
+  "title": "UK Government Green Financing Programme",
+  "body": "\"The UK Government Green Financing Programme raises financing from investors to fund green expenditures that tackle climate change, rebuild natural ecosystems and support jobs in green sectors. More than £51 billion has been raised under the Programme since September 2021.  Financing is raised through the issuance of green gilts via the UK Debt Management Office (DMO) and the sale of retail Green Savings Bonds by National Savings and Investments (NS&I).  HM Treasury have set out the principles of the Programme in the UK Government Green Financing Framework, updated in November 2025. HM Treasury reports regularly on the allocation of raised financing to eligible green expenditures and on the environmental and social impact of this spending. \"",
+  "base_path": "/government/collections/uk-government-green-financing-programme",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

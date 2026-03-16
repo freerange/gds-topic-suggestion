@@ -1,0 +1,19 @@
+{
+  "title": "Admin-based population estimates of internal migration between local authorities, England and Wales: mid-2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/admin-based-population-estimates-of-internal-migration-between-local-authorities-england-and-wales-mid-2024",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "Local councils and services",
+      "base_path": "/regional-and-local-government/local-councils"
+    },
+    {
+      "title": "Data collection and reporting",
+      "base_path": "/regional-and-local-government/local-government-data-collection-reporting"
+    }
+  ]
+}

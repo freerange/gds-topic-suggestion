@@ -1,0 +1,11 @@
+{
+  "title": "Quarterly Direct Payment Statistics for Northern Ireland (December 2024)",
+  "body": "\"Presents quarterly information collected from health and social care (HSC) trusts on the number of and the amount paid by direct payments, broken down by HSC trust and client group. Direct payments are cash payments, made in lieu of social service provisions, to individuals who have been assessed as needing services. Direct payments increase choice and promote independence. The direct payments information return is provided quarterly by the Strategic Planning and Performance Group (SPPG). \"",
+  "base_path": "/government/statistics/quarterly-direct-payment-statistics-for-northern-ireland-december-2024",
+  "taxons": [
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

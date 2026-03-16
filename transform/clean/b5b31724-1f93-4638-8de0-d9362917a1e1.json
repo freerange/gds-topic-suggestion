@@ -1,0 +1,23 @@
+{
+  "title": "Significant water management issues: river basin management plans",
+  "body": "\"The current river basin management plans were published in October 2022. The plans must be reviewed and updated every 6 years.  The second consultation on updating the plans is this ‘significant water management issues’ consultation. We are seeking your views on the challenges our waters face.  By responding to this consultation you will be helping to shape the management of the water environment. The information gathered through this consultation will help us update the current river basin management plans.  We will also use your responses to help us consider how some of the current approaches to the management of water in England will need to change in response to a changing climate.  We carry out strategic environmental assessments during the update of the river basin management plans. These consider environmental risks and opportunities and develop a plan that delivers better environmental outcomes. There is a strategic environmental assessment scoping report for each river basin district. This consultation also allows you to provide feedback on these reports. \"",
+  "base_path": "/government/consultations/significant-water-management-issues-river-basin-management-plans",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "River maintenance, flooding and coastal erosion",
+      "base_path": "/environment/river-maintenance-flooding-coastal-erosion"
+    },
+    {
+      "title": "Rural and countryside",
+      "base_path": "/environment/rural-and-countryside"
+    },
+    {
+      "title": "Water management",
+      "base_path": "/environment/water-management"
+    }
+  ]
+}

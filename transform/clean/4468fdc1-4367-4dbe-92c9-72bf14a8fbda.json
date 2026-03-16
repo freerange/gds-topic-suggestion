@@ -1,0 +1,11 @@
+{
+  "title": "About us",
+  "body": "\" \"",
+  "base_path": "/government/organisations/ai-security-institute/about",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

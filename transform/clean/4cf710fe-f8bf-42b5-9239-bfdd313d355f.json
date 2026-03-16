@@ -1,0 +1,15 @@
+{
+  "title": "Drug misuse in England and Wales: year ending March 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/drug-misuse-in-england-and-wales-year-ending-march-2025",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Drug misuse and dependency",
+      "base_path": "/health-and-social-care/drug-misuse-and-dependency"
+    }
+  ]
+}

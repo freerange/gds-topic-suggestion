@@ -1,0 +1,11 @@
+{
+  "title": "MHCLG enabled spend statistics, 2023-24",
+  "body": "\"Ministry of Housing, Communities and Local Government (MHCLG) enabled spend is a new official statistic in development. It provides estimates of both direct MHCLG and arm’s length body spend, and funding delegated to local authorities, at a granular and standard level of geography.​ \"",
+  "base_path": "/government/statistics/mhclg-enabled-spend-statistics-2023-24",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

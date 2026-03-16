@@ -1,0 +1,15 @@
+{
+  "title": "Air passenger experience of security screening: 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/air-passenger-experience-of-security-screening-2025",
+  "taxons": [
+    {
+      "title": "Aviation passenger experience",
+      "base_path": "/transport/aviation-passenger-experience"
+    },
+    {
+      "title": "Aviation safety and security",
+      "base_path": "/transport/aviation-safety-and-security"
+    }
+  ]
+}

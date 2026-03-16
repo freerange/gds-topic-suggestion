@@ -1,0 +1,11 @@
+{
+  "title": "Cryptoasset Reporting Framework",
+  "body": "\"This measure gives information about the Cryptoasset Reporting Framework which provides visibility on the transactions of users of cryptoassets.  The regulations outline:   the mandatory requirement for registration of reporting cryptoasset providers specific penalties for non-compliance  \"",
+  "base_path": "/government/publications/cryptoasset-reporting-framework",
+  "taxons": [
+    {
+      "title": "Tax compliance",
+      "base_path": "/money/tax-compliance"
+    }
+  ]
+}

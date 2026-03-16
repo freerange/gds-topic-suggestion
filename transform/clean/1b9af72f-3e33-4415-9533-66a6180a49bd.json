@@ -1,0 +1,15 @@
+{
+  "title": "UK Space Agency Evaluations and Research",
+  "body": "\"This page collects evaluations commissioned by the UK Space Agency, including those of UK Space Agency programmes and initiatives, the wider UK space sector, and the work of external parties.  The page also includes the UK Space Agency Evaluation Strategy, which outlines its vision for evaluating its impact and the way it supports the UK space sector. \"",
+  "base_path": "/government/collections/uk-space-agency-evaluations-and-research",
+  "taxons": [
+    {
+      "title": "Government evaluation",
+      "base_path": "/government/government-evaluation"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

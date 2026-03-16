@@ -1,0 +1,11 @@
+{
+  "title": "Public sector finances, UK: December 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/public-sector-finances-uk-december-2024",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

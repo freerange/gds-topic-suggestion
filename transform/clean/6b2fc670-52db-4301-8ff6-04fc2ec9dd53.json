@@ -1,0 +1,15 @@
+{
+  "title": "Parental Leave and Pay evidence: HMRC data covering April 2014 to March 2025",
+  "body": "\"This set of tables contains information on the number of individuals in receipt of:   Statutory Maternity Pay (SMP) Statutory Paternity Pay (SPP) Statutory Shared Parental Pay (SShPP) Statutory Adoption Pay (SAP)   Information is provided by employers to HMRC based on HMRC’s Real Time Information (RTI) system and covers the period April 2014 to March 2025. These figures are subject to revision and should not be considered Accredited Official Statistics.  \"",
+  "base_path": "/government/publications/parental-leave-and-pay-evidence-hmrc-data-covering-april-2014-to-march-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Labour market reform",
+      "base_path": "/employment/labour-market-reform"
+    }
+  ]
+}

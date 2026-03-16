@@ -1,0 +1,11 @@
+{
+  "title": "E-seminar: Verification of frozen poultry via HADH",
+  "body": "\"This e-seminar provides a guide for the implementation of a method for the verification of the labelling of previously frozen poultry by measurement of hydroxyacyl-coenzyme A dehydrogenase (HADH) activity.  When meat is frozen and then thawed, the muscle mitochondria (a type of intramuscular organelle) are damaged during the process and the enzyme HADH is released into the intracellular fluid. The relative increase in the amount of HADH found in the intracellular fluid before and after analytical method freezing procedure may be indicative as to whether the meat has previously undergone freezing. The measurement of HADH activity in the intracellular fluid, taken by pressing the meat and analysing the fluid using a spectrophotometer, is a simple, rapid and reliable procedure for a laboratory to undertake when evaluating the reported cryological history of raw chicken or turkey samples.  This e-seminar provides information and guidance relevant to understanding how to apply an HADH-based spectrophotometric method to differentiate between chilled and previously frozen poultry samples.  This e-seminar was produced by the Joint Knowledge Transfer Framework for Food Standards and Food Safety Analysis, funded by the Food Standards Agency, the Department for Environment, Food and Rural Affairs, Food Standards Scotland and the Department for Science Innovation and Technology via the Government Chemist.  Watch the  E-seminar: Verification of frozen poultry via HADH \"",
+  "base_path": "/government/news/e-seminar-verification-of-frozen-poultry-via-hadh",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

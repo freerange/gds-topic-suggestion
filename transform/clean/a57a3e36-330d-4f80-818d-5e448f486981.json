@@ -1,0 +1,15 @@
+{
+  "title": "DESNZ: processing special category data and criminal offence data",
+  "body": "\"This document sets out how the Department for Energy Security and Net Zero (DESNZ) protects certain types of personal data:   special category data (such as ethnic origin or sexual orientation) criminal convictions and offences data   It should be read alongside our personal information charter.  \"",
+  "base_path": "/government/publications/desnz-processing-special-category-data-and-criminal-offence-data",
+  "taxons": [
+    {
+      "title": "Data protection",
+      "base_path": "/crime-justice-and-law/data-protection"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

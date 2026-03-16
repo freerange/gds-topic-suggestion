@@ -1,0 +1,15 @@
+{
+  "title": "16 to 19 education and skills funding",
+  "body": "\" \"",
+  "base_path": "/government/collections/16-to-19-education-and-skills-funding",
+  "taxons": [
+    {
+      "title": "Further education funding",
+      "base_path": "/education/further-education-funding"
+    },
+    {
+      "title": "School and academy funding",
+      "base_path": "/education/school-and-academy-funding"
+    }
+  ]
+}

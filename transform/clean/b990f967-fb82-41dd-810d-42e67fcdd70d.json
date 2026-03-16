@@ -1,0 +1,11 @@
+{
+  "title": "UK armed forces suicides: 2024",
+  "body": "\"This annual Statistical Notice provides summary information on suicides that have occurred among serving UK regular armed forces personnel during the 20-year period 2005-2024. This information updates previous notices and includes new data for 2024. The notice provides numbers and rates for the latest 20-year period, with all time trend graphs presenting rates since the start of data collection in 1984. \"",
+  "base_path": "/government/statistics/uk-armed-forces-suicides-2024",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

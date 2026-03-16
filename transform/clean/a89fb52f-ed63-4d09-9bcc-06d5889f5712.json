@@ -1,0 +1,19 @@
+{
+  "title": "Charity Commission government procurement card spending over £500 for 2025-2026",
+  "body": "\"The Charity Commission for England and Wales publishes details of spending over £500 using a government procurement card (GPC). \"",
+  "base_path": "/government/publications/charity-commission-government-procurement-card-spending-over-500-for-2025-2026",
+  "taxons": [
+    {
+      "title": "Charities, volunteering and honours",
+      "base_path": "/society-and-culture/charities-honours"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Charities and social enterprises",
+      "base_path": "/business-and-industry/charities-and-social-enterprises"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Marburg contact tracing",
+  "body": "\"These information sheets provide guidance for people who have had various degrees of contact with people or material infected by the Marburg virus disease. \"",
+  "base_path": "/government/collections/marburg-contact-tracing",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

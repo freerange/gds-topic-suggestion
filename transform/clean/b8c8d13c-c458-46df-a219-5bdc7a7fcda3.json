@@ -1,0 +1,19 @@
+{
+  "title": "Storm overflows discharge reduction plan: progress report",
+  "body": "\"Included in this report is an assessment of progress against the targets in the storm overflows discharge reduction plan (SODRP). The SODRP aims to protect public health and the environment through ambitious targets:   that storm overflows discharging into or near high priority sites, such as chalk streams, do not cause local adverse ecological impact by 2045 to significantly improve discharges near designated bathing waters by 2035 that no overflow should discharge above an average of 10 times, over a 10-year period, per year by 2050 or cause any adverse ecological harm   The SODRP has been embedded into:   drainage and wastewater management plans the Water Industry National Environment Programme the price review process   This ensures alignment across planning and regulatory frameworks.  The report includes a technical annex outlining how progress has been evaluated. It includes:   the data used associated limitations and assumptions the applied methodology  \"",
+  "base_path": "/government/publications/storm-overflows-discharge-reduction-plan-progress-report",
+  "taxons": [
+    {
+      "title": "Discharge water",
+      "base_path": "/business/environmental-management-water-discharge-water"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

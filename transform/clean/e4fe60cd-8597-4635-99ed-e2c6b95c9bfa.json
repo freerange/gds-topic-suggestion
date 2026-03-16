@@ -1,0 +1,11 @@
+{
+  "title": "Rapid evidence assessment of PFAS incineration and alternative remediation methods",
+  "body": "\"This review assessed the effectiveness, feasibility, and environmental suitability of current and emerging technologies for treating per- and polyfluoroalkyl substances (PFAS), with a focus on high-temperature incineration. It examined the operating conditions needed for effective PFAS destruction, the risks of producing products of incomplete combustion, and the potential of alternative treatment methods.  The findings provide a strong evidence base to support the Environment Agency in managing PFAS waste and will help guide more effective, sustainable treatment strategies in response to increasing waste volumes, tighter regulations, and growing international concern about PFAS. \"",
+  "base_path": "/government/publications/rapid-evidence-assessment-of-pfas-incineration-and-alternative-remediation-methods",
+  "taxons": [
+    {
+      "title": "Chemicals",
+      "base_path": "/environment/chemicals"
+    }
+  ]
+}

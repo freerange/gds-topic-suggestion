@@ -1,0 +1,11 @@
+{
+  "title": "Research on Enterprise IoT definitions",
+  "body": "\"As part of work to improve cyber resilience across the UK economy, the government is developing policy to better improve the cyber security of internet-connected devices used by businesses organisations - also know as “Enterprise IoT”.  This independent research set out to test a definition of “Enterprise IoT” (or “EIoT”) defined by the National Cyber Security Centre (NCSC). It includes a desk-based review of published material to discover the current status of views towards IoT in the Enterprise and any existing definitions. The work explores material from across the world from companies to standards bodies.   The paper also summarises a series of interviews conducted with experts from across the IoT domain. The semi-structured interviews sought to understand the interviewees’ opinions on Enterprise IoT and to test the NCSC definition of EIoT.  This research informs the government’s ongoing work to improve UK cyber resilience and the cyber security of internet-connected devices.  \"",
+  "base_path": "/government/publications/research-on-enterprise-iot-definitions",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "AI Airlock Background",
+  "body": "\"We are updating medical device regulations and guidance for Software as a Medical Device (SaMD) and Artificial Intelligence as a Medical Device (AIaMD) to address challenges and align with global standards. \"",
+  "base_path": "/government/publications/ai-airlock-background",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    }
+  ]
+}

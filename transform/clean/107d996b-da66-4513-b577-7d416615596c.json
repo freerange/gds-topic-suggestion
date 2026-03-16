@@ -1,0 +1,15 @@
+{
+  "title": "Skills for Life and Work Fact Sheet and Tables - to April 2025.",
+  "body": "\"To monitor information relating to Skills for Life and Work in Northern Ireland. \"",
+  "base_path": "/government/statistics/skills-for-life-and-work-fact-sheet-and-tables-to-april-2025",
+  "taxons": [
+    {
+      "title": "Functional skills",
+      "base_path": "/education/functional-skills"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Ministry of Justice gender pay gap report: 2025",
+  "body": "\"This report explains the gender pay gap and background context in the Ministry of Justice. \"",
+  "base_path": "/government/publications/ministry-of-justice-gender-pay-gap-report-2025",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

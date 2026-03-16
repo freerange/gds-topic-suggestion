@@ -1,0 +1,11 @@
+{
+  "title": "Digital Services Tax Review",
+  "body": "\"Delivering on the statutory requirement under the Finance Act 2020, the government laid before Parliament today a report on the Digital Services Tax (DST). The DST is an interim measure in response to the challenges posed by the digitalisation of the economy to the international corporation tax system. The UK’s position remains to remove the DST once an appropriate global solution that would address these challenges is in place. Five years since the implementation of DST, the government presents a review of its performance and administration, including observed impacts in relevant markets. \"",
+  "base_path": "/government/publications/digital-services-tax-review",
+  "taxons": [
+    {
+      "title": "Digital Services Tax",
+      "base_path": "/money/digital-services-tax"
+    }
+  ]
+}

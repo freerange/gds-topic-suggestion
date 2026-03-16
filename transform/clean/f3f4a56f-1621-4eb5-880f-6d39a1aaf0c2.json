@@ -1,0 +1,11 @@
+{
+  "title": "Budget 2025 document",
+  "body": "\"Budget 2025 document. \"",
+  "base_path": "/government/publications/budget-2025-document",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

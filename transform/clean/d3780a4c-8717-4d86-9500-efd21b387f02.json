@@ -1,0 +1,11 @@
+{
+  "title": "DfE prompt payment data: 2024 to 2025",
+  "body": "\"The percentage of invoices paid within 5 days and within 30 days of receipt by:    DfE and its executive agencies other arms-length bodies   The data is provided in yearly quarters for each financial year.  All in-scope organisations must publish all interest liable on a quarterly basis.  The department’s calculation of interest liable is based on the value of the invoices submitted by suppliers. The total interest liable may be overstated if specific circumstances apply. For example:   adjustments to reflect offsetting credit notes overpayments part payment the timing of disputes and resolution bespoke terms and conditions   \"",
+  "base_path": "/government/publications/dfe-prompt-payment-data-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

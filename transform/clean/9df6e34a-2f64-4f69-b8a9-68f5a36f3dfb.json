@@ -1,0 +1,27 @@
+{
+  "title": "Request environmental permit and coordination support for nature projects",
+  "body": "\"This guidance describes how you can ask the Environment Agency to coordinate pre-application advice and decisions for large or complex nature projects. This is called nature permitting and coordination.  You can use this optional service help you effectively submit multiple applications for large projects.  Project types this service supports  You can ask the Environment Agency for extra coordination if your project:   is to improve and enhance the environment for nature, or is funded by an Environmental Land Management (ELM) grant from the Department for Environment, Food and Rural Affairs (Defra) requires multiple environmental permits or licences, or a combination of both   Examples of nature projects could include:   river or coastal restoration habitats creation such as wetlands landscape recovery nature-based solutions such as natural flood management schemes peatland restoration   Nature permitting and coordination applies to:   flood risk activity permits groundwater activity permits (also required if you want a licence to abstract groundwater) abstraction licences (includes water transfer) impoundment licences waste permits water discharge permits   What you will get  If you use the nature permitting and coordination service, you can get early advice on:   when to apply for permits and licences how to avoid delays   It will give you a single point of contact to:   manage multiple requests for pre-application advice and permit applications provide you with regular updates on progress work with different teams across the Environment Agency to provide you with project specific advice and timely decisions   If your project uses the nature permitting and coordination service, you should request enhanced (paid-for) pre-application advice to make sure your applications are of good quality.  The nature permitting and coordination service does not replace the normal application process. You still need to submit all necessary applications using the required forms and supporting information.  How much it costs  The nature permitting and coordination service costs £100 an hour plus VAT.  You will get a written cost estimate before the Environment Agency starts work coordinating your project. This will include:   a list of the work they will carry out when you will be charged   If you send new information related to your request, the Environment Agency may need to revise the cost estimate. They will write to you to agree any changes to the scope of the work.  If you can, you should provide the following as early as possible:   a high-level project proposal what applications you plan to submit and when critical project milestones   You must pay the charges promptly. If you do not, this will lead to delays or the Environment Agency withdrawing the service.  Request coordination  To request nature permitting and coordination support for your project, complete the form.  You will need to give information about:   your project and its location the number of landowners that are involved any Defra funding if the project has or needs planning permission   Start now   Contact npc@environment-agency.gov.uk if:   you cannot use the form you have other questions about the service   After you have sent your request  The Environment Agency will:   contact you to discuss your project...",
+  "base_path": "/guidance/request-environmental-permit-and-coordination-support-for-nature-projects",
+  "taxons": [
+    {
+      "title": "Environmental planning",
+      "base_path": "/housing-local-and-community/environmental-planning"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Rural development and land management",
+      "base_path": "/environment/rural-development-land-management"
+    },
+    {
+      "title": "Abstract (take) water",
+      "base_path": "/business/environmental-management-water-abstract-take-water"
+    },
+    {
+      "title": "Impound (store) water",
+      "base_path": "/business/environmental-management-water-impound-store-water"
+    }
+  ]
+}

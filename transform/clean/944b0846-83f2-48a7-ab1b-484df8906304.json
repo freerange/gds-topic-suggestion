@@ -1,0 +1,15 @@
+{
+  "title": "HMPPS National Regime Model (NRM) policy framework",
+  "body": "\"This policy framework will deliver the following outcomes:   Consistency in approach to regime design across the prison estate to promote rehabilitation. Accountability of design, delivery, and the evaluation of regime in prisons. Regimes in prisons that are evidence-based and informed by the best possible data available, including equalities data to ensure the needs of their local population are met. Alignment between the HMPPS regime plan and the HMPPS business plan being submitted as one. Drives standards and outcomes in delivery of purposeful activity.  \"",
+  "base_path": "/government/publications/hmpps-national-regime-model-nrm-policy-framework",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    }
+  ]
+}

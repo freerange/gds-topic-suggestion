@@ -1,0 +1,23 @@
+{
+  "title": "Decarbonisation readiness in environmental permit applications",
+  "body": "\"This guidance applies to relevant electricity-generating combustion power plants in England. It explains how to demonstrate decarbonisation readiness in environmental permit applications submitted on or after 28 February 2026.  It is intended for:   operators designing combustion power plants and preparing their environmental permit applications Environment Agency regulatory staff any other organisation or member of the public seeking to understand how environmental regulations and standards are applied   This guidance applies to England only. Carbon capture readiness (CCR) requirements will continue to apply in Wales. \"",
+  "base_path": "/government/publications/decarbonisation-readiness-in-environmental-permit-applications",
+  "taxons": [
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    },
+    {
+      "title": "Carbon capture and storage",
+      "base_path": "/environment/oil-and-gas-carbon-capture-and-storage"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    }
+  ]
+}

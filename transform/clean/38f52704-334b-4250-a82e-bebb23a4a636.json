@@ -1,0 +1,27 @@
+{
+  "title": "Sustainability Reporting Guidance 2025-26",
+  "body": "\"This guidance supports the preparation of sustainability reports and information in central government annual reports and accounts. It sets out the minimum requirements for 2025-26, as well as the reporting requirements and considerations where sustainability information is deemed material. This year, general guidance on the principles, concepts and foundations has been consolidated into a separate Appendix.  There’s more information on public sector reporting in the Government Financial Reporting Manual (FReM) and Task Force on Climate-related Financial Disclosures (TCFD) Application Guidance. \"",
+  "base_path": "/government/publications/sustainability-reporting-guidance-2025-26",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    },
+    {
+      "title": "Waste and recycling",
+      "base_path": "/environment/waste-and-recycling"
+    },
+    {
+      "title": "Water management",
+      "base_path": "/environment/water-management"
+    }
+  ]
+}

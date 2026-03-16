@@ -1,0 +1,19 @@
+{
+  "title": "Officers start digging into hazardous waste soil crime",
+  "body": "\"Environment Agency officers are contacting hauliers to ensure that the strict rules are complied with as waste soils can often contain hazardous chemicals that have sometimes ended up being dumped on land or hidden in landscaping or construction projects.  The vast majority of businesses operate within the regulations by having registered a U1 exemption, allowing the limited use of specific types and quantities of clean waste materials in construction.  However, detailed Environment Agency investigations, in partnership with other professional agencies, have revealed recent cases where unscrupulous criminals have attempted to profit by illegally dumping waste and causing environmental harm to their communities.  Sue Smillie of the Environment Agency said:   Whilst most hauliers and companies that handle waste soils operate within the laws designed to protect the environment, we have seen a rise in illegal dumping of hazardous soils and construction waste.  After compiling information on specific sites and networks, we are now requesting further details from hauliers and waste operators on disposal routes, the amount of waste involved, what type it is and where it has ended up.  We won’t hesitate to go after those who break laws designed to protect the environment and we welcome any information, in confidence, about associated illegal waste crime activity.   Nationally, illegal waste activities cause significant harm to the environment and communities, costing the taxpayer and legitimate businesses nearly £1 billion each year. Recent data suggests that up to 18% of waste (about 34 million tonnes annually) may be handled illegally.  Anyone who wants to report environmental crime, particularly involving waste soils, is encouraged to contact Crimestoppers in confidence on 0800 555 111 or directly to the Environment Agency on 0800 80 70 60.  Background Soil and stone must be characterised in accordance with Technical Guidance WM3 details. See our waste classification technical guidance on GOV.UK. If this has not been carried out the soil and stone must be considered hazardous and cannot be used under a U1 exemption. \"",
+  "base_path": "/government/news/officers-start-digging-into-hazardous-waste-soil-crime",
+  "taxons": [
+    {
+      "title": "Waste exemptions",
+      "base_path": "/environment/waste-exemptions"
+    },
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    }
+  ]
+}

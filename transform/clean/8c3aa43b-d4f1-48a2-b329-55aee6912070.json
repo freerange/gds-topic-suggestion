@@ -1,0 +1,11 @@
+{
+  "title": "Monthly Sea Fisheries Statistics October 2025",
+  "body": "\"Highlights   The total quantity of landings by UK vessels (tonnes) decreased in October 2025 compared to 2024, down 30%. The value of landings in October 2025 (£157.5m) also decreased compared to 2024 down by 20%. Landings in October 2025 were comprised of mostly Pelagic species (69%). Pelagic species also comprised the majority of the value landed (65%).  \"",
+  "base_path": "/government/statistics/monthly-sea-fisheries-statistics-october-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

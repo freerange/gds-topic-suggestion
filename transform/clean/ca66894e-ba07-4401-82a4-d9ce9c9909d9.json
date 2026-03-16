@@ -1,0 +1,11 @@
+{
+  "title": "Is your fishing vessel's lifting arrangement safe?",
+  "body": "\"Safety flyer issued with the investigation report into the fatal accident to a deckhand on board the beam trawler Cornishman (PZ 512), 44 nautical miles south-south-west of the Isles of Scilly, England on 6 February 2021.  The document summarises the circumstances of the accident and provides multiple safety considerations for members of the fishing community.  This information has been prepared for the:   fishing industry   Related publication  An investigation report has also been produced for this accident. \"",
+  "base_path": "/government/publications/is-your-fishing-vessels-lifting-arrangement-safe",
+  "taxons": [
+    {
+      "title": "Maritime accidents and serious incidents",
+      "base_path": "/transport/maritime-accidents-and-serious-incidents"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Rail safety: April 2024 to March 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/rail-safety-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "Rail accidents and serious incidents",
+      "base_path": "/transport/rail-accidents-and-serious-incidents"
+    },
+    {
+      "title": "Rail safety and security",
+      "base_path": "/transport/rail-safety-and-security"
+    }
+  ]
+}

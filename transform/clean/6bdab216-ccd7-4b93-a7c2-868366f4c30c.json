@@ -1,0 +1,11 @@
+{
+  "title": "Confirmation statement (CS01c)",
+  "body": "\"This form confirms that your company’s details are up to date on the Companies House register.  It costs £62 to file your confirmation statement on paper.  It’s quicker and easier to file your confirmation statement online.  Changes to your company information  Use parts 1 to 4 to make changes to the company’s:   principal business activities or standard industrial classification (SIC) statement of capital trading status of shares and exemption from providing people with significant control (PSC) information shareholder information   Use the condensed list of SIC codes if you need to update your nature of business activity on your confirmation statement.  Registered email address  You must use part 5 to provide a registered email address if you have not already provided one.  There’s a different process if you need to change your company’s registered email address.  Identity verification  You must give the identity verification details for all your current directors, unless you have already provided this information. See Verifying your identity for Companies House. \"",
+  "base_path": "/government/publications/confirmation-statement-cs01c-new-version",
+  "taxons": [
+    {
+      "title": "Limited companies and partnerships",
+      "base_path": "/business-and-industry/limited-companies-and-partnerships"
+    }
+  ]
+}

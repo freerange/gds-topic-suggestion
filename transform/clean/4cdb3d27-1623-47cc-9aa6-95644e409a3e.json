@@ -1,0 +1,15 @@
+{
+  "title": "UK Wood Production and Trade: 2024 provisional figures",
+  "body": "\"This release presents provisional UK statistics on timber removals, deliveries, production of primary wood products and trade in wood and wood products. \"",
+  "base_path": "/government/statistics/uk-wood-production-and-trade-2024-provisional-figures",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

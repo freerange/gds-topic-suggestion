@@ -1,0 +1,15 @@
+{
+  "title": "Personal Independence Payment Statistics - May 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/personal-independence-payment-statistics-may-2026",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    }
+  ]
+}

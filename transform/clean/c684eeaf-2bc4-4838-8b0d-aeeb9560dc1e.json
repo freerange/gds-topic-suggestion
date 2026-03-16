@@ -1,0 +1,11 @@
+{
+  "title": "Restricted Patients Statistics, England and Wales, 2024",
+  "body": "\"This annual publication covers the number, offence, admissions, disposals, discharges and ethnicity of restricted patients in England and Wales.  Previously, this publication was included in the Offender Management Statistics Quarterly. \"",
+  "base_path": "/government/statistics/restricted-patients-statistics-england-and-wales-2024",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    }
+  ]
+}

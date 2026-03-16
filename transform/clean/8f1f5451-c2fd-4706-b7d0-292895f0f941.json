@@ -1,0 +1,15 @@
+{
+  "title": "Prison performance data 2023 to 2024",
+  "body": "\"Prison unit costs cover the direct and overall cost of prison places and prisoner population. This publication covers 2023 to 2024. The release contains management information and is published alongside the 2023 to 2024 HMPPS Annual Report and Accounts. \"",
+  "base_path": "/government/publications/prison-performance-data-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

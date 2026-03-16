@@ -1,0 +1,11 @@
+{
+  "title": "School funding statistics: 2024 to 2025 financial year",
+  "body": "\"This release contains data for:   school revenue funding for 5 to 16 year olds between the 2010 to 2011 and 2025 to 2026 financial years school funding allocations for the 2024 to 2025 financial year   For queries about these statistics, email schoolfunding.statistics@education.gov.uk. \"",
+  "base_path": "/government/statistics/school-funding-statistics-2024-to-2025-financial-year",
+  "taxons": [
+    {
+      "title": "School and academy funding",
+      "base_path": "/education/school-and-academy-funding"
+    }
+  ]
+}

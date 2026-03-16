@@ -1,0 +1,19 @@
+{
+  "title": "UK Trade: May 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-trade-may-2025",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Births (Northern Ireland): June 2025",
+  "body": "\"Monthly births registered in Northern Ireland up to and including June 2025. \"",
+  "base_path": "/government/statistics/monthly-births-northern-ireland-june-2025",
+  "taxons": [
+    {
+      "title": "Having a child, parenting and adoption",
+      "base_path": "/life-circumstances/child-adoption"
+    },
+    {
+      "title": "COVID-19",
+      "base_path": "/health-and-social-care/covid-19"
+    }
+  ]
+}

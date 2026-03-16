@@ -1,0 +1,27 @@
+{
+  "title": "Chief Medical Officer’s annual report 2025: infections",
+  "body": "\"In medicine, science and public health, innovations to prevent and treat infectious diseases have led to significant improvements in health particularly in children and younger adults. We need greater focus on older adults who are at much higher risk of mortality or significant ill health from infections, often with considerable impact on quality of life including increased risk of stroke and other cardiovascular events. As the population continues to age preventing and treating infections earlier and more effectively in older adults will become even more important.     Achieving a high uptake of vaccines in children has made many high risk diseases such as diphtheria and measles uncommon in England. Slowly declining vaccine uptake over the last decade threatens to undermine this success, although rates remain high by international standards.  Rare, imported and emerging infections will always pose a risk, including from new infections. This includes epidemics and pandemics as well as individual cases of complex disease. Maintaining a workforce and infrastructure capable of identifying and responding to these threats remains essential including during emergencies.  Infectious diseases do not stand still and evolve around our countermeasures. Antimicrobial resistance is a substantial and growing threat, and we need to innovate as well as to do the basics right to combat it.  The report makes recommendations to the public, to doctors and other healthcare professionals and to government.  The sections of the report are:   the future of preventing and treating infections in England preparing for new and imported infections infections across the life course special topics in infection responding to infections as a system vulnerable populations wider determinants of infectious disease  \"",
+  "base_path": "/government/publications/chief-medical-officers-annual-report-2025-infections",
+  "taxons": [
+    {
+      "title": "Antimicrobial resistance (AMR)",
+      "base_path": "/health-and-social-care/antimicrobial-resistance"
+    },
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Workplace pension participation and savings trends: 2009 to 2024",
+  "body": "\"This is the latest release of statistics on Workplace Pension Participation and Savings Trends.  This release is the twelfth edition in the series, extends the data series to 2024 and provides new additions to the statistical series.  The latest release offers greater information on the workplace pension participation of all employees, not just those eligible for Automatic Enrolment (AE), as well as more detailed information including on geography, industry and contribution rates.  After years of growth in participation during the roll-out of automatic enrolment, participation rates have stabilised in recent years. Trends in stopping saving levels and contributions have also remained relatively stable.  Full details of the data sources, their key assumptions, limitations and definitions of the statistics are available in the background information and methodology note, published alongside the release.  Read previous statistics on workplace pension participation and saving trends.  \"",
+  "base_path": "/government/statistics/workplace-pension-participation-and-savings-trends-2009-to-2024",
+  "taxons": [
+    {
+      "title": "Workplace and personal pensions",
+      "base_path": "/employment/workplace-personal-pensions"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Recent mortality trends in England",
+  "body": "\" This report provides up-to-date and long-term trends in mortality in England by sex, age group and cause of death, including provisional data for 2024. By providing data on trends in life expectancy and mortality rates, it aims to:      provide a complete picture of mortality trends in the decade before the COVID-19 pandemic in 2020   assess the extent to which levels of mortality have recovered since the pandemic to those seen before the pandemic   For queries about this report email pha-ohid@dhsc.gov.uk. \"",
+  "base_path": "/government/publications/recent-mortality-trends-in-england",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

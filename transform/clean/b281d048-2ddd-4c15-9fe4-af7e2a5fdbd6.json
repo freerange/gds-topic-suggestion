@@ -1,0 +1,15 @@
+{
+  "title": "Benefit Cap Report Northern Ireland: November 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/benefit-cap-report-northern-ireland-november-2025",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Patients Registered at a GP Practice, August 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/patients-registered-at-a-gp-practice-august-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

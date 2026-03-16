@@ -1,0 +1,47 @@
+{
+  "title": "Defence and Security Accelerator (DASA) Innovation Focus Areas",
+  "body": "\"This page provides information regarding previous DASA IFAs.  IFAs currently open for submission can be found within the latest cycle of the Open Call for Innovation here.  IFAs that are planned but have not yet been launched can be seen here  If you have any questions, then please email accelerator@dstl.gov.uk. \"",
+  "base_path": "/government/collections/defence-and-security-accelerator-dasa-innovation-focus-areas",
+  "taxons": [
+    {
+      "title": "Transport security",
+      "base_path": "/transport/transport-security"
+    },
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Counter-extremism ",
+      "base_path": "/crime-justice-and-law/counter-extremism"
+    },
+    {
+      "title": "Counter-terrorism",
+      "base_path": "/crime-justice-and-law/counter-terrorism"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

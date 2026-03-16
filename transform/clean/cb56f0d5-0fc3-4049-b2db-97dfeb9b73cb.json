@@ -1,0 +1,23 @@
+{
+  "title": "Decision for Team Pro Scaffolding (SW) Ltd (OH2074195)",
+  "body": "\"The Deputy Traffic Commissioner for Western England decided:   The Applicant  has failed to satisfy me that it is ‘not unfit’ to be the holder of a restricted goods vehicle operator’s licence. The application is REFUSED under section 13B of the Act.  \"",
+  "base_path": "/government/publications/decision-for-team-pro-scaffolding-sw-ltd-oh2074195",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

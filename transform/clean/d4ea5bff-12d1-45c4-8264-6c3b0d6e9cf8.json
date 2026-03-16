@@ -1,0 +1,15 @@
+{
+  "title": "The Northern Ireland Prison Population 2024/25",
+  "body": "\"This report presents key data relating to the average daily prison population, prison receptions and discharges for Northern Ireland during 2024/25. \"",
+  "base_path": "/government/statistics/the-northern-ireland-prison-population-202425",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

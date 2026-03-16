@@ -1,0 +1,15 @@
+{
+  "title": "Managing tensions between security, safety and human factors",
+  "body": "\"Security, safety and human factors requirements often pull in different directions, and if tensions aren’t managed early on, they can lead to design compromises which then introduce new risks. Until now, there haven’t been clear examples of how to combine all these needs using a Secure by Design approach.  This guidance recommends 5 ways to help delivery teams manage tensions and ensure safety, security and human factors analysis are aligned from the start of a project. These recommendations are:   escalating out-of-scope requirements using ‘solutioneering’ to share knowledge applying traceability consistently defining the skills needed for Secure by Design building First Line Assurance into tools and processes   Who this guidance is for These recommendations are aimed at:   delivery team leads requirements managers assurance assessors suppliers  \"",
+  "base_path": "/government/publications/managing-tensions-between-security-safety-and-human-factors",
+  "taxons": [
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

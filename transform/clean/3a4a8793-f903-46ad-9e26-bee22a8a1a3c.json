@@ -1,0 +1,15 @@
+{
+  "title": "Charity regulator warns about fraudulent letters sent on its behalf",
+  "body": "\"The messages typically request action to be taken such as removing a trustee or chief executive from their position, releasing funds as part of a grant or supplying documents such as a passport or utility bill. They may be signed as coming from ‘the Commission,’ Chief Executive Officer and/or its Directors.    We have reported the incidents to Action Fraud and will continue to monitor the situation.     It’s not always easy to tell if correspondence is real or fake, however please note we:   will only send you a letter just by post only if we do not have your current email address. Check and update your details  rarely address letters generically, for example ‘to whom it may concern’ do not write letters or emails of certification on behalf of UK charities regarding tax exemption or any other matters do not issue requests to authenticate an account online by supplying personal identity documents will not ask you to provide banking information     In the rare circumstance where we might send you a letter by post  it will:   be franked – not stamped normally have a case number or reference on it  be unlikely to be marked as ‘Strictly Private and Confidential’  come from the Charity Commission for ‘England and Wales’, not the ‘UK’ or ‘England’    It is unlikely that any serious allegations against individuals would be detailed in a letter, or that we would name individuals before there was clear evidence of wrongdoing.   Matters to do with casework or investigation would normally come from a caseworker or a team at the Commission .   If you are in any doubt, contact us to check. \"",
+  "base_path": "/government/news/charity-regulator-warns-about-fraudulent-letters-sent-on-its-behalf",
+  "taxons": [
+    {
+      "title": "Charities, volunteering and honours",
+      "base_path": "/society-and-culture/charities-honours"
+    },
+    {
+      "title": "Charities and social enterprises",
+      "base_path": "/business-and-industry/charities-and-social-enterprises"
+    }
+  ]
+}

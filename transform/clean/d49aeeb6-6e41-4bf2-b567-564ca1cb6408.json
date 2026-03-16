@@ -1,0 +1,11 @@
+{
+  "title": "Remote Operator Training and Certification Pilot Framework",
+  "body": "\"The Remote Operator Training and Certification Pilot Framework sets out a generic pathway for the training and certification of Remote Operators undertaking duties for Maritime Autonomous Surface Ships (MASS). This initiative may be adopted by organisations wishing to develop Remote Operator training programmes. The framework has been established to set an initial benchmark for the education of Remote Operators (RO), so that they can perform their role(s) safely and effectively.  The application of MGN 703, remains unchanged during the piloting of this framework.  The pilot framework has been developed by stakeholders across industry, academia and the MCA. It is an initial package of work, of which the purpose is to pilot, review and amend the framework. The objective of the framework is to ensure a standardised level of competence and experience can be adopted across UK industry and academia to ensure safe remote operations.  These documents should be read in conjunction with MSN 1865 (M) as amended, MIN 643, MGN 703 and The Workboat Code Edition 3.  Stakeholders wishing to pilot this programme or provide continuous feedback on these documents should contact the MCA via Seafarers Technical Delivery Branch at exams@mcga.gov.uk \"",
+  "base_path": "/government/publications/remote-operator-training-and-certification-pilot-framework",
+  "taxons": [
+    {
+      "title": "Ship crew training and certification",
+      "base_path": "/transport/ship-crew-training-and-certification"
+    }
+  ]
+}

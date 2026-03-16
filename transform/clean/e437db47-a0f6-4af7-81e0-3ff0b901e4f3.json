@@ -1,0 +1,11 @@
+{
+  "title": "Corporation Tax Statistics 2025",
+  "body": "\"This annual publication provides a breakdown of receipts and liabilities from Corporate Taxes by number of companies, income, deductions, industry sector, company size and financial year. For the purposes of this publication, Corporate Taxes consist of:   Corporation Tax including onshore and offshore Bank Levy  Bank Surcharge Residential Property Developer Tax  Energy Profits Levy Electricity Generator Levy   All statistics relate to the UK. No sub-national geographic breakdowns are available.  Contact us  If you have any feedback or questions about this statistical publication, please contact us.   Receipts: D Pritchard  Liabilities: M Dickson  ct.statistics@hmrc.gov.uk  \"",
+  "base_path": "/government/statistics/corporation-tax-statistics-2025",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    }
+  ]
+}

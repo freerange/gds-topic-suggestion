@@ -1,0 +1,11 @@
+{
+  "title": "Data for Theme D: Wildlife",
+  "body": "\"This document contains data corresponding to the ‘Theme D: Wildlife’ indicators of the Environmental Indicator Framework. \"",
+  "base_path": "/government/publications/data-for-theme-d-wildlife",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

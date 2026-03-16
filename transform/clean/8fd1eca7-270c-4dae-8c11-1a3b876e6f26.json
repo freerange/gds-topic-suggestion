@@ -1,0 +1,11 @@
+{
+  "title": "DBT modelling working papers",
+  "body": "\"A series of working papers and documentation of the models the Department for Business and Trade (DBT) has used and developed for shaping policy.  \"",
+  "base_path": "/government/collections/dbt-modelling-working-papers",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

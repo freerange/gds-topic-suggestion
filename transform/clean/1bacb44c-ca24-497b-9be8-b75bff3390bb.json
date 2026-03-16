@@ -1,0 +1,11 @@
+{
+  "title": "Pesticide Usage Survey Report: Soft Fruit in the United Kingdom",
+  "body": "\"Data on pesticide usage during the 2023 to 2024 growing season on soft fruit crops. \"",
+  "base_path": "/government/statistics/pesticide-usage-survey-report-soft-fruit-in-the-united-kingdom",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

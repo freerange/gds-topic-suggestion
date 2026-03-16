@@ -1,0 +1,19 @@
+{
+  "title": "UK and Taiwan Enhanced Trade Partnership arrangement pillars",
+  "body": "\"The overarching UK-Taiwan Enhanced Trade Partnership (ETP) arrangement was signed in November 2023.  Building upon this, the ETP ‘pillars’ on investment, digital trade, and energy and net-zero are non-legally binding arrangements that aim to support bilateral trade and investment in growth driving sectors.  \"",
+  "base_path": "/government/publications/uk-and-taiwan-enhanced-trade-partnership-arrangement-pillars",
+  "taxons": [
+    {
+      "title": "Digital trade",
+      "base_path": "/business-and-industry/digital-trade"
+    },
+    {
+      "title": "Inward investment",
+      "base_path": "/business-and-industry/inward-investment"
+    },
+    {
+      "title": "Trade barriers",
+      "base_path": "/business-and-industry/trade-barriers"
+    }
+  ]
+}

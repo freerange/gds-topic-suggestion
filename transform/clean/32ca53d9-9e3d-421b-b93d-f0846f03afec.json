@@ -1,0 +1,11 @@
+{
+  "title": "The cumulative air quality impacts of net zero technologies",
+  "body": "\"This project used computer models to investigate the potential future impacts on air quality from net zero technologies in the Humber and Teesside industrial areas.  The study has provided the Environment Agency, and others, with useful information on what pollutants we should be focussing on to ensure that the net zero industrial clusters do not pose an unacceptable risk to human health. \"",
+  "base_path": "/government/publications/the-cumulative-air-quality-impacts-of-net-zero-technologies",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

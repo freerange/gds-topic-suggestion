@@ -1,0 +1,11 @@
+{
+  "title": "UK regional trade in goods statistics, first quarter, January to March 2025",
+  "body": "\"HM Revenue & Customs (HMRC) collects the UK’s international trade in goods data, which are published as two accredited official statistics series - the UK overseas trade in goods statistics (OTS) and the UK regional trade in goods statistics (RTS). The RTS are published quarterly showing trade at summary product and country level, split by UK regions and devolved administrations.  RTS data is categorised by partner country and Standard International Trade Classification, Rev.4 (SITC) at division level (2-digit). In this release RTS data is analysed mainly at partner country and SITC section (1-digit) level, with references to specific SITC divisions where appropriate. The collection and publication methodology for the RTS is available on GOV.UK.    \"",
+  "base_path": "/government/statistics/uk-regional-trade-in-goods-statistics-first-quarter-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

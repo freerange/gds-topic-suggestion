@@ -1,0 +1,23 @@
+{
+  "title": "UK-India FTA: report under Section 42 of Agriculture Act 2020",
+  "body": "\"This report explains whether the UK-India FTA is consistent with the maintenance of UK levels of statutory protection in relation to:   human, animal or plant life or health animal welfare the environment   \"",
+  "base_path": "/government/publications/uk-india-fta-report-under-section-42-of-agriculture-act-2020",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "International Disease Monitoring Plus (IDM+) tool: overview",
+  "body": "\"The IDM+ tool provides biosecurity assurances that imports of live animals and products of animal origin (POAO) into Great Britain (England, Scotland and Wales) are safe, by assessing the entry likelihood of animal health diseases through legal, commercial trade.  This overview summarises the:   use of the IDM+ tool to assess the risk of animal health diseases entering Great Britain through imports of live animals and POAO  methods and data inputs used to provide risk scores for different commodities imported from multiple trading partners, with examples of the model output advantages of the IDM+ tool to quickly and efficiently assess the risks posed by imports at Great Britain’s border   \"",
+  "base_path": "/government/publications/international-disease-monitoring-plus-idm-tool-overview",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    }
+  ]
+}

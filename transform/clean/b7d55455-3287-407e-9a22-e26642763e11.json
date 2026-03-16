@@ -1,0 +1,11 @@
+{
+  "title": "RFI 7316 Garlic import on licence from China since leaving the EU",
+  "body": "\"Request made under the Environmental Information Regulations 2004 (EIR) for the number and names of importers registered under the license scheme since leaving the EU. Maximum and minimum license volume given to importers each year. \"",
+  "base_path": "/government/publications/rfi-7316-garlic-import-on-licence-from-china-since-leaving-the-eu",
+  "taxons": [
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    }
+  ]
+}

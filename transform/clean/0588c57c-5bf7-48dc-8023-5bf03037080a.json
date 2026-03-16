@@ -1,0 +1,15 @@
+{
+  "title": "Health Survey Northern Ireland: First Results 2024/25",
+  "body": "\"First results from the 2024/25 Health Survey Northern Ireland. The survey covers a range of topics including smoking, drinking, obesity, mental health and emotional well-being. \"",
+  "base_path": "/government/statistics/health-survey-northern-ireland-first-results-202425--2",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

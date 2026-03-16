@@ -1,0 +1,19 @@
+{
+  "title": "NHS Resolution annual report and accounts 2024 to 2025",
+  "body": "\"The annual report and accounts for 2024 to 2025 includes:   a performance report an accountability report financial statements  \"",
+  "base_path": "/government/publications/nhs-resolution-annual-report-and-accounts-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

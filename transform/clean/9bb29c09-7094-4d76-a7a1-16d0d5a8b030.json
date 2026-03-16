@@ -1,0 +1,11 @@
+{
+  "title": "RAF Cranwell – Military Aviation Noise Contour report (2025)",
+  "body": "\"The mapping of environmental noise levels generated from aviation activity at Royal Air Force stations is delivered by the Noise and Vibration Division (NVD), from the Royal Air Force Centre of Aerospace Medicine (RAFCAM), in the form of Military Aviation Noise Contours (MANCs). \"",
+  "base_path": "/government/publications/raf-cranwell-military-aviation-noise-contour-report-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Clean Heat Market Mechanism guidance",
+  "body": "\" \"",
+  "base_path": "/government/collections/clean-heat-market-mechanism-guidance",
+  "taxons": [
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

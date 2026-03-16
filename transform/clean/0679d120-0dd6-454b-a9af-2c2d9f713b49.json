@@ -1,0 +1,15 @@
+{
+  "title": "Police Crime Outcomes in Northern Ireland 2015/16 to 2024/25",
+  "body": "",
+  "base_path": "/government/statistics/announcements/police-crime-outcomes-in-northern-ireland-201516-to-202425",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

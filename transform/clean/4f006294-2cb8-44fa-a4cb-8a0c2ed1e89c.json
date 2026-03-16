@@ -1,0 +1,11 @@
+{
+  "title": "Use of biomarkers in genotoxicity risk assessment",
+  "body": "\"This guidance statement focuses on the detection of biomarkers of genotoxicity, that is the induction of DNA damage, mutation or both in humans.  Biomarkers can provide valuable information to aid chemical risk assessment processes and are used as investigative tools in human studies that aim to evaluate carcinogenic hazards and risk. \"",
+  "base_path": "/government/publications/use-of-biomarkers-in-genotoxicity-risk-assessment-second-draft",
+  "taxons": [
+    {
+      "title": "Chemical and environmental hazards",
+      "base_path": "/health-and-social-care/health-protection-chemical-and-environmental-hazards"
+    }
+  ]
+}

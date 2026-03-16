@@ -1,0 +1,15 @@
+{
+  "title": "Data intermediaries",
+  "body": "\"Data Intermediaries is a term that refers to a range of organisations that facilitate data access and exchange on behalf of, or for the benefit of individuals.  While some data intermediary models are already operating, many remain theoretical. Through engagement with businesses, research organisations and other bodies, it has been highlighted that a range of barriers exist to the development of data intermediaries in the UK and the potential consumer, citizen and economic benefits different models could bring.   The government is committed to enhancing data access for businesses and individuals.  This call for evidence will consider:   the reasons for the limited exercise of some data subject rights, like data portability the nature and scope of data intermediaries’ activities, and a proposed taxonomy critical success factors for intermediaries reaching full potential, and potential barriers preventing their activities risk factors associated with third-party exercise of data subject rights   \"",
+  "base_path": "/government/calls-for-evidence/data-intermediaries",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

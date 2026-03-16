@@ -1,0 +1,11 @@
+{
+  "title": "Laboratory-confirmed Zika virus disease cases: statistics",
+  "body": "\"Summary of the epidemiology of laboratory-confirmed Zika virus disease cases in England, Wales and Northern Ireland, based on data from the UK Health Security Agency (UKHSA) Rare and imported pathogens laboratory (RIPL).  All data is provisional. Final and more detailed reports are published periodically in the health protection reports about travel-associated infections. \"",
+  "base_path": "/government/publications/laboratory-confirmed-zika-virus-disease-cases-statistics",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    }
+  ]
+}

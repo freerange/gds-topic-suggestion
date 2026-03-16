@@ -1,0 +1,11 @@
+{
+  "title": "UK statistics on waste",
+  "body": "",
+  "base_path": "/government/statistics/announcements/uk-statistics-on-waste--9",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

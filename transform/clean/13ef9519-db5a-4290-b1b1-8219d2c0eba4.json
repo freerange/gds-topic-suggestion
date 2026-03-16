@@ -1,0 +1,11 @@
+{
+  "title": "East Anglia EA3A&B Cockle Shoal 2024",
+  "body": "\"An assessment of the 2024 hydrographic survey of the area EA3A and EA3B: to monitor recent seabed movement; to identify any implications for shipping; and to make recommendations for future surveys. \"",
+  "base_path": "/government/publications/east-anglia-ea3ab-cockle-shoal-2024",
+  "taxons": [
+    {
+      "title": "Hydrography",
+      "base_path": "/environment/hydrography"
+    }
+  ]
+}

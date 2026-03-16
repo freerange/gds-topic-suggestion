@@ -1,0 +1,15 @@
+{
+  "title": "UK National Accounts, The Blue Book: 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-national-accounts-the-blue-book-2025",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

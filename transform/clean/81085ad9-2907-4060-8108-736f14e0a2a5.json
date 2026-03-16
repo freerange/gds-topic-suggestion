@@ -1,0 +1,11 @@
+{
+  "title": "Mapping important areas for the UK and non-UK 12-metre and over fishing fleets, Phase 3 {MMO1467}",
+  "body": "\"Following publication of the British Energy Security Strategy, Defra commissioned MMO to model areas for future offshore wind and map important areas for current fisheries in English waters.  This current project was to further develop understanding of areas used by and important to the fishing industry, and to implement recommendations from the initial mapping and subsequent industry engagement. Analysis used a range of fishing activity metrics to describe the distribution and intensity of fishing activity and explored the location and size of important areas and how these differed by fishing gear or species.  Geospatial data is available from the Defra Data Servies Platform alongside other MMO data products. A comparison of fishing activity mapping for this project and that from the Cefas led FiSMaDiM project, part of The Crown Estate Offshore Wind Evidence and Change programme is available on request.  For further information please contact the MMO Marine Planning Team planning@marinemanagement.org.uk \"",
+  "base_path": "/government/publications/mapping-important-areas-for-the-uk-and-non-uk-12-metre-and-over-fishing-fleets-phase-3-mmo1467",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

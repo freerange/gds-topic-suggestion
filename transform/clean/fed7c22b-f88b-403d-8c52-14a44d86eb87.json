@@ -1,0 +1,11 @@
+{
+  "title": "Mortality profile: December 2025 update",
+  "body": "\" The Office for Health Improvement and Disparities (OHID) has updated mortality rates for England, the English regions, local authorities (upper and lower tier), integrated care boards (ICBs) and NHS regions in the mortality profile.  This profile provides trends in mortality rates for a wide range of causes of death, allowing outcomes to be easily compared. Rates for sub-national geographies allow comparisons between areas.  Rates for lower super output area (LSOA) based deprivation deciles have not been updated in this release. Rates for these deciles, incorporating the English indices of deprivation 2025, will be added in a future mortality profile update.  \"",
+  "base_path": "/government/statistics/mortality-profile-december-2025-update",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

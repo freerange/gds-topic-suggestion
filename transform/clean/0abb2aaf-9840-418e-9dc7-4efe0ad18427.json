@@ -1,0 +1,19 @@
+{
+  "title": "How the Environment Agency calculates its charges",
+  "body": "\"This document explains:   the different types of costs the Environment Agency includes when calculating proposals for new or revised charges the teams that receive income and the services they provide in the Environment Agency’s regulatory role   Check Environment Agency fees and charges for guidance on what to pay for different regulated activities. \"",
+  "base_path": "/government/publications/how-the-environment-agency-calculates-its-charges",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

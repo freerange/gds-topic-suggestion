@@ -1,0 +1,11 @@
+{
+  "title": "Premises in BDUK plans (March 2025, England and Wales)",
+  "body": "\"This data provides BDUK’s current view of whether a premises has a current gigabit connection, whether there are future plans for a gigabit connection, as well as our plans to deliver to premises that we believe are not commercially viable. The data does not contain comprehensive information on which premises have historically been delivered by BDUK through vouchers, Gigahubs and Superfast.   The data is designed to help technical users including broadband suppliers and local councils understand where BDUK plans to deliver and to improve the transparency about the contracts that we’ve signed under Project Gigabit. \"",
+  "base_path": "/government/publications/premises-in-bduk-plans-england-and-wales",
+  "taxons": [
+    {
+      "title": "Broadband investment",
+      "base_path": "/business/broadband-investment"
+    }
+  ]
+}

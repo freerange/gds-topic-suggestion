@@ -1,0 +1,11 @@
+{
+  "title": "Ofsted: explore an area",
+  "body": "\"Use this tool to:   search for childcare providers and state-funded schools search by postcode to see local providers and their inspection data get information about any local authority create a list of providers you’re interested in   Start now    This is a new service. Help us improve it and give your feedback (opens in new tab).  \"",
+  "base_path": "/guidance/ofsted-explore-an-area",
+  "taxons": [
+    {
+      "title": "Inspections and performance of education providers",
+      "base_path": "/education/inspections-and-performance-of-education-providers"
+    }
+  ]
+}

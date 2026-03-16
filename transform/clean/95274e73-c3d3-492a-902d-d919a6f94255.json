@@ -1,0 +1,11 @@
+{
+  "title": "Fraud and error in the benefit system: financial year 2024 to 2025 estimates",
+  "body": "\"This publication provides estimates of the levels of fraud and error in the benefit system in Great Britain, for the financial year ending 2025.   The main stories from the publication are:     3.3% (£9.5 billion) of total benefit expenditure was overpaid due to fraud and error      0.4% (£1.2 billion) of total benefit expenditure was underpaid due to Official Error    the net loss to the Department for Work and Pensions, after accounting for recoveries, was 2.9% (£8.4 billion) of total benefit expenditure     In Financial Year Ending (FYE) 2024, the estimates that were previously reported as Claimant Error underpayments were removed from the ‘Fraud and error in the benefit system’ publication and are now reported separately in the ‘Unfulfilled eligibility in the benefit system’ statistical release.  Feedback or enquiries about these statistics should be directed by email to: enquiries.fema@dwp.gov.uk  \"",
+  "base_path": "/government/statistics/fraud-and-error-in-the-benefit-system-financial-year-2024-to-2025-estimates",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    }
+  ]
+}

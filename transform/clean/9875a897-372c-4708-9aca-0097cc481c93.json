@@ -1,0 +1,15 @@
+{
+  "title": "MOJ: spending over £500 on a GPC 2025",
+  "body": "\"The Ministry of Justice (MOJ) publishes details of all spending over £500 using a GPC (departmental debit card) on a monthly basis. \"",
+  "base_path": "/government/publications/moj-spending-over-500-on-a-gpc-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

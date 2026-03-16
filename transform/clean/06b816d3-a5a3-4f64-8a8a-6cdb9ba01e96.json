@@ -1,0 +1,15 @@
+{
+  "title": "Police recorded knife-enabled robbery offences, to June 2025",
+  "body": "\"This release provides information from 7 police forces on the number of KER offences they have recorded up to June 2025. The 7 forces are: Avon and Somerset, Greater Manchester, Metropolitan, South Yorkshire, West Midlands, West Yorkshire and British Transport Police (England and Wales only).  The data is provisional and taken from live force systems. \"",
+  "base_path": "/government/publications/police-recorded-knife-enabled-robbery-offences-to-june-2025",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Knife, gun and gang crime",
+      "base_path": "/crime-justice-and-law/knife-gun-and-gang-crime"
+    }
+  ]
+}

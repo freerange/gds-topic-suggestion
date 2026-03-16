@@ -1,0 +1,11 @@
+{
+  "title": "Quarterly bus fares statistics: October to December 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/quarterly-bus-fares-statistics-october-to-december-2025",
+  "taxons": [
+    {
+      "title": "Buses",
+      "base_path": "/transport/buses"
+    }
+  ]
+}

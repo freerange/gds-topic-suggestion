@@ -1,0 +1,11 @@
+{
+  "title": "Tell HMRC about VAT due on goods sold to pay off a debt",
+  "body": "\"You can use this online form to tell HMRC about VAT due on goods you’ve sold to pay off a debt.  You’ll need to tell HMRC and then pay the VAT due within 21 days of the sale of the goods.  Before you start  You’ll need the following information:   the name and address of person or company you sold the goods for their VAT registration number your VAT registration number, if you have one   How to tell HMRC   Online  You’ll need to sign in, using one of the following:   a Government Gateway user ID and password (if you do not have one, you can create one when you first try to sign in) an email address to get a confirmation code that you can use to sign in   Start now   If you cannot use the online form    Get all of your information together before you start. You cannot save your progress.   Fill in form VAT833 online.   Print and post it to HMRC, using the postal address shown on the form.    What happens next  You’ll need to pay the VAT due within 21 days of the sale.  \"",
+  "base_path": "/guidance/tell-hmrc-about-vat-due-on-goods-sold-to-pay-off-a-debt",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    }
+  ]
+}

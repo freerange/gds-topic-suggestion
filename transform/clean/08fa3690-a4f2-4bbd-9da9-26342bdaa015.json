@@ -1,0 +1,11 @@
+{
+  "title": "School census 2025 to 2026: technical information",
+  "body": "\"This is technical information about submitting data for the school census for 2025 to 2026.  It is for those who:   supply software for school management information systems (MIS) use school MIS software   The specification shows:   changes to the previous year’s census collection data schools should supply at school level and pupil level how to structure the data in XML  how to check the data against the validation rules   You should also read the common basic data set. This defines common data items that schools use in MIS software and we use in our data collections.  \"",
+  "base_path": "/government/publications/school-census-2025-to-2026-technical-information",
+  "taxons": [
+    {
+      "title": "School censuses and school-level annual school censuses (SLASC)",
+      "base_path": "/education/school-censuses-and-slasc"
+    }
+  ]
+}

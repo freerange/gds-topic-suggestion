@@ -1,0 +1,27 @@
+{
+  "title": "Digital and Technologies Sector Plan",
+  "body": "\"The Digital and Technologies Sector Plan builds on the UK’s strong science and innovation base and sets out how we will  work with industry and academia to overcome challenges, to ensure the sector is ready to seize global commercial opportunities. \"",
+  "base_path": "/government/publications/digital-and-technologies-sector-plan",
+  "taxons": [
+    {
+      "title": "Buying technology",
+      "base_path": "/government/technology-guidance-technology-guidance-buying-technology"
+    },
+    {
+      "title": "Digital inclusion",
+      "base_path": "/government/digital-inclusion"
+    },
+    {
+      "title": "Digital security",
+      "base_path": "/government/technology-guidance-digital-security"
+    },
+    {
+      "title": "Digital transformation",
+      "base_path": "/government/technology-guidance-technology-guidance-digital-transformation"
+    },
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    }
+  ]
+}

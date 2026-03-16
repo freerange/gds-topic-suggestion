@@ -1,0 +1,23 @@
+{
+  "title": "Using AI and drone technology to protect seals in Norfolk",
+  "body": "\"The two-year project has used drone technology combined with Artificial Intelligence (AI) to monitor seal populations and their pups off the coast of Norfolk.  In December 2024, a team of specialists from Natural England launched a drone over the beach at Winterton-on-Sea in Norfolk. Instance segmentation (a type of AI), was then used to automatically detect individual seals from the drone imagery and distinguish between adult seals and whitecoat pups, even when grouped closely together.  The survey identified over 8,500 seals along an 8 kilometre stretch of shoreline, in comparison to a volunteer-led ground count which recorded more than 6,200 seals.   Traditionally, seal population monitoring relied on manual ground observations and aerial surveys, which posed a challenge in terms of collecting accurate data, particularly in hard-to-reach areas. Now, drones equipped with high-resolution cameras can capture imagery from 110 meters above, minimising disturbance to the seals.  Gabriella Fasoli, Earth Observation Higher Data Scientist at Natural England, said: “The AI model detected over 8,500 seals while the volunteers on the ground counted 6,200. This difference is likely due to the drone’s aerial perspective, which provides a unique viewpoint from above, allowing for a more accurate count by detecting seals that may be hidden or less visible from the ground.”  Although these new monitoring methods have the potential to enhance the accuracy of our population assessments for the UK’s seals, volunteers on the ground will remain crucial to documenting and protecting them.  Emma Milner, Senior Marine Mammal Specialist at Natural England, said: “This project has shown that drones and the use of AI technology can be a cost and time efficient alternative method of monitoring seal populations.  “This cutting-edge technology will help contribute to a comprehensive national picture of seal populations, allowing us to better understand population changes over time and to assess the impact of human activity on these crucial habitats, enabling better conservation efforts.   “It is our hope that in the future, the methods from this two-year pilot project can be developed to allow drone surveys at other important sites around the country, and for other species as well as grey seals.”  The UK is a crucial breeding ground for grey seals, hosting 35% of the global population. Despite their recovery from a worldwide total of 500 seals in the early 20th century to over 160,000 today, ongoing monitoring remains essential to their protection.  Natural England has special permission to fly drones for the purpose of this scientific survey and followed the appropriate best practice guidelines to minimise disturbance to the seals. Members of the public should not fly drones over seal colonies without the appropriate permissions.  New technology is unlocking possibilities at Natural England and helping inform nature-based solutions. Whether it’s managing flood risk, improving farming practices, or monitoring wildlife, these innovations are showing how modern tools can work in harmony with, not against, nature.   For more information, please contact:    Natural England & Environment Agency – East Anglia press office: Communications_East@environment-agency.gov.uk   Follow us on Twitter: @NENorfolkSufflk   \"",
+  "base_path": "/government/news/using-ai-and-drone-technology-to-protect-seals-in-norfolk",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    },
+    {
+      "title": "Marine sites and species",
+      "base_path": "/environment/planning-development-protected-sites-species-marine-sites-and-species"
+    },
+    {
+      "title": "Mammals",
+      "base_path": "/environment/environmental-management-wildlife-habitat-conservation-mammals"
+    }
+  ]
+}

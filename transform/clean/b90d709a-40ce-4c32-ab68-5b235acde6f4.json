@@ -1,0 +1,15 @@
+{
+  "title": "Forestry Commission Key Performance Indicators: Report for 2024-25",
+  "body": "\"Annual statistical report providing the key performance indicators (KPIs) for the Forestry Commission. This report provides updates on the Forestry Commission’s 10 headline indicators, Forestry England’s 6 headline indicators and 23 further indicators for Forest Services. Each indicator is for England as a whole at national level.  This is an Official Statistics publication. The report itself is accompanied by tables of supporting data providing the indicator statistics.  \"",
+  "base_path": "/government/statistics/forestry-commission-key-performance-indicators-report-for-2024-25",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

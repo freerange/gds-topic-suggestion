@@ -1,0 +1,15 @@
+{
+  "title": "Attendance at grant aided primary, post primary and special schools in Northern Ireland 2023/24",
+  "body": "\"This statistical bulletin includes information on the levels of absence, type of absence and reason for absence. \"",
+  "base_path": "/government/statistics/attendance-at-grant-aided-primary-post-primary-and-special-schools-in-northern-ireland-202324",
+  "taxons": [
+    {
+      "title": "Education of disadvantaged children",
+      "base_path": "/education/education-of-disadvantaged-children"
+    },
+    {
+      "title": "School attendance and absence",
+      "base_path": "/education/school-attendance-and-absence"
+    }
+  ]
+}

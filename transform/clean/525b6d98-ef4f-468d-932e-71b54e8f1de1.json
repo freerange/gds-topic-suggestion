@@ -1,0 +1,19 @@
+{
+  "title": "Northern Ireland LAC municipal waste statistics - Jul-Sep 2024",
+  "body": "\"This is a quarterly publication which reports provisional figures on the key measurements of local authority collected municipal waste for councils and waste management groups in Northern Ireland. \"",
+  "base_path": "/government/statistics/northern-ireland-lac-municipal-waste-statistics-jul-sep-2024",
+  "taxons": [
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    },
+    {
+      "title": "Local councils and services",
+      "base_path": "/regional-and-local-government/local-councils"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

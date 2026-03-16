@@ -1,0 +1,15 @@
+{
+  "title": "An exploration of the effect of speededness in a selection of GCSE examinations",
+  "body": "\"GCSEs are not intended to be time-pressured, or “speeded”. In other words, the duration of a GCSE exam should be long enough for most students to be able to demonstrate what they know, understand and can do in relation to the questions in the paper. To investigate this, we analysed student performance in 181 exams across 6 GCSE subjects – mathematics, biology, chemistry, physics, combined science and geography – to understand the extent to which they may be speeded in practice. We did this by exploring the number of questions that were not attempted by students at the end of the papers.  This analysis suggests that some of the exams appear to be speeded, with substantial variation in the degree of apparent speededness across the subjects (with more apparent speededness in some of the maths and combined science foundation tier papers). There was also substantial variation in the degree of apparent speededness across different student groups. However, the report notes that students not attempting questions at the end of an exam might not always be due to them running out of time – there could be other explanations, such as fatigue or the difficulty of questions at the end of an exam. \"",
+  "base_path": "/government/publications/an-exploration-of-the-effect-of-speededness-in-a-selection-of-gcse-examinations",
+  "taxons": [
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

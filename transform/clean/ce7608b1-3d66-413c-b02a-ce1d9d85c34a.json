@@ -1,0 +1,11 @@
+{
+  "title": "Enter learning data (ELD): set up your ILR and manage your data",
+  "body": "\"ELD is replacing the learner entry tool (LET). This web-based service is for further education providers who need to return ILR information but do not have a data management system. There is no limit on the number of learners that can be added.  You can access enter learning data for free. Using it is optional.  It offers an improved user experience including:    reduced data duplication when entering learners real-time validation to help users get their data correct guided user journeys improved self-service, with links to guidance  web-based service which allows multiple users for the same organisation links to other Department for Education (DfE) services  storage of data in the secure DfE environment   If you’re having problems with the service, check the known issues log. If your issue is not listed, use the customer help portal.  \"",
+  "base_path": "/government/publications/enter-learning-data-eld-set-up-your-ilr-and-manage-your-data",
+  "taxons": [
+    {
+      "title": "Further education financial management and data collection",
+      "base_path": "/education/further-education-financial-management-and-data-collection"
+    }
+  ]
+}

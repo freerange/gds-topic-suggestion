@@ -1,0 +1,15 @@
+{
+  "title": "Refugee Integration Outcomes (RIO): Employment from 2015 to 2023",
+  "body": "\"The Refugee Integration Outcomes (RIO) longitudinal cohort study links Home Office data with administrative data from across government. This release includes analysis of linked HMRC data to understand how refugee employment outcomes change over time.  The analysis looks at employment rate, working hours and income by arrival route, sex, nationality and age.  Findings show that employment rates among refugees who were granted asylum or resettled to the UK between 2015 and 2023 increased quickly after gaining status but plateaued after 2 years at around 48%.  Median earnings for employed refugees reach £10,000 for part-time workers and those not working a regular pattern of hours and £23,000 for full-time workers.  Please direct any questions about the RIO project to refugeeintegrationoutcomes@homeoffice.gov.uk. \"",
+  "base_path": "/government/publications/refugee-integration-outcomes-rio-employment-from-2015-to-2023",
+  "taxons": [
+    {
+      "title": "Refugee, asylum and human rights claims",
+      "base_path": "/entering-staying-uk/asylum-refugee-human-rights-claims"
+    },
+    {
+      "title": "Support for asylum claimants and refugees",
+      "base_path": "/entering-staying-uk/support-asylum-claimants-refugees"
+    }
+  ]
+}

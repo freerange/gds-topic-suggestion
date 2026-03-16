@@ -1,0 +1,11 @@
+{
+  "title": "Connectivity Tool",
+  "body": "\"What the tool does  The Connectivity Tool helps built environment professionals and others to understand the connectivity of places in England and Wales. You can use the tool to:   display how any location in England and Wales is connected to everyday services by walking, driving, cycling and public transport plot new transport routes to understand how these would affect an area’s connectivity   There is also a limited version of the tool (Connectivity Tool Lite) that anyone can access.  Who can use the tool?  The Connectivity Tool is available to built environment professionals in the public or private sector.  If you you’re a built environment professional, you can request access to the tool by emailing connectivity@dft.gov.uk.  Anyone can use the Connectivity Tool Lite version of the tool.  What you need to use the tool  To use the Connectivity Tool you will need to:    have been granted access to the tool be signed into GOV.UK One Login    Your GOV.UK One Login must be under your work email address.  If you don’t have a GOV.UK One Login under your work email address, you will need to create one.  Start using the Connectivity Tool  If you are signed into GOV.UK One Login with a valid work email address, you can start using the tool. If you are not signed in, you will be redirected to create or sign in to your GOV.UK One Login.  Start now   Connectivity Tool Lite - no registration needed  Connectivity Tool Lite is available to anyone without registration.  You can use Connectivity Tool Lite to see how any location in England and Wales is connected to everyday services by walking, driving, cycling and public transport.  It doesn’t include interactive features, such as plotting new transport routes.  Understand the data  Read about the method used to calculate connectivity scores and download the data.  Support and feedback  If you have any problems using the tool or you want to provide feedback, you can contact us at connectivity@dft.gov.uk. \"",
+  "base_path": "/guidance/connectivity-tool",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

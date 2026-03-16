@@ -1,0 +1,15 @@
+{
+  "title": "Supported Housing Improvement Programme",
+  "body": "\"The Supported Housing Improvement Programme (SHIP) supports local authorities to address poor-quality supported housing and to drive up standards in their area. Initially a £20 million 3-year programme, a further £8 million of funding was issued to participating local authorities in May 2025, to continue the programme until 31 March 2026.  SHIP built on the success of £5.4 million year-long pilots which concluded in September 2021. An independent evaluation and a summary of good practice from the pilots were issued under the previous government. \"",
+  "base_path": "/government/publications/supported-housing-improvement-programme",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    }
+  ]
+}

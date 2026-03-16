@@ -1,0 +1,15 @@
+{
+  "title": "Brucella canis: testing dogs before import",
+  "body": "\" These rules apply from 7 October 2025.  You must also have Approved Importer status to commercially import dogs from Romania.   Which dogs must be tested before import  The rules relating to Brucella canis apply to the commercial import of dogs into Great Britain, if they originate in or are dispatched from Romania.  You must follow commercial import rules if there will be a sale or transfer of ownership (including to rehome rescue animals).  Pet owners must also follow commercial import rules to travel with more than 5 dogs (unless they are attending a competition, show, sporting event or related training).  Sending samples to Great Britain  An authorised veterinarian in Romania must take a sample and send it to the Animal and Plant Health Agency (APHA) in Great Britain for testing, prior to import.  Complete a test submission form and send it with the sample. We recommend using a serum gel sample tube.  Find the submission form, and information about fees and sending samples, on the APHA Weybridge: general testing form page.  When completing the form, you must select 2 tests: Brucella canis ELISA and Brucella canis SAT.  When sending the sample, you must comply with the conditions in the general authorisation to import research and diagnostic samples. A copy of the authorisation must accompany the sample.  Getting test results  APHA laboratory reports with the test results are sent by email.  Both tests must be negative. The dog can then enter Great Britain no later than 30 calendar days from when the blood sample was taken. To enter at a later date, a new test is required.  If either test result is positive, you cannot import the dog.  Adding test results to your import notification on IPAFFS   You should wait for the test results before you submit your import notification on IPAFFS.  You must add your laboratory report showing the negative test results to your import notification 2 working days before arrival.  Check the Approved Importer conditions for guidance on submitting your import notification.  \"",
+  "base_path": "/guidance/brucella-canis-testing-dogs-before-import",
+  "taxons": [
+    {
+      "title": "Import controls",
+      "base_path": "/business-and-industry/import-controls"
+    },
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

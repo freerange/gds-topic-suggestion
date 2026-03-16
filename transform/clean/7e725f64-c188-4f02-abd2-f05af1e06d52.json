@@ -1,0 +1,15 @@
+{
+  "title": "ARTES Call 2",
+  "body": "\"The UK subscribed £190 million to the ARTES (Advanced Research in Telecommunications Systems) programme in 2022 to support the UK satellite telecommunications industry. This is a commercially driven programme, designed to support UK businesses to deliver new technologies, products and services. The programme can cover development of components, systems or services, and any aspect or combination of the space, ground or network segments.  AI for Satcom  To apply under the AI for Satcom call of the European Space Agency (ESA) ARTES programme for funding, UK companies will first require approval for their proposal from their ‘National Delegate’. In the UK approvals are considered through various funding calls spread across the year. These fall into two categories; themed calls supporting specific technologies or general calls, for any eligible proposals.   Watch a webinar for the AI for Satcom call held on Tuesday 6 May.   Ground Station Innovation  This ground station innovation call is a targeted call for expressions of interest in developing the latest innovation in satellite gateway technology under the various initiatives of the European Space Agency (ESA) ARTES Programme. The call will make up to £10 million of UK funding available, with the UK Space Agency looking to support up to 5 projects of up to £2 million. Possible technologies include both Radio Frequency and Optical Satellite Gateways as well the development of components, systems or services to support these technologies.   Watch a webinar for the Ground Station Innovation call held on Thursday 15 May.  \"",
+  "base_path": "/government/publications/artes-call-2",
+  "taxons": [
+    {
+      "title": "Communications and telecomms",
+      "base_path": "/business/communications-and-telecomms"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

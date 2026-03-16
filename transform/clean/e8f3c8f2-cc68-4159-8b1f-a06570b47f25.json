@@ -1,0 +1,11 @@
+{
+  "title": "Renunciation",
+  "body": "\"The guidance explains:   who can renounce their citizenship how they can renounce their citizenship how we can check if it has been renounced what happens after a customer renounces citizenship  \"",
+  "base_path": "/government/publications/renunciation",
+  "taxons": [
+    {
+      "title": "Citizenship",
+      "base_path": "/entering-staying-uk/citizenship"
+    }
+  ]
+}

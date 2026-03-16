@@ -1,0 +1,11 @@
+{
+  "title": "DfE: spend control data",
+  "body": "\"DfE publishes details of new spend approved by central government spending controls on a quarterly basis. \"",
+  "base_path": "/government/collections/dfe-spend-control-data",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

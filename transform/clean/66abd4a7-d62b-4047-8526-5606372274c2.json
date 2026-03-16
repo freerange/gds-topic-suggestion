@@ -1,0 +1,11 @@
+{
+  "title": "Crime in England and Wales: year ending September 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/crime-in-england-and-wales-year-ending-september-2024",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

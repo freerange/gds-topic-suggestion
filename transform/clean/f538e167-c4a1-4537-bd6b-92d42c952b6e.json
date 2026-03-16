@@ -1,0 +1,19 @@
+{
+  "title": "Classify different types of waste",
+  "body": "\" \"",
+  "base_path": "/government/collections/classify-different-types-of-waste",
+  "taxons": [
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    }
+  ]
+}

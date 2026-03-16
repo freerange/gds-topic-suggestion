@@ -1,0 +1,11 @@
+{
+  "title": "Rubella: confirmed cases and notifications",
+  "body": "\"The structure and content of the rubella epidemiology webpages has changed. Older webpages are available to view on the UK Government Web Archive. \"",
+  "base_path": "/government/publications/rubella-confirmed-cases-and-notifications",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

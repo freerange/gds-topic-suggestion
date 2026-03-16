@@ -1,0 +1,15 @@
+{
+  "title": "Measles, mumps, rubella and varicella (MMRV) vaccination programme",
+  "body": "\"From 1 January 2026, all children will be offered a combined measles, mumps, rubella and varicella (MMRV) vaccine instead of measles, mumps and rubella vaccine (MMR) as part of the childhood routine 2-dose vaccination schedule. Dose 1 will be offered at one year of age and dose 2 will be brought forward from 3 years 4 months to the new 18-month appointment. Information on eligibility and timing of vaccination is available in the routine childhood immunisation schedule and the Introduction of a routine varicella (MMRV) vaccination programme letter.  From 1 November 2026 to 31 March 2028 there will be a single dose selective MMRV catch-up programme for older children who have not yet had chickenpox infection or 2 doses of varicella vaccination.  \"",
+  "base_path": "/government/collections/measles-mumps-rubella-and-varicella-mmrv-vaccination-programme",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

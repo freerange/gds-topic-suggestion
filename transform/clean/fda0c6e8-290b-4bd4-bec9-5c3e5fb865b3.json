@@ -1,0 +1,27 @@
+{
+  "title": "A Profile of Repeat Offending by Children and Young People in England and Wales",
+  "body": "\"Data First[1] is a pioneering data-linking, research and academic engagement programme led by the Ministry of Justice (MoJ) and funded by Administrative Data Research UK (ADR UK)[2]. By linking administrative datasets from across the justice system, Data First is maximising the use and impact of data that is already collected when people interact with justice services.  This report uses newly linked data from Data First, connecting criminal courts records with offender assessment data for the first time. This linkage provides a unique opportunity to explore the characteristics, offending patterns, and needs of children and young people who frequently offend, and how these differ from those who do not.    [1] https://www.gov.uk/guidance/ministry-of-justice-data-first  [2] https://www.adruk.org/our-work/browse-all-projects/data-first-harnessing-the-potential-of-linked-administrative-data-for-the-justice-system-169/ \"",
+  "base_path": "/government/publications/a-profile-of-repeat-offending-by-children-and-young-people-in-england-and-wales",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    },
+    {
+      "title": "Justice system transparency",
+      "base_path": "/crime-justice-and-law/justice-system-transparency"
+    },
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    },
+    {
+      "title": "Sentencing reform",
+      "base_path": "/crime-justice-and-law/sentencing-reform"
+    },
+    {
+      "title": "Young people and the law",
+      "base_path": "/crime-justice-and-law/young-people-and-the-law"
+    }
+  ]
+}

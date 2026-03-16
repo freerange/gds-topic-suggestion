@@ -1,0 +1,11 @@
+{
+  "title": "Energy Trends and Prices statistical release: 27 March 2025",
+  "body": "\"Energy production, trade and consumption statistics are provided in total and by fuel (coal, oil, gas and electricity). Energy price statistics cover domestic price indices, prices of road fuels and petroleum products and comparisons of international road fuel prices.  For enquiries about these statistics, contact:   energy production, trade and consumption - energy.stats@energysecurity.gov.uk  energy prices - energyprices.stats@energysecurity.gov.uk   \"",
+  "base_path": "/government/statistics/energy-trends-and-prices-statistical-release-27-march-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

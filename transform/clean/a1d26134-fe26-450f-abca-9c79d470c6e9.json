@@ -1,0 +1,15 @@
+{
+  "title": "UK Interregional Trade in Goods and Services 2019 to 2020",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-interregional-trade-in-goods-and-services-2019-to-2020",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

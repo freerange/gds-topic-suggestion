@@ -1,0 +1,15 @@
+{
+  "title": "VAT and Insurance Premium Tax: change to reliefs for qualifying motor vehicle leasing schemes",
+  "body": "\"This measure will apply the standard rate of VAT to top-up payments on leases of motor vehicles through qualifying schemes for the use of disabled people. Where payments are made through benefits, VAT will continue not to apply.  Insurance Premium Tax will apply at the standard rate of 12% to insurance on new vehicle leases through qualifying schemes.  These measure will take effect from 1 July 2026.  These tax changes will not apply to vehicles designed or substantially and permanently adapted for wheelchair or stretcher users.  \"",
+  "base_path": "/government/publications/vat-and-insurance-premium-tax-change-to-reliefs-for-qualifying-motor-vehicle-leasing-schemes",
+  "taxons": [
+    {
+      "title": "Insurance Premium Tax",
+      "base_path": "/money/business-tax-insurance-premium-tax"
+    },
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    }
+  ]
+}

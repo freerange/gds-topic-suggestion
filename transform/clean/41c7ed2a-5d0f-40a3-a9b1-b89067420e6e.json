@@ -1,0 +1,19 @@
+{
+  "title": "Industrial emissions: modernising environmental permitting",
+  "body": "\"The Department for Environment, Food and Rural Affairs (Defra) is seeking views on proposed reforms to environmental permitting for industry.  The proposed reforms will support the government’s missions and priorities on growth, clean energy, health, the circular economy and environmental improvement.  There are proposals about:   enabling innovation and encouraging new technologies and techniques agile standards – a rapid, predictable and integrated approach to standard setting proportionate regulation and coherence in the environmental permitting framework regulator effectiveness and efficiency creating a transparent environmental permitting framework   Defra will use your feedback to develop policy related to the proposals. We will hold another consultation on the detail of this policy.  \"",
+  "base_path": "/government/consultations/industrial-emissions-modernising-environmental-permitting",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    }
+  ]
+}

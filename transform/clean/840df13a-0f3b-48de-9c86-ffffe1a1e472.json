@@ -1,0 +1,11 @@
+{
+  "title": "Monthly Sea Fisheries Statistics November 2025",
+  "body": "\"Highlights   The total quantity of landings by UK vessels (tonnes) decreased by 21% (16.9 thousand tonnes) in November 2025 compared to 2024. The value of landings in November 2025 (£134.2m) also decreased by 6% (£8.9 million) compared to November 2024. Landings in November 2025 comprised mostly of Pelagic species (65%) driven by high uptake of Mackerel which are typically targeted in the winter months (January, February, October and November).  \"",
+  "base_path": "/government/statistics/monthly-sea-fisheries-statistics-november-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

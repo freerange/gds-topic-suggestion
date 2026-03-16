@@ -1,0 +1,11 @@
+{
+  "title": "Multiplication tables check attainment: 2025",
+  "body": "\"The data provides statistics for the multiplication tables check assessment. It includes results for pupils in schools in England by:   national, regional and local authority level pupil characteristics such as:  sex disadvantage special educational needs free school meal eligibility ethnicity first language month of birth   school characteristics such as:  school type phase religious character    \"",
+  "base_path": "/government/statistics/multiplication-tables-check-attainment-2025",
+  "taxons": [
+    {
+      "title": "Maths (key stage 2)",
+      "base_path": "/education/primary-curriculum-key-stage-2-maths"
+    }
+  ]
+}

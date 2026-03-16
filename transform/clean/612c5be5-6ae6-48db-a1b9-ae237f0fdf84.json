@@ -1,0 +1,15 @@
+{
+  "title": "Import of services among VAT-unregistered businesses 2018",
+  "body": "\" This research was commissioned and delivered under previous administrations in 2018.  HM Revenue and Customs (HMRC) Research Report 824   In 2018, HMRC commissioned IFF research to provide more information on the nature and scale of services imported by VAT-unregistered businesses from both inside and outside the European Union.  In the context of the UK’s exit from the EU, the research had two principal objectives:    to understand overseas trade behaviour of VAT unregistered businesses   to understand the impact that EU exit might have on small UK businesses buying in services from overseas   \"",
+  "base_path": "/government/publications/import-of-services-among-vat-unregistered-businesses-2018",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

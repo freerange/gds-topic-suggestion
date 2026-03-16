@@ -1,0 +1,11 @@
+{
+  "title": "UK House Price Index: November 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-house-price-index-november-2024",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    }
+  ]
+}

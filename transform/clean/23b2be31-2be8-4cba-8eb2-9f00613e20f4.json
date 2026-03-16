@@ -1,0 +1,19 @@
+{
+  "title": "Criminogenic needs of prolific offenders",
+  "body": "\"This report from the Better Outcomes through Linked Data (BOLD) programme is an ad hoc statistics publication from the Ministry of Justice.  The analysis presented is based on linking criminal courts and national police data with offender assessment data for England and Wales. It focusses on examining key differences in relation to the type, prevalence and severity of criminogenic needs between prolific offenders and non-prolific offenders.  Pre-release  The following post holders are given pre-release access before the release of the Criminogenic needs of prolific offenders report. Analysts and policy professionals involved in the production and quality assurance of the report are excluded from this list.  Ministry of Justice: Lord Chancellor and Secretary of State; Minister of State for Prisons, Probation and Reducing Reoffending; MoJ Permanent Secretary; Director General - Service Transformation Group; Director General - Service Transformation Group; Chief Data Officer; Analysis Director; BOLD Programme Director; Director General Policy - Prisons, Offenders and Analysis; Deputy Director, Reducing Reoffending Policy; Director, Probation and Reoffending Directorate ; Deputy Director, Probation Policy; Policy Officials (x3); Press Office Leads (x5); Parliamentary strategy advisor; Deputy Director, Reducing Reoffending Analysis; MoJ Chief Statistician; Deputy Head of Profession for Statistics ; Analyst officials (x2)   \"",
+  "base_path": "/government/publications/criminogenic-needs-of-prolific-offenders",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    },
+    {
+      "title": "Sentencing reform",
+      "base_path": "/crime-justice-and-law/sentencing-reform"
+    }
+  ]
+}

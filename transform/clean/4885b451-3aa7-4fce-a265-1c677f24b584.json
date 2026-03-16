@@ -1,0 +1,15 @@
+{
+  "title": "Impact evaluation of the drug recovery prison at HMP Holme House",
+  "body": "\"The Drug Recovery Prison (DRP) was a joint Ministry of Justice and National Health Service intervention piloted at HMP Holme House between 2017 and 2020 to test a ‘whole prison approach’ to tackling substance misuse.   The analysis used Propensity Score Matching (PSM) to compare the reoffending outcomes of DRP prisoners against similar prisoners who resided in other Category C prisons. The analysis found that prisoners who were housed in Holme House prison were more likely to have a proven reoffence following release than prisoners housed in alternative Category C prisons.    Potential explanations of this finding include methodological issues, implementation issues, post-release drivers of reoffending, and the extended length of time needed for cultural change. The report recommends repeating the analysis once the DRP has had more time to become embedded. \"",
+  "base_path": "/government/publications/impact-evaluation-of-the-drug-recovery-prison-at-hmp-holme-house",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    }
+  ]
+}

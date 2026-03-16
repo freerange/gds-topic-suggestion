@@ -1,0 +1,11 @@
+{
+  "title": "Monthly statistical releases on migration",
+  "body": "\"For further information email migration statistics. \"",
+  "base_path": "/government/collections/monthly-statistical-releases-on-migration",
+  "taxons": [
+    {
+      "title": "Visas and entry clearance",
+      "base_path": "/entering-staying-uk/visas-entry-clearance"
+    }
+  ]
+}

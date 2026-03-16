@@ -1,0 +1,11 @@
+{
+  "title": "Contact tracing guidance for mpox",
+  "body": "\"This guidance provides principles for risk assessment and follow-up of contacts of confirmed mpox cases. It is intended to support risk assessment and categorisation of contacts to ensure they are offered appropriate public health and isolation advice.  Information sheets for category 2 and 3 contacts are available.  Additional mpox resources are also available from the UK Health Security Agency, including information on case definitions and vaccination.  \"",
+  "base_path": "/government/publications/contact-tracing-guidance-for-mpox",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

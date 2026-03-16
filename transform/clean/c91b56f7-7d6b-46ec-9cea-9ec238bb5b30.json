@@ -1,0 +1,23 @@
+{
+  "title": "Quarterly survey for Q3 (October to December 2024)",
+  "body": "\"The Regulator of Social Housing publishes a quarterly survey four times a year. It sets out information such as the amount of borrowing registered providers have taken and where they got it from, the number of affordable home ownership homes they have built and sold, and the number of market sale homes they have built and sold.  The survey reports are available on the Quarterly survey collections page. \"",
+  "base_path": "/government/publications/quarterly-survey-for-q3-october-to-december-2024",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

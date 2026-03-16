@@ -1,0 +1,15 @@
+{
+  "title": "Technology Adoption Review",
+  "body": "\"The Review considered the role of both government and industry in improving technology adoption. It has been informed by a wide range of engagements including regional roundtables and a formal call for evidence.    This document sets out the Review’s key findings, including suggested cross-cutting actions and specific findings for each of the Industrial Strategy growth-driving sectors. \"",
+  "base_path": "/government/publications/technology-adoption-review",
+  "taxons": [
+    {
+      "title": "Government technology and digital services",
+      "base_path": "/government/government-technology-and-digital-services"
+    },
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    }
+  ]
+}

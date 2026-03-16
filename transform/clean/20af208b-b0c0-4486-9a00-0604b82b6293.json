@@ -1,0 +1,19 @@
+{
+  "title": "COVID-19 loan guarantee schemes repayment data: September 2025",
+  "body": "\"The latest quarterly update of data on the performance of the government’s COVID-19 loan guarantee schemes. Data as at September 2025 \"",
+  "base_path": "/government/publications/covid-19-loan-guarantee-schemes-repayment-data-september-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Funding and support for businesses during COVID-19",
+      "base_path": "/health-and-social-care/funding-and-support-for-businesses-during-covid-19"
+    },
+    {
+      "title": "Support for self-employed people and sole traders during COVID-19",
+      "base_path": "/health-and-social-care/self-employed-people-and-sole-traders-during-covid-19"
+    }
+  ]
+}

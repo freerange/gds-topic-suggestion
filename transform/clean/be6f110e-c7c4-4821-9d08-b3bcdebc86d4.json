@@ -1,0 +1,11 @@
+{
+  "title": "Financial remedy summary of case: Form ES1",
+  "body": "\"You only need to complete one of the templates on this page:   .docx is for use with Microsoft Word .odt is an open file format for use with other word processors   Do not complete both.  You can send your completed ES1 to the court dealing with your case.  You must also send a summary of your finances (Form ES2). \"",
+  "base_path": "/government/publications/financial-remedy-summary-of-case-form-es1",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    }
+  ]
+}

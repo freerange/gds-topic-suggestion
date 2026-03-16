@@ -1,0 +1,19 @@
+{
+  "title": "Report a bus arriving late, early, not stopping or not turning up",
+  "body": "\"  There’s different guidance about reporting bus driver rudeness or an unsafe bus or coach.   Report a bus in London  Complain to Transport for London (TfL) about scheduled bus services in London.  Report a bus or coach in England (outside London) or Wales  You should report the problem to the bus or coach company running the service first.   If you’re not happy with how they dealt with your report you can report the problem to Driver and Vehicle Standards Agency (DVSA) so they can investigate it.   DVSA cannot help you get a refund or compensation - contact the bus company running the service if you think you are entitled to this.   Report the problem to DVSA   You can report a bus or coach in England (outside London) or Wales to DVSA if it:   was late left early did not stop to allow you on or off did not turn up   You need to tell us:   date and time it happened bus or coach service number (route number) where you got on or wanted to get on where you got off or wanted to get off name of the bus or coach company running the service (if you know it)   You can choose whether or not to give your name and contact details when you report the problem.  Start now   What happens next  The Driver and Vehicle Standards Agency (DVSA) will review the information you sent.  They will decide what to do next, which could include:   asking DVSA examiners to investigate the case asking you for more information if you did not make the report anonymously   DVSA cannot:   help you get a refund or compensation give feedback on an ongoing case   \"",
+  "base_path": "/guidance/report-a-bus-arriving-late-early-not-stopping-or-not-turning-up",
+  "taxons": [
+    {
+      "title": "Bus operators",
+      "base_path": "/transport/bus-operators"
+    },
+    {
+      "title": "Bus passenger experience",
+      "base_path": "/transport/bus-passenger-experience"
+    },
+    {
+      "title": "Bus services, routes and timetables",
+      "base_path": "/transport/bus-services-routes-and-timetables"
+    }
+  ]
+}

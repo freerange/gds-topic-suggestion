@@ -1,0 +1,23 @@
+{
+  "title": "Graduate route evaluation",
+  "body": "\"This research is the first in-depth Home Office evaluation of the Graduate route, addressing evidence gaps identified in a small-scale early insights study in 2021, a year after the route launched.  The research presented throughout the following report provides insight into the experience of Graduate visa holders living in the UK. It looks at the Graduate route users and their dependants in the UK; their motivations for using the route; their occupation and economic activity; integration and use of public services; experiences of the application process, and future intentions. \"",
+  "base_path": "/government/publications/graduate-route-evaluation",
+  "taxons": [
+    {
+      "title": "Student visas",
+      "base_path": "/entering-staying-uk/student-visas"
+    },
+    {
+      "title": "Visa applications",
+      "base_path": "/entering-staying-uk/visa-applications"
+    },
+    {
+      "title": "Work and investor visas",
+      "base_path": "/entering-staying-uk/work-and-investor-visas"
+    },
+    {
+      "title": "Visas and immigration corporate",
+      "base_path": "/entering-staying-uk/visas-immigration-corporate"
+    }
+  ]
+}

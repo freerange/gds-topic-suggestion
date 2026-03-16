@@ -1,0 +1,11 @@
+{
+  "title": "Kenya: Knowledge Base profile",
+  "body": "\"This document contains useful information about Kenya which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Kenya  \"",
+  "base_path": "/government/publications/kenya-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

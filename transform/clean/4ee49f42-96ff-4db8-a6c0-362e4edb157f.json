@@ -1,0 +1,15 @@
+{
+  "title": "Process evaluation of Operation Encompass",
+  "body": "\"This process evaluation, commissioned by the Home Office and delivered by Ipsos UK and the University of Central Lancashire, assesses Operation Encompass—a scheme enabling police to share information about domestic abuse incidents with schools and early years settings. The evaluation uses interviews, administrative data, and pilot studies to explore how the scheme is implemented across police forces and local authorities. Findings indicate that Operation Encompass is widely valued for improving timely support and safeguarding for children affected by domestic abuse. However, there is variation in how the scheme is delivered and in the detail of notifications provided. The Early Years pilot shows potential for supporting younger children, with similar implementation considerations. The report provides considerations around guidance, training, and data sharing systems to help inform future development and delivery of the scheme. \"",
+  "base_path": "/government/publications/process-evaluation-of-operation-encompass",
+  "taxons": [
+    {
+      "title": "Domestic abuse",
+      "base_path": "/crime-justice-and-law/domestic-abuse"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

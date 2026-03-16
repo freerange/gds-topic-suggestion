@@ -1,0 +1,19 @@
+{
+  "title": "Increase in HIV testing in community settings",
+  "body": "\"A new report published by the UK Health Security Agency shows HIV testing in community settings continues to be a vital tool to diagnose HIV in those who might not visit traditional testing outlets such as sexual health clinics.  In 2023, testing in community settings such as nightclubs, festivals and voluntary sector premises, increased by 7% compared to 2022.  The HIV testing in community settings in England report also found nearly a quarter of all tests were reported among individuals being tested for HIV for the first time. It also highlights the impact of National HIV Testing Week, noting that there was a 22% increase in the number of tests carried out in this time compared to 2022.  Dr Tamara Duretić, Head of HIV Section at the UK Health Security Agency, said:   HIV can affect anyone, no matter your gender or sexual orientation. It’s good to see HIV Testing Week once again highlighting the hugely important role regular testing plays in helping to prevent new infections, alongside condom use.  Testing allows people to have access to free prevention interventions such as PrEP (HIV pre-exposure prophylaxis) and, should you test positive, ensures timely access to treatment that saves lives and prevents the virus being passed on.  \"",
+  "base_path": "/government/news/increase-in-hiv-testing-in-community-settings",
+  "taxons": [
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    },
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    },
+    {
+      "title": "Research, testing and standards",
+      "base_path": "/health-and-social-care/health-protection-services-research-testing-and-standards"
+    }
+  ]
+}

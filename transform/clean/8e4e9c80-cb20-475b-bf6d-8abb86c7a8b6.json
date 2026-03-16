@@ -1,0 +1,23 @@
+{
+  "title": "When someone dies in Democratic Republic of Congo",
+  "body": "\"Includes information on:   what to do when someone dies in DRC burial and cremation returning bodies to UK (repatriation)   See also what to do when someone dies: death abroad  \"",
+  "base_path": "/government/publications/bereavement-information-pack-democratic-republic-of-congo",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Birth, death and marriage abroad in Democratic Republic of Congo",
+      "base_path": "/world/birth-death-and-marriage-abroad-democratic-republic-of-the-congo"
+    }
+  ]
+}

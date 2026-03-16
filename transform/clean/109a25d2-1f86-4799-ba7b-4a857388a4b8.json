@@ -1,0 +1,11 @@
+{
+  "title": "Infrastructure digital twins: data requirements",
+  "body": "\"This report shows how digital twin technology could be used to protect infrastructure against identified risks such as ageing, climate change and emerging cybersecurity threats.  A digital twin is a virtual model of an object, system or process connected to its real-world counterpart by a 2-way flow of real-time data. This connection lets us test decisions before making them and understand how different actions might affect the real world.  Using digital twins can provide infrastructure owners with a better understanding of:     the condition of their assets  when to intervene for maintenance or renewal  how to guide future design   This research supports the establishment of an evidence base for the use of advanced digital twins in infrastructure management.  Mott Macdonald has produced this report on behalf of the Department for Transport, as the department’s Futures Advisor. \"",
+  "base_path": "/government/publications/infrastructure-digital-twins-data-requirements",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

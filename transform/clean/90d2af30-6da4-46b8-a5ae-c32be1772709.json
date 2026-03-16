@@ -1,0 +1,15 @@
+{
+  "title": "Company insolvencies, February 2025",
+  "body": "\"Main messages for England and Wales    After seasonal adjustment, the number of registered company insolvencies in England and Wales was 2,035 in February 2025, 3% higher than in January 2025 (1,978) but 7% lower than the same month in the previous year (2,188 in February 2024). Company insolvencies over the past year have been slightly lower than in 2023, which saw a 30-year high annual number, but have remained high relative to historical levels.   Company insolvencies in February 2025 consisted of 393 compulsory liquidations, 1,520 creditors’ voluntary liquidations (CVLs), 115 administrations and 7 company voluntary arrangements (CVAs). There were no receivership appointments. Compulsory liquidations were higher than in January 2025, while CVLs, administrations and CVAs were lower. The (seasonally adjusted) number of compulsory liquidations in February 2025 was the highest monthly number since September 2014.   One in 191 companies on the Companies House effective register (at a rate of 52.4 per 10,000 companies) entered insolvency between 1 March 2024 and 28 February 2025. This was a decrease from the 57.6 per 10,000 companies that entered insolvency in the 12 months ending 29 February 2024. Insolvency rates are calculated on a 12-month rolling basis as a proportion of the total number of companies on the effective register. The 12-month rolling rates show longer term trends and reduce the volatility associated with estimates based on single months.   While the insolvency rate has increased since the lows seen in 2020 and 2021, it remains much lower than the peak of 113.1 per 10,000 companies seen during the 2008-09 recession. This is because the number of companies on the effective register has more than doubled over this period.   \"",
+  "base_path": "/government/statistics/company-insolvencies-february-2025",
+  "taxons": [
+    {
+      "title": "Court claims, debt and bankruptcy",
+      "base_path": "/money/court-claims-debt-bankruptcy"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

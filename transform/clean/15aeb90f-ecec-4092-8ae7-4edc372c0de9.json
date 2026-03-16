@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Marriages (Northern Ireland): June 2025",
+  "body": "\"Monthly marriages registered in Northern Ireland up to and including June 2025. \"",
+  "base_path": "/government/statistics/monthly-marriages-northern-ireland-june-2025",
+  "taxons": [
+    {
+      "title": "Marriage, civil partnership and divorce",
+      "base_path": "/life-circumstances/marriage-divorce"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

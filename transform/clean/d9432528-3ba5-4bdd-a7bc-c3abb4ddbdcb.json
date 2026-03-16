@@ -1,0 +1,15 @@
+{
+  "title": "Technology and energy ministers discuss grid reform at AI Energy Council meeting",
+  "body": "\"AI minister Kanishka Narayan and energy ministers Lord Vallance and Michael Shanks yesterday (1st December) co-chaired the latest meeting of the AI Energy Council in London.  Joined by regulators and representatives from the energy and tech sectors, talks centred on speeding up grid connections and building the infrastructure needed to power new AI infrastructure and AI Growth Zones across the UK.    Council members discussed progress on government action to accelerate connections for AI data centres. This includes steps to reduce potential pressures on the energy network by supporting data centres based in AI Growth Zones with significant discounts on their electricity bills in instances where they will be able to harness excess capacity.   The AI Minister reflected on how AI has become a key driver of the government’s missions on growth and prosperity, noting the recent announcements of new AI Growth Zones for North East England, and North and South Wales. Discussions also covered the recently-announced package of reforms to support the delivery of AI Growth Zones, particularly highlighting how AI Growth Zone infrastructure projects will benefit from plans to accelerate grid access.  The discussions focused on how the UK can be more ambitious in harnessing the opportunities of AI – understanding the energy capacity needed to meet demand, unlocking access to that capacity on the energy grid, and exploring innovative solutions to power AI infrastructure, including self-build options.  The council will next meet in early 2026, with discussions expected to build on work to understand AI’s energy capacity and demand. This will include a particular focus on unlocking sustainable and innovative solutions to power future AI infrastructure, including within AI Growth Zones.  \"",
+  "base_path": "/government/news/technology-and-energy-ministers-discuss-grid-reform-at-ai-energy-council-meeting",
+  "taxons": [
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

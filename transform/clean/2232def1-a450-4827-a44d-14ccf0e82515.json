@@ -1,0 +1,15 @@
+{
+  "title": "Material Footprint in Northern Ireland 2001 to 2022",
+  "body": "\"This provides an overview of the total material footprint estimates between 2001 and 2022, including detailed breakdowns by material group and per capita estimates over time. \"",
+  "base_path": "/government/publications/material-footprint-in-northern-ireland-2001-to-2022",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

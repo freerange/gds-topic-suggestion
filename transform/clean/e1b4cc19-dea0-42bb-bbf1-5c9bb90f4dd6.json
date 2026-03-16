@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland LAC municipal waste management statistics 2024/25 annual report",
+  "body": "\"This report provides both summary and detailed figures on the amount of local authority collected municipal waste in Northern Ireland in the latest reporting year, as well as trend data over the last number of years. The data is broken down by district councils and waste management groups. \"",
+  "base_path": "/government/statistics/northern-ireland-lac-municipal-waste-management-statistics-202425-annual-report",
+  "taxons": [
+    {
+      "title": "Local councils and services",
+      "base_path": "/regional-and-local-government/local-councils"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    }
+  ]
+}

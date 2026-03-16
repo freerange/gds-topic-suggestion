@@ -1,0 +1,11 @@
+{
+  "title": "Historical statistics notices on agricultural price indices, 2025",
+  "body": "\"The API is a measure of the monthly price changes in agricultural outputs and inputs for the UK. The output series reflects the price farmers receive for their products, also referred to as farm gate price. Information is collected for all major crops (for example wheat and potatoes) and on livestock and livestock products (for example sheep, milk and eggs). The input series reflects the price farmers pay for goods and services. This is split into two groups: goods and services currently consumed; and goods and services contributing to investment. Goods and services currently consumed refer to items that are used up in the production process, for example fertiliser, or seed. Goods and services contributing to investment relate to items that are required but not consumed in the production process, such as tractors or buildings.  The current indices are based on the year 2015 =100. The methodology used is standardised across EU member states and is described in the Handbook for EU Agricultural Price Statistics.   Defra statistics: prices  Email prices@defra.gov.uk  You can also contact us via Twitter: https://twitter.com/DefraStats  \"",
+  "base_path": "/government/statistics/historical-statistics-notices-on-agricultural-price-indices-2025",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

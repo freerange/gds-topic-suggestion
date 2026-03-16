@@ -1,0 +1,11 @@
+{
+  "title": "Online copyright infringement tracker survey (13th Wave)",
+  "body": "\"This continues work originally commissioned by Ofcom and sponsored by the Intellectual Property Office (IPO) in 2012. The study is now conducted bi-annually to ensure that the IPO can monitor the impact of new online platforms on infringement behaviours.  The report is supported by data tables. These provide access to data underpinning the data visualisations in this publication. Links to the relevant data download are included at the beginning of the Main Report and within each chapter of the Annex Report.  The IPO has commissioned a short-form version of the Online Copyright Infringement Tracker Survey, including translations into Arabic, Chinese, French, Russian and Spanish alongside the English version. This has been done to aid replication of this methodology. These are available upon request by emailing research@ipo.gov.uk.  Wave 13 was delivered by AudienceNet on behalf of the IPO.  \"",
+  "base_path": "/government/publications/online-copyright-infringement-tracker-survey-13th-wave",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    }
+  ]
+}

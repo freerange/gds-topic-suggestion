@@ -1,0 +1,11 @@
+{
+  "title": "Promoting electronic invoicing across UK businesses and the public sector",
+  "body": "\"E-invoicing is the digital exchange of invoice information directly between buyers’ and suppliers’ financial systems, even if these systems are different. The outcome is an invoice which is automatically written into the buyer’s financial system without manual processing.  E-invoicing automates the exchange of invoices between buyers and suppliers. Increased e-invoicing uptake may support economic growth, business productivity, improve business cashflow and reduce errors in tax returns. It has the potential to both support businesses and tax administration.  HMRC and the Department for Business and Trade (DBT) are publishing a joint consultation to understand how e-invoicing may align with you or your customers’ businesses. We are interested in responses from businesses of all sizes – whether they use e-invoicing or not – as well as interest groups, representative bodies, industry bodies and individuals.  \"",
+  "base_path": "/government/consultations/promoting-electronic-invoicing-across-uk-businesses-and-the-public-sector",
+  "taxons": [
+    {
+      "title": "Paying HMRC",
+      "base_path": "/money/paying-hmrc"
+    }
+  ]
+}

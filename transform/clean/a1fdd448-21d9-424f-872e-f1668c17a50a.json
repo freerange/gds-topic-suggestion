@@ -1,0 +1,11 @@
+{
+  "title": "Food and You 2 (Wave 10)",
+  "body": "\"Adults in England, Wales, and Northern Ireland were surveyed. Topics covered in the Food and You 2: Wave 10 report include:   confidence in food safety and authenticity confidence in the food supply chain awareness, trust and confidence in the FSA eating at home food hypersensitivities eating out and takeaways  \"",
+  "base_path": "/government/statistics/food-and-you-2-wave-10",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

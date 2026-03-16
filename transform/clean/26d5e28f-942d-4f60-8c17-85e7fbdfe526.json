@@ -1,0 +1,11 @@
+{
+  "title": "Welsh Rates of Income Tax outturn reconciliation for 2023-24",
+  "body": "\"Under the Fiscal Framework agreed between the UK and Welsh Governments in 2016, the Welsh Government’s funding is initially based on forecasts of Income Tax and updated once actual Income Tax revenues are available.   Actual Income Tax data for 2023-24 replaces forecasts of Welsh Rates of Income Tax (made by the Office for Budget Responsibility) and forecasts of the associated Block Grant Adjustment (based on forecast of UK Government Income Tax made by the Office for Budget Responsibility).  This reconciliation process for 2023-24 can now be undertaken as HMRC have published 2023-24 Income Tax outturn data:    Welsh Rates of Income Tax receipts are higher than forecast at the time of the 2023-24 Welsh Budget so this will increase Welsh Government self-funding by £173 million in 2026-27.   The associated Block Grant Adjustment is also higher than forecast at the time of the 2023-24 Welsh Budget so this will reduce Welsh Government’s block grant funding by £49 million in 2026-27.   The net effect is a £53 million increase in the Welsh Government’s overall funding for 2026-27.   \"",
+  "base_path": "/government/publications/welsh-rates-of-income-tax-outturn-reconciliation-for-2023-24",
+  "taxons": [
+    {
+      "title": "Welsh rate of Income Tax",
+      "base_path": "/money/personal-tax-income-tax-welsh-rate-of-income-tax"
+    }
+  ]
+}

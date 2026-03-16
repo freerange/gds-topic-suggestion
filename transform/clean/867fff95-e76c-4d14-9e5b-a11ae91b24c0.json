@@ -1,0 +1,11 @@
+{
+  "title": "Coal mining production and manpower returns",
+  "body": "\"Tonnage and manpower, which includes contractors, is primarily as declared to the Mining Remediation Authority by licensees, but could include estimates where returns have not been submitted. \"",
+  "base_path": "/government/collections/coal-mining-production-and-manpower-returns",
+  "taxons": [
+    {
+      "title": "Mining reports and data",
+      "base_path": "/environment/coal-reports-data"
+    }
+  ]
+}

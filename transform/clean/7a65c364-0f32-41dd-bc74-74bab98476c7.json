@@ -1,0 +1,15 @@
+{
+  "title": "Nature of crime tables: year ending March 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/nature-of-crime-tables-year-ending-march-2024",
+  "taxons": [
+    {
+      "title": "Reporting crimes and getting compensation",
+      "base_path": "/crime-justice-and-law/reporting-crimes-compensation"
+    },
+    {
+      "title": "Victims of crime",
+      "base_path": "/crime-justice-and-law/victims-of-crime"
+    }
+  ]
+}

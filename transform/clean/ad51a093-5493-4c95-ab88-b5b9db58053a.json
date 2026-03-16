@@ -1,0 +1,15 @@
+{
+  "title": "Reporting and paying Income Tax and Class 1A National Insurance contributions on benefits in kind in real time – an update",
+  "body": "\"The government has announced additional time to prepare for the introduction of mandatory payrolling for benefits in kind (BiKs) and taxable employment expenses.  This technical note confirms that mandatory payrolling will be introduced from April 2027 rather than April 2026, after feedback from external stakeholders.  This will provide more time for software providers, employers, tax agents and other stakeholders to prepare for the change.   The technical note provides more operational information on mandatory payrolling so that businesses can adapt to these changes in time for April 2027. \"",
+  "base_path": "/government/publications/reporting-and-paying-income-tax-and-class-1a-national-insurance-contributions-on-benefits-in-kind-in-real-time-an-update",
+  "taxons": [
+    {
+      "title": "Income Tax and National Insurance",
+      "base_path": "/money/dealing-with-hmrc-paying-hmrc-income-tax-and-national-insurance"
+    },
+    {
+      "title": "Expenses and employee benefits",
+      "base_path": "/money/expenses-employee-benefits"
+    }
+  ]
+}

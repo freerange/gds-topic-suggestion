@@ -1,0 +1,11 @@
+{
+  "title": "Real fires investigation project",
+  "body": "\"The real fires project gathers evidence on building performance in fires so the Building Safety Regulator (BSR) can find out if building regulations and guidance work well in England.  BSR runs the project through a contractor and publishes a yearly summary of what the team learns.  BSR commissions these reports through public tender. Each report states which organisation produced it and BSR refers to them as ‘investigators’ in the summary reports.  Fire incidents we investigate and report  BSR does not assess every fire incident. BSR finds out about fires from the media, fire and rescue services and other government organisations. Analysts only assess fire incidents when they are relevant to building regulations. Reports represent selective reporting and entail reporting bias.  Incidents are grouped into 3 categories:    category 1 fires cause significant damage, involve multiple fatalities or are of national importance and require on-site investigations   category 2 fires cause significant damage and require more information; they’re investigated through correspondence with fire and rescue services   category 3 fires that cause minor damage, do not lead to injuries or loss of life, or fall outside the scope of Approved Document B (such as prisons)    Each yearly summary report shows how many incidents fall into each category for the reporting period. From 2024, BSR investigates high-rise building fires separately, and these are not included in the figures.  The full reports include items for ongoing monitoring, recommendations for BSR, and observations from the investigations.  \"",
+  "base_path": "/government/collections/real-fires-investigation-project",
+  "taxons": [
+    {
+      "title": "Building regulation",
+      "base_path": "/housing-local-and-community/building-regulation"
+    }
+  ]
+}

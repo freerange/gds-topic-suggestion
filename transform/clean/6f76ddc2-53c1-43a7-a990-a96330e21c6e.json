@@ -1,0 +1,11 @@
+{
+  "title": "Methane Emissions from Anaerobic Digestion (MEAD)",
+  "body": "\"DESNZ commissioned the National Physical Laboratory (NPL) to undertake research to improve understanding of methane emissions from Anaerobic Digestion (AD) sites.  NPL surveyed 7 AD sites to better understand the potential sources of methane emissions and the magnitude of those emissions. Different techniques were used for both short and long-term monitoring of emissions, predominantly relying on Differential Absorption Lidar (DIAL).  This research improves the evidence base on fugitive methane emissions location and magnitude and will help inform future policy.  \"",
+  "base_path": "/government/publications/methane-emissions-from-anaerobic-digestion-mead",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

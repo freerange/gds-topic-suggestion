@@ -1,0 +1,15 @@
+{
+  "title": "Management information on Covid-19 Support Scheme convictions",
+  "body": "\"The linked HTML document contains numbers of defendants convicted as a result of enforcement activity of the Insolvency Service each year since 2022/23 and the numbers of these relating to Covid-19 support scheme abuse. \"",
+  "base_path": "/government/publications/management-information-on-covid-19-support-scheme-convictions",
+  "taxons": [
+    {
+      "title": "Court claims, debt and bankruptcy",
+      "base_path": "/money/court-claims-debt-bankruptcy"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

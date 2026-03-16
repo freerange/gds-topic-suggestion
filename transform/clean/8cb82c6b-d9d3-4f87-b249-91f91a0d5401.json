@@ -1,0 +1,11 @@
+{
+  "title": "Council Tax: stock of properties, 2025",
+  "body": "\"This release provides statistics on the stock of domestic properties by Council Tax Band in England and Wales.    The VOA has moved its Council Tax work onto a new, modern operating system and the data provision for statistics has been updated as part of this work. As a result, this release is a shorter publication containing key headline stock figures, broken down by band for each billing authority. Tables on dwelling type, build period, the numbers of insertions and deletions and a time-series will be produced before next year’s publication, once the data provision updates are completed and assured for official statistics production.   For further details on the information included in this release, please refer to the background information document.   As part of our improvement programme, if you’re interested in participating in user research about this statistical release, please contact us at statistics@voa.gov.uk. \"",
+  "base_path": "/government/statistics/council-tax-stock-of-properties-2025",
+  "taxons": [
+    {
+      "title": "Council Tax",
+      "base_path": "/regional-and-local-government/local-government-council-tax"
+    }
+  ]
+}

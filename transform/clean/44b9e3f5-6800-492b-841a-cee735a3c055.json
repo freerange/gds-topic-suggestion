@@ -1,0 +1,11 @@
+{
+  "title": "Cryptoasset Reporting Framework: reporting of UK resident cryptoasset users",
+  "body": "\"The Cryptoasset Reporting Framework requires UK-based reporting cryptoasset service providers (RCASPs) to report tax-relevant information regarding their non-UK cryptoasset customers to HMRC.  This measure requires RCASPs to also report this tax-relevant information regarding their UK cryptoasset customers.  \"",
+  "base_path": "/government/publications/cryptoasset-reporting-framework-reporting-of-uk-resident-cryptoasset-users",
+  "taxons": [
+    {
+      "title": "Tax compliance",
+      "base_path": "/money/tax-compliance"
+    }
+  ]
+}

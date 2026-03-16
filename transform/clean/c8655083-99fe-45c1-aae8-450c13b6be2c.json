@@ -1,0 +1,11 @@
+{
+  "title": "General Enquiries Service Standard Data",
+  "body": "\"Figures reported relate to general enquiries processed through our correspondence management system.  November 2025     Answered within 20 working days Answered within 2 working days Average response time     100% 73% 1 working day     October 2025     Answered within 20 working days Answered within 2 working days Average response time     99% 59% 2 working days     September 2025     Answered within 20 working days Answered within 2 working days Average response time     98% 61% 1 working day     August 2025     Answered within 20 working days Answered within 2 working days Average response time     99% 62% 1 working day     July 2025     Answered within 20 working days Answered within 2 working days Average response time     94% 62% 1 working day     June 2025     Answered within 20 working days Answered within 2 working days Average response time     97% 58% 2 working days     May 2025  *Service standard changed from 15 to 20 days from 1 May     Answered within 20 working days Answered within 2 working days Average response time     89% 65% 2 working days     April 2025     Answered within 15 working days Answered within 2 working days Average response time     90% 70% 1 working day    \"",
+  "base_path": "/government/statistical-data-sets/general-enquiries-service-standard-data",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

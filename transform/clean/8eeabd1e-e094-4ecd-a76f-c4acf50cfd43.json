@@ -1,0 +1,11 @@
+{
+  "title": "Energy Performance of Building Certificates in England and Wales: January to March 2025",
+  "body": "\"Statistics based on Energy Performance Certificates (EPCs) issued for domestic buildings only. The certificates are lodged on the Energy Performance of Buildings Register (EPB) for England and Wales. \"",
+  "base_path": "/government/statistics/energy-performance-of-building-certificates-in-england-and-wales-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Energy efficiency in buildings",
+      "base_path": "/housing-local-and-community/energy-efficiency-in-buildings"
+    }
+  ]
+}

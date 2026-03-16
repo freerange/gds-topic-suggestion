@@ -1,0 +1,11 @@
+{
+  "title": "National behaviour surveys",
+  "body": "\" \"",
+  "base_path": "/government/collections/national-behaviour-surveys",
+  "taxons": [
+    {
+      "title": "Pupil wellbeing, behaviour and attendance",
+      "base_path": "/education/pupil-wellbeing-behaviour-and-attendance"
+    }
+  ]
+}

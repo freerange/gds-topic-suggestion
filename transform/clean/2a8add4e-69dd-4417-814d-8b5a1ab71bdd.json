@@ -1,0 +1,11 @@
+{
+  "title": "UK Input-output analytical tables: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-input-output-analytical-tables-2023",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

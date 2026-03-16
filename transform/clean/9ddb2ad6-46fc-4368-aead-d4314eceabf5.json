@@ -1,0 +1,11 @@
+{
+  "title": "Call for views on enterprise connected device security",
+  "body": "\" Update: 7 July 2025  The closing date for this call for views has been extended to 11.59pm on Monday 4 August 2025.   It is a priority for the government to ensure all new and existing technologies are safely developed and deployed across the UK.  “Enterprise connected devices” (or “IoT devices”) are devices used by businesses and organisations such as office printers, internet-connected telephones, building entry systems and room booking systems.  The government is concerned about the security of these products as vulnerable devices can provide a route for hostile actors to attack the IT systems used by businesses.  As part of the government’s work to address this issue and improve cyber resilience across the UK economy, the government is seeking views from industry and the public on what interventions would be appropriate to tackle this issue.   Respond to the call for views   To support this work, the government commissioned NCC Group to conduct a vulnerability assessment of some commonly-used enterprise connected devices. This found a wide range of serious vulnerabilities across a number of devices commonly used by businesses.   Read the research on vulnerabilities in enterprise IoT devices   \"",
+  "base_path": "/government/calls-for-evidence/call-for-views-on-enterprise-connected-device-security",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

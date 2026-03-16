@@ -1,0 +1,11 @@
+{
+  "title": "Land use codes for rural payments",
+  "body": "\"When applying for a rural payment scheme, you must use the codes in the attached document to declare what you use your land for.   To search the document, click ‘CTRL’ and ‘F’ and type in the term or code you’re looking for.   There are codes for:   agricultural land non-agricultural land Countryside Stewardship options with multiple crops  \"",
+  "base_path": "/government/publications/land-use-codes-rural-payments",
+  "taxons": [
+    {
+      "title": "Rural grants and payments",
+      "base_path": "/environment/farming-food-grants-payments-rural-grants-payments"
+    }
+  ]
+}

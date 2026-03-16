@@ -1,0 +1,11 @@
+{
+  "title": "Partial equilibrium-D (PE-D) model modelling paper",
+  "body": "\"This technical documentation details the background, versions, data and parameters of the government’s PE-D model. \"",
+  "base_path": "/government/publications/partial-equilibrium-d-pe-d-model-modelling-paper",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Rail environment: April 2024 to March 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/rail-environment-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    },
+    {
+      "title": "Rolling stock (passenger trains)",
+      "base_path": "/transport/rolling-stock-passenger-trains"
+    },
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    }
+  ]
+}

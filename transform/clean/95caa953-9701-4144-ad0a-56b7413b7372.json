@@ -1,0 +1,15 @@
+{
+  "title": "Electric vehicle charging device grant scheme statistics: October 2025",
+  "body": "\"Official statistics in development on the number of grants awarded for the installation of electric vehicle charging devices and charging sockets in the UK, broken down by different geographies.  The Office for Zero Emission Vehicles (OZEV) provides grants to support the use of electric vehicles, including the installation of charging devices. This summary covers statistics on grant schemes, including the:    Electric Vehicle Chargepoint Grant (EVCG)   Workplace Charging Scheme (WCS)   On-Street Residential Chargepoint Scheme (ORCS)   Electric Vehicle Homecharge Scheme (EVHS), the predecessor to the EVCG   Domestic Recharging Scheme (DRS), the predecessor to the EVHS    This is not a complete list of all grant schemes for the installation of electric vehicle charging devices funded by OZEV. Summary statistics for additional grant schemes will be added to this series following quality assessment of administrative data sources.   Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing us with any comments about how we meet these standards.   Contact us   Electric vehicle charging infrastructure statistics     Email evci.stats@dft.gov.uk         To hear more about DfT statistical publications as they are released, follow us on X at DfTstats.  \"",
+  "base_path": "/government/statistics/electric-vehicle-charging-device-grant-scheme-statistics-october-2025",
+  "taxons": [
+    {
+      "title": "Road transport emissions",
+      "base_path": "/transport/road-transport-emissions"
+    },
+    {
+      "title": "Zero emission and electric vehicles",
+      "base_path": "/transport/zero-emission-and-electric-vehicles"
+    }
+  ]
+}

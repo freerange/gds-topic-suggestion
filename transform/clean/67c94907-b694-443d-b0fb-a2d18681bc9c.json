@@ -1,0 +1,23 @@
+{
+  "title": "Moorings, consents and advice",
+  "body": "\"Traditional moorings  In UK waters, traditional swing moorings have been the most common mooring used. These moorings consist of an anchor (block), chain (rode) and a float. These parts can interact with and impact the seabed and benthic habitats.  As the tide rises and falls, differing amounts of chain will lie and move across the seabed, being pulled around by the wind and tidal influences on the buoy or attached vessel.  This can scour the seabed and damage sensitive marine habitats such as seagrass, maerl (a purple-pink hard seaweed) and reef. These habitats support a wide range of marine wildlife, serving as nurseries and feeding grounds for various protected and commercially important fish species.   How traditional moorings work compared to advanced mooring systems (AMS).  The benefits of Advanced Mooring Systems  Advanced mooring systems (AMS) have been designed specifically to have minimal impact on the seabed and provide an environmentally friendly alternative to traditional moorings or anchoring.  There are various AMS designs that exist, with changes often made to the rode (for example using a buoyant elastic component that does not lie along the seabed) or the anchor (for example a helical screw pile rather than a block).  There is no ‘one size fits all’ AMS. The suitability of the chosen components vary depending on local factors including water depth, sediment depth, sediment type, tidal range, and wave energy.  There is also evidence of reduced impacts to seabed habitats from switching to rope rather than chain risers.  Please see advice on AMS application developed through Natural England’s ReMedies project here:  Advanced Mooring Systems (AMS): LIFE Recreation ReMEDIES: Lessons learned and good practice  Guidance on obtaining a marine licence for private moorings  The installation of moorings is managed through the MMO marine licensing process. MMO considers that AMS are an important and environmentally sustainable alternative to traditional moorings and or anchoring.  The installation, maintenance and removal of both temporary seasonal moorings and permanent moorings may require an application to MMO marine licencing for determination. It is up to the applicant to determine if they require a marine licence for activities in the marine environment: Do I need a marine licence? - GOV.UK (www.gov.uk)  Existing moorings installed prior to the Marine and Coastal Access Act 2009 (MACAA) should be considered in any new mooring application and siting new moorings in close proximity to pre-MACAA moorings should be avoided. It is the responsibility of the applicant to identify any pre-MACAA moorings prior to their marine licence application.  Please see our website for further information on the marine licensing process, timescales and any associated fees:  Make a marine licence application - GOV.UK (www.gov.uk)  For installation of moorings outside of a harbour authority area, the applicant must satisfy themselves whether or not a marine licence is required: Do I need a marine licence? - GOV.UK (www.gov.uk).  General considerations include:   for any new mooring installation (which requires a deposit on or in the seabed) a marine licence is required from the Marine Management Organisation.  This guidance outlines...",
+  "base_path": "/guidance/moorings-consents-and-advice",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine licences",
+      "base_path": "/environment/marine-licences"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Species protection and marine conservation",
+      "base_path": "/environment/species-protection-and-marine-conservation"
+    }
+  ]
+}

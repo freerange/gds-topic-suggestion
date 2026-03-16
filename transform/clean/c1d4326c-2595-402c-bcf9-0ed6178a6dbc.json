@@ -1,0 +1,11 @@
+{
+  "title": "Non-domestic rating: business floorspace, March 2025",
+  "body": "\"This release contains statistics relating to business floorspace of properties for England and Wales. The statistics provide information on the business floorspace, RV per metre squared, the number of properties without a floorspace and their associated RV over time, broken down by SCat code, sector and geographic location.  Business floorspace statistics were last published in 2023 as part of the stock of properties release. In 2024 we published a quality assurance of administrative data report alongside a public consultation into the use of floorspace statistics. These statistics have been updated to reflect feedback received from the consultation. The data contained in this report are a subset of the total stock of rateable properties and the methodology for defining the subset has been updated. Further details of the methodology can be found in the background information note.  If you would like any further information on this release or any other statistical release please contact:  The VOA statistics team  Email statistics@voa.gov.uk  For more details on upcoming statistical releases planned by the Agency please visit the recent and upcoming publications. \"",
+  "base_path": "/government/statistics/non-domestic-rating-business-floorspace-march-2025",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    }
+  ]
+}

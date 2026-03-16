@@ -1,0 +1,15 @@
+{
+  "title": "Building the North Sea’s energy future",
+  "body": "\"This government strives to drive the development of an internationally-leading offshore clean energy industry, which ensures good, long-term jobs, growth and investment in communities across the North Sea – boosting the country’s economy and energy security. This consultation is a critical step in developing the framework to support that ambition.  Responses to the consultation will support the delivery of the government’s commitment not to issue new licences to explore new fields, whilst not revoking existing licences and partnering with business and workers to manage our existing fields for the entirety of their lifespan.  This consultation is aimed at the following groups:   Oil and Gas Upstream Producer (offshore) Oil and Gas Upstream Producer (onshore) Oil and Gas Mid or Downstream Sector Oil and Gas Supply Chain Renewable Energy Producer Renewable Energy Supply Chain Energy Trader Energy Supplier Carbon Capture and Storage Sector Trade Union Trade Body or Association Provider of Finance Environmental Group Local community groups and/or representatives Academic Education and Skills Accountant / Tax Adviser Individual Other North Sea Stakeholders  \"",
+  "base_path": "/government/consultations/building-the-north-seas-energy-future",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Oil and gas licensing",
+      "base_path": "/environment/oil-and-gas-licensing"
+    }
+  ]
+}

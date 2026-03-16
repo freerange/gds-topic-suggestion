@@ -1,0 +1,11 @@
+{
+  "title": "Road freight statistics: April 2025 to March 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/road-freight-statistics-april-2025-to-march-2026",
+  "taxons": [
+    {
+      "title": "Road haulage",
+      "base_path": "/transport/road-haulage"
+    }
+  ]
+}

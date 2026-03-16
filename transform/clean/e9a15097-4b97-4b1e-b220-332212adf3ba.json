@@ -1,0 +1,11 @@
+{
+  "title": "2022 Inventory for Geological Disposal",
+  "body": "\"The Inventory for Geological Disposal makes provision for all radioactive wastes (and nuclear materials that could be declared as waste) to be disposed of in a GDF.  The total packaged volume of the 2022 Inventory for Geological Disposal is estimated to be 769,000 m3, of which just over 10% is attributable to an assumed new build programme of up to 24 GWe and more than 80% is attributable to low heat generating waste.  Over the first 300 years, the total radioactivity in the Inventory for Geological Disposal decreases by about 80%, and by more than 99% over the first 100,000 years.  After a few hundred thousand years, the total radioactivity of the Inventory for Geological Disposal will be dominated by the uranium waste group, with a radioactivity similar to uranium ore.  The 2022 Inventory for Geological Disposal includes provision of civil plutonium stocks. The decision to immobilise these stocks does not fundamentally alter the categories of waste destined for the GDF and does not challenge the generic GDF design and post-closure safety considerations. \"",
+  "base_path": "/government/publications/2022-inventory-for-geological-disposal",
+  "taxons": [
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    }
+  ]
+}

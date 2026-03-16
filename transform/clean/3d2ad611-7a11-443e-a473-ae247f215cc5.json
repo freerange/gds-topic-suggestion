@@ -1,0 +1,27 @@
+{
+  "title": "Veterans’ Health Innovation Fund: Report",
+  "body": "\"For those who have served our nation, the journey doesn’t end when the uniform comes off. Every day, veterans across the UK navigate unique healthcare challenges - some visible, others hidden from view. Whether it’s managing chronic pain from injuries sustained in the field, adapting to life-changing physical conditions, or dealing with the unseen scars of service, their wellbeing remains our collective responsibility. These men and women stepped forward to protect our way of life; now it’s our turn to ensure they receive the innovative care and support they deserve.  In 2022, DASA, on behalf of the Office for Veterans’ Affairs launched the “Veterans’ Health Innovation Fund” Themed Competition. This competition sought novel innovations to enhance both the physical and mental healthcare provision for veterans.  This report examines three innovative projects funded through the competition, each addressing distinct but crucial aspects of veterans’ healthcare.    Umio has developed a pioneering digital solution to tackle chronic pain management - a challenge that affects many veterans’ daily lives and their transition to civilian life. Their app provides personalised support not just for veterans, but extends to their partners and families, recognising that pain management is a journey shared by the whole family unit.   Radii Devices is revolutionising prosthetic care through their innovative application, enabling veterans to take control of their prosthetic journey. Their technology allows users to monitor, report, and visualise prosthetic limb fit, creating a vital communication bridge between veterans and their prosthetists.   Nu Tissu is advancing wound care through their groundbreaking E-Plaster® technology. This solution addresses the critical need for rapid and complete wound healing - particularly important for veterans who have experienced blast injuries or trauma. Their innovation promises to transform wound care from a potential barrier to recovery into a manageable, efficient process.    The attached report details their methodologies, presents direct feedback from veterans who have tested these innovations, and outlines the crucial next steps in bringing these solutions to those who need them. Together, these innovations represent a significant step forward in veteran healthcare, with each addressing different aspects of the complex healthcare challenges our veterans face. \"",
+  "base_path": "/government/publications/veterans-health-innovation-fund-report",
+  "taxons": [
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Veterans and family support",
+      "base_path": "/defence-and-armed-forces/veterans-family-support"
+    },
+    {
+      "title": "Manufacturing, wholesaling, importing and exporting medicines",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-manufacturing-wholesaling-importing-exporting-medicines"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

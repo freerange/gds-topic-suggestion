@@ -1,0 +1,11 @@
+{
+  "title": "SLC prompt payment data 1 April 2025 - 31 March 2026",
+  "body": "\"SLC’s percentage of invoices paid within 5 days and within 30 days of receipt. The data is in yearly quarters. \"",
+  "base_path": "/government/publications/slc-prompt-payment-data-1-april-2025-31-march-2026",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

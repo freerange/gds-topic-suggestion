@@ -1,0 +1,15 @@
+{
+  "title": "Material footprint accounts, UK: 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/material-footprint-accounts-uk-2025",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    },
+    {
+      "title": "Manufacturing",
+      "base_path": "/business-and-industry/manufacturing"
+    }
+  ]
+}

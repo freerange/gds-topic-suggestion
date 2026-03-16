@@ -1,0 +1,11 @@
+{
+  "title": "SACT Activity Dashboard, SACT Activity Dashboard October 2025 update",
+  "body": "\"The SACT activity dashboard reports systemic anti-cancer therapy data from all NHS providers in England. The dashboard presents a count of systemic anti-cancer therapy activity by patients, regimens and drug administrations from January 2019 and can be viewed at England, Cancer Alliance, and Integrated Care Board level. \"",
+  "base_path": "/government/statistics/sact-activity-dashboard-sact-activity-dashboard-october-2025-update--2",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

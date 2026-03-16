@@ -1,0 +1,23 @@
+{
+  "title": "MGN 582 (F) Amendment 1 ILO work in fishing convention, 2007 - financial security",
+  "body": "\"This notice should be read with the Merchant Shipping (Work in Fishing Convention) Regulations 2018 and replaces MGN 582 (F).  Amendment 1 updates references only.  Notice to   fishing vessel owners operators and managers employers of fishermen skippers officers and fishermen on fishing vessels  \"",
+  "base_path": "/government/publications/mgn-582-f-amendment-1-ilo-work-in-fishing-convention-2007-financial-security",
+  "taxons": [
+    {
+      "title": "Fishing",
+      "base_path": "/transport/fishing"
+    },
+    {
+      "title": "Maritime safety",
+      "base_path": "/transport/maritime-safety"
+    },
+    {
+      "title": "Employment of seafarers",
+      "base_path": "/transport/employment-of-seafarers"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    }
+  ]
+}

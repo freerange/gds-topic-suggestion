@@ -1,0 +1,15 @@
+{
+  "title": "Personal Independence Payment Statistics - May 2025",
+  "body": "\"The report includes further information on Personal Independence Payment registrations, clearances, awards, numbers of claims in payment and mandatory reconsiderations in NI over the past 5 years. \"",
+  "base_path": "/government/statistics/personal-independence-payment-statistics-may-2025",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

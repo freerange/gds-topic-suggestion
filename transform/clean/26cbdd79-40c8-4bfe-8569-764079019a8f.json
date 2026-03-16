@@ -1,0 +1,11 @@
+{
+  "title": "AI Airlock Simulation Workshops",
+  "body": "\"During the AI Airlock pilot phase, the MHRA hosted three Simulation workshops exploring key regulatory challenge areas: Explainability in AI as a Medical Device, Evaluating hallucinations in AI for healthcare and post-market surveillance and continuous monitoring for AI as a Medical Device.  Each session brought together a diverse group of representatives from across industry, clinical practice, regulation, academia and technology. Participants included experts from the MHRA, NICE, NHS and a range of partner organisations. Their insights and collaborative contributions were instrumental in shaping the discussions and recommendations outlined in these reports. \"",
+  "base_path": "/government/publications/ai-airlock-simulation-workshops",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    }
+  ]
+}

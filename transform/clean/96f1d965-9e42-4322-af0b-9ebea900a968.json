@@ -1,0 +1,11 @@
+{
+  "title": "Rapid mapping review of  PHSM for respiratory pathogens other than COVID-19",
+  "body": "\"This rapid mapping review identified and mapped available evidence on the effectiveness and unintended consequences of public health and social measures (PHSM) when implemented to reduce or prevent transmission of respiratory pathogens other than COVID-19.  This rapid mapping review searched for research published up to 18 November 2024 and included 54 studies, which were mapped onto an interactive evidence gap map.  \"",
+  "base_path": "/government/publications/rapid-mapping-review-of-phsm-for-respiratory-pathogens-other-than-covid-19",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Fuel poverty enhancement in 2020",
+  "body": "\"This agreement is published as part of the Code of Practice for public authorities disclosing information under chapters 1, 3 and 4 (Public Service Delivery, Debt and Fraud) of part 5 of the Digital Economy Act 2017.  HMRC disclose this information to the Department for Business, Energy and Industry Strategy (BEIS) by virtue of the legal basis Digital Economy Act (2017), part 5, chapter 4, section 56.  The benefits of this pilot data share are to help define the age-range of residents in properties in order to provide a more accurate calculation of the income equivalisation factor used for fuel poverty.  BEIS existed until 2023 when it was split to form the Department for Business and Trade (DBT), the Department for Energy Security and Net Zero (DESNZ) and the Department for Science, Innovation and Technology (DSIT).  \"",
+  "base_path": "/government/publications/fuel-poverty-enhancement-in-2020",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    }
+  ]
+}

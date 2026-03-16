@@ -1,0 +1,19 @@
+{
+  "title": "Help us improve our digital services!",
+  "body": "\"The Planning Inspectorate is continuously looking at how we can improve the service we provide for our customers/consumers/users. We make changes informed by research sessions conducted with our users to better understand the needs and experiences of people who use any of our digital services e.g. Find a National Infrastructure Project or Appeals.     We’re looking for participants to take part in short research sessions. One to one sessions will be held online and last between 30 minutes to 1 hour. Sessions may vary but we will ask for feedback on existing as well as potentially new features or having a conversation around what you as our user needs from one of our services. This will help inform the development of more effective and user-friendly experiences across our services. We are looking for anyone would like to share feedback with us, you don’t have to have used our service before.    If you’re interested in taking part, please register via this link.  Information regarding how we will use your data will be shared with you upon registering. Please note the anything shared in the sessions is not to be shared openly with anyone outside of the session.      Your participation is completely voluntary, and you can withdraw your consent at any time. For more information about how your data will be handled, please read our Privacy Policy  If you have any further questions or wish for more information, please contact us via research@planninginspectorate.gov.uk. \"",
+  "base_path": "/government/news/help-us-improve-our-digital-services",
+  "taxons": [
+    {
+      "title": "Local Plans",
+      "base_path": "/housing-local-and-community/local-plans"
+    },
+    {
+      "title": "Planning permission and appeals",
+      "base_path": "/housing-local-and-community/planning-permission-appeals"
+    },
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    }
+  ]
+}

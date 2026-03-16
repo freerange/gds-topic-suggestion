@@ -1,0 +1,11 @@
+{
+  "title": "UK Compute Roadmap",
+  "body": "\"The UK Compute Roadmap will build a world-class compute ecosystem that provides a platform for innovation, growth and opportunity across the economy.  Our compute ecosystem will support a broad range of users, at the frontier of AI research as well as those adopting AI into their daily workflows. It will have a diverse and resilient mix of compute infrastructure services – spanning public and private systems, AI training as well as inference, national platforms and regional innovation hubs. Crucially, it will be dynamic and adaptable, evolving to support the technologies of tomorrow.  We are delivering a 10-point plan that sets out our ambition and provides clarity and certainty to researchers, industry and investors alike.  \"",
+  "base_path": "/government/publications/uk-compute-roadmap",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

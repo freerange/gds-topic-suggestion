@@ -1,0 +1,15 @@
+{
+  "title": "Legal aid management information",
+  "body": "\"             Legal aid management information Criminal Legal Aid Reform measures    ODS, 6.99 MB     This file is in an OpenDocument format  This file may not be suitable for users of assistive technology.    Request an accessible format.    If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email web.comments@justice.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.                   Legal aid management information Civil claims for trafficking and modern slavery    ODS, 6.89 MB     This file is in an OpenDocument format  This file may not be suitable for users of assistive technology.    Request an accessible format.    If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email web.comments@justice.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.      Each publication has a specific definition for workload and expenditure metrics. See the management information tables and guidance for more details.  These figures reflect the data held on the relevant case management systems so there are some definitional and timing differences from the official statistics. They are subject to the data quality issues associated with large administrative systems, including the late reporting of cases and regular updating of case details. This can lead to the figures for previous months’ being revised each publication. These revisions are generally small and do not usually change the overall picture of performance.  The official statistics provide a more comprehensive view of a range of statistics related to legal aid systems. We advise using the official statistics for most purposes and using the published management information only to understand the very latest high-level position. \"",
+  "base_path": "/government/statistical-data-sets/legal-aid-management-information",
+  "taxons": [
+    {
+      "title": "Legal aid",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers"
+    },
+    {
+      "title": "Legal aid reform",
+      "base_path": "/crime-justice-and-law/legal-aid-reform"
+    }
+  ]
+}

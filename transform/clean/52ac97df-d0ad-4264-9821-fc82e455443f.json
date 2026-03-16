@@ -1,0 +1,11 @@
+{
+  "title": "SLC: spend control data",
+  "body": "\"SLC publishes details of new spend approved by central government spending controls on a quarterly basis. \"",
+  "base_path": "/government/collections/slc-spend-control-data",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

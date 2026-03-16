@@ -1,0 +1,11 @@
+{
+  "title": "Water temperature projections for England’s rivers",
+  "body": "\"This project developed water temperature projections to the year 2080 for English rivers.  Knowing how rivers will warm will help the Environment Agency and others consider the potential impacts of climate change and inform where adaptation measures may be needed. \"",
+  "base_path": "/government/publications/water-temperature-projections-for-englands-rivers",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Infographics: Level 3 and A level results 2025",
+  "body": "\"Infographics representing key data from 2025 A level and Level 3 vocational and technical qualification (VTQ) results in England. For more detail see the Qualification results in England: summer 2025 statistical release. \"",
+  "base_path": "/government/publications/infographics-level-3-and-a-level-results-2025",
+  "taxons": [
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    },
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    },
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Latvia: UK Science and Innovation Network summary",
+  "body": "\"The UK Science and Innovation Network (SIN) leads on developing science partnerships and using science in diplomacy around the world. This Science and Innovation Network summary for Latvia outlines:   the science and innovation landscape in Latvia Latvia’s priorities in research, development and innovation UK-Latvia science cooperation   \"",
+  "base_path": "/government/publications/latvia-uk-science-and-innovation-network-summary",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

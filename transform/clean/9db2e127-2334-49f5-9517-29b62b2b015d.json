@@ -1,0 +1,15 @@
+{
+  "title": "Defra’s Official Development Assistance results estimates",
+  "body": "\"Department for Environment, Food and Rural Affairs (Defra) Official Development Assistance (ODA) programming supports developing countries to:      reduce poverty    tackle climate change    halt and reverse global biodiversity loss     Defra’s annual ODA results publications report on what has been achieved through relevant programmes against a set of new Defra International (DI) key performance indicators (KPIs), focusing on:      biodiversity    poverty reduction     The DI KPIs sit within a larger suite of indicators called the ODA results framework. This framework also contains 12 pre-existing climate-focused International Climate Finance (ICF) KPIs, which are reported annually within a separate cross-government ICF results publication.  \"",
+  "base_path": "/government/collections/defras-official-development-assistance-results-estimates",
+  "taxons": [
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    },
+    {
+      "title": "International aid and development",
+      "base_path": "/international/international-aid-and-development"
+    }
+  ]
+}

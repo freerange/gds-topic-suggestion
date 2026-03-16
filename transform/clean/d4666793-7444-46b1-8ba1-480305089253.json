@@ -1,0 +1,11 @@
+{
+  "title": "HM Treasury exceptions to cross-government moratoria on spending: January to March 2025 (spend approvals)",
+  "body": "\"A list of centrally approved spending in HM Treasury Group in the following areas: - advertising, marketing and communications - commercial - consultancy and professional services - digital and IT - property and facilities management – contingent labour. \"",
+  "base_path": "/government/publications/hm-treasury-exceptions-to-cross-government-moratoria-on-spending-january-to-march-2025-spend-approvals",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

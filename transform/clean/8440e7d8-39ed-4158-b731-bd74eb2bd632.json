@@ -1,0 +1,11 @@
+{
+  "title": "Paper application: how a customer applies: caseworker guidance",
+  "body": "\"This guidance tells HM Passport Office operational staff about paper applications, it explains:   how customers apply who can apply what services are available to customers and what information they must tell us about  \"",
+  "base_path": "/government/publications/paper-application-how-a-customer-applies-caseworker-guidance",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "School census autumn 2025 to summer 2026: school summary report",
+  "body": "\"These documents are for suppliers developing software for school management information systems (MIS).  They explain what information software suppliers should include in school summary reports for the school census. Schools can then use the reports to check the accuracy of their termly school census data before sending it to their local authority or to us.  More guidance on submitting data for the school census is available.  \"",
+  "base_path": "/government/publications/school-census-autumn-2025-to-summer-2026-school-summary-report",
+  "taxons": [
+    {
+      "title": "Data collection and censuses for schools",
+      "base_path": "/education/data-collection-and-censuses-for-schools"
+    }
+  ]
+}

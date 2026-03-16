@@ -1,0 +1,15 @@
+{
+  "title": "Pneumococcal polysaccharide conjugate vaccine (PCV20) PGD template",
+  "body": "\"This new PGD template supports the provision of 20-valent pneumococcal polysaccharide conjugate vaccine (PCV20) to the following cohorts:   adults aged 65 years and over (as replacement for 23-valent pneumococcal polysaccharide vaccine (PPV23)) individuals from 2 years of age in a clinical risk group (as replacement for PPV23) individuals under 2 years of age with asplenia, splenic dysfunction, complement disorder or severe immunocompromise (as replacement for 13-valent pneumococcal conjugate vaccine (PCV13) or 15-valent pneumococcal conjugate vaccine (PCV15)) public health management of clusters of severe pneumococcal disease in closed settings in accordance with the UK guidelines (as replacement for PCV13 or PCV15)   Please also refer to the following letter:  Change of vaccine for the routine adult pneumococcal vaccination programme and individuals at increased clinical risk letter.  The PCV20 version 1.0 PGD is valid from 17 December 2025 to 17 December 2028.  Practitioners must not use this PGD template until it has been authorised in Section 2. This is a legal requirement see Human Medicines Regulations 2012. Practitioners should follow local policy/procedures to access authorised PGD documents.  This PGD template should be used with reference to current national guidance, the Green Book, and Summary of Product Characteristics.  \"",
+  "base_path": "/government/publications/pneumococcal-polysaccharide-conjugate-vaccine-pcv20-pgd-template",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

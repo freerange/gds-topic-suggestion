@@ -1,0 +1,11 @@
+{
+  "title": "Detailed ethnicity (using ONS 19+1 classification) of FRS staff",
+  "body": "\"These statistics are sourced from the Home Office’s operational statistics data collection. Figures are supplied by fire and rescue authorities. \"",
+  "base_path": "/government/statistics/detailed-ethnicity-using-ons-191-classification-of-frs-staff",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

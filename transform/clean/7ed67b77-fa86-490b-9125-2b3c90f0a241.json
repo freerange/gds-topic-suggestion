@@ -1,0 +1,11 @@
+{
+  "title": "Local Authority Housing Statistics data returns for 2024 to 2025",
+  "body": "\"             Local Authority Housing Statistics Sections A, C, D, E, G, H, I and J 2024 to 2025    MS Excel Spreadsheet, 542 KB     This file may not be suitable for users of assistive technology.    Request an accessible format.    If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email alternativeformats@communities.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.      Notes on Local Authority Housing Statistics (LAHS) 2024-25  The remaining sections of the return will be published alongside other relevant statistical releases over the coming months. A full release calendar is included in the file. The next update will be in January/February 2026.  A full time series of the data since 1978-79 is available alongside these tables. It will be updated to include the entire 2024-25 return in February 2026, when the final sections of LAHS will be published.  Please refer to the LAHS guidance for further information on these statistics. \"",
+  "base_path": "/government/statistical-data-sets/local-authority-housing-statistics-data-returns-for-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    }
+  ]
+}

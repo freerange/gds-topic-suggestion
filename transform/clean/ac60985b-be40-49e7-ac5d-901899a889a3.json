@@ -1,0 +1,11 @@
+{
+  "title": "Sexual and Reproductive Health Services, England (Contraception), 2024-25",
+  "body": "\"This publication covers contraceptive activity taking place at dedicated Sexual and Reproductive Health (SRH) services in England, as recorded in the Sexual and Reproductive Health Activity Dataset (SRHAD), a mandated collection for all providers of NHS SRH services. This data does not cover all contraceptive activity. Information on Sexual and Reproductive Health Services in England. The data is categorised as follows; Part 1: Contacts with Sexual and Reproductive Health Services Part 2: Methods of contraception Part 3: Emergency contraception Part 4: Sterilisations and vasectomies Part 5: Prescriptions for contraceptives dispensed in the community national level, regional, local authority and provider level data \"",
+  "base_path": "/government/statistics/sexual-and-reproductive-health-services-england-contraception-2024-25",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

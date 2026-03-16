@@ -1,0 +1,11 @@
+{
+  "title": "UK Labour Market: August 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/uk-labour-market-august-2026",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

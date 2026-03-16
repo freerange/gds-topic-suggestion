@@ -1,0 +1,19 @@
+{
+  "title": "Costau sefydlog a thaliadau i ddirprwyon proffesiynol a dirprwyon awdurdodau cyhoeddus a benodir gan y llys",
+  "body": "\"Mae’r canllawiau hyn yn nodi safbwynt y Gwarcheidwad Cyhoeddus ar nifer o faterion sy’n ymwneud â chostau sefydlog y gall dirprwyon proffesiynol a dirprwyon awdurdodau cyhoeddus eu codi yn unol â Chyfarwyddyd Ymarfer 19B. \"",
+  "base_path": "/government/publications/fixed-costs-and-remuneration-of-professional-deputies.cy",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

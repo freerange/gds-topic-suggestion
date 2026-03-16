@@ -1,0 +1,11 @@
+{
+  "title": "Farm Household Income: methodology",
+  "body": "\"Defra has been reviewing the way we collect and measure data on Farm Household Income for England only. This paper summarises discussions with the Office for National Statistics (ONS), Teagasc (The Agriculture and Food Development Authority in Ireland), and the United States’ Department of Agriculture (USDA), and reviews literature on Farm Household Income data collection across European Union Member States, as well as in the USA, Switzerland, Norway, Japan and Korea. \"",
+  "base_path": "/government/publications/farm-household-income-methodology",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

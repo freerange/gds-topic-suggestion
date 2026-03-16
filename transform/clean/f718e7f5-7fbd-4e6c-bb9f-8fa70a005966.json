@@ -1,0 +1,15 @@
+{
+  "title": "Pig financial results Northern Ireland 2024",
+  "body": "\"Pig Financial Results present several measures that indicate the profitability of pig production including prices, feed costs and margins. \"",
+  "base_path": "/government/statistics/pig-financial-results-northern-ireland-2024",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

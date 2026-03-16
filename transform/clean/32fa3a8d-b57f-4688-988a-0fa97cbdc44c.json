@@ -1,0 +1,11 @@
+{
+  "title": "Business rates levy and safety net calculator  2023 to 2024",
+  "body": "\"In the calculator an authority name can be picked from the green drop-down menu, then the data for the authority can be input into the green shaded cells to produce that authority’s levy or safety net outturn amount for 2023-24. The authority’s levy or safety net balance will then be shown in the blue shaded cells at the bottom of the calculator. Where there is no levy nor safety net for an authority then the cells will be shaded grey.  In the calculator for pools, users can select a business rate pool name from the green drop-down menu. Once selected, data for the relevant authority can be entered into the green-shaded cells, which will then calculate the authority’s levy or safety net outturn amount for 2023-24.The resulting total safety net due or total levy due from pool will be displayed in the white cells the right side of the calculator.  The Levy and Safety Net regulations state the law as regards the calculation and the government does not provide an interpretation of the regulations or legal advice to external bodies. This calculator is not legal advice or an interpretation of the regulations, but our view on what should be included in the calculations. Authorities should take their own advice if they require a definitive view of the law. \"",
+  "base_path": "/government/publications/business-rates-levy-and-safety-net-calculator-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Business rates",
+      "base_path": "/regional-and-local-government/local-government-business-rates"
+    }
+  ]
+}

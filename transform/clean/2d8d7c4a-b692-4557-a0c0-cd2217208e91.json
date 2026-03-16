@@ -1,0 +1,11 @@
+{
+  "title": "Simpler recycling privacy notice",
+  "body": "\"This privacy notice explains how we will process personal data when reporting non-compliance with the simpler recycling requirements for businesses and non-domestic premises in England.  Read more about simpler recycling: workplace recycling in England. \"",
+  "base_path": "/government/publications/simpler-recycling-privacy-notice",
+  "taxons": [
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    }
+  ]
+}

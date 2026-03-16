@@ -1,0 +1,11 @@
+{
+  "title": "Advice Note 1033 - Maritime Safety Information (MSI) Leaflet",
+  "body": "\"The Maritime and Coastguard Agency is responsible in the UK for implementation and broadcasting of Maritime Safety Information (MSI).  This leaflet provides information about the structure and co-ordination of the UK’s MSI Service, including schedules for routine NAVTEX and radio telephony (RT) broadcasts. \"",
+  "base_path": "/government/publications/advice-note-1033-maritime-safety-information-msi-leaflet",
+  "taxons": [
+    {
+      "title": "Maritime navigation",
+      "base_path": "/transport/maritime-navigation"
+    }
+  ]
+}

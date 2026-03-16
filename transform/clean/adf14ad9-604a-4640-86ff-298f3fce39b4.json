@@ -1,0 +1,11 @@
+{
+  "title": "REA on DNA and body-worn camera evidence and CJS outcomes",
+  "body": "\"This Rapid Evidence Assessment (REA) reviewed research on 2 areas - the use of the forensics (DNA trace material), and footage from body worn cameras (BWCs) - and how these influence CJS outcomes (for example, charges).    The REA identified few high-quality empirical studies on the impact of forensics on CJS outcomes. However, one robust study found the retrieval of trace DNA from crime scenes increased suspects arrested and prosecuted in property crime offences.  Research into the introduction or expansion of DNA databases suggests that they may have deterrent effects and can also lead to increases in the detection of crime.  There is a growing evidence base on the use of BWCs.  Studies suggest that the relationship between BWC use and CJS outcomes varies widely by crime type, though its impact appears to be greatest in domestic abuse-flagged cases. \"",
+  "base_path": "/government/publications/rea-on-dna-and-body-worn-camera-evidence-and-cjs-outcomes",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

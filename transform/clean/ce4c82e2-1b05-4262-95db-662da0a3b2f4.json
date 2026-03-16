@@ -1,0 +1,19 @@
+{
+  "title": "NI Sodium Valproate Monitoring Report, April 2019 to June 2025",
+  "body": "\"Statistics on number of patients, including females of child bearing age, prescribed Sodium Valproate. Figures and charts are presented for Northern Ireland and the five HSC Trusts, broken down by age and gender. Five specific indicators are presented which include the total number of patients, the proportion of patients, the rate per 1,000 population, the number of patients starting Valproate and the number of patients restarting Valproate. \"",
+  "base_path": "/government/statistics/ni-sodium-valproate-monitoring-report-april-2019-to-june-2025",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Vigilance, safety alerts and guidance",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts"
+    },
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    }
+  ]
+}

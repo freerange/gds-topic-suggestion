@@ -1,0 +1,11 @@
+{
+  "title": "Consistent financial reporting 2025 to 2026: technical specifications",
+  "body": "\"This document gives technical information about submitting data for 2025 to 2026 consistent financial reporting. It describes:   the data items collected changes to the previous years how to structure the data in XML format how to check the data against the validation rules   This document is for software suppliers and users of school and local authority management information systems.  Read more about consistent financial reporting. \"",
+  "base_path": "/government/publications/consistent-financial-reporting-2025-to-2026-technical-specifications",
+  "taxons": [
+    {
+      "title": "Local authority schools financial reporting and assurance",
+      "base_path": "/education/local-authority-schools-financial-reporting-and-assurance"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Qualitative Evaluation of Employee Ownership Trusts",
+  "body": "\"HM Revenue and Customs (HMRC) commissioned Ipsos to carry out a qualitative evaluation of Employee Ownership Trusts (EOT) to explore the extent to which availability of the relief influences decision making when setting up a scheme.  Three tax reliefs were introduced by HMRC to incentivise company owners to transition their companies to indirect employee ownership using the EOT model. These tax reliefs are:    100% Capital Gains Tax (CGT) relief for company owners who transfer their company to an EOT model   100% Inheritance Tax relief (IHT) on the transfer of assets to the EOT, and exemption from the Inheritance Tax charges that may otherwise apply to types of trusts.   exemption from income tax on annual bonuses of up to £3,600 made by an EOT-owned company to employees     The evaluation had 3 key focus points:   The impact of each of the three tax reliefs associated with the EOT model, both in terms of driving initial consideration and longer-term impact following transition. The experience of companies using an EOT model and the impact of this model on their strategic plans, goals and structure. The impact of an EOT model on employees working in a company that uses this model, specifically on employee engagement and the work-related benefits made available to employees.   \"",
+  "base_path": "/government/publications/qualitative-evaluation-of-employee-ownership-trusts",
+  "taxons": [
+    {
+      "title": "Business",
+      "base_path": "/money/personal-tax-capital-gains-tax-business"
+    },
+    {
+      "title": "Reliefs",
+      "base_path": "/money/personal-tax-inheritance-tax-reliefs"
+    },
+    {
+      "title": "Trusts",
+      "base_path": "/money/trusts"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

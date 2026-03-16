@@ -1,0 +1,19 @@
+{
+  "title": "Climate change adaptation reporting fourth round: Forestry Commission",
+  "body": "\"The Forestry Commission prepared a Climate Change Risk Assessment published in March 2012 under the Adaptation Reporting Powers of the Climate Change Act (2008).  We were invited to report as: ‘England’s woodlands are important national assets which are both vulnerable to climate change and have a valuable role mitigating its effects’. We produced second and third round ARP reports in 2017 and 2022, but to improve the alignment of adaptation reporting with the statutory cycle for the Climate Change Risk Assessment (CCRA) and the National Adaptation Programme (NAP), we were asked to submit our fourth-round report (ARP4) by the end of 2024. \"",
+  "base_path": "/government/publications/climate-change-adaptation-reporting-fourth-round-forestry-commission",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

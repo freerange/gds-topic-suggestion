@@ -1,0 +1,11 @@
+{
+  "title": "The impact of overcrowding on assaults in adult public prisons",
+  "body": "\"This report analyses the impact overcrowding has on a prisoner’s individual likelihood of being involved in an assault (prisoner-on-prisoner assaults and assaults on staff). The analysis is conducted on the closed adult prison estate (male and female), using data from 2022.  The analysis uses directed acyclic graphs (DAGs) to identify which variables to include in the statistical model, to isolate the causal relationship between overcrowding and assaults. To quantify the impact, survival modelling was used, comparing the likelihood of involvement in an assault over a 12-month period between overcrowded and non-overcrowded prisoners. \"",
+  "base_path": "/government/publications/the-impact-of-overcrowding-on-assaults-in-adult-public-prisons",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    }
+  ]
+}

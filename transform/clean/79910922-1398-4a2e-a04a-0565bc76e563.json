@@ -1,0 +1,15 @@
+{
+  "title": "Regulatory developments in the UK internal market",
+  "body": "\"This dashboard allows you to explore data relating to the potential regulatory differences that the OIM is tracking. You can view the data by:    policy owner   regulatory area   sector   territorial application   timeline   \"",
+  "base_path": "/government/publications/regulatory-developments-in-the-uk-internal-market",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

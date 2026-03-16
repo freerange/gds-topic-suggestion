@@ -1,0 +1,19 @@
+{
+  "title": "Regulating on-screen assessment",
+  "body": "\"Ofqual is consulting on proposals for how on-screen assessment should be regulated in GCSEs, AS and A levels in England. The approach supports responsible innovation, while ensuring that changes to assessment are carefully managed to protect standards, fairness, public confidence, and reliable delivery. We are proposing a controlled introduction of on-screen assessment, with pen-and-paper remaining central to most exams.  To protect the interests of students and ensure that any introduction of on-screen assessment in GCSEs, AS and A levels is carefully managed, Ofqual is seeking views on its proposal to introduce a controlled approach for exam boards. This approach is shaped by the following guiding principles:   Risks to standards, public confidence and fairness arising from on-screen assessment will be appropriately mitigated. On-screen assessment maintains or enhances the quality of the assessment experience for students and centres. On-screen assessment maintains or enhances accessibility for students with special educational needs and disabilities. On-screen assessment platforms, awarding organisation arrangements and centre arrangements are demonstrably capable of supporting secure and reliable assessment delivery.  \"",
+  "base_path": "/government/consultations/regulating-on-screen-assessment",
+  "taxons": [
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    },
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

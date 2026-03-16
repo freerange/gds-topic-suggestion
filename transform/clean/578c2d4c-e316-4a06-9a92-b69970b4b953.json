@@ -1,0 +1,15 @@
+{
+  "title": "Maximum loan amounts for advanced learner loans designated qualifications",
+  "body": "\"These documents describe the methodology for establishing maximum loan amounts for designated qualifications.  We confirm the maximum loan amounts for all designated qualifications for the relevant funding year. \"",
+  "base_path": "/government/publications/maximum-loan-amounts-for-advanced-learner-loans-designated-qualifications",
+  "taxons": [
+    {
+      "title": "Adult learning",
+      "base_path": "/education/adult-learning"
+    },
+    {
+      "title": "Adult education funding",
+      "base_path": "/education/adult-education-funding"
+    }
+  ]
+}

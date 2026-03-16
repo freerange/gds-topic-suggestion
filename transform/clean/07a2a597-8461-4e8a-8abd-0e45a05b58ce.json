@@ -1,0 +1,23 @@
+{
+  "title": "High Speed Rail expenditure report, 2023 to 2024",
+  "body": "\"The High Speed Rail (Preparation) Act 2013 is an act of Parliament that allows the Secretary of State for Transport, with HM Treasury’s approval, to spend money in preparation for a high speed rail network.  The act requires the Department for Transport to publish an annual expenditure report that is laid in Parliament.  The purpose of this report is to inform Parliament and the public. It covers the reporting period from 1 April 2023 to 31 March 2024. Expenditure is broken down by cost category.  \"",
+  "base_path": "/government/publications/high-speed-rail-expenditure-report-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    },
+    {
+      "title": "HS2 corporate",
+      "base_path": "/transport/hs2-corporate"
+    },
+    {
+      "title": "HS2 costs",
+      "base_path": "/transport/hs2-costs"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Local authority homelessness workforce report",
+  "body": "\"Researches the challenges and opportunities facing the homelessness and rough sleeping workforce (recruitment and retention and training and development) following the introduction of the Homelessness Reduction Act in 2018. \"",
+  "base_path": "/government/publications/local-authority-homelessness-workforce-report",
+  "taxons": [
+    {
+      "title": "Homelessness and rough sleeping",
+      "base_path": "/housing-local-and-community/homelessness-rough-sleeping"
+    }
+  ]
+}

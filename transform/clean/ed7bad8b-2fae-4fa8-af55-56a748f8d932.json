@@ -1,0 +1,11 @@
+{
+  "title": "UK trade in goods by business characteristics 2024",
+  "body": "",
+  "base_path": "/government/statistics/announcements/uk-trade-in-goods-by-business-characteristics--2",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

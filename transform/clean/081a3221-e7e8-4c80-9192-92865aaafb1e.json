@@ -1,0 +1,11 @@
+{
+  "title": "Screening programme impact assessments",
+  "body": "\" \"",
+  "base_path": "/government/collections/screening-programme-impact-assessments",
+  "taxons": [
+    {
+      "title": "Population screening programmes",
+      "base_path": "/health-and-social-care/population-screening-programmes"
+    }
+  ]
+}

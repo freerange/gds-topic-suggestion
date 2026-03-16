@@ -1,0 +1,19 @@
+{
+  "title": "Poultry catching and handling: proposed changes to permitted methods",
+  "body": "\"We want to know what you think about proposed changes to how you can legally catch chickens for transport as part of commercial activities.  We’re proposing to make the law clearer so that you can catch chickens by two legs, in line with established welfare guidance.  We also want to gather more information on:   how long it takes to catch chickens using different methods in different housing systems how turkeys are currently caught and lifted how to gather data to understand the links between catching methods, the number of people in a catching team, and animal welfare   You can read the Welsh version of this information. \"",
+  "base_path": "/government/consultations/poultry-catching-and-handling-proposed-changes-to-permitted-methods",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Producing and distributing food",
+      "base_path": "/environment/producing-distributing-food"
+    },
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    }
+  ]
+}

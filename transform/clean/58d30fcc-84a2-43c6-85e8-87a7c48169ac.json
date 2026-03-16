@@ -1,0 +1,11 @@
+{
+  "title": "Submit your Alcohol Duty return: service availability and issues",
+  "body": "\"Latest updates on the availability and any issues affecting the submit your Alcohol Duty return service. \"",
+  "base_path": "/government/publications/submit-your-alcohol-duty-return-service-availability-and-issues",
+  "taxons": [
+    {
+      "title": "Alcohol duty",
+      "base_path": "/money/alcohol-duty"
+    }
+  ]
+}

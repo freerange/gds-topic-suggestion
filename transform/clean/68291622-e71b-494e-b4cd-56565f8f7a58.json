@@ -1,0 +1,11 @@
+{
+  "title": "Public Inquiries: Recommendations and the Government Response",
+  "body": "\"This page records public inquiry recommendations made since 2024, the government’s commitments in response to these recommendations, and updates on implementation. This page currently includes the recommendations of the Infected Blood Inquiry report of 20 May 2024, and the Grenfell Tower Inquiry Phase 2 report of 4 September 2024. Additional inquiry recommendations will be added in due course.  All inquiries will have their own dashboard. The dashboards will look slightly different due to the unique nature of each inquiry and the format of the government response. However, all dashboards will contain the recommendations, the government’s response and, as progress is made, updates on implementation  The recommendations made by the UK Covid 19 Inquiry in its Module 1 report will be included in the next update. The recommendations and government’s latest implementation update, published on 8 July, can be found here: UK Government UK COVID-19 Inquiry Response - Module 1 Implementation Update  The recommendations made by the Infected Blood Inquiry in its additional report of 9 July will be included in the next update. The recommendations and government’s response, published today, can be found here: Infected Blood Inquiry Additional Report: Government Response \"",
+  "base_path": "/government/collections/public-inquiries-recommendations-and-the-government-response",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

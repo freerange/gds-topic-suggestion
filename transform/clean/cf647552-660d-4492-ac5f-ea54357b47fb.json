@@ -1,0 +1,11 @@
+{
+  "title": "Exploring fraudulent behaviour in SDS Modern Apprenticeship  2023",
+  "body": "\"This agreement is published as part of the Code of Practice for public authorities disclosing information under chapters 1, 3 and 4 (Public Service Delivery, Debt and Fraud) of part 5 of the Digital Economy Act 2017.  The purpose of this data sharing pilot is to identify potential fraud within the Skills Development Scotland Apprenticeship Programme.  This data share aims to establish whether HMRC PAYE and Self Assessment data will help to detect and investigate fraud within the SDS Apprenticeship Programme.  \"",
+  "base_path": "/government/publications/exploring-fraudulent-behaviour-in-sds-modern-apprenticeship-2023",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    }
+  ]
+}

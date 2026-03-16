@@ -1,0 +1,15 @@
+{
+  "title": "Deep material poverty: Financial year ending 2024",
+  "body": "\"These statistics present estimates for the number and percentage of children in deep material poverty. This is defined as lacking at least 4 out of 13 essential material deprivation items for the financial year ending 2024. \"",
+  "base_path": "/government/statistics/deep-material-poverty-financial-year-ending-2024",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Child poverty",
+      "base_path": "/childcare-parenting/child-poverty"
+    }
+  ]
+}

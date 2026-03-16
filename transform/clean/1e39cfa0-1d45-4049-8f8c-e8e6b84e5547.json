@@ -1,0 +1,15 @@
+{
+  "title": "Onshore wind strategy",
+  "body": "\"The Onshore Wind Taskforce Strategy sets out over 40 actions, primarily government commitments, to resolve the key blockers to onshore wind in the UK. It aims to:   boost onshore wind deployment deliver economic benefits for local communities, businesses and the consumer   The strategy is the main output from the Onshore Wind Taskforce, established in July 2024 in order to produce this strategy, now disbanded. \"",
+  "base_path": "/government/publications/onshore-wind-strategy",
+  "taxons": [
+    {
+      "title": "Clean energy",
+      "base_path": "/government/clean-energy"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

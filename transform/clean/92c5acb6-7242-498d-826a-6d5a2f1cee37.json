@@ -1,0 +1,11 @@
+{
+  "title": "English Housing Survey 2023 to 2024: rented sectors",
+  "body": "\"This report presents a profile of those living in the social and private rented sector, including housing costs and affordability, housing history and future aspirations, and the neighbourhoods and local areas they live in. \"",
+  "base_path": "/government/statistics/english-housing-survey-2023-to-2024-rented-sectors",
+  "taxons": [
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

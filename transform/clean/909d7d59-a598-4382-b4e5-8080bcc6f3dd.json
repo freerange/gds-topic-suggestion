@@ -1,0 +1,11 @@
+{
+  "title": "Adult social care activity report, England: 2024 to 2025",
+  "body": "\"Official statistics in development, created using client level data (CLD) to provide information about adult social care activity in councils with adult social services responsibilities (CASSRs) in England for 1 April 2024 to 31 March 2025.  This publication consists of:   a commentary on the data from April 2024 to March 2025 associated data tables data quality statement methodology pre-release access list 5 CSV files and guidance on how to use the CSV files   Data on adult social care activity in this report includes:   requests for support short-term support to maximise independence (ST-Max) long-term support, including:  accommodation status of long-term support recipients employment status of long-term learning disability support recipients   reviews of long-term care and support plans   Quarterly CLD statistics have been published by the Department of Health and Social Care (DHSC) since March 2024 as part of the Monthly statistics for adult social care (England).  This activity report was previously published as the Adult social care activity and finance report by NHS England. See the Adult social care finance report, England: 2024 to 2025 published by DHSC.   Help us improve the adult social care activity statistics  We are interested in understanding more about how the outputs and data from this report are used, and the decisions they inform. This is important for us so we can provide a high-quality publication that meets your needs.  Complete the survey   \"",
+  "base_path": "/government/statistics/adult-social-care-activity-report-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

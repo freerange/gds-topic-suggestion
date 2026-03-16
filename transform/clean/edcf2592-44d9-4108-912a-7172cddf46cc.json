@@ -1,0 +1,15 @@
+{
+  "title": "Children living in long-term workless households in the UK: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/children-living-in-long-term-workless-households-in-the-uk-2024",
+  "taxons": [
+    {
+      "title": "Parenting, childcare and children's services ",
+      "base_path": "/childcare-parenting"
+    },
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    }
+  ]
+}

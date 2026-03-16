@@ -1,0 +1,11 @@
+{
+  "title": "CAC outcomes: 2026",
+  "body": "\"This page gives the outcomes and decisions for applications to the CAC under all jurisdictions from 1 January 2026 to 31 December 2026.  The outcomes for earlier applications are available at CAC outcomes: 2014 and earlier, CAC outcomes: 2015, CAC outcomes: 2016, CAC outcomes: 2017, CAC outcomes: 2018, CAC outcomes: 2019, CAC outcomes: 2020, CAC outcomes: 2021, CAC outcomes: 2022, CAC outcomes: 2023, CAC outcomes: 2024 and CAC outcomes: 2025 \"",
+  "base_path": "/government/collections/cac-outcomes-2026",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

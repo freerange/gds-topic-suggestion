@@ -1,0 +1,11 @@
+{
+  "title": "Thailand: Knowledge Base profile",
+  "body": "\"This document contains useful information about Thailand which will assist HM Passport Office staff to process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Thailand  \"",
+  "base_path": "/government/publications/thailand-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

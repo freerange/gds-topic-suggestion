@@ -1,0 +1,11 @@
+{
+  "title": "Reported road casualties Great Britain: older and younger driver factsheets, 2024",
+  "body": "\"These factsheet presents the latest available statistics for casualties in reported road collisions involving older (aged 70 and over) and younger (aged 17 to 24) drivers, which are groups with a relatively high rate of injury in road collisions.  The factsheets cover:   trends over time who is injured (casualty age and sex) nature of older or younger driver collisions, including time of day, road type and junction location contributory factors assigned to older or younger drivers compared to drivers of other ages   These factsheets present high level trends based on killed or seriously injured (KSI) casualties. More detailed analysis can be carried out using the road safety open datasets and the road safety statistics team welcome feedback on anything further that would be useful to include.  Equivalent factsheets based on data for earlier years are also available, for example older drivers based on 2020 data, 2021 data, 2022 data and 2023 data.  Contact us  Road safety statistics     Email roadacc.stats@dft.gov.uk         \"",
+  "base_path": "/government/statistics/reported-road-casualties-great-britain-older-and-younger-driver-factsheets-2024",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

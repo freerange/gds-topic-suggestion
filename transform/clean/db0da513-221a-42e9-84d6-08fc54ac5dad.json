@@ -1,0 +1,11 @@
+{
+  "title": "Bluefin Tuna Catch & Release Recreational Fishery (CRRF) - Guidance",
+  "body": "\"Guidance for Bluefin Tuna Catch & Release Recreational Fishery (CRRF) \"",
+  "base_path": "/government/publications/bluefin-tuna-catch-release-recreational-fishery-crrf-guidance",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

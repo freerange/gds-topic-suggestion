@@ -1,0 +1,11 @@
+{
+  "title": "Heat mortality reports",
+  "body": "\"These reports summarise heat-associated mortality during summer heat episodes to inform public health actions.  Heat mortality monitoring supports the Adverse Weather and Health Plan to protect the population from heat-related harm to health. \"",
+  "base_path": "/government/collections/heat-mortality-reports",
+  "taxons": [
+    {
+      "title": "Health emergency planning",
+      "base_path": "/health-and-social-care/health-emergency-planning"
+    }
+  ]
+}

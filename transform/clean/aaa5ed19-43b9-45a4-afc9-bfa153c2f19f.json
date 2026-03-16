@@ -1,0 +1,11 @@
+{
+  "title": "Risk assessment: Brucella canis to Great Britain from any country worldwide",
+  "body": "\"This risk assessment provides a qualitative assessment of the risk of dogs or foxes in Great Britain becoming infected with Brucella canis through the global movement of dogs.  The annual likelihood of at least one infected dog entering Great Britain varied on the country of origin, but was high for dogs entering from many countries worldwide.  The annual likelihood of further cases in Great Britain was high for breeding animals and low for all other dogs.  The potential consequences of a Brucella canis incursion, given the possible animal welfare, social, and economic effects, were considered moderate.  There was high uncertainty throughout the risk assessment. \"",
+  "base_path": "/government/publications/risk-assessment-brucella-canis-to-great-britain-from-any-country-worldwide",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

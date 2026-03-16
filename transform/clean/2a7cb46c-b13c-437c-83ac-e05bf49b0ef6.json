@@ -1,0 +1,15 @@
+{
+  "title": "UN Human Rights Council 59: UK Statement with the Working Group on Transnational Corporations and other business enterprises",
+  "body": "\"Thank you, Mr President,  We thank the Working Group for their report on ensuring the procurement and deployment of AI is aligned with the UN Guiding Principles.  The use of AI presents significant opportunities for human rights, as well as risks. The UK advocates for human rights considerations to be incorporated into the design, development and use of AI. We expect all businesses to carry out human rights due diligence in line with the UN Guiding Principles to this effect.  We recognise the need for transparency raised in the report. The UK has introduced an Algorithmic Transparency Recording Standard, which requires public sector organisations to publish clear information on how and why they are using algorithmic tools, delivering meaningful transparency through a tiered approach. This is mandatory for central government, when such tools have a significant influence on decision-making processes which effect the public.  The UK recognises that international cooperation through multilateral fora is vital to safeguard and mitigate against human rights risks associated with AI.  Members of the Working Group,    How can meaningful stakeholder consultation, including with affected populations, be integrated into the development of common standards and interoperable frameworks, to ensure responsible adoption of AI? \"",
+  "base_path": "/government/news/un-human-rights-council-59-uk-statement-with-the-working-group-on-transnational-corporations-and-other-business-enterprises",
+  "taxons": [
+    {
+      "title": "Human rights internationally",
+      "base_path": "/international/human-rights-internationally"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

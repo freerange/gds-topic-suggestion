@@ -1,0 +1,15 @@
+{
+  "title": "Smoking profile: February 2025 update",
+  "body": "\"The smoking profile has been designed to help local government and health services to assess the effect of smoking on their local populations. The data is presented in an interactive tool that allows users to view it in a user-friendly format.  The following indicators have been added and are available at England and regional level:   regular e-cigarette users (15 year olds) have ever used e-cigarettes (15 year olds)   The following indicators have been updated and are available at England and regional level:   smoking prevalence, regular smokers (15 year olds) smoking prevalence, occasional smokers (15 year olds)   These indicators have previously been published by NHS England.  \"",
+  "base_path": "/government/statistics/smoking-profile-february-2025-update",
+  "taxons": [
+    {
+      "title": "Smoking",
+      "base_path": "/health-and-social-care/smoking"
+    },
+    {
+      "title": "Vaping",
+      "base_path": "/health-and-social-care/vaping"
+    }
+  ]
+}

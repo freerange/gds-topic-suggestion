@@ -1,0 +1,23 @@
+{
+  "title": "New law to ban bonuses for polluting water bosses",
+  "body": "\"Major legislation to crack down on water bosses polluting Britain’s rivers, lakes and seas has today been signed into law in the most significant increase to enforcement powers in a decade.     The Water (Special Measures) Act 2025 will give regulators new powers to take tougher and faster action to crack down on water companies damaging the environment and failing their customers.    The Act delivers on the manifesto pledges to clean up the water sector, including increasing the ability of the Environment Agency to bring forward criminal charges against water executives who break the law. It will create new tougher penalties, including possible imprisonment, for water executives who obstruct investigations.     The new legislation will provide powers for Ofwat to ban the payment of bonuses to water bosses if they fail to meet high standards to protect the environment, their consumers, and their company’s finances.       Other measures in the Act include automatic penalties to allow regulators to issue penalties more quickly, without having to direct resources to lengthy investigations. It will also introduce independent monitoring of every sewage outlet, with water companies required to publish real-time data for all emergency overflows. Discharges will have to be reported within an hour of the initial spill.    Environment Secretary Steve Reed said:  “We promised to put water companies under tough special measures to clean up our waterways. Today, the Government has delivered on that promise as we continue to deliver on our Plan for Change.         “Polluting water bosses will no longer be paid undeserved bonuses. And if they break the law over water pollution, they could end up in the dock and face prison time.   “This is just the beginning. The Independent Water Commission will report back later this year to shape new laws that will transform our water system so we can clean up our rivers, lakes, and seas for good.”   The Act introduces bold new measures to clean up the industry, including:       Enhanced enforcement powers: The Environment Agency will have increased ability to bring criminal charges against water bosses who break the law, who could face tougher penalties such as imprisonment of executives when companies fail to cooperate or obstruct investigations. The cost recovery powers of regulators will be expanded to ensure that water companies bear the cost of enforcement action taken in response to their failings.     Ban on bonuses: Ofwat will have the power to set rules prohibiting the payment of executive bonuses if companies fail to meet high standards in protecting the environment, their consumers, and financial resilience.     Automatic penalties: Automatic penalties will be introduced for a range of offences, allowing regulators to issue penalties more quickly without redirecting resources to lengthy investigations.      Independent monitoring: Every emergency sewage outlet will be monitored, with data independently scrutinised and made publicly available within an hour of sewage spills occurring. This will ensure transparency and direct further investment to improving sewage infrastructure.      Pollution Incident Reduction Plans (PIRPs): Water companies in England will be required to publish annual Pollution Incident Reduction Plans and report regularly...",
+  "base_path": "/government/news/new-law-to-ban-bonuses-for-polluting-water-bosses",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Drought and water availability",
+      "base_path": "/business/environmental-management-water-drought-and-water-availability"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

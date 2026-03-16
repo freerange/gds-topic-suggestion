@@ -1,0 +1,15 @@
+{
+  "title": "Ministry of Justice: departmental spending over £25,000, 2024",
+  "body": "\"The Ministry of Justice publishes details of all departmental spending over £25,000. \"",
+  "base_path": "/government/collections/ministry-of-justice-departmental-spending-over-25000-2024",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Stage 3 Site Assessments",
+  "body": "\"As part of the consultation on proposed  fisheries management measures for Stage 3 marine protected areas, MMO has produced 43 site assessments and a methodology document explaining how the data was compiled and used.  If you find that you are unable to access any links to conservation advice from the Statutory Nature Conservation Bodies in the Stage 3 documents, please go to Natural England’s designated sites search and search for the MPA you are interested in, or go to JNCC’s offshore MPA homepage and select the site that you are interested in. \"",
+  "base_path": "/government/publications/stage-3-site-assessments",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    },
+    {
+      "title": "Species protection and marine conservation",
+      "base_path": "/environment/species-protection-and-marine-conservation"
+    }
+  ]
+}

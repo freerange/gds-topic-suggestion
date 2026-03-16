@@ -1,0 +1,19 @@
+{
+  "title": "Shipping fleet statistics: 2024",
+  "body": "\" About this release  This statistical release presents summary statistics for UK and world shipping fleets. It provides different measures of UK shipping interests, set in the global context, including analysis by country of registration (flag) and trading vessel type. Every merchant ship must be registered in a country (the ‘flag state’) and ship registration can, in part, be considered as an indicator of the overall health of a country’s maritime sector. All figures are based on vessels of 100 gross tonnes or over. Other variables and a longer time series are available in accompanying data tables.   Overview of shipping fleet statistics  Gross tonnage on the UK Ship Register (UKSR) decreased at the end of December 2024 to 9.9 million gross tonnes, decreasing 5% from 2023.  Based on world fleet data (supplied by Sea/) for trading vessels only, at the end of December 2024, the UK registered trading fleet:    was the 27th largest trading fleet in the world, based on a gross tonnage. This dropped 5 positions from 2023   accounted for 23% of deadweight tonnage of the Red Ensign Group trading fleet, which, when taken as a whole, would be the world’s 11th largest trading fleet    Contact details   Maritime and shipping statistics     Email maritime.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, please follow us on X at DfTstats. \"",
+  "base_path": "/government/statistics/shipping-fleet-statistics-2024",
+  "taxons": [
+    {
+      "title": "Vessel registration and design",
+      "base_path": "/transport/vessel-registration-and-design"
+    },
+    {
+      "title": "Vessel surveys and inspection",
+      "base_path": "/transport/maritime-surveying"
+    },
+    {
+      "title": "Waterways (maritime)",
+      "base_path": "/transport/waterways-maritime"
+    }
+  ]
+}

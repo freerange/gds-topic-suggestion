@@ -1,0 +1,11 @@
+{
+  "title": "Tajikistan: Knowledge Base profile",
+  "body": "\"This document contains useful information about Tajikistan which will assist HM Passport Office staff process passport applications’.  This document includes information about:   names nationality legitimacy and parental responsibility adoption gender recognition civil partnerships and marriage documents from Tajikistan  \"",
+  "base_path": "/government/publications/tajikistan-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

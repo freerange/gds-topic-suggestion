@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summaries",
+  "body": "\"These summaries describe some of the hazards that can impact transport. This includes:   natural hazards hazards related to climate change hazards that are not malicious, such as pandemics   They provide a resource for assessing the risks posed to the transport network and increasing resilience. You should always assess the risks specific to your area of responsibility. You should get expert advice on suitable actions if needed.  Developed by the Department for Transport and Met Office with contributions from other organisations, including:   Chiltern Railways British Geological Survey the Department for Environment, Food & Rural Affairs (Defra) Environment Agency  Dr Hugh Deeming (HD) Research Rail Safety and Standards Board  UK road leadership group​  UK Centre for Ecology & Hydrology   For more information, see the Prepare for emergencies campaign.  \"",
+  "base_path": "/government/collections/transport-hazard-summaries",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

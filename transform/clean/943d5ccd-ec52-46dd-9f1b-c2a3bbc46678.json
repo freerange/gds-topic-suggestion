@@ -1,0 +1,11 @@
+{
+  "title": "National Travel Survey combined authority estimates",
+  "body": "\"National Travel Survey combined authority data tables  NTS0201_CA:  Full car driving licence holders by age, sex and combined authority of residence, aged 17 and over: England, 2002 onwards  (ODS, 263 KB)  NTS0303_CA:  Average number of trips, stages, miles and time spent travelling by mode and combined authority of residence: England, 2002 onwards  (ODS, 585 KB)  NTS0308_CA:  Average number of trips and average distance travelled by trip length, mode and combined authority of residence: England, 2002 onwards  (ODS, 708 KB)  NTS0403_CA:  Average number of trips, miles and time spent travelling by trip purpose and combined authority of residence: England, 2002 onwards  (ODS, 634 KB)  NTS0409_CA:  Average number of trips and distance travelled by purpose, main mode and combined authority of residence: England, 2002 onwards  (ODS, 451 KB)  NTS0601_CA:  Average number of trips, stages and distance travelled by sex, age, mode and combined authority of residence: England, 2002 onwards  (ODS, 2.57 MB)  Contact us  National Travel Survey statistics     Email national.travelsurvey@dft.gov.uk        \"",
+  "base_path": "/government/statistical-data-sets/national-travel-survey-combined-authority-estimates",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Find an immigration removal centre: translations",
+  "body": "\"This guidance is available in:   English Shqip (Albanian) العربية (Arabic) বাংলা (Bangla) 中文 (Chinese) Français (French) हिन्दी (Hindi) Lietuvių (Lithuanian) سۆرانی کوردی (Kurdish Sorani) پښتو (Pashto) فارسی (Persian) Polski (Polish) Português (Portuguese) Română (Romanian) Русский (Russian) Español (Spanish) - ትግሪኛ (Tigrinya) Türkçe (Turkish) Tiếng Việt (Vietnamese) اردو (Urdu)  \"",
+  "base_path": "/guidance/find-an-immigration-removal-centre-translations",
+  "taxons": [
+    {
+      "title": "Immigration detention",
+      "base_path": "/entering-staying-uk/immigration-detention"
+    }
+  ]
+}

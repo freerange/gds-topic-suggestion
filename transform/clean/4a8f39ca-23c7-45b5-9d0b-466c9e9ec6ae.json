@@ -1,0 +1,19 @@
+{
+  "title": "Planning Inspectorate Ministerial Measures - Experimental Statistics 20 November 2025",
+  "body": "\"Ministerial Measures - Experimental Statistics 20 November 2025. \"",
+  "base_path": "/government/statistics/planning-inspectorate-ministerial-measures-experimental-statistics-20-november-2025",
+  "taxons": [
+    {
+      "title": "Local Plans",
+      "base_path": "/housing-local-and-community/local-plans"
+    },
+    {
+      "title": "Planning permission and appeals",
+      "base_path": "/housing-local-and-community/planning-permission-appeals"
+    },
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Construction Bulletin: 1 October to 31 December 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/northern-ireland-construction-bulletin-1-october-to-31-december-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

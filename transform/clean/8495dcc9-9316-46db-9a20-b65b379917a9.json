@@ -1,0 +1,11 @@
+{
+  "title": "Maternity Services Monthly Statistics, Final July 2025, Provisional August 2025, official statistics",
+  "body": "\"This report on NHS-funded maternity services in England uses data submitted to the Maternity Services Data Set (MSDS). The MSDS has been developed to help achieve better outcomes of care for mothers, babies and children.  The MSDS is a patient-level ‘secondary uses’ data set that re-uses clinical and operational data for purposes other than direct patient care, such as commissioning and clinical audit. It captures key information at each stage of the maternity service care pathway in NHS-funded maternity services, such as those provided by GP practices and hospitals. The data collected include mother’s demographics, booking appointments, admissions and re-admissions, screening tests, labour and delivery along with baby’s demographics, diagnoses and screening tests.  For each publication, the following analysis files are published within the zip file ‘Additional experimental analysis using MSDS data’ for the relevant month due to low data quality and completeness: •Delivery method by previous births •Delivery method by Robson group •Smoking status at delivery (for births one month earlier) •Postpartum haemorrhage and other maternal critical incidents (for births one month earlier) •Antenatal pathway level •Births without intervention.  Each zip file also includes a spreadsheet bringing together counts relating to 11 of the 14 Clinical Quality Improvement Metrics that form part of NHS England’s Maternity Transformation Programme. \"",
+  "base_path": "/government/statistics/maternity-services-monthly-statistics-final-july-2025-provisional-august-2025-official-statistics",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

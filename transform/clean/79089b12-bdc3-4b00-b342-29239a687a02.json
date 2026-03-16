@@ -1,0 +1,15 @@
+{
+  "title": "Vaccination against mpox: information for healthcare practitioners",
+  "body": "\"Mpox vaccinations are being offered to eligible patients to protect them from MPVX.  Vaccination Resources  Leaflets and record cards for those receiving the mpox vaccination are available.  Leaflets and consent forms for contacts of mpox cases offered the vaccine are also available.  \"",
+  "base_path": "/government/publications/vaccination-against-mpox-information-for-healthcare-practitioners",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

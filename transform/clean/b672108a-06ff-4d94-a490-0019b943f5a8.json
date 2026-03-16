@@ -1,0 +1,11 @@
+{
+  "title": "Implementing a data quality action plan",
+  "body": "\"A data quality action plan (DQAP) is a systematic approach for enhancing and sustaining the quality of data in your organisation.  It involves identifying critical data, setting quality standards, assessing current data quality and prioritising areas for improvement. The aim is to ensure that your data consistently meets users’ needs and supports your business processes and effective decision making.  The implementation guide guide covers 7 steps for implementing your DQAP from start to finish. To help complete your DQAP, you may wish to use the:    DQAP template to capture all the relevant information for each data asset data quality issues framework, which defines a data quality issue and explains how to identify and prioritise issues   \"",
+  "base_path": "/government/publications/implementing-a-data-quality-action-plan",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    }
+  ]
+}

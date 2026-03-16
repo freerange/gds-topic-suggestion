@@ -1,0 +1,15 @@
+{
+  "title": "Legislative proposals to address broadband rollout in leasehold flats",
+  "body": "\"The government is committed to delivering nationwide gigabit coverage by 2032 reaching a minimum of 99% of premises across all populated areas of the UK. There however remain persistent challenges in deploying gigabit-capable broadband to certain property types and particularly to flats.  This consultation seeks feedback on the barriers and potential legislative solutions to aid the timely and effective rollout of broadband infrastructure.  \"",
+  "base_path": "/government/consultations/legislative-proposals-to-address-broadband-rollout-in-leasehold-flats",
+  "taxons": [
+    {
+      "title": "Broadband investment",
+      "base_path": "/business/broadband-investment"
+    },
+    {
+      "title": "Communications and telecomms",
+      "base_path": "/business/communications-and-telecomms"
+    }
+  ]
+}

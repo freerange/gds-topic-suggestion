@@ -1,0 +1,11 @@
+{
+  "title": "Public Expenditure Statistical Analyses 2025",
+  "body": "\"Public Expenditure Statistical Analyses (PESA) is the yearly publication of information on government spending. It brings together recent outturn data, estimates for the latest year, and spending plans for the rest of the current spending review period.  PESA is based on data from departmental budgets and total expenditure on services (TES). The budgeting framework deals with spending within central government department budgets, which is how the government plans and controls spending. TES represents the spending required to deliver services – what is known as the current and capital expenditure of the public sector. \"",
+  "base_path": "/government/statistics/public-expenditure-statistical-analyses-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

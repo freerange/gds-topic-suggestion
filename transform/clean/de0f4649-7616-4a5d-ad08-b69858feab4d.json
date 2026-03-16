@@ -1,0 +1,11 @@
+{
+  "title": "Schools, pupils and their characteristics: January 2025",
+  "body": "\"This release contains the latest statistics on school and pupil numbers and their characteristics, including:   age sex free school meals (FSM) eligibility English as an additional language ethnicity young carers information on school characteristics information on class sizes cross border movement of pupils    Schools and Pupils Statistics TeamEmail: schools.statistics@education.gov.uk  \"",
+  "base_path": "/government/statistics/schools-pupils-and-their-characteristics-january-2025",
+  "taxons": [
+    {
+      "title": "School attendance and absence",
+      "base_path": "/education/school-attendance-and-absence"
+    }
+  ]
+}

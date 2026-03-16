@@ -1,0 +1,11 @@
+{
+  "title": "Evaluation survey for the Software Security Code of Practice",
+  "body": "\"This survey is collecting feedback on organisations’ access, understanding and implementation of the Software Security Code of Practice, and supporting materials, including the National Cyber Security Centre’s Implementation Guidance and self-attestation form.    The survey is open to both organisations that develop and sell software, and their customers. Whether your organisation supplies software or is a buyer of software products, your insights are valuable in helping the government assess the effectiveness of this policy and guide future steps.   This will be used by the Department for Science, Innovation and Technology (DSIT) to monitor and evaluate organisations’ use of the code of practice.   Questions are optional and your organisation does not need to have implemented or fully implemented the code of practice to participate.    The survey is open until 11:59pm on Wednesday 16 December 2026.   Take the Software Security Code of Practice survey.   For more information, see the full Software Security Code of Practice.  \"",
+  "base_path": "/government/calls-for-evidence/evaluation-survey-for-the-software-security-code-of-practice",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

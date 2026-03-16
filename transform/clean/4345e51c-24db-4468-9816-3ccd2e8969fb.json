@@ -1,0 +1,11 @@
+{
+  "title": "Organic farming statistics 2024",
+  "body": "\"This publication provides annual information on organic crops and livestock produced in the United Kingdom and England.   For further information please contact: organic-stats@defra.gov.uk  \"",
+  "base_path": "/government/statistics/organic-farming-statistics-2024",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

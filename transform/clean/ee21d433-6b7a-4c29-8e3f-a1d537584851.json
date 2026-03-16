@@ -1,0 +1,15 @@
+{
+  "title": "Draft guidance on individualised mRNA cancer immunotherapies",
+  "body": "\"Individualised mRNA cancer immunotherapies (colloquially referred to as personalised cancer vaccines) are a new type of cancer treatment that use mRNA technology.  Unlike conventional cancer therapies, each patient receives a slightly different version of the mRNA therapy which has been matched to their unique tumour fingerprint using artificial intelligence (AI). In this way, the therapy aims to teach the patient’s immune system to target and destroy their specific tumour cells.   This novel individualised approach poses unique regulatory challenges, and there is an urgent need for guidance. Our draft guideline outlines a clear and streamlined regulatory pathway to approval, covering regulatory classification, product design and manufacture, evidence of safety and effectiveness, post-approval safety monitoring, and information for patients and the public. Our aim is to facilitate patient access to these novel individualised cancer therapies, while maintaining our stringent standards of safety, quality and efficacy. We may expand the guidance in due course to cover other types of highly personalised therapies, including for rare diseases.  We are seeking feedback from manufacturers, developers, patient organisations and other stakeholders on our regulatory approach to individualised mRNA cancer immunotherapies. The guidance includes a section on information for patients, healthcare professionals, and the public. To make sure that patients and the public receive the right information about these therapies, we would welcome feedback on this section from members of the public including people affected by cancer. \"",
+  "base_path": "/government/consultations/draft-guidance-on-individualised-mrna-cancer-immunotherapies",
+  "taxons": [
+    {
+      "title": "Marketing authorisations, variations and licensing guidance",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-marketing-authorisations-variations-licensing"
+    },
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    }
+  ]
+}

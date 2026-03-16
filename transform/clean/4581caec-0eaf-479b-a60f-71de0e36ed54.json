@@ -1,0 +1,11 @@
+{
+  "title": "Marburg and Ebola contact tracing matrix",
+  "body": "\"This matrix is for health protection teams to manage and trace people who have come into contact with the Ebola disease or the Marburg Virus disease.  If you need an accessible version of this document, contact guidance@ukhsa.gov.uk. \"",
+  "base_path": "/government/publications/marburg-and-ebola-contact-tracing-matrix",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Use a software provider to prepare package accounts for Companies House",
+  "body": "\"This guide contains information on software providers you can use to prepare package accounts, so you can then file package accounts with Companies House online.  About package accounts   Package accounts are accounts submissions made up of more than one component. This could be a package containing more than one set of accounts, or accounts that include a Companies House form.  Package accounts must be saved in a ZIP file format and iXBRL tagged using software.  You can file package accounts online for:    community interest companies (CICs)  audit exempt subsidiary accounts dormant exempt subsidiary accounts limited partnerships UKSEF accounts for listed companies group package accounts - section 400, parent incorporated under UK law  group package accounts - section 401, parent incorporated under non-UK law  Welsh accounts with an English translation   See guidance on preparing and filing accounts for Companies House.  List of software providers for package accounts  You must use suitable software to prepare package accounts. This will allow you to save the accounts in a ZIP file format, which you’ll need to file package accounts with Companies House.  If you need to prepare package accounts for CICs, you can find software for filing company accounts.  You can use the following software providers to prepare other types of package accounts.     Supplier Product names Payment options Accessibility features Package accounts     ARKK ARKK iXBRL Tagging Services N/A Yes UKSEF, limited partnership, audit exempt subsidiary and dormant exempt subsidiary packages   ARKK ARKK iXBRL Tagging Adapter Multiple No Limited partnership, Welsh accounts (with an English translation), audit exempt subsidiary and dormant exempt subsidiary packages   Ayiza 1Touch Multiple No UKSEF, limited partnership, audit exempt subsidiary, dormant exempt subsidiary, group package accounts (section 400 of the Companies Act 2006)   Efile Ready Ltd UKSEF eReturn and Tagging Services Multiple No UKSEF      Companies House does not endorse or recommend particular products. Contact providers directly for support or guidance.  \"",
+  "base_path": "/guidance/use-a-software-provider-to-prepare-package-accounts-for-companies-house",
+  "taxons": [
+    {
+      "title": "Business auditing, accounting and reporting",
+      "base_path": "/business-and-industry/business-auditing-accounting-reporting"
+    },
+    {
+      "title": "Limited companies and partnerships",
+      "base_path": "/business-and-industry/limited-companies-and-partnerships"
+    }
+  ]
+}

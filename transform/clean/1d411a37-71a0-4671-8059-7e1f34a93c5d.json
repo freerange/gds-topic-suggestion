@@ -1,0 +1,11 @@
+{
+  "title": "Climate Change Levy: electrolytic hydrogen and energy context",
+  "body": "\"At Spring Statement 2025, the government committed to removing Climate Change Levy (CCL) costs from electricity used in electrolysis to produce hydrogen. This will support the growth of low carbon electrolytic hydrogen production, which will play an important role in decarbonising the power system and hard to electrify industrial and transport sectors.   This consultation seeks views to determine the best legislative route to remove these CCL costs and ensure the commitment is delivered in a way that achieves government’s objectives whilst avoiding unintended consequences.   The government is also looking to the future and it is important for the UK’s tax system to remain agile and up to date with changing contexts. The wider energy landscape has changed significantly since CCL was introduced, and will continue to develop, therefore, the government also announced that it will conduct a wider review of CCL. To inform the scope of this review, this consultation seeks views on other areas where CCL may need to be reviewed to ensure it is aligned with developments in the changing energy landscape and the government’s clean power and net zero missions. \"",
+  "base_path": "/government/consultations/climate-change-levy-electrolytic-hydrogen-and-energy-context",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

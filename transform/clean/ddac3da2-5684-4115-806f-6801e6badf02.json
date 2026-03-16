@@ -1,0 +1,15 @@
+{
+  "title": "MOD: special advisers' gifts, hospitality and meetings, January to December 2025",
+  "body": "\"MOD publishes quarterly details of special advisers’ meetings with senior media figures and any gifts or hospitality they received on a quarterly basis. \"",
+  "base_path": "/government/publications/mod-special-advisers-gifts-hospitality-and-meetings-january-to-december-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

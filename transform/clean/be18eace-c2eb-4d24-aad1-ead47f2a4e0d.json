@@ -1,0 +1,15 @@
+{
+  "title": "DHSC public appointments",
+  "body": "\"Information about appointments made between January and September 2024 is available on the public appointments announcements page. \"",
+  "base_path": "/government/collections/dhsc-public-appointments",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

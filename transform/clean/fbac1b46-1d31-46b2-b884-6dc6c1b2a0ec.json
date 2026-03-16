@@ -1,0 +1,11 @@
+{
+  "title": "Port freight annual statistics: 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/port-freight-annual-statistics-2025",
+  "taxons": [
+    {
+      "title": "Ports, harbours and offshore installations",
+      "base_path": "/transport/ports-harbours-and-offshore-installations"
+    }
+  ]
+}

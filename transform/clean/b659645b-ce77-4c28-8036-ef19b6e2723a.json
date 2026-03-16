@@ -1,0 +1,19 @@
+{
+  "title": "Facts and figures: patents, trade marks, designs and hearings: 2024",
+  "body": "\"The statistics in this release are intended to provide factual information. This relates to the annual business activity of the Intellectual Property Office (IPO).  Intellectual property (IP) statistics should not be used alone to describe the level of innovation in the UK, or as a measure of inventorship.  If you have questions about using our data, or wish to use for research purposes, please contact us at statistics@ipo.gov.uk and we will be happy to assist.  Future release dates will be announced on the GOV.UK release calendar.  Get in touch  Send comments or feedback about the report to statistics@ipo.gov.uk.  \"",
+  "base_path": "/government/statistics/facts-and-figures-patents-trade-marks-designs-and-hearings-2024",
+  "taxons": [
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Births in England and Wales: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/births-in-england-and-wales-2024",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

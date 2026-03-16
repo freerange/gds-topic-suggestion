@@ -1,0 +1,23 @@
+{
+  "title": "Northern Ireland Road Safety Partnership Public Attitude Survey Results 2023",
+  "body": "\"This publication can be accessed here \"",
+  "base_path": "/government/statistics/northern-ireland-road-safety-partnership-public-attitude-survey-results-2023",
+  "taxons": [
+    {
+      "title": "Speeding",
+      "base_path": "/transport/speeding"
+    },
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

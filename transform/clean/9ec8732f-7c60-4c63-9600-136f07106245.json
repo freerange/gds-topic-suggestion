@@ -1,0 +1,11 @@
+{
+  "title": "Population trends for Turtle Dove in the UK and England, to 2025",
+  "body": "\"The statistics are based on the Breeding Bird Survey (BBS), which reports population trends annually for over 100 UK breeding bird species (starting 1994). Turtle Dove trends are being published separately before the main BBS Official Statistics to allow use for operational purposes to inform conservation. Trends will be presented for the UK, England, and (where possible) English regions. The same information will be included as part of the main BBS Official Statistics publication (Spring 2026).  The BBS is a Partnership jointly funded by BTO, RSPB and JNCC, and is indebted to the thousands of volunteer data recorders who take part. \"",
+  "base_path": "/government/statistics/population-trends-for-turtle-dove-in-the-uk-and-england-to-2025",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

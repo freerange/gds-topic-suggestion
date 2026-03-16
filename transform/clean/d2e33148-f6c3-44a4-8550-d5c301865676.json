@@ -1,0 +1,23 @@
+{
+  "title": "Nepal - Bereavement",
+  "body": "\"Includes information on:   what to do when someone dies in Nepal burial and cremation returning bodies to the UK (repatriation) registration of a death   See also what to do when someone dies: death abroad. \"",
+  "base_path": "/government/publications/nepal-bereavement-information",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Birth, death and marriage abroad in Nepal",
+      "base_path": "/world/birth-death-and-marriage-abroad-nepal"
+    },
+    {
+      "title": "Countries (Living In)",
+      "base_path": "/going-and-being-abroad/countries-living-in"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Health equity strategies, reports and tools",
+  "body": "\"Strategies, reports and tools developed by UKHSA on health equity within health protection. \"",
+  "base_path": "/government/collections/health-equity-strategies-reports-and-tools",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

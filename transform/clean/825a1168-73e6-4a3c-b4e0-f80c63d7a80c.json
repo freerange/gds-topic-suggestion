@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland planning statistics: April 2025 to March 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/northern-ireland-planning-statistics-april-2025-to-march-2026",
+  "taxons": [
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

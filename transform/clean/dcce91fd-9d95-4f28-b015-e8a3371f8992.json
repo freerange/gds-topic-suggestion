@@ -1,0 +1,11 @@
+{
+  "title": "MHCLG: business appointment rules advice",
+  "body": "\" \"",
+  "base_path": "/government/collections/mhclg-business-appointment-rules-advice",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

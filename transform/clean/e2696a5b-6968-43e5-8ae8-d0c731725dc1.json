@@ -1,0 +1,11 @@
+{
+  "title": "​​Mapping IoT security publications on Enterprise IoT security",
+  "body": "\"As part of work to improve cyber resilience across the UK economy, the government is developing policy to better improve the cyber security of internet-connected devices used by businesses organisations - also know as “Enterprise IoT”.  In summer 2025 the government ran a call for views on a proposed Code of Practice for Enterprise Connected Device Security. This research reports maps various IoT security publications to the proposed code of practice.  This research informs the government’s ongoing work to improve UK cyber resilience and the cyber security of internet-connected devices.  \"",
+  "base_path": "/government/publications/mapping-iot-security-publications-on-enterprise-iot-security",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

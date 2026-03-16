@@ -1,0 +1,11 @@
+{
+  "title": "RSV older adults vaccination coverage in England",
+  "body": "\"The respiratory syncytial virus (RSV) adult vaccination programme was introduced in England in September 2024 as a single-dose vaccine for adults turning 75 years old, with a catch-up programme covering those up to 79 years of age.  Previous reports are available at:  RSV immunisation for older adults and pregnant women: vaccine coverage in England \"",
+  "base_path": "/government/publications/rsv-older-adults-vaccination-coverage-in-england",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    }
+  ]
+}

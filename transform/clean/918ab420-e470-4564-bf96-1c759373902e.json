@@ -1,0 +1,11 @@
+{
+  "title": "National non-domestic rates collected by councils in England: 2024 to 2025",
+  "body": "\"Details of the total amount of national non-domestic rates (also known as business rates) local authorities collected in 2024 to 2025 and the reliefs they granted. Data in this release is provisional prior to audit of local authority accounts, but we expect little change post-audit. \"",
+  "base_path": "/government/statistics/national-non-domestic-rates-collected-by-councils-in-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Business rates",
+      "base_path": "/regional-and-local-government/local-government-business-rates"
+    }
+  ]
+}

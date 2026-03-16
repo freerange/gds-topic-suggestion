@@ -1,0 +1,23 @@
+{
+  "title": "Health and Care Act 2022",
+  "body": "\"The Health and Care Act 2022 received Royal Assent on 28 April 2022.  This primary legislation will build on the NHS’s own proposals for reform to make the health and care system less bureaucratic, more accountable and more integrated in the wake of coronavirus (COVID-19). \"",
+  "base_path": "/government/collections/health-and-care-act-2022",
+  "taxons": [
+    {
+      "title": "NHS efficiency",
+      "base_path": "/health-and-social-care/nhs-efficiency"
+    },
+    {
+      "title": "Patient safety",
+      "base_path": "/health-and-social-care/patient-safety"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

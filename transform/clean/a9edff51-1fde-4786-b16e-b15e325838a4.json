@@ -1,0 +1,11 @@
+{
+  "title": "Measures from the adult social care outcomes framework, England: 2024 to 2025",
+  "body": "\"This publication provides findings for each of the measures (also called metrics) in the adult social care outcomes framework (ASCOF) for the financial year 2024 to 2025. The ASCOF measures how well care and support services achieve the outcomes that matter most to people who draw on care and support in England. It includes 19 metrics on the following 6 objectives:   quality of life independence empowerment (information and advice) safety social connection continuity and quality of care   This publication consists of:   a commentary on the data from April 2024 to March 2025 information on the data sources, quality and uses methodology and a data quality report for metrics derived from adult social care client level data (CLD) associated data tables pre-release access list a CSV file and guidance on how to use the CSV file   All metrics derived from CLD are being published for the first time for 2024 to 2025. These metrics are official statistics in development to reflect the substantial change in the data source and the methodologies.  \"",
+  "base_path": "/government/statistics/measures-from-the-adult-social-care-outcomes-framework-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

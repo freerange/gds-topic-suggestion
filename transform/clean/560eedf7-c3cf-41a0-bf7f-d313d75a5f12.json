@@ -1,0 +1,11 @@
+{
+  "title": "Children looked after return 2026 to 2027: technical specifications",
+  "body": "\"This is technical information about submitting and validating data for the children looked after data return (also known as SSDA903) for the year 1 April 2026 to 31 March 2027.  It is for:   suppliers creating management information software (MIS) for local authorities users of local authority MIS software   The information includes:   a summary of the data items we collect in the return an explanation of formats for submitting the data a list of validation checks applied to the data return   A guide for local authorities, with detailed explanations of what information to include for each data item, is also available.  \"",
+  "base_path": "/government/publications/children-looked-after-return-2026-to-2027-technical-specifications",
+  "taxons": [
+    {
+      "title": "Data collection for looked-after children",
+      "base_path": "/childcare-parenting/data-collection-for-looked-after-children"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK planetary protection technical framework",
+  "body": "\"This is a technical framework for implementing planetary protection requirements for lunar and beyond Earth orbit missions under Outer Space Act 1986 and Space Industry Act 2018.  The purpose of this framework is to provide clarity to operators and regulators on UK policy for meeting our planetary protection obligations. This framework should be used in conjunction with relevant legislation and regulations by any entity seeking an operator licence for space activities for all missions that involve interactions with celestial bodies in our Solar System (referred to as “missions”). \"",
+  "base_path": "/government/publications/uk-planetary-protection-technical-framework",
+  "taxons": [
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

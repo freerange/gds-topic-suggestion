@@ -1,0 +1,15 @@
+{
+  "title": "Alcohol Duty — repayment interest",
+  "body": "\"This measure allows HMRC to pay repayment interest on Alcohol Duty to businesses, in certain circumstances, under parts 2 and 3 of schedule 3 of the Finance Act 2001 (FA 2001). The repayment interest rate is the rate in effect under section 102 of Finance Act 2009 (FA 2009).  This links to the Alcohol Duty reforms that aim to strengthen confidence in the tax system by providing consistency and fairness. \"",
+  "base_path": "/government/publications/alcohol-duty-repayment-interest",
+  "taxons": [
+    {
+      "title": "Payments and reliefs (Alcohol duty)",
+      "base_path": "/money/business-tax-alcohol-duties-payments-and-reliefs"
+    },
+    {
+      "title": "Alcohol duties",
+      "base_path": "/money/dealing-with-hmrc-paying-hmrc-alcohol-duties"
+    }
+  ]
+}

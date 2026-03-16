@@ -1,0 +1,11 @@
+{
+  "title": "Infectious diseases impacting England: 2025 report",
+  "body": "\"This annual report, published by UKHSA for the first time, summarises the latest infectious disease and infection trends, the impact they are having on England and what is being done by the agency and its partners to control and prevent their spread.  It brings together our previously published data on a range of infectious diseases and infections into one place, with the report focusing particularly on the post-pandemic period from 2023 to 2024, a period in which a number of factors have altered the spread of endemic and epidemic infectious diseases. \"",
+  "base_path": "/government/publications/infectious-diseases-impacting-england-2025-report",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

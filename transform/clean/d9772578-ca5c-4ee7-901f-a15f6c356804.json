@@ -1,0 +1,11 @@
+{
+  "title": "UK trade in goods by declared currency of invoice 2024",
+  "body": "\"The currency of invoice for UK trade with countries outside the EU was collected under EU legislation from 2010 to 2020. It is being collected for all trade declared via Customs systems under UK legislation for 2021 onwards. This includes GB exports to the EU from 2021 and GB imports from the EU from 2022 onwards.  \"",
+  "base_path": "/government/statistics/uk-trade-in-goods-by-declared-currency-of-invoice-2024",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

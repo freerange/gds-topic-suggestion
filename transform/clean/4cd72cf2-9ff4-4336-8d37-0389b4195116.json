@@ -1,0 +1,15 @@
+{
+  "title": "Non-domestic smart meters: energy supplier obligations",
+  "body": "\"This is a summary of energy supplier obligations for the non-domestic smart meter rollout.  The information is intended for energy suppliers, but  may also be useful for business customers wishing to better understand suppliers’ obligations. \"",
+  "base_path": "/government/publications/non-domestic-smart-meters-energy-supplier-obligations",
+  "taxons": [
+    {
+      "title": "Energy demand reduction",
+      "base_path": "/business-and-industry/energy-demand-reduction-in-industry-business-and-the-public-sector"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

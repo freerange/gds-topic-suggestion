@@ -1,0 +1,11 @@
+{
+  "title": "Dwelling stock estimates in England: 2024",
+  "body": "\"This statistical release presents National Statistics on estimates of the number of dwellings in England and in each local authority district as of 31 March 2024. The statistics use the Census as a baseline and apply annual net changes to the dwelling stock as measured by the related Housing supply: net additional dwellings statistics. Figures for 2024 are provisional and subject to revision. This release also includes figures on dwelling density represented by dwellings per hectare of land area.  Our interactive dashboard illustrates results and historical trends. \"",
+  "base_path": "/government/statistics/dwelling-stock-estimates-in-england-2024",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    }
+  ]
+}

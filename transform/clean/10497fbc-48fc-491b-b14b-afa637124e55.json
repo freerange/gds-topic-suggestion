@@ -1,0 +1,11 @@
+{
+  "title": "Pesticide Usage Survey report: arable crops in the United Kingdom 2024",
+  "body": "\"This pesticide usage survey contains information on the application of pesticides to arable crops during the 2023 to 2024 growing season. \"",
+  "base_path": "/government/statistics/pesticide-usage-survey-report-arable-crops-in-the-united-kingdom-2024",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

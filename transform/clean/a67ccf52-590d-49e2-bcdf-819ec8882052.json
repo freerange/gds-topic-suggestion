@@ -1,0 +1,11 @@
+{
+  "title": "Science advice in action!",
+  "body": "\"Examples illustrating the crucial role scientific expertise and advice plays in shaping government policy.  Check out our GOV.UK page and social media channels for new content, read the campaign guidance and join the conversation using #CelebratingScienceAdvice!  \"",
+  "base_path": "/government/collections/science-advice-in-action",
+  "taxons": [
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

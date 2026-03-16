@@ -1,0 +1,15 @@
+{
+  "title": "Automated passenger services permitting scheme",
+  "body": "\"I wish to provide the House with an update on steps the government is taking to progress the implementation of automated passenger services (APS) regulations to kickstart economic growth, a top priority in the government’s Plan for Change.  The APS permitting regime was created to address complexities of applying current taxi, private hire vehicle and public service vehicle legislation to passenger services that would operate without a driver. This scheme will help facilitate commercial pilots of services with paying passengers and no safety driver to be deployed from spring 2026.  In June, I announced the government’s intention to accelerate the introduction of APS regulations, subject to the outcome of a consultation launching in summer. Today (21 July 2025) I can announce that the consultation on the draft regulations and wider considerations in respect of the management and use of the permitting scheme has been published. The consultation will run until 28 September 2025.  Through the APS permitting scheme, we intend to provide businesses with the regulatory confidence to invest in testing and deploying these innovative services on our streets, reinforcing Great Britain’s position among the world leaders in tech deployment.  Safety, including the safeguarding of passengers, is at the heart of the proposed permitting scheme. Where automated vehicle technology needs approval by government before it can be used, government will use comprehensive safety standards that take into account the developing United Nations regulation for automated driving systems.  Government intends that the accessibility of services will be a factor in consideration of whether to grant a permit, alongside a reporting requirement placed on to permit holders. Pilot deployments will continue building government’s understanding of new ways in which accessibility can be achieved through these services. Government will continue to explore the role for research in further understanding of how self-driving passenger services can best enable older and disabled people to travel, alongside others with limited or restricted mobility.  Consultation proposals  The consultation is divided into 7 chapters, covering a range of matters relevant to the implementation of APS permitting.  These chapters consider the outline of the legislative scheme, necessary guidance regarding the consent process for local licensing authorities and bus franchising authorities, the application process, the variation, suspension and withdrawal of a permit, accessibility, the review process and disclosure of information.  A copy of this publication and associated annexes will be placed in the libraries of both houses and published on GOV.UK.  \"",
+  "base_path": "/government/speeches/automated-passenger-services-permitting-scheme",
+  "taxons": [
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Self-driving vehicles",
+      "base_path": "/transport/self-driving-vehicles"
+    }
+  ]
+}

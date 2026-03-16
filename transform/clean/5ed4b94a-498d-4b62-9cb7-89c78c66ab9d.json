@@ -1,0 +1,23 @@
+{
+  "title": "Publication scheme",
+  "body": "\"You can find specific documents for the Mining Remediation Authority using the publication search.  If the information you want is not routinely published, you can make a request for it under the Freedom of Information Act.  Who we are and what we do  This information covers our organisational details, structures, locations and contacts.  This includes:   information about how we work with the Department for Energy Security and Net Zero (DESNZ) our public task statement  legislation relevant to our functions our answers to questions on the Parliament website our location and contact details    What we spend and how we spend it  This is where we publish financial information about projected and actual income, expenditure, procurement, contracts and financial audits. This includes:   our procurement procedures  our financial statements for projects and events  our annual accounts    What our priorities are and how we’re doing  This category covers departmental strategies and plans, performance indicators, audits, inspections and reviews, including:   our business plan  our annual report  our health, safety and wellbeing plan  our pay gap report  our antiracism priorities  our everyday inclusion plan  our social value policy    Responsibilities   about us  \"",
+  "base_path": "/government/organisations/mining-remediation-authority/about/publication-scheme",
+  "taxons": [
+    {
+      "title": "Mine water management",
+      "base_path": "/environment/coal-water-management"
+    },
+    {
+      "title": "Mining permits and licences",
+      "base_path": "/environment/coal-permits-licences"
+    },
+    {
+      "title": "Mining reports and data",
+      "base_path": "/environment/coal-reports-data"
+    },
+    {
+      "title": "Property and development",
+      "base_path": "/environment/coal-property-development"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK geothermal energy review and cost estimations",
+  "body": "\"In 2024 DESNZ commissioned Arup to undertake this research which covers updates to the cost and technical assumptions for the following technologies:     deep geothermal for power   deep geothermal for heat   shallow geothermal technologies for heat     This research represents the most in-depth assessment of geothermal energy generation costs in the UK to date. It includes the first levelised cost for heat published by DESNZ and the first for power since 2016, as well as a carbon intensity assessment.    The accompanying cover note provides more detail on uncertainties and limitations and the use of this data within DESNZ.  \"",
+  "base_path": "/government/publications/uk-geothermal-energy-review-and-cost-estimations",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

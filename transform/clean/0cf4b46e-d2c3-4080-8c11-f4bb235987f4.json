@@ -1,0 +1,15 @@
+{
+  "title": "Economic outcomes of negotiations for UK fishing opportunities 2025",
+  "body": "\"This report outlines the fishing opportunities available to the UK as a result of agreements made in annual negotiations for 2025.  You can also read the independent report Assessing the sustainability of fisheries catch limits negotiated by the UK for 2025 published by the Centre for Environment, Fisheries and Aquaculture Science (Cefas) and funded by the Department for Environment, Food and Rural Affairs (Defra). \"",
+  "base_path": "/government/publications/economic-outcomes-of-negotiations-for-uk-fishing-opportunities-2025",
+  "taxons": [
+    {
+      "title": "Fishing quota and catch limits ",
+      "base_path": "/environment/fishing-quota-and-catch-limits"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

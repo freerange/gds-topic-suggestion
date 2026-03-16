@@ -1,0 +1,23 @@
+{
+  "title": "Lack of engagement",
+  "body": "\"The director, Simon Lofthouse, has a history of failing to engage with regulatory requirements, including repeated non-compliance with undertakings and ignoring multiple requests for critical responses from the Driver and Vehicle Standards Agency (DVSA) and the Office of the Traffic Commissioner. Despite being summoned, the operator failed to attend the Inquiry, denying an opportunity for further investigation or explanation of their actions.  The public inquiry proceeded without the operator and the commissioner made several findings including; a February 2022 independent audit identified major deficiencies, such as inadequate driver training, incomplete maintenance practices, and poor record-keeping, an Immediate Prohibition issued in November 2022 exposed vehicle defects that should have been detected in routine checks and a July 2024 Maintenance Investigation Visit Report rated the operator as “Unsatisfactory” with widespread failings, including the use of an untaxed vehicle, improper parking practices, and inadequate safety systems.  The Inquiry underscored the operator’s disregard for safety and compliance, posing significant risks to drivers and the public. These issues remain unaddressed due to the operator’s lack of cooperation and failure to provide evidence of corrective measures.  Commissioner Mullan said “the failure to attend the Public Inquiry is a deliberate attempt to avoid the scrutiny of the Traffic Commissioner. I make this conclusion as it is entirely consistent with the recent approach to communication and engagement with the licensing regime. This operator has failed to respond to all recent communications with it… revocation is a discretionary matter, but I conclude that this is the appropriate action. A suspension or curtailment would result in an operator I do not trust and who, evidence shows, cannot comply with the requirements of an operator’s licence remaining on the road. I do not consider that to be in the interests of the public or other, compliant, operators.”  The commissioner has revoked the operator licence with immediate effect and imposed a seven-year disqualification on the company and its director, Mr. Simon Lofthouse.  More details can be found here.  For any further details or enquiries, please contact: pressoffice@otc.gov.uk \"",
+  "base_path": "/government/news/lack-of-engagement",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Sales data 2014 - 2024 for UK authorised veterinary anticoccidials, antiprotozoals and antifungals",
+  "body": "\"The UK publishes antibiotic sales, use and resistance data in the UK-VARSS report, and you can find the latest report here - Veterinary Antimicrobial Resistance and Sales Surveillance 2024 - GOV.UK.  The VMD also collect sales data from Marketing Authorisation Holders for other antimicrobials, namely anticoccidials (coccidiostats), antiprotozoals and antifungals.  This data includes products authorised as veterinary medicines and those authorised as specified feed additives.  The majority of ionophores are authorised as specified feed additives, non-ionophore coccidiostats include a mixture of veterinary medicines and specified feed additives whereas all antifungals and other antiprotozoals are veterinary medicines.  The attached table of active substances are out of scope for inclusion in the UK-VARSS report.  Active ingredients included    Ionophore coccidiostats: lasalocid, monensin, muduramicin, narasin and salinomycin.   Non-ionophore coccidiostats: amprolium, decoquinate, diclazuril, halofuginone, nicarbazin, robenidine and toltrazuril.   Antifungals: bronopol, clotrimazole, enilconazole, griseofulvin, itraconazole, ketoconazole, miconazole, nystatin and terbafine.   Other antiprotozoals: carnidazole, imidocarp and ronidazole.    Responsibility  The Veterinary Medicines Directorate is responsible for the regulation of UK authorised veterinary medicines and the Food Standards Agency is the lead regulatory body for UK authorised specified feed additives. \"",
+  "base_path": "/government/publications/sales-data-2014-2024-for-uk-authorised-veterinary-anticoccidials-antiprotozoals-and-antifungals",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

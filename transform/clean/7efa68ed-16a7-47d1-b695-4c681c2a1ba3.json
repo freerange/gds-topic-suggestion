@@ -1,0 +1,11 @@
+{
+  "title": "Tell HMRC the value of items in your PAYE Settlement Agreement",
+  "body": "\"As an employer or agent, use the online PSA1 form or your own informal calculation, to report benefits or expenses included in your PAYE Settlement Agreement.   You must include all employees who have received the benefits or expenses, including any employees that earn below the personal tax allowance.   Before you start  Get all of your information together before you start. You will need to tell us:   your email address the tax year the notification applies to your employer PAYE reference number which rates apply to employees who received the benefits or expenses, such as tax rates in:  Scotland Wales England Northern Ireland     You’ll also need to tell us the total value (including VAT) of each type of benefit or expense given to employees by tax band (for each tax rate area). For example, total amount of travel expenses paid to employees on a 20% Scottish tax rate.  Use the online form  This is the quickest way to tell us about the value of items included in your PAYE Settlement Agreement.  You’ll need to either:   sign in with your Government Gateway user ID and password (if you do not have a user ID, you can create one when you first try to sign in) use your email address to get a confirmation code that you can use to sign in   Start now   Post an informal calculation  You can tell us the value of the items included in your PAYE Settlement Agreement using your own calculation.  If you decide to do this:   it will take longer for us to review the information you have given we will need to contact you if we have any questions   Send your calculation to:   PAYE Settlement AgreementsHM Revenue and CustomsBX9 2AN   You do not need to include a street name, city name or PO box. Couriers should use a different address. \"",
+  "base_path": "/guidance/tell-hmrc-the-value-of-items-in-your-paye-settlement-agreement",
+  "taxons": [
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    }
+  ]
+}

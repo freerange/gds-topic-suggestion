@@ -1,0 +1,15 @@
+{
+  "title": "DHSC counter-fraud policy: summary",
+  "body": "\"Summarises for the general public the main points of the counter-fraud policy at the Department of Health and Social Care (DHSC).  The counter-fraud policy is aimed at DHSC:   employees secondees agents contractors agency workers suppliers   Also see the DHSC counter-fraud strategy: 2023 to 2026.  \"",
+  "base_path": "/government/publications/dhsc-counter-fraud-policy-summary",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "NHS efficiency",
+      "base_path": "/health-and-social-care/nhs-efficiency"
+    }
+  ]
+}

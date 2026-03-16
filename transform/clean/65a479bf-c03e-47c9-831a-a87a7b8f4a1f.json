@@ -1,0 +1,11 @@
+{
+  "title": "Balance Sheet Framework",
+  "body": "\"The Balance Sheet Framework sets out best practice principles, guidance and requirements for public sector organisations relating to balance sheet management. The framework is based around a three-portfolio model which sets out how to manage assets, liabilities and entities in the social, commercial and funds and liabilities portfolios. It covers appropriate funding mechanisms, management and exit strategy, as well as cross-cutting guidance on asset planning, asset disposal, private finance, managing financial risk exposure and knowledge assets. It will be used by HM Treasury to inform decisions on major balance sheet transactions and capital allocations at Spending Reviews. \"",
+  "base_path": "/government/publications/balance-sheet-framework",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

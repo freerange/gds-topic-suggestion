@@ -1,0 +1,11 @@
+{
+  "title": "HM Treasury organisational charts",
+  "body": "\"Organisational chart (organogram) data is released by all central government departments and their agencies since 2010. Snapshots for 31st March, 30th June, 30th September and 31st December are published each quarter. \"",
+  "base_path": "/government/publications/hm-treasury-organisational-charts",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK regional trade in goods statistics, second quarter, April to June 2025: business counts data",
+  "body": "\"              Second quarter 2025, UK regional trade in goods statistics: business counts    ODS, 2.7 MB     This file is in an OpenDocument format       This enables further analysis and comparison of UK regional trade in goods statistics data and contains information that includes:     quarterly information on the number of goods exporters and importers, by UK region and destination country    data on number of businesses exporting or importing     The spreadsheet provides data on businesses using both the whole number and proportion number methodology.   The spreadsheet covers:     Importers by whole number business count    Importers by proportional business count    Exporters by whole number business count    Exporters by proportional business count     The Exporters by proportional business count spreadsheet was previously produced by the Department for International Trade.   \"",
+  "base_path": "/government/statistical-data-sets/uk-regional-trade-in-goods-statistics-second-quarter-april-to-june-2025-business-counts-data",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

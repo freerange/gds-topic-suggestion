@@ -1,0 +1,15 @@
+{
+  "title": "Triggers to claiming Personal Independence Payment",
+  "body": "\"This report was conducted by DWP researchers to investigate a rise in claims for PIP in late 2021.    Contribution to the evidence base    This report provides an exploration of the triggers for people deciding to apply for PIP. It outlines the range of financial and health related factors as well as signposting referrals that determined people’s decisions to apply.    Research value   The department has since built on these findings with a larger research project, called the Journeys to Claiming PIP.    Taken together these findings inform PIP service delivery and policy decision making.  \"",
+  "base_path": "/government/publications/triggers-to-claiming-personal-independence-payment",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    },
+    {
+      "title": "Carers and disability benefits",
+      "base_path": "/welfare/disability"
+    }
+  ]
+}

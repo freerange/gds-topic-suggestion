@@ -1,0 +1,15 @@
+{
+  "title": "Substance misuse treatment for children: 2024 to 2025",
+  "body": "\"Healthcare professionals can use these statistics to understand:   the availability and effectiveness of alcohol and drug treatment services for children (aged 17 and under) in England trends in alcohol and drug use among children receiving treatment the profile of children accessing alcohol and drug treatment services   The report and accompanying tables contain treatment data from 1 April 2024 to 31 March 2025.  Children’s treatment centres from across England submitted the data to the National Drug Treatment Monitoring System (NDTMS). These services are part of a wider network of prevention services that support children with a range of issues and help them to build resilience.  For previous annual statistical reports and details of the methodology visit the NDTMS website.  These statistics were produced in partnership with the National Drug Evidence Centre.  \"",
+  "base_path": "/government/statistics/substance-misuse-treatment-for-children-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Drug misuse and dependency",
+      "base_path": "/health-and-social-care/drug-misuse-and-dependency"
+    },
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    }
+  ]
+}

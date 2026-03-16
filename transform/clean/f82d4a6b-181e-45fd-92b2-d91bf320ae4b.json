@@ -1,0 +1,11 @@
+{
+  "title": "National external quality assessment (EQA) scheme for Bowel Cancer Screening Histopathology",
+  "body": "\"This document provides guidance on the:   design of the scheme interpretation of results general requirements and responsibilities for laboratories and participants principles and methodology of operation for a consistent delivery across the nation  \"",
+  "base_path": "/government/publications/national-external-quality-assessment-eqa-scheme-for-bowel-cancer-screening-histopathology",
+  "taxons": [
+    {
+      "title": "NHS bowel cancer screening (BCSP) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-bowel"
+    }
+  ]
+}

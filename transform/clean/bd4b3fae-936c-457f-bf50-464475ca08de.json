@@ -1,0 +1,11 @@
+{
+  "title": "Trader Goods Profile: service availability and issues",
+  "body": "\"Latest updates on the availability and any issues affecting the Trader Goods Profile service. \"",
+  "base_path": "/government/publications/trader-goods-profile-service-availability-and-issues",
+  "taxons": [
+    {
+      "title": "Customs declarations, duties and tariffs (import and export)",
+      "base_path": "/business-and-industry/customs-declarations-duties-tariffs"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "2023 Mid-Year Population Estimates for Northern Ireland by Local Government District",
+  "body": "\"https://www.nisra.gov.uk/publications/2023-mid-year-population-estimates-northern-ireland-and-estimates-population-aged-85 \"",
+  "base_path": "/government/statistics/2023-mid-year-population-estimates-for-northern-ireland-by-lgd",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

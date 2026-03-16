@@ -1,0 +1,23 @@
+{
+  "title": "NHS red tape blitz delivers game-changing new cancer treatment",
+  "body": "\"NHS patients will be the first in Europe to benefit from a ground-breaking, non-invasive liver cancer treatment, as the government’s Plan for Change slashes burdensome red tape and drives innovation, establishing Britain’s role as a medical technology powerhouse.  Using ultrasound technology, the device - developed by US-based company HistoSonics - destroys tumours without surgery, scalpels or radiation, with minimal damage to surrounding organs.  Patients stand to benefit from faster recovery times, potentially greater survival rates, fewer potentially dangerous complications and fewer hospital stays - helping to cut waits for others - all marking a new era in cancer treatment.  Ongoing research is exploring its potential to transform treatment for other hard-to-reach tumours, including kidney and pancreatic cancers, bringing hope to even more NHS patients in the future.  Treatment is delivered through a single short session - potentially taking no longer than 30 minutes - with limited or no pain, a quick recovery and can be performed as a day case.  As the government busts the bureaucracy holding back public services and stifling innovation, Health and Social Care Secretary Wes Streeting granted authorisation for controlled early access to the device through an unmet clinical need authorisation. Available through the UK’s Innovative Devices Access Pathway programme, a government-funded scheme to get cutting-edge health innovations to the market much quicker, NHS patients can benefit from technology years earlier than planned.  Health and Social Care Secretary Wes Streeting said:   Bureaucracy has become a handbrake on ambition, stopping innovation in its tracks and holding our health service back.  But through our Plan for Change, we are slashing red tape, so game-changing new treatments reach the NHS front line quicker - transforming healthcare.    Regulation is vital to protect patients. However, as the pace of innovation ramps up, our processes must be more agile to help speed the shift from analogue to digital.  Our common sense approach to regulation will streamline approval processes so countless more patients are liberated from life-limiting conditions.   The technology, called histotripsy, is being debuted at Addenbrooke’s Hospital in Cambridge, part of Cambridge University Hospitals NHS Foundation Trust, with the first NHS patients being treated using the game-changing device this summer. The technology was procured and installed thanks to a generous donation to the University of Cambridge from the Li Ka Shing Foundation, which has been a longstanding supporter of cancer research at the university.  Professor Deborah Prentice, Vice-Chancellor of the University of Cambridge, said:   Through his longstanding support of cancer research at Cambridge, Sir Ka-shing Li continues to make a significant impact on outcomes for cancer patients.  Cutting-edge technology such as this histotripsy machine allows Cambridge to remain at the forefront of understanding and treating cancer, a position we aim to strengthen further with Cambridge Cancer Research Hospital.   The government’s Plan for Change is focused on securing the UK’s position as a global tech powerhouse, including in healthcare, which fosters innovation to transform the lives of working people and deliver a decade of national renewal.  The move delivers on the government’s commitment to tackle bureaucracy blocking investment and regulatory complexity...",
+  "base_path": "/government/news/nhs-red-tape-blitz-delivers-game-changing-new-cancer-treatment",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Cancer research and treatment",
+      "base_path": "/health-and-social-care/cancer-research-and-treatment"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

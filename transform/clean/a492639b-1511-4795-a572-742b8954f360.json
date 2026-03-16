@@ -1,0 +1,11 @@
+{
+  "title": "GOV.UK One Login privacy notice",
+  "body": "\"You can use GOV.UK One Login to access some government services. In some cases you’ll also need to prove your identity using GOV.UK One Login.  Privacy notices explain what we do with your data and how to contact us with any questions. \"",
+  "base_path": "/government/publications/govuk-one-login-privacy-notice",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

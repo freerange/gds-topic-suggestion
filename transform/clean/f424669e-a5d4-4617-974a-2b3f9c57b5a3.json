@@ -1,0 +1,11 @@
+{
+  "title": "Police workforce, England and Wales: 31 March 2025 (second edition)",
+  "body": "\"These statistics cover police officers, police staff, designated officers, police community support officers, special constables and police support volunteers in the 43 police forces in England and Wales and the British Transport Police.  See the ‘Police workforce open data tables’ for historical data.  See the ‘User guide to police workforce statistics’ for further information, including a glossary, conventions used and other background information.  If you have any queries about this release, please email policingstatistics@homeoffice.gov.uk or write to:  Police Analysis Unit 2nd floor Peel Building 2 Marsham Street London SW1P 4DF  The Home Office responsible statistician is Jodie Hargreaves. \"",
+  "base_path": "/government/statistics/police-workforce-england-and-wales-31-march-2025",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

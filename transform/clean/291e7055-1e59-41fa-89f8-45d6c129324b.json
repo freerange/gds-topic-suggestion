@@ -1,0 +1,19 @@
+{
+  "title": "Quarterly autism statistics for NI (January - March 2025)",
+  "body": "\"Autism is a developmental disability that influences a person’s ability to communicate and relate to other people. It is a spectrum condition, meaning that while all people with autism will have similar problems, overall their condition will impact them in different ways. Some people may be able to lead fairly independent lives while others will require a lifetime of specialist support. These tables set out the number and rate of children referred for an assessment for autism and the number and rate of children diagnosed with autism each quarter. \"",
+  "base_path": "/government/statistics/quarterly-autism-statistics-for-ni-january-march-2025",
+  "taxons": [
+    {
+      "title": "Help for children with a long-term illness or disability",
+      "base_path": "/childcare-parenting/help-for-children-with-a-long-term-illness-or-disability"
+    },
+    {
+      "title": "Support for children with special educational needs and disabilities (SEND)",
+      "base_path": "/childcare-parenting/support-for-children-with-send"
+    },
+    {
+      "title": "Autism",
+      "base_path": "/health-and-social-care/autism"
+    }
+  ]
+}

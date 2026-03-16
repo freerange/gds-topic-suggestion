@@ -1,0 +1,11 @@
+{
+  "title": "Adult oral health survey 2023",
+  "body": "\"This survey was designed as a continuation of the long-running adult dental health surveys, carried out in the United Kingdom since 1968. The current release only applies to England.  This survey release includes data on the:   clinical examination of respondents’ teeth and mouth impacts of oral health usual patterns of dental attendance oral health-related behaviours   The survey was carried out between June 2023 and April 2024 with a representative sample of adults aged 16 years and over. \"",
+  "base_path": "/government/statistics/adult-oral-health-survey-2023",
+  "taxons": [
+    {
+      "title": "Oral health",
+      "base_path": "/health-and-social-care/oral-health"
+    }
+  ]
+}

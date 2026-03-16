@@ -1,0 +1,11 @@
+{
+  "title": "Violence reduction reports: data for April 2021 to March 2024",
+  "body": "\"These reports have been developed by the Office for Health Improvement and Disparities (OHID) and present an interactive summary of violence related emergency hospital admissions recorded in hospital episode statistics (HES) for each violence reduction unit (VRU) in England.  The reports and accompanying data set are provided to support local operational activity to reduce the incidence of violent injury. The data is broken down by:   demography (age, sex, deprivation and ethnicity) time of admission (day of week and month) length of stay main causes of admission   Further subsets are provided for those violence related emergency admissions relating to:   alcohol substance misuse mental health   \"",
+  "base_path": "/government/publications/violence-reduction-reports-data-for-april-2021-to-march-2024",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

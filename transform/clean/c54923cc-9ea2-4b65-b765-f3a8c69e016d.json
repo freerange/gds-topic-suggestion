@@ -1,0 +1,15 @@
+{
+  "title": "Breastfeeding at 6 to 8 weeks: data for 2024 to 2025",
+  "body": "\"Annual and quarterly data for breastfeeding prevalence at 6 to 8 weeks. Information is presented at local authority of residence, region and England level.  The data was collected through an interim reporting system, Children’s public health 0 to 5 years: national reporting, set up to collect health visiting activity data at a local authority resident level. Data is submitted by local authorities on a voluntary basis.  The Community Services Data Set (CSDS) will be used as the basis for these metrics in the longer term, once the data quality has reached a suitable quality.  Local authority commissioners and health professionals can use these resources to track how many infants in their local area are breastfed.  Correction notice  Since publication in November 2025, an error has been identified in the number of infants due a 6 to 8 week review in quarters 1 and 2 of the financial year 2024 to 2025 in Croydon.  This affects the percentage of infants whose breastfeeding status is known for Croydon, London and England, in quarters 1 and 2 and the financial year 2024 to 2025 - and the corresponding confidence intervals. The changes are:   for Croydon the percentage of infants whose breastfeeding status is known from:  80.9% to 78.4% for quarter 1 87.0% to 80.5% for quarter 2 85.4% to 83.1% annually   for London, the percentage of infants whose breastfeeding status is known from:  78.7% to 78.6% for quarter 1 81.3% to 81.0% for quarter 2 83.9% to 83.8% annually   for England, the percentage of infants whose breastfeeding status is known from 90.7% to 90.6% for quarter 2   It also changes the percentage of infants totally breastfed for England for quarter 2 from 33.6% to 33.5%.  The data has been updated and reissued in the annual data tables on this page and in the Fingertips tool. These data tables supersede any previous published files. \"",
+  "base_path": "/government/statistics/breastfeeding-at-6-to-8-weeks-data-for-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    },
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    }
+  ]
+}

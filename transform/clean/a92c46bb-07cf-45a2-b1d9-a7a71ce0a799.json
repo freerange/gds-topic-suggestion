@@ -1,0 +1,11 @@
+{
+  "title": "Influenza A (H1N1pdm09): infectious and incubation period, and pre-symptomatic and asymptomatic transmission",
+  "body": "\"This rapid evidence summary summarised available evidence on the infectious (timeframe in which an individual may transmit the infection to others) and incubation period (time between contracting an infection and symptom onset) as well as evidence on pre-symptomatic and asymptomatic transmission and location of exposure of influenza A subtype H1N1pdm09 (search between 1 January 2009 to 31 July 2024).  Twenty-six studies were included,  4 cross-sectional, 18 prospective and 4 retrospective cohort studies. \"",
+  "base_path": "/government/publications/influenza-a-h1n1pdm09",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Historical total factor productivity for England by farm type",
+  "body": "\"Total factor productivity (TFP) is a key measure of the economic performance of agriculture. It represents how efficiently the agricultural industry uses the resources that are available to turn inputs into outputs. The methodology used to calculate the national statistics for “Total factor productivity for the UK agricultural industry” has been applied to data from the Farm Business Survey for England to produce TFP for selected farm types. Results for specialist pigs, specialist poultry and horticulture farms have not been presented due to concerns around smaller sample sizes for these farm types.  For UK Total Factor Productivity statistics please refer to “TFP for the UK agricultural industry”  Next update: see the statistics release calendar  Defra statistics: farm business survey  Email fbs.queries@defra.gov.uk  You can also contact us via X: https://x.com/DefraStats \"",
+  "base_path": "/government/statistics/historical-total-factor-productivity-for-england-by-farm-type",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

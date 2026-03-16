@@ -1,0 +1,11 @@
+{
+  "title": "Digital ID scheme: explainer",
+  "body": "\"The rollout of a digital ID scheme will make it easier to apply for government and private sector services, such as:   helping renters to quickly prove their identity to landlords improving access to welfare and other benefits making it easier for parents to apply for free childcare   It will also be required for right to work checks to stop those with no right to be in the country from finding work. This is to send a clear message that if you come here illegally, you will not be able to work, deterring people from making dangerous journeys.  \"",
+  "base_path": "/government/publications/digital-id-scheme-explainer",
+  "taxons": [
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    }
+  ]
+}

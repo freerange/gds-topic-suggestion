@@ -1,0 +1,11 @@
+{
+  "title": "Northern Ireland Construction Bulletin: 1st October to 31st December 2024",
+  "body": "\"This statistical bulletin provides users with the latest estimates of construction output carried out in Northern Ireland for Quarter 4 2024. It excludes work carried out by Northern Ireland Construction firms in other parts of the UK or elsewhere.  Revision Note: On 27 March 2025 the following correction was made to the NI Construction tables Q4 2024- Table 1.3 was updated to correct an error in the data. All other figures remain unaffected. \"",
+  "base_path": "/government/statistics/northern-ireland-construction-bulletin-1st-october-to-31st-december-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    }
+  ]
+}

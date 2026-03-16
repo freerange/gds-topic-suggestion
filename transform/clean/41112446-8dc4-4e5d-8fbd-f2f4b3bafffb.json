@@ -1,0 +1,11 @@
+{
+  "title": "Producer price inflation, UK: September 2025 including services, July to September time series",
+  "body": "\"Official statistics are produced impartially and free from political influence.  \"",
+  "base_path": "/government/statistics/producer-price-inflation-uk-september-2025-including-services-july-to-september-time-series",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

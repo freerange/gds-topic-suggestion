@@ -1,0 +1,11 @@
+{
+  "title": "Reported road casualties in Great Britain, provisional estimates: year ending June 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/reported-road-casualties-in-great-britain-provisional-estimates-year-ending-june-2026",
+  "taxons": [
+    {
+      "title": "Drink and drug driving",
+      "base_path": "/transport/drink-and-drug-driving"
+    }
+  ]
+}

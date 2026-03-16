@@ -1,0 +1,11 @@
+{
+  "title": "Agriculture in the United Kingdom 1989 – 2010",
+  "body": "\"These historic annual publications provide an overview of agriculture in the UK in a specific year. They contain an extensive range of data including farm incomes, land use, livestock numbers, prices, production of key commodities (eg wheat, milk, vegetables), overseas trade, organic farming and the environment. Information from these publications are used widely by government, industry, researchers and other stakeholders to support policy monitoring and development.  Reports pre-1997 were digitised by  HathiTrust, and we acknowledge their assistance in making these documents available.  Latest versions of Agriculture in the United Kindgom  Agriculture in the United Kingdom datasets \"",
+  "base_path": "/government/statistics/agriculture-in-the-united-kingdom-1989-2010",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

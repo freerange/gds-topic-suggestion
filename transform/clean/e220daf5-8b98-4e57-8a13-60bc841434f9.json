@@ -1,0 +1,11 @@
+{
+  "title": "Thames Estuary TE17 Margate Sand 2024",
+  "body": "\"An assessment of the 2024 hydrographic survey of the area TE17: to monitor recent seabed movement; to identify any implications for shipping; and to make recommendations for future surveys. \"",
+  "base_path": "/government/publications/thames-estuary-te17-margate-sand-2024",
+  "taxons": [
+    {
+      "title": "Hydrography",
+      "base_path": "/environment/hydrography"
+    }
+  ]
+}

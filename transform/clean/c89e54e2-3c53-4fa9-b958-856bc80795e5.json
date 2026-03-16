@@ -1,0 +1,11 @@
+{
+  "title": "Guide to Environmental Indicator Framework assessments",
+  "body": "\"The Environmental Indicator Framework assessments provide consistent categories of historic change to help make comparisons across indicators and bring results together for a holistic picture across groupings such as Environmental Improvement Plan goals. \"",
+  "base_path": "/government/publications/guide-to-environmental-indicator-framework-assessments",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Reporting sellers to HMRC if you're a digital platform operator",
+  "body": "\"If you manage or work at a digital platform in the UK you may need to:   collect and check information about sellers on the platform report details about sellers to HMRC send each seller a copy of their information that you submitted to HMRC   \"",
+  "base_path": "/government/collections/reporting-sellers-to-hmrc-if-youre-a-digital-platform-operator",
+  "taxons": [
+    {
+      "title": "International tax",
+      "base_path": "/money/international-tax"
+    }
+  ]
+}

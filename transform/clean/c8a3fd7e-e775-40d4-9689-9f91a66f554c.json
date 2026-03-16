@@ -1,0 +1,11 @@
+{
+  "title": "UK digital identity and attributes supplementary codes",
+  "body": "\"Alongside the UK digital identity and attributes trust framework, digital verification services can become independently certified against additional sets of rules known as ‘supplementary codes’.  A supplementary code builds on the rules in the trust framework to show how services can meet additional requirements in specific use cases or sectors. \"",
+  "base_path": "/government/collections/uk-digital-identity-and-attributes-supplementary-codes",
+  "taxons": [
+    {
+      "title": "Digital identity",
+      "base_path": "/government/digital-identity"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "CAMHS Waiting Time statistics for Northern Ireland (December 2024)",
+  "body": "\"This quarterly report presents the total number of children and adolescents referred to mental health services who are waiting for their initial assessment, broken down by time waiting and HSC Trust. \"",
+  "base_path": "/government/statistics/camhs-waiting-time-statistics-for-northern-ireland-december-2024",
+  "taxons": [
+    {
+      "title": "Mental health of children and young people",
+      "base_path": "/childcare-parenting/mental-health-of-children-and-young-people"
+    },
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

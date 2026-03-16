@@ -1,0 +1,31 @@
+{
+  "title": "Immigration system statistics, year ending June 2025",
+  "body": "\"This release presents immigration statistics from Home Office administrative sources, covering the period up to the end of June 2025. It includes data on the topics of:   passenger arrivals and visitors work study family safe and legal routes irregular migration asylum claims granted asylum total cases in the asylum system settlement or citizenship EU Settlement Scheme detention returns   Further information  User guide to Home Office Immigration statistics Policy and legislative changes affecting migration to the UK: timeline Developments in migration statistics Publishing detailed datasets in Immigration statistics Migration analysis at the Home Office collection page  A range of key input and impact indicators are currently published by the Home Office on the Migration transparency data webpage.  If you have feedback or questions, our email address is MigrationStatsEnquiries@homeoffice.gov.uk. \"",
+  "base_path": "/government/statistics/immigration-system-statistics-year-ending-june-2025",
+  "taxons": [
+    {
+      "title": "Border control",
+      "base_path": "/entering-staying-uk/border-control"
+    },
+    {
+      "title": "Citizenship",
+      "base_path": "/entering-staying-uk/citizenship"
+    },
+    {
+      "title": "Settlement",
+      "base_path": "/entering-staying-uk/settlement"
+    },
+    {
+      "title": "Refugee, asylum and human rights claims",
+      "base_path": "/entering-staying-uk/asylum-refugee-human-rights-claims"
+    },
+    {
+      "title": "Visas and entry clearance",
+      "base_path": "/entering-staying-uk/visas-entry-clearance"
+    },
+    {
+      "title": "Regional and local government",
+      "base_path": "/regional-and-local-government"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Registering to vote: easy read form",
+  "body": "\"How to register to vote  You can apply to register to vote either:   online at Register to vote; or by printing off and completing this form and then sending it to your electoral registration office    What you need to know about registering to vote  Registering to vote will let you have your say in local elections, general elections and referendums.  People with a learning disability have the same right to vote as everyone else.  You only need to register once - you do not need to register separately for every election.  You must register again if you’ve changed address, name or nationality.  When you register to vote, you’ll be asked for your National Insurance number (but you can still register if you do not have one). Find your National Insurance number.  If you are from Northern Ireland you’ll need to use a different form to register to vote.  What you need to know about how to vote  Advice on what to expect when you go to vote in person.  Voting if you have a disability  If you have a disability, your electoral registration office can tell you about:   physical access, for example wheelchair ramps and disabled parking spaces low-level polling booths any specific equipment you need   Every polling station must provide at least one large print display version of the ballot paper.  Support is also available for electors who require additional assistance to cast their vote in Northern Ireland. \"",
+  "base_path": "/government/publications/registering-to-vote-easy-read-form",
+  "taxons": [
+    {
+      "title": "Voting",
+      "base_path": "/government/voting"
+    }
+  ]
+}

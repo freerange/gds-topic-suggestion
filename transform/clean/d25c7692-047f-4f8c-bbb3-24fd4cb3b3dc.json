@@ -1,0 +1,11 @@
+{
+  "title": "Connected applications: caseworker guidance",
+  "body": "\"This guidance tells HM Passport Office staff about connected applications. It includes how to process connected applications on Digital Application Processing (DAP). \"",
+  "base_path": "/government/publications/connected-applications-caseworker-guidance",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

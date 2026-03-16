@@ -1,0 +1,19 @@
+{
+  "title": "How GCSE and A level grading works – teachers’ and headteachers’ guide",
+  "body": "\"As teachers and school and college leaders, you play a crucial role in helping your community understand the GCSE and A level grading process. This overview will give you the technical detail you need to confidently answer questions from students, other staff and parents.   \"",
+  "base_path": "/government/publications/how-gcse-and-a-level-grading-works-teachers-and-headteachers-guide",
+  "taxons": [
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    },
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

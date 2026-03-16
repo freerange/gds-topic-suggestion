@@ -1,0 +1,31 @@
+{
+  "title": "New Commission to help accelerate NHS use of AI ",
+  "body": "\"   New National Commission will help accelerate safe access to AI in healthcare and across the NHS by advising on new regulatory rulebook – set to be published next year    With expertise from global AI leaders, clinicians and regulators, the Commission will immediately review tech that’s being held back by regulatory uncertainty, like AI assistants for doctors    It follows new tech being trialled to speed up discharges and let GPs focus on patients instead of taking notes, as tech plays central part in transforming the NHS under the Plan for Change     The NHS should get quicker access to the latest AI tools, thanks to a new National Commission that has been tasked with advising the Medicines and Healthcare products Regulatory Agency (MHRA) on how to re-write the regulatory rulebook on AI in healthcare, which will be published next year.    The UK National Commission on the Regulation of AI in Healthcare will bring in experts from big tech companies – like Google and Microsoft – as well as leading clinicians, researchers and patient advocates, to advise regulators on how to speed up access to the latest tech in a safe way, so British patients can safely benefit from it first.   In the meantime, the Commission will also look at accelerating access to AI assistants for doctors that help by taking notes, with regulatory uncertainty currently holding the tech back. Early tests of ‘Ambient Voice Technology’ shows that it has reduced admin to mean that more people could be seen in A&E and clinicians could spend more time focusing on patients.   The Commission will also help by providing regulatory clarity on various AI tools such as those for radiology and pathology, and remote monitoring systems to support virtual care of patients from their own homes – alerting staff to early signs of deterioration while helping people live independently.   As well as helping British patients feel the benefit of new technology first, by providing regulatory clarity for new AI tools this approach will attract technology companies to invest in developing and using their latest innovations in the UK, driving forward the government’s plan to build an NHS fit for the future as part of the Plan for Change.   Science and Technology Secretary Liz Kendall said:    “AI has incredible potential to help doctors spot and treat diseases earlier. But we need experts to come together so patients can benefit from these opportunities quickly and safely.   “This Commission will ensure the UK leads the way in making these game-changing  technologies available in the safest possible way, helping more of us to lead healthy, longer lives and supporting our NHS.”    Health Innovation Minister, Zubir Ahmed, said:   “AI has the potential to transform healthcare, but only if we get the regulation right. This Commission will ensure we harness the power of artificial intelligence to save lives and improve care, whilst maintaining the highest safety standards our patients deserve.   “By bringing together the brightest minds in healthcare, technology and patient safety, our Plan for Change is positioning the UK...",
+  "base_path": "/government/news/new-commission-to-help-accelerate-nhs-use-of-ai",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

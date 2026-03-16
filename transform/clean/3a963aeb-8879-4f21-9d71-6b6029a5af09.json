@@ -1,0 +1,11 @@
+{
+  "title": "HM Land Registry expenditure over £25,000: 2025",
+  "body": "\"We publish details of all our transactions of £25,000 and over. \"",
+  "base_path": "/government/publications/hm-land-registry-expenditure-over-25000-2025",
+  "taxons": [
+    {
+      "title": "Land registration",
+      "base_path": "/housing-local-and-community/land-registration"
+    }
+  ]
+}

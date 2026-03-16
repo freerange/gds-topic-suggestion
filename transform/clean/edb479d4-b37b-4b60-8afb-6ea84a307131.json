@@ -1,0 +1,19 @@
+{
+  "title": "National Child Measurement Programme: privacy notice",
+  "body": "\"The National Child Measurement Programme (NCMP) - also known as the school height and weight checks - is a mandatory public health programme in England that collects the height and weight measurements of primary school children in reception (aged 4 to 5) and year 6 (aged 10 to 11). The measurements are used to calculate a child’s weight status.  We collect this information to build an understanding of how children are  growing so they and their families can get the best possible advice and support. The information from the NCMP is also used by local authorities and the NHS to plan  services to promote healthier growth in children.  This privacy notice is for anyone whose child is measured as part of the NCMP. It describes how we collect and use your child’s personal information, including:   what we do with your information how we protect your information and keep it secure how to contact us or make a complaint   \"",
+  "base_path": "/government/publications/national-child-measurement-programme-privacy-notice",
+  "taxons": [
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    },
+    {
+      "title": "Exercise and physical activity",
+      "base_path": "/health-and-social-care/exercise-physical-activity"
+    },
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    }
+  ]
+}

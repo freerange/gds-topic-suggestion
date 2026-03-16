@@ -1,0 +1,15 @@
+{
+  "title": "Dangerous goods safety adviser exams",
+  "body": "\"To qualify you need to pass dangerous goods safety adviser (DGSA) exams on:   all dangerous goods classes the core module either road, rail or inland waterways   You have to pass these exams:   within 12 months of taking your first exam to qualify every 5 years to stay qualified   The exam questions will cover the topics in the dangerous goods safety adviser exam syllabus.   There’s different guidance on how to book a dangerous goods safety adviser exam.   \"",
+  "base_path": "/government/publications/dangerous-goods-safety-adviser-exams",
+  "taxons": [
+    {
+      "title": "Safe transport of dangerous goods by road and rail",
+      "base_path": "/transport/safe-transport-of-dangerous-goods-by-road-and-rail"
+    },
+    {
+      "title": "Safe transport of dangerous goods by sea",
+      "base_path": "/transport/safe-transport-of-dangerous-goods-by-sea"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "NIO: Senior officials’ business expenses, hospitality and meetings data collection",
+  "body": "\"NIO publishes details of senior officials’ business expenses and hospitality and the Permanent Secretary’s meetings on a quarterly basis.  This data is also available on data.gov.uk. \"",
+  "base_path": "/government/collections/nio-senior-officials-business-expenses-hospitality-and-meetings-data-collection",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "MHRA seeks input on AI regulation at ‘pivotal moment’ for healthcare",
+  "body": "\"Members of the public, clinicians, industry and healthcare providers are being asked to share their views on how AI in healthcare should be regulated, as part of a “Call for Evidence” launched by the Medicines and Healthcare products Regulatory Agency (MHRA) today (18 December 2025).  This will support the work of the newly formed National Commission into the Regulation of AI in Healthcare which brings together global AI leaders, clinicians, regulators and patient advocates and advises the MHRA on the future of health AI regulation.  It is a vital opportunity for all voices, including patients, health professionals, innovators, and the public, to influence the development of a new set of standards and safeguards for how AI is used in healthcare.  The input will help the MHRA to effectively regulate new AI technologies in the NHS and wider healthcare and ensure they support innovation and meet the needs of patients and families.   The call for evidence seeks to hear from everyone, whether they are familiar with how AI is being used in healthcare or simply have thoughts about what rules should be in place to ensure it is proportionately regulated.   Key themes include:  ·       Modernising the rules for AI in healthcare: Are the current rules for regulating AI in healthcare working, or do they need updating to keep pace with new technology?  ·       Keeping patients safe as AI evolves: As AI systems become more advanced and are used in new ways, how can we spot and address any problems quickly, especially with new types of AI that can learn and change over time?  ·       Clarifying responsibility: What should the distribution of responsibilities between regulators, companies, healthcare organisations and individuals involved in the use of technology in healthcare look like?   Chief Executive of the MHRA Lawrence Tallon, who took over the role earlier this year and who has spearheaded the formation of the Commission, said:    AI is already revolutionising our lives, both its possibilities and its capabilities are ever-expanding, and as we continue into this new world, we must ensure that its use in healthcare is safe, risk-proportionate and engenders public trust and confidence.    The National Commission brings together a host of experts including patients’ groups, clinicians, industry, academics and members from across government. Today we are asking the public to contribute by sharing their thoughts, experiences and opinions.  We want everyone to have the chance to help shape the safest and most advanced AI-enabled healthcare system in the world at this truly pivotal moment.   Professor Alastair Denniston, head of the UK’s Centre of Excellence in Regulatory Science in AI and Digital Health (CERSI-AI) and who chairs the Commission, said: “We are starting to see how AI health technologies could benefit patients, the wider NHS and the country as a whole.    But we are also needing to rethink our safeguards. This is not just about the technology ‘in the box’, it is about how the technology works in the real world.  It is about how AI is used by health professionals or...",
+  "base_path": "/government/news/mhra-seeks-input-on-ai-regulation-at-pivotal-moment-for-healthcare",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

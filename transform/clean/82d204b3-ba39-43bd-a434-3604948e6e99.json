@@ -1,0 +1,35 @@
+{
+  "title": "EA Chief Regulator launches fresh report into state of environmental regulation",
+  "body": "\"Environment Agency Chief Regulator, Dr Jo Nettleton, has today (Friday 17 January) called for the environmental regulation framework to be reformed in order to help better protect people and the environment and enable businesses to grow.    It comes as a brand-new report, published by the Chief Regulator, shows that across dozens of sectors – from waste to chemicals and through to water quality – 93% of the more than 14,000 businesses are complying with their environmental permits. However, a small group of rogue operators continue to be reckless, harming their local communities, and were punished with hefty fines totalling £8.7 million over the last year.   In today’s report, Jo Nettleton has called for the Environment Agency’s regulation to go further and have “more teeth”, ensuring firm action is taken against those whose performance falls below standard, so that they improve, are held to account and do not gain advantage from cutting corners.  Environment Agency’s Chief Regulator Jo Nettleton said:     We have to strike a balance between regulation that supports good businesses and removes unnecessary burdens, but can also show more teeth in clamping down against operators who fall below the required standards.    I want to ensure the Environment Agency is holding to account those poor performers, so that they improve and do not gain advantage from cutting corners.   That is why we need reforms to the regulatory framework – enabling us to deliver the change needed to better protect communities, and the environment they thrive in, for generations to come.   Environment Agency’s Chair Alan Lovell said:     Our staff are at the forefront of delivering better environmental outcomes and transforming the way businesses are regulated across England.    I welcome the Chief Regulator’s report, which highlights the positive outcomes delivered across the organisation but is a stark reminder of the further progress needed to deliver for our customers, the public and environment for years to come.    Our teams will continue to collaborate with Jo over the coming year to deliver on our joint priorities, ensuring we are a more efficient regulator that is fit for the future.   The Chief Regulator’s newly-created role is to hold the Environment Agency to account in delivering its regulatory activities and to champion best practice as part of the EA’s drive to be an open and transparent organisation.    The report also found that, last year, the agency successfully shut down 63 illegal waste sites, bringing the total number in operation to 344 – the lowest total figure on record. Enforcement officers also prevented nearly 34,000 tonnes of waste from being illegally exported by waste criminals.    However, there are other areas where the performance of industry has not been good enough. Earlier this year, 5 of the 9 water and sewerage companies were rated as requiring significant improvement, with the latest Event Duration Monitoring data showing a large rise in spills – 464,056 hours compared to 301,091 in 2022. There is now 100% coverage on storm overflows, which means more spills are recorded.   EA Action   Over the last...",
+  "base_path": "/government/news/ea-chief-regulator-launches-fresh-report-into-state-of-environmental-regulation",
+  "taxons": [
+    {
+      "title": "Chemicals",
+      "base_path": "/environment/chemicals"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Waste and recycling",
+      "base_path": "/environment/waste-and-recycling"
+    },
+    {
+      "title": "Water management",
+      "base_path": "/environment/water-management"
+    }
+  ]
+}

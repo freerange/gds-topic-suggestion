@@ -1,0 +1,27 @@
+{
+  "title": "The Irish Sea Marine Protected Areas Fishing Gear Byelaw 2024",
+  "body": "\"This draft byelaw covers ICES area 7a and includes measures for the following MPAs:    Fylde – prohibition of bottom towed gear across the whole of the MPA.    Shell Flat and Lune Deep – prohibition of bottom towed gear across the whole of the Shell Flat portion of the MPA.    West of Copeland - prohibition of bottom towed gear across the whole of the MPA.    West of Walney – prohibition of bottom towed gear across the whole of the MPA.   \"",
+  "base_path": "/government/publications/the-irish-sea-marine-protected-areas-fishing-gear-byelaw-2024",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    },
+    {
+      "title": "Species protection and marine conservation",
+      "base_path": "/environment/species-protection-and-marine-conservation"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

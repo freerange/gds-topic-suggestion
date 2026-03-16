@@ -1,0 +1,11 @@
+{
+  "title": "Research on cyber security in enterprise connected devices",
+  "body": "\"“Enterprise connected devices” (or “IoT devices”) are devices used by businesses and organisations such as office printers, internet-connected telephones, building entry systems and room booking systems.  The government is concerned about the security of these products as vulnerable devices can provide a route for hostile actors to attack the IT systems used by businesses.  As part of the government’s work to address this issue and improve cyber resilience across the UK economy, the government commissioned NCC Group to conduct a vulnerability assessment of some commonly-used enterprise connected devices.  The research is attached here and the key findings include:   A number of serious remote code execution vulnerabilities were discovered that could give an unauthenticated attacker full control of a device over the network. Outdated software was prevalent across devices, with one device’s bootloader being over 15 years old. In most cases an attacker with physical access to a device would be able to fully compromise a device and install a persistent backdoor. Most tested devices run all processes as the highly privileged “root” user, potentially giving an attacker unrestricted access or control of a device. Many of the discovered issues were related to generally insecure configuration of services, applications or features. Adherence to the NCSC’s Device Security Principles and the ETSI EN 303 645 standard was mixed across the devices.   This research was published on 12 May 2025 alongside a government call for views on enterprise device security.   Respond to the call for views on enterprise device security   See also:   Research on enterprise IoT security Cyber security in enterprise connected devices   \"",
+  "base_path": "/government/publications/research-on-cyber-security-in-enterprise-connected-devices",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

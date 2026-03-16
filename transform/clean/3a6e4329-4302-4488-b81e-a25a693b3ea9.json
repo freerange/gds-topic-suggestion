@@ -1,0 +1,11 @@
+{
+  "title": "Have you informed the MCA about modifications to your vessel?",
+  "body": "\"Safety flyer issued with the investigation report into the capsize and foundering of the stern trawler Njord (SH 90) 150 miles north-east of Peterhead, Scotland on 6 March 2022, resulting in one fatality.  The document summarises the circumstances of the accident and provides multiple safety considerations for members of the fishing community.  This information has been prepared for the:   fishing industry   Related publication  An investigation report has also been prepared for this accident. \"",
+  "base_path": "/government/publications/have-you-informed-the-mca-about-modifications-to-your-vessel",
+  "taxons": [
+    {
+      "title": "Maritime accidents and serious incidents",
+      "base_path": "/transport/maritime-accidents-and-serious-incidents"
+    }
+  ]
+}

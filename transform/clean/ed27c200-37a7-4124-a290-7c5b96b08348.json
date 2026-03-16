@@ -1,0 +1,11 @@
+{
+  "title": "Managing Waste for Disposal",
+  "body": "\" \"",
+  "base_path": "/government/collections/waste-package-guidance",
+  "taxons": [
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    }
+  ]
+}

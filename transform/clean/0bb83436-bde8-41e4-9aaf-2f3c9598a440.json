@@ -1,0 +1,11 @@
+{
+  "title": "National Insurance numbers allocated to adult overseas nationals to September 2025",
+  "body": "\"This Department for Work and Pensions (DWP) quarterly report contains data on National Insurance number allocations to adult overseas nationals entering the UK.  National Insurance number is referred to as NINo in the statistics release.  \"",
+  "base_path": "/government/statistics/national-insurance-numbers-allocated-to-adult-overseas-nationals-to-september-2025",
+  "taxons": [
+    {
+      "title": "Entering and staying in the UK",
+      "base_path": "/entering-staying-uk"
+    }
+  ]
+}

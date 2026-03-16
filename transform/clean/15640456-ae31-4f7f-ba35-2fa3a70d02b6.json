@@ -1,0 +1,11 @@
+{
+  "title": "High Heat Generating Waste Disposal Container Concepts",
+  "body": "\"The detailed design of disposal containers for HHGW is yet to be finalised and the current focus on the packaging of HHGW is on precursor products. For more information, see Preparation of High Heat Generating Waste for Disposal.  The detailed design of the disposal container will depend on the choice of disposal system concept. For more information, see the Generic Disposal System Specification Part B.  Each disposal system concept will utilise a robust disposal container design made typically from copper or carbon steel. The image below shows an example of a disposal container that may be used; however, alternative designs are in development.   Above, a concept image of a typical disposal container for HHGW.  See previous: Preparation of High Heat Generating Waste for Disposal \"",
+  "base_path": "/guidance/high-heat-generating-waste-disposal-container-concepts",
+  "taxons": [
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    }
+  ]
+}

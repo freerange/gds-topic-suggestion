@@ -1,0 +1,11 @@
+{
+  "title": "Removing VAT on donations of eligible goods from businesses to charities",
+  "body": "\"This measure introduces a new VAT relief for businesses that donate goods to charities.  The relief removes the requirement for businesses to account for VAT on eligible goods that are donated for onward donation or for use in the charity’s non-business charitable activities.  \"",
+  "base_path": "/government/publications/removing-vat-on-donations-of-eligible-goods-from-businesses-to-charities",
+  "taxons": [
+    {
+      "title": "Accounting for VAT",
+      "base_path": "/money/business-tax-vat-accounting-for-vat"
+    }
+  ]
+}

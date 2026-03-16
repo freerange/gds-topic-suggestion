@@ -1,0 +1,11 @@
+{
+  "title": "Access to Nature Statistics",
+  "body": "\"This series contains official statistics and research on access to nature throughout England. Natural spaces can deliver a wide range of environmental, economic, health and wellbeing benefits. These indicators set a baseline for current levels of access to blue and green space from every household in England, helping us to track progress against the Environmental Improvement Plan commitments relating to access. This includes work to better represent different types of blue and green space to enable further mapping and analysis.  \"",
+  "base_path": "/government/collections/access-to-nature-statistics",
+  "taxons": [
+    {
+      "title": "Recreation",
+      "base_path": "/society-and-culture/recreation"
+    }
+  ]
+}

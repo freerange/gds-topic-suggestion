@@ -1,0 +1,11 @@
+{
+  "title": "Venous Thromboembolism (VTE) Risk Assessment Quarterly Publication Q4 2024/25",
+  "body": "\"The mandatory data collection started in June 2010; it was paused during the pandemic and following a consultation process, has been reinstated and is ongoing until further notice.  This data collection asks for the following information:   number of patients (aged 16 and over at the time of admission) admitted as acute inpatients in the month who have been risk assessed for VTE within 14hrs of admission to hospital using the criteria in the NICE guidance total number of inpatients (aged 16 and over at the time of admission) admitted in the month   The percentage of inpatients (aged 16 and over at the time of admission) admitted in the month who have been risk assessed for VTE on admission is automatically calculated from items (1) and (2).  The collection opens on the first working day of the month following the end of the quarter data is being submitted for. The trusts are required to upload their data on VTE risk assessment onto SDCS and signed off before the submission deadline which is the last working day of the same month.  Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/venous-thromboembolism-vte-risk-assessment-quarterly-publication-q4-202425",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

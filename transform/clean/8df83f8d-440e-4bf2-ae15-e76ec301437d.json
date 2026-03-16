@@ -1,0 +1,15 @@
+{
+  "title": "Advanced Manufacturing Sector Plan",
+  "body": "\"The Sector Plan will ensure the UK’s advanced manufacturing sector is at the forefront of tackling the challenges of our era – from decarbonisation to harnessing AI – and ready to seize new commercial opportunities.  The plan’s ambition is to nearly double annual business investment in the sector, giving UK firms an edge in 6 advanced manufacturing industries of the future (advanced materials, aerospace, agri-tech, automotive, batteries and space), to drive growth across the UK.  \"",
+  "base_path": "/government/publications/advanced-manufacturing-sector-plan",
+  "taxons": [
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    },
+    {
+      "title": "Manufacturing",
+      "base_path": "/business-and-industry/manufacturing"
+    }
+  ]
+}

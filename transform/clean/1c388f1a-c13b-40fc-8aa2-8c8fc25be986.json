@@ -1,0 +1,19 @@
+{
+  "title": "DECISION No 3/2025 of the Joint Committee established by the Agreement on the withdrawal of the UK from the EU: adding 2 newly adopted Union acts to Annex 2 to the Windsor Framework",
+  "body": "\"This decision was adopted at the Withdrawal Agreement Joint Committee meeting on 29 April 2025. \"",
+  "base_path": "/government/publications/decision-no-32025-of-the-joint-committee-established-by-the-agreement-on-the-withdrawal-of-the-uk-from-the-eu-adding-2-newly-adopted-union-acts-to-a",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    },
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    }
+  ]
+}

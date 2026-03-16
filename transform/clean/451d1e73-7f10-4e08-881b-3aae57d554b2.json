@@ -1,0 +1,15 @@
+{
+  "title": "Information for employers, trainee and qualified Teachers",
+  "body": "\"Information and contacts for employers  Check a teacher’s record  Use this service to check a teacher’s record before they start working for your school, college, teacher supply agency, or other organisation.  Check a teacher’s record - GOV.UK  Contact us  TRA Prohibition checks  If you are unable to use Check a teacher’s record - GOV.UK to check whether a teacher is subject to a prohibition or another sanction please contact us.  Email: TRA.Prohibition@education.gov.uk  Information and contacts for trainee and qualified teachers  Access your teaching qualifications  This service lets you download your teaching certificates and change the name on them. You can also check the details of your initial teacher training and induction.  Access your teaching qualifications  Qualified Teacher Status (QTS): qualify to teach in England  Find out how to obtain qualified teacher status (QTS) to teach in a maintained school or non-maintained special school in England.  Qualified teacher status (QTS): qualify to teach in England  Find a lost Teacher Reference Number (TRN)  Use this service to:   find your teacher reference number (TRN) if you do not know it or have forgotten it check if you have a TRN   Find a lost teacher reference number (TRN)  Early Career Teacher (ECT) induction appeals  How to appeal a newly qualified teacher induction decision. Also includes how to attend an induction appeal hearing as an observer.  Early Career Teacher (ECT) induction appeals - GOV.UK  Contact us  Qualified Teacher Status  Email: teaching.status@education.gov.uk  Support for trainee teachers and teachers accessing their teaching qualifications.  Early Career Teacher (ECT) induction  Email: teacher.induction@education.gov.uk  Information for ECTs and appropriate bodies regarding the statutory ECT induction period and data returns to TRA. Our helpdesk no longer provides support by phone but you can contact us by email instead. \"",
+  "base_path": "/government/collections/information-for-employers-trainee-and-qualified-teachers",
+  "taxons": [
+    {
+      "title": "Recruiting, inducting and managing teachers",
+      "base_path": "/education/recruiting-inducting-and-managing-teachers"
+    },
+    {
+      "title": "Teacher records",
+      "base_path": "/education/teacher-records"
+    }
+  ]
+}

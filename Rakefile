@@ -42,6 +42,18 @@ def strip_tags(s)
   Nokogiri.HTML(s).text.gsub(/\\n\s*/, " ")
 end
 
+class String
+  def truncate_words(words_count, options = {})
+    sep = options[:separator] || /\s+/
+    sep = Regexp.escape(sep.to_s) unless Regexp === sep
+    if self =~ /\A((?>.+?#{sep}){#{words_count - 1}}.+?)#{sep}.*/m
+      $1 + (options[:omission] || "...")
+    else
+      dup
+    end
+  end
+end
+
 def metadata_for(id)
   JSON.load_file("transform/clean/#{id}.json")
 end
@@ -59,7 +71,7 @@ raw_data_ids.each do |id|
       JSON.pretty_generate(
         {
           title: data['title'],
-          body: strip_tags(data['body']),
+          body: strip_tags(data['body']).truncate_words(500),
           base_path: data['base_path'],
           taxons: cleaned_taxons
         }))

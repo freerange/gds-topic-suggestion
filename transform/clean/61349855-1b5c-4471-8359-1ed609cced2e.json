@@ -1,0 +1,11 @@
+{
+  "title": "Forestry Commission enquiry privacy notice",
+  "body": "\"This notice tells you about personal data collection and processing at point of registration through a GOV.UK enquiry form for the Forestry Commission. \"",
+  "base_path": "/government/publications/forestry-commission-enquiry-privacy-notice",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    }
+  ]
+}

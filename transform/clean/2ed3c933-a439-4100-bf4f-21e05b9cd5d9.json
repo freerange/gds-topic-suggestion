@@ -1,0 +1,15 @@
+{
+  "title": "Housing Benefit subsidy mid-year estimates: Apr 2024 to Mar 2025",
+  "body": "\"The data table shows the local authority Housing Benefit (HB) subsidy mid-year estimates for expenditure and subsidy of HB for England, Scotland and Wales.  These figures are projected HB payments for the financial year 2024 to 2025 and are used as the basis for subsidy payments in the second 6 months of that year.  The guidance notes and forms have been added to explain the cell data given in the data table.  The forms are used by local authorities to claim a subsidy to administer and pay HB.  \"",
+  "base_path": "/government/publications/housing-benefit-subsidy-mid-year-estimates-apr-2024-to-mar-2025",
+  "taxons": [
+    {
+      "title": "Heating and housing benefits",
+      "base_path": "/welfare/heating"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

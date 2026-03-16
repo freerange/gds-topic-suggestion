@@ -1,0 +1,11 @@
+{
+  "title": "Crime outcomes in England and Wales 2024 to 2025",
+  "body": "\"Police recorded crime statistics on crime outcomes assigned by the police for the financial year ending March 2025. \"",
+  "base_path": "/government/statistics/crime-outcomes-in-england-and-wales-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

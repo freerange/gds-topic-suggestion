@@ -1,0 +1,23 @@
+{
+  "title": "The Pall Mall Process: consultation on good practices summary report",
+  "body": "\"The Pall Mall Process, led by the governments of the UK and France, is an initiative bringing together States, businesses and civil society, launched in London in February 2024, to discuss responding to the threat presented by the proliferation and irresponsible use of commercial cyber intrusion capabilities (CCICs). They published the ‘Pall Mall Declaration’, also available in French: Processus de Pall Mall.   From August to October 2024 the UK and France held a consultation inviting views on good practice relating to commercial cyber intrusion capabilities.    The responses to this consultation have been collated in this report. The report does not represent the policy of the United Kingdom or France. \"",
+  "base_path": "/government/publications/the-pall-mall-process-consultation-on-good-practices-summary-report",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

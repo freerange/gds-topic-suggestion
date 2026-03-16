@@ -1,0 +1,11 @@
+{
+  "title": "Physical energy flow accounts (PEFA) 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/physical-energy-flow-accounts-pefa-2025",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

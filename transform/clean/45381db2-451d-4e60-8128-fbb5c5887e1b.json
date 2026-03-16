@@ -1,0 +1,19 @@
+{
+  "title": "Understanding the population of Company Owner Managers",
+  "body": "\"HM Revenue and Customs (HMRC) commissioned research agency Ipsos to carry out a survey to improve understanding of the Company Owner Manager population. For the purposes of this research, a Company Owner Manager was defined as an individual who was both a director and shareholder of their company.  This research was commissioned in March 2023, under the Conservative government (2010 to 2024), and completed in October 2024.  The research sought to:   identify the prevalence of companies with at least one Company Owner Manager in the UK understand the size and sector profile of companies with at least one Company Owner Manager understand how Company Owner Managers were remunerated for their work in the company, and reasons behind the chosen approaches   Fieldwork took place between October 2023 and April 2024.  The views in this report are the authors’ own and do not necessarily reflect those of HMRC.  \"",
+  "base_path": "/government/publications/understanding-the-population-of-company-owner-managers",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

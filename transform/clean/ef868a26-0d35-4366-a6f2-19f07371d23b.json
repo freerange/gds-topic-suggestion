@@ -1,0 +1,15 @@
+{
+  "title": "The Income and Corporation Taxes (Electronic Communications) Regulations 2003",
+  "body": "\"This measure amends the regulations to ensure that certain information is considered as part of a wider assessment to avoid the risk a single insignificant error could automatically invalidate that information, aligning the conditions for electronic delivery of information for Income Tax returns and other information contained in regulation 2(1) as they do for company tax returns.  The measure will also legislate to extend the scope of the regulations for penalty reform to ensure that Income Tax Self Assessment taxpayers who have volunteered to join the Making Tax Digital pilot from the 2024 to 2025 tax year will continue to receive penalty notices electronically. \"",
+  "base_path": "/government/publications/the-income-and-corporation-taxes-electronic-communications-regulations-2003",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

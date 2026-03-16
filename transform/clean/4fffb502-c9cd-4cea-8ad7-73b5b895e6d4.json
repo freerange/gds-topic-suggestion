@@ -1,0 +1,11 @@
+{
+  "title": "G7 Cyber Expert Group",
+  "body": "\"The G7’s Cyber Expert Group considers cyber security issues in the finance sector, with members drawn from the G7’s financial authorities. In this forum, the UK works with trusted international partners on important finance sector cyber security issues from ransomware to coordinating the G7’s response to a cyber incident in the finance sector. Since 2017, the group has produced a series of “Fundamental Elements” publications on these topics as well one-off publications outside of the series, which can be found on this page. \"",
+  "base_path": "/government/collections/g7-cyber-expert-group",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

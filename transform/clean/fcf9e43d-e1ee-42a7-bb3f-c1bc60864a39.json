@@ -1,0 +1,19 @@
+{
+  "title": "Patients to receive reminders and test results via the NHS App",
+  "body": "\"Millions more patients will receive appointment reminders, screening invitations and test results directly to their smartphones as the NHS turbocharges its digital revolution to make it easier for patients to access care.  The NHS App is set to become the go-to method of communication between the health system and patients, avoiding the need for at least 50 million costly letters to go through the postal system.  Driven by over £50 million investment, 270 million messages are expected to be sent through the NHS App this year - an increase of 70 million on the last financial year, saving an estimated £200 million across the system over the next 3 years.  This latest development forms part of the government’s shift from analogue to digital, to give patients better access to manage their healthcare journey and make informed decisions about their care.   In 2023 to 2024, there were around 8 million missed appointments in elective care, and around 30% of people missed a screening appointment. Push notifications will remind patients about upcoming appointments and relay important messages, allowing for faster communication and reducing the risk of these missed appointments and boosting productivity across the system.  Currently, almost 20 million are opted in to receive healthcare messages via the NHS App and could soon benefit from this latest expansion. The NHS is appealing to patients to download the NHS App and turn on notifications to make sure they receive important updates.  Health and Social Care Secretary Wes Streeting said:   People are living increasingly busy lives and want to access information about their health at the touch of a button, rather than having to wait weeks for letters that often arrive too late. This government is bringing our analogue health service into the digital age, so that being a patient in the NHS is as convenient as online banking or ordering a takeaway.  The NHS still spends hundreds of millions of pounds on stamps, printing and envelopes. By modernising the health service, we can free up huge amounts of funding to reinvest in the frontline.  Through the investment and reform in our Plan for Change, we will make the NHS App the front door to the health service and put power in the hands of patients.   As part of this digital-first transformation, over the next 3 years, patients in England will receive all appropriate NHS messages through the app first. Where app messaging is not available, communications will be sent via SMS and then by letter as a last resort. This means that people without access to smartphones and elderly patients can still receive messages through traditional routes, ensuring that no vital information is missed. Those without smartphone access will also benefit from phone lines being freed up, with many patients able to get the information they need digitally.  Accessible communications will continue to be supported for those with specific requirements.  The implementation of digital services across the health service is already well underway. Last year, the national vaccination programmes delivered 85 million messages via...",
+  "base_path": "/government/news/patients-to-receive-reminders-and-test-results-via-the-nhs-app",
+  "taxons": [
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    },
+    {
+      "title": "NHS efficiency",
+      "base_path": "/health-and-social-care/nhs-efficiency"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

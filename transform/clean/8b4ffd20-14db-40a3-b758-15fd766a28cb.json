@@ -1,0 +1,11 @@
+{
+  "title": "Tobacco Duty: rate changes",
+  "body": "\"This measure increases the duty rate on all tobacco products.  On 26 November 2025 rates will increase by the Tobacco Duty escalator of 2% above the Retail Price Index.  On 1 October 2026 rates will increase by the Tobacco Duty escalator of 2% above the forecasted Retail Price Index, plus an additional:   £2.20 per 100 cigarettes £2.20 per 50g on all other tobacco products  \"",
+  "base_path": "/government/publications/tobacco-duty-rate-changes",
+  "taxons": [
+    {
+      "title": "Tobacco Products Duty",
+      "base_path": "/money/tobacco-products-duty"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Retention schedule for data processed by DfE",
+  "body": "\"How DfE manages the retention of information in line with business requirements and legal obligations. \"",
+  "base_path": "/government/publications/retention-schedule-for-data-processed-by-dfe",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Transport appraisal and cost damping",
+  "body": "\"Cost damping in transport modelling is when passenger sensitivity to the cost of a journey decreases as the journey’s length or overall cost increases.  This research analyses different approaches to cost damping and compares them with economic appraisal techniques, such as the ‘rule of a half’.  John Bates Services carried out this research on behalf of the Department for Transport. \"",
+  "base_path": "/government/publications/transport-appraisal-and-cost-damping",
+  "taxons": [
+    {
+      "title": "Transport modelling and appraisal",
+      "base_path": "/transport/transport-modelling-and-appraisal"
+    }
+  ]
+}

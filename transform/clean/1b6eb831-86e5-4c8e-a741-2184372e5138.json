@@ -1,0 +1,11 @@
+{
+  "title": "Energy Efficiency of Housing in England and Wales: 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/energy-efficiency-of-housing-in-england-and-wales-2025",
+  "taxons": [
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

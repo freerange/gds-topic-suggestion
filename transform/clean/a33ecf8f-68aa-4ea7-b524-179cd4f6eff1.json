@@ -1,0 +1,11 @@
+{
+  "title": "Referring influenza samples to UKHSA's respiratory virus unit",
+  "body": "\"Guidance for health professionals submitting influenza samples to the UK Health Security Agency’s (UKHSA) respiratory virus unit (RVU) for virological surveillance.  Influenza strain surveillance informs pandemic early warning systems, the global vaccination programme as well as providing information for empirical antiviral choice.  \"",
+  "base_path": "/government/publications/referring-influenza-samples-to-ukhsas-respiratory-virus-unit",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

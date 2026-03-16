@@ -1,0 +1,15 @@
+{
+  "title": "Number and estimated value of cryptoassets identified by year, 2019/20 to 2024/25",
+  "body": "\"The linked HTML document contains annual data between 2019/20 and 2024/25 on the number and value of digital assets—such as cryptocurrencies and NFTs—identified by the Insolvency Service as recoverable from bankrupt individuals or liquidated companies in insolvency proceedings. \"",
+  "base_path": "/government/publications/number-and-estimated-value-of-cryptoassets-identified-by-year-201920-to-202425",
+  "taxons": [
+    {
+      "title": "Court claims, debt and bankruptcy",
+      "base_path": "/money/court-claims-debt-bankruptcy"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

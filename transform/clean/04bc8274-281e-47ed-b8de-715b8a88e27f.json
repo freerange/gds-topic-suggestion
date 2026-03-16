@@ -1,0 +1,19 @@
+{
+  "title": "The state of cyber security in adult social care",
+  "body": "\" This research was commissioned under the previous government (11 May 2010 to 5 July 2024).   This research report is intended to equip adult social care providers and their suppliers with the evidence and data needed to understand the extent of the risks posed by cyber.  It was commissioned by the Department of Health and Social Care.  The project was conducted by Ipsos UK in partnership with the Institute of Public Care at Oxford Brookes University between July 2023 and May 2024. \"",
+  "base_path": "/government/publications/the-state-of-cyber-security-in-adult-social-care",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

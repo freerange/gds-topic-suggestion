@@ -1,0 +1,19 @@
+{
+  "title": "Deprivation of Liberty Safeguards (DoLS) data collection",
+  "body": "\"The DoLS data collection gathers information on all DoLS applications in England on an annual basis.  CASSRs should use the data return template and guidance to submit data on DoLS applications for people in care homes and hospitals.  You can submit data from 1 April 2026 through NHS England’s Strategic Data Collection Service. We recommend using the validation tool before you submit the data.  Contact asc.statistics@dhsc.gov.uk if you cannot open the Excel documents.  \"",
+  "base_path": "/government/publications/deprivation-of-liberty-safeguards-dols-data-collection",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

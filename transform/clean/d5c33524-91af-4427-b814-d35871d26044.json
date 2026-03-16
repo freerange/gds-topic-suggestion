@@ -1,0 +1,11 @@
+{
+  "title": "Chlamydia: analyses to inform control interventions",
+  "body": "\"The results of investigations carried out by UKHSA into the decreases in chlamydia diagnoses seen in young people from 2023 to 2024 are presented. \"",
+  "base_path": "/government/publications/chlamydia-analyses-to-inform-control-interventions",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

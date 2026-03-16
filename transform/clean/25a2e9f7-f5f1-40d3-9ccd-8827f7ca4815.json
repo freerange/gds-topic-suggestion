@@ -1,0 +1,11 @@
+{
+  "title": "Get information from HM Land Registry",
+  "body": "\" Land registration is complex, designed to protect legal and financial interests in property. There can be significant consequences for any error. Please consider seeking legal representation. Before making an application without legal representation, it is important to consider the benefits of using a conveyancer.   Guidance     Search for land and property information Find and download title registers and title plans for property in England or Wales.   How to read a title register and plan These guides will help you download and read a title register and title plan. You can also find more detail on the difference between joint ownership or tenants in common, and how to change the status on the register.   Boundaries This guide explains the information that HM Land Registry holds that will help you find and correct details on your property boundaries. You can also watch our videos on property boundaries. Our blog on boundaries also answers some common questions.   Price Paid Data Get the latest property sale prices in England and Wales.   UK HPI Access the House Price Index for England and Wales.   1862 Register Access historical information about properties and people recorded in the 1862 Act Register.     \"",
+  "base_path": "/guidance/get-information-from-hm-land-registry",
+  "taxons": [
+    {
+      "title": "Land registration",
+      "base_path": "/housing-local-and-community/land-registration"
+    }
+  ]
+}

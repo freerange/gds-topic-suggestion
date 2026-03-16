@@ -1,0 +1,15 @@
+{
+  "title": "DHSC equality information: 2024",
+  "body": "\"This report provides information on how the Department of Health and Social Care met the public sector equality duty for its health and care policies and for its workforce. \"",
+  "base_path": "/government/publications/dhsc-equality-information-2024",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

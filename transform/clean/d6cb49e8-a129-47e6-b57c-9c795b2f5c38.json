@@ -1,0 +1,15 @@
+{
+  "title": "Police funding for England and Wales 2015 to 2026",
+  "body": "\"Includes a detailed breakdown of police funding for years ending March 2016 to March 2026 in Chapter 2 of the release. Chapter 3 provides information on difficulties in making comparisons before the year ending March 2016, whilst presenting a high-level summary from the year ending March 2011 onwards.  Accredited Official Statistics status  In 2021 this statistical series underwent an OSR assessment of compliance with the Code of Practice for Statistics. Shortly after the publication of Police Funding: England and Wales 2015 to 2022, in July 2021, the Office for Statistics Regulation (OSR) wrote to the Home Office confirming their designation of Accredited Official Statistics. \"",
+  "base_path": "/government/statistics/police-funding-for-england-and-wales-2015-to-2026",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "GOV.UK brand guidelines",
+  "body": "\"The look and feel of GOV.UK’s brand has been updated to make sure GOV.UK works well for everyone and can expand into new channels such as the GOV.UK App and the GOV.UK Wallet.  This document contains detailed brand guidance for all GOV.UK brand elements, including the colour palette, typography, and the GOV.UK ‘dot’.  The guidelines also show how the brand can flex appropriately to users, audience, content and context.  If you have a question about the GOV.UK brand guidelines, email govuk-brand-team@dsit.gov.uk. \"",
+  "base_path": "/government/publications/govuk-brand-guidelines",
+  "taxons": [
+    {
+      "title": "Design and build of government services",
+      "base_path": "/government/design-and-build-of-government-services"
+    }
+  ]
+}

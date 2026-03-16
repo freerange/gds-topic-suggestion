@@ -1,0 +1,11 @@
+{
+  "title": "Bovine TB epidemiology and surveillance in Great Britain, 2024",
+  "body": "\"This has been published to support the end of year epidemiology reports in the low risk area (LRA). It explains where the data comes from, methodology used, definitions and control protocols for TB.   The text is taken from the explanatory text published in reports from previous years, updated for the current reporting year and is published as a separate reference document to reduce the length of the data and epidemiology reports.  \"",
+  "base_path": "/government/publications/bovine-tb-epidemiology-and-surveillance-in-great-britain-2024",
+  "taxons": [
+    {
+      "title": "Bovine tuberculosis (bovine TB)",
+      "base_path": "/environment/bovine-tuberculosis"
+    }
+  ]
+}

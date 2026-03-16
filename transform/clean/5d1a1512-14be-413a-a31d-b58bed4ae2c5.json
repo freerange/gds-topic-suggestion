@@ -1,0 +1,11 @@
+{
+  "title": "Coroners statistics 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/coroners-statistics-2025",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

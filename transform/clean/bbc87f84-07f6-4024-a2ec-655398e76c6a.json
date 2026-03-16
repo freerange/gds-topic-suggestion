@@ -1,0 +1,19 @@
+{
+  "title": "Water resources planning guideline update",
+  "body": "\"This consultation is about the Environment Agency’s proposed updates to the water resources planning guideline.    The consultation information explains:    why we are consulting and what we aim to achieve  the questions we have for you  how you can respond    The consultation asks you to consider whether the guideline allows water companies to produce plans with secure and resilient water supplies which protect the environment. \"",
+  "base_path": "/government/consultations/water-resources-planning-guideline-update",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    },
+    {
+      "title": "Drought and water availability",
+      "base_path": "/business/environmental-management-water-drought-and-water-availability"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    }
+  ]
+}

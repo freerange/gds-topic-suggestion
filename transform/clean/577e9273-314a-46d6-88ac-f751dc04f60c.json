@@ -1,0 +1,11 @@
+{
+  "title": "Data for Theme G: Natural Beauty and Engagement",
+  "body": "\"This document contains data corresponding to the ‘Theme G: Natural Beauty and Engagement’ indicators of the Environmental Indicator Framework. \"",
+  "base_path": "/government/publications/data-for-theme-g-natural-beauty-and-engagement",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

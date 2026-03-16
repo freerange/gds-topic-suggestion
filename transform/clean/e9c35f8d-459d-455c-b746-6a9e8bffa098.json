@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Executive Spending 2024/2025",
+  "body": "\"A quick read version is also provided which provides a fast and easy summary of the Public Expenditure. \"",
+  "base_path": "/government/statistics/northern-ireland-executive-spending-20242025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    }
+  ]
+}

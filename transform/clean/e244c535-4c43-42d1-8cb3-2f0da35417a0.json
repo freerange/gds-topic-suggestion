@@ -1,0 +1,11 @@
+{
+  "title": "Aligning PAYE and Overseas Workday Relief",
+  "body": "\"This measure restricts the in-year Overseas Workday Relief that employers can provide to their eligible employees to no more than 30% of their income. It:   limits the proportion of income excluded from PAYE on the section 690 PAYE notification form that employers sent to HMRC aligns the in-year relief with the amount an employee can claim on their Self Assessment tax return  \"",
+  "base_path": "/government/publications/aligning-paye-and-overseas-workday-relief",
+  "taxons": [
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    }
+  ]
+}

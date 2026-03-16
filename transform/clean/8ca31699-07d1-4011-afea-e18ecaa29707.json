@@ -1,0 +1,11 @@
+{
+  "title": "Using human movement data to inform environmental risk management",
+  "body": "\"This project reviews the sources and types of human movement data currently available and explores how they could be used and combined with environmental quality data to understand exposure risks using two different case studies.  The Environment Agency regulates water and air-borne releases from industrial-scale processes to help protect people and wildlife. Consequently, data on the presence and movement of humans who may be exposed to risks relating to water or air quality is relevant to the Environment Agency. \"",
+  "base_path": "/government/publications/using-human-movement-data-to-inform-environmental-risk-management",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

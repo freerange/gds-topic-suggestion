@@ -1,0 +1,11 @@
+{
+  "title": "UK greenhouse gas emissions: 2024 final figures",
+  "body": "",
+  "base_path": "/government/statistics/announcements/uk-greenhouse-gas-emissions-2024-final-figures",
+  "taxons": [
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    }
+  ]
+}

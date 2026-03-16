@@ -1,0 +1,19 @@
+{
+  "title": "Scottish Income Tax — HMRC annual report 2025",
+  "body": "\"HMRC is required to report annually on its operation of Scottish Income Tax. This report details how we have fulfilled the responsibilities set out in our Service Level Agreement with the Scottish Government.  \"",
+  "base_path": "/government/publications/scottish-income-tax-hmrc-annual-report-2025",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Paying HMRC",
+      "base_path": "/money/paying-hmrc"
+    },
+    {
+      "title": "Scottish rate of Income Tax",
+      "base_path": "/money/personal-tax-income-tax-scottish-rate-of-income-tax"
+    }
+  ]
+}

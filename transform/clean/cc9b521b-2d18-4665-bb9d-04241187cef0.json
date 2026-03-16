@@ -1,0 +1,19 @@
+{
+  "title": "Moving to a single list for UK sanctions designations, 28 January 2026",
+  "body": "\"Introduction    The publication of sanctions lists by the UK government is changing on Wednesday 28 January 2026.   UK designations are currently detailed in 2 lists, the UK Sanctions List (UKSL), published by the Foreign, Commonwealth and Development Office and the Consolidated List of Asset Freeze Targets, published for HM Treasury by the Office of Financial Sanctions Implementation (OFSI).  This guidance is to help you understand and prepare for the change, in particular for businesses and industry that regularly use the UK Sanctions List and the OFSI Consolidated List for sanctions compliance. You will need to prepare systems to use data from the UK Sanctions List instead.   Systems that source data only from the OFSI Consolidated List or that rely only on the ‘OFSI Group ID’ identifier will need to be updated.   What is the UK Sanctions List  The UK Sanctions List has been the primary list of sanctions designations made under the Sanctions and Anti-Money Laundering Act 2018 (SAMLA) since launching in 2020. It provides a comprehensive list of those persons placed under sanctions through regulations made under SAMLA. The sanctions restrictions can include financial, immigration, trade or transport sanctions.  This differs from the OFSI Consolidated List which provides information on those subject to UK financial sanctions only.     A single list for UK sanctions designations  The Cross-government review of sanctions implementation and enforcement announced earlier this year that the UK will be moving to having a single list for all UK sanctions designations. This is in response to industry feedback that a single list will remove duplication of effort and simplify checks of who is subject to UK sanctions.    When will this happen  From 9am (UK time) on Wednesday 28 January 2026, the UK Sanctions List  (UKSL) will be the only sanctions list which details sanctions designations published by the UK government. The OFSI Consolidated List and its search tool will no longer be updated from this date.    What do I need to do  You will need to ensure that by Wednesday 28 January 2026, any systems that use the OFSI Consolidated List for sanctions screening purposes are instead using the data from the UK Sanctions List. Any systems that use ‘OFSI Group ID’ as an identifier will need to use the UK Sanctions List’s ‘Unique ID’ for new DPs.    All UK Sanctions List formats will retain historic OFSI Group ID identifiers for DPs designated prior to 28 January 2026. These historic Group IDs will remain valid for use, for example in licence applications, frozen asset or suspected breach reporting, though UKSL Unique IDs can also be used.   You should not wait to begin this process and can make adaptations immediately. If you use a specialist screener or other third-party providers, you should speak to your supplier to understand the impact, if any, on data you receive.   You should use this period before January 2026 to prepare any systems for the formal closure of the OFSI Consolidated List.   How to prepare for the change    Make sure you understand the impact of...",
+  "base_path": "/guidance/moving-to-a-single-list-for-uk-sanctions-designations-28-january-2026",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    }
+  ]
+}

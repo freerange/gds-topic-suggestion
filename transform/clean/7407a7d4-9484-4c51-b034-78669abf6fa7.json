@@ -1,0 +1,11 @@
+{
+  "title": "Local Authority Bus Grant allocations",
+  "body": "\"The Local Authority Bus Grant (LABG) is a consolidated grant for local transport authorities to maintain and improve bus services, comprising both capital and revenue funding.  From 2026 to 2027, the allocation of LABG will continue the approach introduced in 2025 to 2026, bringing together funding for Bus Service Improvement Plans (BSIP) and the Local Authority Bus Service Operators’ Grant (LA BSOG) into a single consolidated grant.  Revenue funding is allocated to all local transport authorities in England outside London.  Capital funding is allocated to all local transport authorities in England outside London, except those that receive the City Region Sustainable Transport Settlement (CRSTS) or Transport for City Regions (TCR) funding.  \"",
+  "base_path": "/government/publications/local-authority-bus-grant-allocations",
+  "taxons": [
+    {
+      "title": "Improvements to buses",
+      "base_path": "/transport/improvements-to-buses"
+    }
+  ]
+}

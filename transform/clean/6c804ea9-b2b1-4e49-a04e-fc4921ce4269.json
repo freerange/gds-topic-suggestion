@@ -1,0 +1,15 @@
+{
+  "title": "Starting again",
+  "body": "\"Starting a new company  Not all companies succeed. If you were a director of a company that has closed, you may want to start another one. You can do this if you are not bankrupt or disqualified from acting as a director. The new company can trade a similar business to the closed one but there are restrictions on reusing an insolvent company’s name.  Using Assets from a Closed Company  An asset of a company is anything that it owns. Assets can be almost anything that has value, for example machinery, tables, laptops, good will or company name, and cash.  If you want to use the assets of the closed company in a new one, you should speak to the closed company’s Liquidator or Administrator. Even if you believe the asset has minimal or no value to others, it must still be properly transferred over to the new company. This makes sure the asset transfer is fair to everyone.  Impact on Staff  You may want staff who worked for the old company to work for the new company. You should seek professional advice on this from your Liquidator or Administrator. Your employee’s rights may be protected by TUPE, which you can read more about on the ACAS website.  Impact on new company  HMRC may require a new company to pay a cash deposit or bond where they believe there is a risk of non-payment of tax. This cash deposit is known as a ‘security’ which can be retained by HMRC if a company fails to pay the tax they owe. Securities can be required for a variety of tax schemes including but not limited to VAT and for PAYE and National Insurance Contributions. \"",
+  "base_path": "/guidance/starting-again",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    },
+    {
+      "title": "Business debt and bankruptcy",
+      "base_path": "/business-and-industry/business-debt-and-bankruptcy"
+    }
+  ]
+}

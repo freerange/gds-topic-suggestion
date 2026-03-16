@@ -1,0 +1,15 @@
+{
+  "title": "Boiler Upgrade Scheme statistics: January 2025",
+  "body": "\" This release was initially published as ‘official statistics in development’ because it was a new statistics series and was still in development. The ‘in development’ label has been removed and the statistics are now published as ‘official statistics’. This is because:     There is a better understanding of the underlying data that is an input into these statistics and it is considered to be of good quality.    Historical revisions to the statistics are infrequent and at a scale that is immaterial to the overall narrative.     The methodological processes used to produce these statistics have gone through substantial improvement and development, including thorough quality assurance and testing.    The content of the statistics has evolved based on user feedback, including the introduction of new breakdowns.    The statistics have undergone an internal review and are considered to comply with the Code of Practice for Official Statistics.     These statistics show the uptake of the Boiler Upgrade Scheme to date including the number of vouchers applications and redemptions, as well as the costs of installation.  Enquiries about these statistics should be directed to: amelia.ash@energysecurity.gov.uk. \"",
+  "base_path": "/government/statistics/boiler-upgrade-scheme-statistics-january-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    },
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

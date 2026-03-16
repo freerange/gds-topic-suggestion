@@ -1,0 +1,39 @@
+{
+  "title": "SR2024 No 1: research and development at a Part A(1) installation",
+  "body": "\"These standard rules allow operators of installations to carry out research and development activities for the innovation, introduction, and improvement of products and processes associated with the permitted activities, providing they can meet the rules. \"",
+  "base_path": "/government/publications/sr2024-no-1-research-and-development-at-a-part-a1-installation",
+  "taxons": [
+    {
+      "title": "Chemicals",
+      "base_path": "/environment/chemicals"
+    },
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Producing and distributing food",
+      "base_path": "/environment/producing-distributing-food"
+    },
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

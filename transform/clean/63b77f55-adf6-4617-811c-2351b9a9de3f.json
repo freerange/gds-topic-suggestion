@@ -1,0 +1,11 @@
+{
+  "title": "UK NSC: evidence, consultations and reviews",
+  "body": "\"The UK NSC’s recommendations list shows whether screening is recommended for a condition or not. These pages also show if screening for a condition is currently being consulted on. \"",
+  "base_path": "/government/collections/uk-nsc-evidence-consultations-and-reviews",
+  "taxons": [
+    {
+      "title": "Population screening programmes",
+      "base_path": "/health-and-social-care/population-screening-programmes"
+    }
+  ]
+}

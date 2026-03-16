@@ -1,0 +1,11 @@
+{
+  "title": "Stamp Duty and Stamp Duty Reserve Tax exemption for PISCES transactions",
+  "body": "\"Private Intermittent Securities and Capital Exchange System (PISCES) is a new type of stock exchange that will allow private companies to have their shares traded intermittently.  The draft statutory instrument provides exemption from Stamp Duty and Stamp Duty Reserve Tax (SDRT) for transfers of admitted PISCES shares in connection with trading activity that takes place on a PISCES under the Financial Market Infrastructure sandbox arrangements.  A power to make the regulations was introduced in the Finance Act 2025.  The consultation will run for 4 weeks starting on 26 March 2025 and ending on 23 April 2025.  \"",
+  "base_path": "/government/consultations/stamp-duty-and-stamp-duty-reserve-tax-exemption-for-pisces-transactions",
+  "taxons": [
+    {
+      "title": "Stamp duty on shares",
+      "base_path": "/money/stamp-duty-on-shares"
+    }
+  ]
+}

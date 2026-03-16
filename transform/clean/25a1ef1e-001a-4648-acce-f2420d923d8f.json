@@ -1,0 +1,11 @@
+{
+  "title": "Environmental Indicator Framework",
+  "body": "\"The Environmental Indicator Framework (EIF) consists of 66 indicators that describe environmental change in relation to the 10 goals of the Environmental Improvement Plan (EIP). The framework supports the statutory cycle of monitoring, planning and reporting on progress in improving the environment as established by the Environment Act.  The indicators cover natural capital assets (for example, land, freshwater, air and seas) and together they show the condition of these assets, the pressures acting upon them and the provision of services or benefits they provide. \"",
+  "base_path": "/government/collections/environmental-indicator-framework",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland waiting time statistics: cancer waiting times April - June 2025",
+  "body": "\"Presents information on the waiting times for patients accessing cancer services at hospitals in Northern Ireland. This information reports on the performance of health and social care (HSC) trusts against the ministerial target in Northern Ireland. \"",
+  "base_path": "/government/statistics/northern-ireland-waiting-time-statistics-cancer-waiting-times-april-june-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

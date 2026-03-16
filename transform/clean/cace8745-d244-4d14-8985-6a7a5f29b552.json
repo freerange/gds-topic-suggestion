@@ -1,0 +1,11 @@
+{
+  "title": "Clean Power 2030 metrics",
+  "body": "\"The data presented is on the Clean Power 2030 metrics - the share of Great Britain’s electricity generation produced by clean sources; the share of Great Britain’s electricity demand met by clean sources; and estimated emissions intensity of Great Britain’s electricity generation. Tables 1 and 2 are published annually, in GWh and percentage shares. Table 3 is published annually, in GWh and gCO2e/kWh.  Enquiries about these statistics should be directed to electricitystatistics@energysecurity.gov.uk \"",
+  "base_path": "/government/statistics/clean-power-2030-metrics",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

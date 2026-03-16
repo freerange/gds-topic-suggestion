@@ -1,0 +1,11 @@
+{
+  "title": "Retail Sales; Great Britain: March 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/retail-sales-great-britain-march-2026",
+  "taxons": [
+    {
+      "title": "High streets and town centres",
+      "base_path": "/housing-local-and-community/high-streets-and-town-centres"
+    }
+  ]
+}

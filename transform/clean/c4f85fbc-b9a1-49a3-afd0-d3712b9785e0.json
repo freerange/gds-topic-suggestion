@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Universal Credit Statistics: November 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/northern-ireland-universal-credit-statistics-november-2025",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

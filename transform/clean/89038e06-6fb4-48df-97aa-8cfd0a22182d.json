@@ -1,0 +1,11 @@
+{
+  "title": "Business case publications: collection",
+  "body": "\"As of 11 June 2025, all projects and programmes on the Government Major Projects Portfolio (GMPP) are required to publish a Summary Business Case, Full Business Case or Programme Business Case within 4 months of HM Treasury approval.   This collection page groups relevant publications from across all departments. Any queries relating to specific business cases should be directed to the publishing department.  Departments should follow the naming conventions for collection pages and publications detailed in the guidance on publishing business cases. \"",
+  "base_path": "/government/collections/business-case-publications-collection",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Better use of new and improved third-party data",
+  "body": "\"This measure represents the first phase of the government’s reforms to HMRC’s bulk data gathering powers and safeguards. It focuses on improving how financial account information and card sales data, already collected under schedule 23 of Finance Act 2011, are reported to HMRC. The proposed improvements are designed to make sure that HMRC receives the right data, of the right quality, at the right time to deliver for taxpayers. \"",
+  "base_path": "/government/publications/better-use-of-new-and-improved-third-party-data",
+  "taxons": [
+    {
+      "title": "Paying HMRC",
+      "base_path": "/money/paying-hmrc"
+    }
+  ]
+}

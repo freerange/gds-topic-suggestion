@@ -1,0 +1,15 @@
+{
+  "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2022/23",
+  "body": "\"This statistical bulletin has been produced by the Department for the Economy (DfE), Northern Ireland (NI) and provides information on the number of NI students enrolled at UK Higher Education Institutions (HEIs), and the number of students enrolled at NI HEIs, in the academic year 2022/23. \"",
+  "base_path": "/government/statistics/enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202223",
+  "taxons": [
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Insolvency practitioner bulletin 13 (2024): specified charges in insolvency",
+  "body": "\"This bulletin explains about when HMRC might raise a specified charge, and the introduction of a new process for insolvency cases to file pre-appointment returns. \"",
+  "base_path": "/government/publications/insolvency-practitioner-bulletin-13-2024-specified-charges-in-insolvency",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Company closure, administration, liquidation and insolvency ",
+      "base_path": "/business-and-industry/company-closure-administration-liquidation-and-insolvency"
+    }
+  ]
+}

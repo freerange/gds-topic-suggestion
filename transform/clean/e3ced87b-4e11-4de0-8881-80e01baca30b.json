@@ -1,0 +1,15 @@
+{
+  "title": "Homes England strategic plan 2025 to 2030",
+  "body": "\"This 5-year plan spans financial year 2025 to 2026 to financial year 2029 to 2030. It outlines:   our mission our strategic objectives and what we’re aiming to deliver how we’ll measure our performance  \"",
+  "base_path": "/government/publications/homes-england-strategic-plan-2025-to-2030",
+  "taxons": [
+    {
+      "title": "House building",
+      "base_path": "/housing-local-and-community/house-building"
+    },
+    {
+      "title": "Land and development opportunities",
+      "base_path": "/housing-local-and-community/land-development-opportunities"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Road traffic estimates in Great Britain: 2024",
+  "body": "\" Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing roadtraff.stats@dft.gov.uk with any comments about how we meet these standards.   Estimates of road traffic by:   vehicle type road type   in Great Britain and England for the year 2024.  Overall traffic levels in 2024 were higher than 2023 but remain slightly below pre-pandemic 2019 levels. Motor vehicle traffic on Great Britain’s roads increased by 1.6% between 2023 and 2024, to 336.2 billion vehicle miles. Traffic in 2024 was 0.7% lower than when compared to 2019 pre-pandemic levels.  In 2024:   car traffic levels were 256.1 billion vehicle miles, 1.9% higher than 2023 and 2.6% lower than 2019 van traffic was 58.5 billion vehicle miles, 1.3% higher from 2023 and 9.5% higher than 2019 lorry traffic levels were 16.6 billion vehicle miles, 2.0% lower than 2023 and 3.5% lower than 2019 England’s Strategic Road Network carried 96.9 billion vehicle miles of traffic, 1.1% higher than 2023 and similar to 2019 levels   Contact us  Road traffic and vehicle speed compliance statistics     Email roadtraff.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about Department for Transport (DfT) statistical publications as they are released, follow us on X at DfTstats.  \"",
+  "base_path": "/government/statistics/road-traffic-estimates-in-great-britain-2024",
+  "taxons": [
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK-Australia app cyber security: joint statement",
+  "body": "\"A joint statement from the UK and Australia on our shared approach to apps and app stores security. \"",
+  "base_path": "/government/publications/uk-australia-app-cyber-security-joint-statement",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

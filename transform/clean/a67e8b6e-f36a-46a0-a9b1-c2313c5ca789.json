@@ -1,0 +1,19 @@
+{
+  "title": "Wildfire management plan",
+  "body": "\"You need to complete a wildfire management plan if both of the following apply:    you’re applying for a licence to burn heather or grass on peat deeper than 30cm in a less favoured area (LFA)  you’re applying under reason 3.3 - to reduce the impact of wildfire    You’ll be asked to submit your wildfire management plan during your licence application.   How to complete a wildfire management plan   Use the template plan on this page. You should answer every question in as much detail as possible.  You’ll need to include supporting evidence in your plan, such as maps of your site. \"",
+  "base_path": "/government/publications/wildfire-management-plan",
+  "taxons": [
+    {
+      "title": "Rural development and land management",
+      "base_path": "/environment/rural-development-land-management"
+    },
+    {
+      "title": "Land sites",
+      "base_path": "/environment/planning-development-protected-sites-species-land-sites"
+    },
+    {
+      "title": "Wildlife and habitat conservation",
+      "base_path": "/environment/wildlife-habitat-conservation"
+    }
+  ]
+}

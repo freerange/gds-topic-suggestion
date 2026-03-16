@@ -1,0 +1,43 @@
+{
+  "title": "Budget 2025 - MHCLG",
+  "body": "\"The Chancellor yesterday (26 November) announced the Budget, focused on taking the fair choices to deliver on the country’s priorities of cutting the cost of living, reducing NHS waiting lists and driving down our borrowing and debt.    For the department, the Budget brings with it the prospect of thousands of new homes, new powers for Mayors to drive improvements in local communities, hundreds more planners to turbocharge housebuilding and major investment supporting every region to prosper.  Through the Budget England’s Mayors will be able to invest in transport, infrastructure, and the visitor economy through a new levy on overnight stays.  The move ensures mayors have the same powers as their counterparts in cities like New York, Paris and Milan and supports them to drive growth and investment in their communities for years to come. A consultation has now been launched on the detailed design of this power and whether it should be extended to other local leaders.  Alongside new powers, seven of the most advanced Mayoral Strategic Authorities will receive at least £13bn in funding through their Integrated Settlements. This empowers mayors with greater flexibility to be able to prioritise investments that will drive growth in their regions  Eleven Mayoral Strategic Authorities in the North and Midlands will receive a share of £902m to invest in local infrastructure, business and employment support and skills programmes through the Local Growth Fund. Six Mayoral authorities in the North and Midlands with an integrated Settlement will receive the Mayoral Revolving Growth Fund, deploying a total of £500 million to accelerate investment, unlock development and boost growth.  Alongside this, the Budget announced a new tax starting at £2,500 on owners of residential property in England worth £2 million or more.  This will be collected by councils on behalf of the Government, with revenue used to support funding for better local government services. The charge will be levied in addition to existing council tax.  The Budget also took the next steps in rebalancing the business rates system to support high streets, with new lower rates for retail, hospitality and leisure properties. A call for evidence also seeks views on ending business rates avoidance and fairly taxing short term lets.  In terms of housing, thousands of much-needed new homes are set to be unlocked in London through the extension of the DLR to Thamesmead. The extension of the line will not only boost connectivity and cut commuting times, but unlock 25,000 new homes and up to 10,000 new jobs.  In the north, the new Leeds City Fund will bring with it thousands of new homes, as part of a major injection of investment in housebuilding, public spaces and the city’s transport network,  Meanwhile the planning system will benefit from £48m over the next three years to boost capacity and capability, with hundreds more planners set to supercharge the government’s commitment to build 1.5 million homes.  Communities will also see real and tangible benefits from the Budget, with £18m announced to makeover 200 children’s playgrounds across England. The investment follows the launch of government’s landmark Pride...",
+  "base_path": "/government/news/budget-2025-mhclg",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    },
+    {
+      "title": "Devolution",
+      "base_path": "/regional-and-local-government/devolution"
+    },
+    {
+      "title": "Local councils and services",
+      "base_path": "/regional-and-local-government/local-councils"
+    },
+    {
+      "title": "Local government",
+      "base_path": "/regional-and-local-government/local-government"
+    },
+    {
+      "title": "Local government spending",
+      "base_path": "/regional-and-local-government/local-government-spending"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Scotland",
+      "base_path": "/regional-and-local-government/scotland"
+    },
+    {
+      "title": "Wales",
+      "base_path": "/regional-and-local-government/wales"
+    }
+  ]
+}

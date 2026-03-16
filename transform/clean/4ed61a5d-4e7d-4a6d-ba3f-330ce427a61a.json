@@ -1,0 +1,11 @@
+{
+  "title": "Detailed analysis of fires, England, April 2024 to March 2025",
+  "body": "\"Detailed statistics on fires attended by fire and rescue services across England, and fire-related fatalities and non-fatal casualties in those fires. Additionally this release covers trends in average response times to fires attended by fire and rescue services in England. This release presents detailed statistics on fire incidents which covers the year 1 April 2024 to 31 March 2025 for fire and rescue services (FRSs) in England. \"",
+  "base_path": "/government/statistics/detailed-analysis-of-fires-england-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

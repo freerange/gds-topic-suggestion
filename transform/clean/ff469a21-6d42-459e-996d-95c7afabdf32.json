@@ -1,0 +1,11 @@
+{
+  "title": "Changes to Standard Labour Requirement Coefficients",
+  "body": "\"The Farm Business Survey provides information on the financial position and physical and economic performance of farm businesses in England while the June Survey of Agriculture and Horticulture provides estimates of land use, crop areas, livestock numbers and land ownership for England. Standard Labour Requirements (SLR) estimate the annual amount of labour used on farms businesses and agricultural holdings and can be used to classify farms by size.  This paper contains information on changes to SLR coefficients following a review in late 2024.  More information about the Farm Business Survey and the data collected can be found at: Farm Business Survey - GOV.UK  More information about the June Survey of Agriculture and Horticulture can be found at: Structure of the agricultural industry in England and the UK at June - GOV.UK  The dataset for this paper, which includes the new 2024 SLR coefficients, can be downloaded at the following link : 2024_SLR_update_dataset_20250703.ods  (ODS, 13 KB). \"",
+  "base_path": "/government/publications/changes-to-standard-labour-requirement-coefficients",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

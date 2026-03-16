@@ -1,0 +1,11 @@
+{
+  "title": "Animal health and welfare offences: penalty notices issued",
+  "body": "\"List of penalty notices issued by enforcement authorities for animal health and welfare offences in England during the period 1 April 2024 to 31 March 2025. \"",
+  "base_path": "/government/publications/animal-health-and-welfare-offences-penalty-notices-issued",
+  "taxons": [
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Marriages (Northern Ireland): December 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/monthly-marriages-northern-ireland-december-2025",
+  "taxons": [
+    {
+      "title": "Marriage, civil partnership and divorce",
+      "base_path": "/life-circumstances/marriage-divorce"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

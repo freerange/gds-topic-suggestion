@@ -1,0 +1,11 @@
+{
+  "title": "Income Tax liabilities statistics: tax year 2022 to 2023 to tax year 2025 to 2026",
+  "body": "\"Income Tax liabilities are estimated at the individual level using data from the Survey of Personal Incomes (SPI) on Income Tax payer incomes and circumstances.  Liabilities are amounts of tax due on incomes arising in a given tax year, whereas receipts show amounts paid and collected in a given year. Statistics on Income Tax liabilities will not match those for receipts due to lags in the payment of Income Tax, particularly via Self Assessment, among other reasons.  The tables in this section provide breakdowns of the number of Income Tax payers and Income Tax liabilities by age, sex, country and Government Office Region, marginal Income Tax rate, income source, and tax band.  If you require statistics about how much Income Tax is actually paid and collected by HMRC in any given tax year, or information on how the tax has been collected, please see our statistics on Income Tax receipts.  The nature of how Income Tax is collected means it is not possible to analyse Income Tax receipts by individual characteristics, such as an individual’s marginal tax rate, age, or sex. However, these analyses are possible through modelling Income Tax liabilities based on a representative sample of individuals from administrative data.  HMRC also produce detailed statistics on personal incomes.  \"",
+  "base_path": "/government/statistics/income-tax-liabilities-statistics-tax-year-2022-to-2023-to-tax-year-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

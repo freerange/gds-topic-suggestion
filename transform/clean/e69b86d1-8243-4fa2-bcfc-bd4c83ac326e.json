@@ -1,0 +1,11 @@
+{
+  "title": "Benefit Sanctions statistics to February 2025",
+  "body": "\"This is the latest quarterly release of statistics on benefit sanctions and includes data up to February 2025.  The data is available for analysis on Stat-Xplore. \"",
+  "base_path": "/government/statistics/benefit-sanctions-statistics-to-february-2025",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    }
+  ]
+}

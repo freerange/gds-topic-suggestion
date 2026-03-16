@@ -1,0 +1,19 @@
+{
+  "title": "DfE Update: 24 September 2025",
+  "body": "\"Latest for further education     Article Title     Information R12 in-year qualification achievement rates 2024 to 2025   Information Updated Gatsby Benchmarks for good career guidance     Latest for academies     Article Title     Information Update to academy information on GOV.UK   Events and webinars DfE auditor webinar on automating the accounts return   Events and webinars DfE auditor webinar on automating the accounts return   Events and webinars DfE live events: Financial Benchmarking and Insights Tool overview     Latest  for local authorities     Article Title     Information New local authority maintained school data now live in the Financial Benchmarking and Insights Tool   Events and webinars DfE live events: Financial Benchmarking and Insights Tool overview    \"",
+  "base_path": "/government/publications/dfe-update-24-september-2025",
+  "taxons": [
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    },
+    {
+      "title": "School and academy financial management and assurance",
+      "base_path": "/education/school-and-academy-financial-management-and-assurance"
+    },
+    {
+      "title": "School and academy funding",
+      "base_path": "/education/school-and-academy-funding"
+    }
+  ]
+}

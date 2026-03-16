@@ -1,0 +1,15 @@
+{
+  "title": "DfE and executive agency spend over £25,000: 2025 to 2026",
+  "body": "\"Data for spending over £25,000 by:   Department for Education (DfE) Standards and Testing Agency (STA) Teaching Regulation Agency (TRA) Skills England (SE)  \"",
+  "base_path": "/government/publications/dfe-and-executive-agency-spend-over-25000-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

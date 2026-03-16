@@ -1,0 +1,11 @@
+{
+  "title": "Diagnostic imaging dataset for November 2024",
+  "body": "\"The Diagnostic Imaging Dataset (DID) is a central collection of detailed information about diagnostic imaging tests carried out on NHS patients, extracted from local Radiology Information Systems (RISs) and submitted monthly.  The DID captures information about referral source and patient type, details of the test (type of test and body site), demographic information such as GP registered practice, patient postcode, ethnicity, gender and date of birth, plus items about waiting times for each diagnostic imaging event, from time of test request through to time of reporting. NHS Digital collects the dataset at patient level. It is reported here in summary form.  Official statistics are produced impartially and free from any political influence. \"",
+  "base_path": "/government/statistics/diagnostic-imaging-dataset-for-november-2024",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Domestic energy price indices",
+  "body": "\"              Consumer prices index UK: fuel components in the UK (QEP 2.1.1 to 2.1.3)    MS Excel Spreadsheet, 271 KB     This file may not be suitable for users of assistive technology.    Request an accessible format.    If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email alt.formats@energysecurity.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.      For enquiries concerning these tables contact: energyprices.stats@energysecurity.gov.uk. \"",
+  "base_path": "/government/statistical-data-sets/monthly-domestic-energy-price-statistics",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

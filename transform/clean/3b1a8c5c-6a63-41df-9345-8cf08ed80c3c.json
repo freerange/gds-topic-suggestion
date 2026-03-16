@@ -1,0 +1,11 @@
+{
+  "title": "DBS strategies",
+  "body": "\" \"",
+  "base_path": "/government/collections/dbs-strategies",
+  "taxons": [
+    {
+      "title": "Criminal record disclosure",
+      "base_path": "/crime-justice-and-law/criminal-record-disclosure"
+    }
+  ]
+}

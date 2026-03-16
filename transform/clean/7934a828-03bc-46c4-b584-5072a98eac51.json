@@ -1,0 +1,11 @@
+{
+  "title": "Sub-regional fuel poverty data 2025 (2023 data)",
+  "body": "\"Sub-regional fuel poverty 2023 data: low income low energy efficiency (LILEE).   Sub-regional fuel poverty 2025 (2023 data)   \"",
+  "base_path": "/government/statistics/sub-regional-fuel-poverty-data-2025-2023-data",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    }
+  ]
+}

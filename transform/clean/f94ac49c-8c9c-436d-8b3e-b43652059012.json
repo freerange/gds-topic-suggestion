@@ -1,0 +1,15 @@
+{
+  "title": "Forestry Commission spend over £25,000 (2025)",
+  "body": "\"As part of the government’s commitment to improve transparency, the Forestry Commission publishes all its expenditure invoices over £25,000. \"",
+  "base_path": "/government/publications/forestry-commission-spend-over-25000-2025",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

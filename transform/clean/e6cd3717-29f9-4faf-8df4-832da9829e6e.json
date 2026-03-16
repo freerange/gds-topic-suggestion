@@ -1,0 +1,11 @@
+{
+  "title": "Priority pathogen families research and development tool",
+  "body": "\"To support delivery of the UK Biological Security Strategy, the UK Health Security Agency (UKHSA) has developed a reference tool which describes important pathogen families where investment into research and development of diagnostics, therapeutics and vaccines (DTVs) may be most needed.  This tool has been developed through the collective knowledge and opinions of subject matter experts within UKHSA, and may not reflect the views of wider UK government. It does not constitute a commitment from the UK government to fund research and development into DTVs for the pathogen families included, or to fund production or purchase of DTVs that arise from such research.  \"",
+  "base_path": "/government/publications/priority-pathogen-families-research-and-development-tool",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

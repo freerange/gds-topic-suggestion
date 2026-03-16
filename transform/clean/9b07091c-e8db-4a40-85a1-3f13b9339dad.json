@@ -1,0 +1,11 @@
+{
+  "title": "Provisional Cormorant population indices for England 2025",
+  "body": "\"The statistics are based on data gathered through the BTO/RSPB/JNCC Wetland Bird Survey, which are published annually in the Spring. Cormorant indices up to the year 2024/25 are being released early as provisional to enable their use for operational purposes before the main WeBS Official Statistics release in Spring 2026. These provisional indices are based on the majority of England Cormorant data that are expected to be included in the subsequent WeBS Official Statistics release, and are therefore expected to be a good indication of what the final results will be. \"",
+  "base_path": "/government/statistics/provisional-cormorant-population-indices-for-england-2025",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Extra time in assessments",
+  "body": "\"This report reviews the research literature on how extra time can impact students’ exam scores. It uses the existing literature to consider whether extra time provides the intended benefits to student performance, and whether or not the benefits are restricted to students with an access need.  Most of the literature reviewed suggests that extra time provides at least some improvement in performance for most students. This improvement is often larger for those who normally receive extra time. This is because many of the tests in the research literature were found to be “speeded” – meaning that the standard duration of the tests was not long enough to allow all students to demonstrate the full extent of their knowledge, skills and understanding. Indeed, the literature suggests that when students can work close to their maximum potential under the standard time, the benefits of extra time are largely restricted to those with an access need.  However, it is difficult to draw general conclusions from the available literature. The effects of extra time appear to be dependent on the specific circumstances, and most of the literature is based on studies investigating low-stakes or university assessments in the United States, rather than assessments that fall under Ofqual’s jurisdiction. \"",
+  "base_path": "/government/publications/extra-time-in-assessments",
+  "taxons": [
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    },
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

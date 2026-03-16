@@ -1,0 +1,15 @@
+{
+  "title": "Revised fuel efficiency assumptions for future aircraft",
+  "body": "\"This report details collaboration between the Department for Transport (DfT) and the ATI to update fuel efficiency assumptions for future aircraft types in DfT’s aviation model. It reviews:   ultra-efficient aircraft types - powered by kerosene or sustainable aviation fuel zero-emission aircraft - powered by sources which make them zero-emission at the tailpipe, like electric or hydrogen power   Using 6 future aircraft concepts, revised assumptions for use within the aviation model are based on the following 3 scenarios.  Low Scenario Assumes there are no zero-emission aircraft and slow development of ultra-efficient aircraft.  Mid Scenario Aligns with the ‘Current Trends’ scenario as referenced in the Jet Zero strategy (2022). This scenario assumes the development of ultra-efficient aircraft and zero emission aircraft, but that zero-emission aircraft will not be prominent in the UK fleet until after 2050.  High Scenario Equivalent to ‘High Ambition’ in  the Jet Zero Strategy. This assumes the development of zero emission aircraft focused on smaller aircraft types. Larger aircraft will first adopt ultra-efficient technology before transitioning to zero-emissions technology.  \"",
+  "base_path": "/government/publications/revised-fuel-efficiency-assumptions-for-future-aircraft",
+  "taxons": [
+    {
+      "title": "Aviation and the environment",
+      "base_path": "/transport/aviation-and-the-environment"
+    },
+    {
+      "title": "General aviation",
+      "base_path": "/transport/general-aviation"
+    }
+  ]
+}

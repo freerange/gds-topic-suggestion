@@ -1,0 +1,11 @@
+{
+  "title": "UK Armed Forces Deaths in Service: 2024",
+  "body": "\"This annual Accredited Official Statistical Notice provides summary information on deaths whilst in service in 2024 among the UK regular armed forces, and trends over the ten-year period 2015-2024. This information updates previous notices and includes new data for 2024. The information presented has been compiled from data held by Defence Statistics on 21 February 2025. \"",
+  "base_path": "/government/statistics/uk-armed-forces-deaths-in-service-2024",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

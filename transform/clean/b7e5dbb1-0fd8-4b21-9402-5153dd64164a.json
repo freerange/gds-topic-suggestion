@@ -1,0 +1,11 @@
+{
+  "title": "VMD Published Standards: Monitoring Performance Reports",
+  "body": "\"Here you can find our monthly Published Standards: Monitoring Performance Reports by year. \"",
+  "base_path": "/government/collections/vmd-published-standards-monitoring-performance-reports",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

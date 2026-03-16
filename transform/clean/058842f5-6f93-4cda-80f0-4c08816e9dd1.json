@@ -1,0 +1,19 @@
+{
+  "title": "Understanding Child Benefit take-up rates",
+  "body": "\"At the time of research (2023) Child Benefit take-up rates had fallen more sharply than expected since the Covid 19 pandemic began, and the rates had not recovered as expected. HM Revenue and Customs (HMRC) commissioned BMG to carry out research to understand the decline in rates and why eligible customers were not claiming.  The research involved a quantitative survey with 1,174 non-claimants and delayed claimants and follow up qualitative interviews with 34 participants. They research found there was a high level of awareness about Child Benefit but fewer felt they understood it well. \"",
+  "base_path": "/government/publications/understanding-child-benefit-take-up-rates",
+  "taxons": [
+    {
+      "title": "Child benefit",
+      "base_path": "/childcare-parenting/child-benefit"
+    },
+    {
+      "title": "Benefits for families",
+      "base_path": "/welfare/families"
+    },
+    {
+      "title": "Child Benefit",
+      "base_path": "/welfare/child-benefit"
+    }
+  ]
+}

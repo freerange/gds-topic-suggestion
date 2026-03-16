@@ -1,0 +1,11 @@
+{
+  "title": "About us",
+  "body": "\"The Building Control Independent Panel is an independent expert advisory panel providing analysis and advice to government on the two questions in the Grenfell Inquiry final report relevant to the future of the building control system in England.   These are (i) whether it is in the public interest for building control functions to be performed by those who have a commercial interest in the process, and (ii) whether all building control functions should be performed by a national authority. \"",
+  "base_path": "/government/organisations/building-control-independent-panel/about",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    }
+  ]
+}

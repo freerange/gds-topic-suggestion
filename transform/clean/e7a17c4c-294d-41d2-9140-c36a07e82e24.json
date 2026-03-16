@@ -1,0 +1,19 @@
+{
+  "title": "Public ownership of rail services: facts and figures",
+  "body": "\"Provides background data on the public rail ownership programme, alongside a glossary of terms and details of data sources. \"",
+  "base_path": "/government/publications/public-ownership-of-rail-services-facts-and-figures",
+  "taxons": [
+    {
+      "title": "Rail infrastructure",
+      "base_path": "/transport/rail-infrastructure"
+    },
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    },
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Impact of growth of data centres on energy consumption",
+  "body": "\"This report by Europe Economics, commissioned by the Department for Energy Security and Net Zero, examines how the growth of digital services, and the data centres that support them, affects energy consumption in the UK. While digitalisation introduces new electricity demand, it can also displace energy-intensive physical activities.   The study developed a new methodology for estimating the total electricity consumption of digital services relative to credible physical alternatives. The approach considers energy use under a representative scenario for the service delivered to the end-user which is the same for both digital and physical approaches to delivery. In this way, the methodology abstracts away from any increase in activity resulting from digitalisation (e.g. due to cost reductions or the redeployment of labour), and thus compares energy use in a hypothetical world in which digitalisation does not lead to economic growth.  Unlike earlier analyses that often focus on carbon emissions or assess individual system components in isolation, this study offers a comparison focused on energy consumption across the full delivery chain. In the digital case, this includes energy used by data centres (both for IT equipment and for supporting infrastructure), transmission networks, and end-user devices. The analysis of physical alternatives captures energy used (where relevant) in manufacturing, transportation, retail operations, office-based service delivery and end-user devices.   The report focuses on three use cases:   video streaming versus Blu-ray discs eBook reading (as an example of electronic publishing) versus printed books  AI-powered translation (as an example of an AI application) versus human translation   For each use case, the energy consumption under low, medium, and high assumptions has been calculated. The results show that in all three use cases, the digital option either matches or substantially undercuts the electricity use of the physical alternative.  \"",
+  "base_path": "/government/publications/impact-of-growth-of-data-centres-on-energy-consumption",
+  "taxons": [
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

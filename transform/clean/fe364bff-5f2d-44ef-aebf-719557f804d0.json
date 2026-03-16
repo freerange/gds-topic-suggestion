@@ -1,0 +1,19 @@
+{
+  "title": "2024 maladministration report",
+  "body": "\"This report details the numbers, sources and types of allegations of maladministration reported to STA’s maladministration team in the academic year 2023 to 2024, relating to the:   reception baseline assessment (RBA) key stage 1 (KS1) national curriculum tests, including the phonics screening check and teacher assessment key stage 2 (KS2) national curriculum tests, including the multiplication tables check (MTC) and teacher assessment   It also presents the numbers of amendments and annulments to results made. \"",
+  "base_path": "/government/publications/2024-maladministration-report",
+  "taxons": [
+    {
+      "title": "Early years curriculum",
+      "base_path": "/education/early-years-curriculum"
+    },
+    {
+      "title": "Tests and assessments (key stage 1)",
+      "base_path": "/education/primary-curriculum-key-stage-1-tests-and-assessments"
+    },
+    {
+      "title": "Tests and assessments (key stage 2)",
+      "base_path": "/education/primary-curriculum-key-stage-2-tests-and-assessments"
+    }
+  ]
+}

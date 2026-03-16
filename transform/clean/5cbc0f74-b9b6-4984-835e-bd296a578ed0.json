@@ -1,0 +1,11 @@
+{
+  "title": "Notifiable diseases: weekly reports for 2025",
+  "body": "\" Weekly NOIDS reporting pause  The weekly UKHSA NOIDs publication is currently paused (from 3 April 2025) to make changes, including adding the notifiable diseases which became reportable under the Health Protection (Notification) (Amendment) Regulations from 6 April 2025.  Public health action will continue to be taken on notifications as usual. It will not be impacted by the reporting development work.  For reports already published, please be aware that due to changes in how the data is processed and mapped, including local authority codes that have been updated to the latest geographies, it would be inaccurate to compare data since week 27 to historic reports.  The causative agent reports will continue to be published.   Registered medical practitioners in England and Wales have a statutory duty to notify a proper officer of the local authority, often the consultant in communicable disease control (CCDC), of suspected cases of certain infectious diseases.  These weekly reports analyse the number of suspected cases of notifiable illnesses in England and Wales in 2024.  All weekly data is provisional.  Older weekly NOIDs reports are also available:   2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2015 before week 27 (2014)   \"",
+  "base_path": "/government/publications/notifiable-diseases-weekly-reports-for-2025",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    }
+  ]
+}

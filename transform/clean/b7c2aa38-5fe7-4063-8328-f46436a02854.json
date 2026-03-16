@@ -1,0 +1,11 @@
+{
+  "title": "Brazil: Knowledge Base profile",
+  "body": "\"Knowledge Base is an information resource for HM Passport Office staff.   This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Brazil  \"",
+  "base_path": "/government/publications/brazil-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

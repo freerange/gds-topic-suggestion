@@ -1,0 +1,11 @@
+{
+  "title": "TRA launches new imports dashboard",
+  "body": "\"The Trade Remedies Authority (TRA) has introduced a new imports dashboard that makes trade data clearer and easier to use.  The interactive dashboard shows trends in UK imports for goods affected by anti-dumping and countervailing measures. It draws on official HMRC overseas trade statistics and provides a simple, visual way to track import patterns over time.  This tool supports the TRA’s ongoing monitoring and investigations, giving businesses, policymakers and other stakeholders accessible insights into the impact of trade remedies.  View the TRA imports dashboard.  If you have questions about this dashboard or other TRA statistics, please contact statistics@traderemedies.gov.uk. \"",
+  "base_path": "/government/news/tra-launches-new-imports-dashboard",
+  "taxons": [
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

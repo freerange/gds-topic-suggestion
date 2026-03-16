@@ -1,0 +1,15 @@
+{
+  "title": "Hurdle rate estimates for electricity sector technologies",
+  "body": "\"DESNZ commissioned CEPA to undertake this research covering updates to the hurdle rate assumptions for the following technologies:   renewable generation other low carbon generation thermal generation (both with and without carbon capture use and storage, or CCUS) storage technologies interconnectors hydrogen electrolysers demand response.   The evidence drawn from research reviews in the Generation Costs Series informs:   cost estimates and technical assumptions within the Generation Costs Reports administrative strike prices (ASP) analysis for the Contracts for Difference (CfD) renewables deployment scheme power sector modelling   \"",
+  "base_path": "/government/publications/hurdle-rate-estimates-for-electricity-sector-technologies",
+  "taxons": [
+    {
+      "title": "Energy industry and infrastructure licensing and regulation",
+      "base_path": "/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

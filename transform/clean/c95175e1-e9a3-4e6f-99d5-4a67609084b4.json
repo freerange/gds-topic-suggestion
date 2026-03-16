@@ -1,0 +1,15 @@
+{
+  "title": "UK environmental taxes: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-environmental-taxes-2024",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Sri Lanka: Knowledge Base profile",
+  "body": "\"This document contains useful information about Sri Lanka which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy adoption surrogacy gender recognition civil partnerships and marriage documents from Sri Lanka  \"",
+  "base_path": "/government/publications/sri-lanka-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

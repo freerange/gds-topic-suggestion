@@ -1,0 +1,15 @@
+{
+  "title": "Quarterly information rights performance statistics reports",
+  "body": "\"For any queries on the above or to submit an information rights requests, please contact: Customer services and general enquiries. \"",
+  "base_path": "/government/publications/quarterly-information-rights-performance-statistics-reports",
+  "taxons": [
+    {
+      "title": "Planning permission and appeals",
+      "base_path": "/housing-local-and-community/planning-permission-appeals"
+    },
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    }
+  ]
+}

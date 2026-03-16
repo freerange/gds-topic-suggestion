@@ -1,0 +1,23 @@
+{
+  "title": "Planning proposals to unblock vital infrastructure and drive nature’s recovery",
+  "body": "\" Part of government’s Plan for Change commitment helping deliver 150 planning decisions on major infrastructure.  Measures will create a ‘win-win’ for nature and the economy, accelerating economic growth.    Measures to unblock much-needed infrastructure projects whilst supporting nature recovery at scale will be included in proposals for the Planning and Infrastructure Bill this year, the Government has announced today as part its Plan for Change (22 January 2025).     These common-sense changes will help to deliver on the Government’s commitment to make 150 major infrastructure project decisions by the end of this Parliament, while also helping to halt and reverse the decline of species and natural habitats. The reforms will help to speed up projects, including new wind farms, railways and roads, gigafactories and data centres across the country.   Under current rules, infrastructure projects must secure mitigation or compensation for environmental harm to some protected sites and species before being granted planning permission, adding costs and delays to the planning process. Developers are required to identify and meet environmental obligations, typically on a project-by-project basis, and this misses opportunities to find strategic solutions with the greatest benefits for nature   The Government will set up a Nature Restoration Fund enabling infrastructure builders to meet their environmental obligations faster and at greater scale by pooling contributions from developers to fund larger strategic interventions for nature.    This approach will mean the burden of individual site-level assessments and delivering mitigation and compensation is reduced. In many cases, a single payment will enable development to proceed.    A delivery body such as Natural England will then look at the actions needed to drive protected site and species recovery at a strategic, not site-by-site, scale. They will then take responsibility for securing positive environmental outcomes that infrastructure developers are not in a position to implement independently. These could be delivering a reduction in pollution affecting the water environment or securing nesting habitats to increase the population of a protected species for example.   These changes will get rid of time intensive and costly processes involved in project-specific interventions with payments into the fund allowing building to proceed while wider action is taken to secure the environmental outcomes we need.    To support the government’s growth mission, a new £70 million package for this year was confirmed at the Budget to support the delivery of new infrastructure while boosting nature recovery.   Environment Secretary Steve Reed said:     Nature and development have been unnecessarily pitted against each other for too long. This has blocked economic growth but done nothing for nature’s recovery. Communities and the environment deserve better than this broken status-quo.     As part of the Government’s Plan for Change, these reforms will unblock infrastructure projects while protecting the natural environment we all depend on.  We can now look forward to 150 key infrastructure projects going ahead within the next few years while also providing more funding to protect and restore nature.   Deputy Prime Minister and Secretary of State for Housing Angela Rayner said:     We have inherited a failing system that has seen...",
+  "base_path": "/government/news/planning-proposals-to-unblock-vital-infrastructure-and-drive-natures-recovery",
+  "taxons": [
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    },
+    {
+      "title": "Wildlife and habitat conservation",
+      "base_path": "/environment/wildlife-habitat-conservation"
+    },
+    {
+      "title": "Environmental planning",
+      "base_path": "/housing-local-and-community/environmental-planning"
+    },
+    {
+      "title": "House building",
+      "base_path": "/housing-local-and-community/house-building"
+    }
+  ]
+}

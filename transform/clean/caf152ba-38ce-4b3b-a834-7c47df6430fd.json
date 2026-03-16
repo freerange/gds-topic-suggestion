@@ -1,0 +1,11 @@
+{
+  "title": "Common Safety Indicators: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/common-safety-indicators-2023",
+  "taxons": [
+    {
+      "title": "Rail safety and security",
+      "base_path": "/transport/rail-safety-and-security"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "National general practice profiles: December 2025 update",
+  "body": "\" The national general practice profiles are designed to support GPs, primary care networks (PCNs), integrated care boards (ICBs) and local authorities to commission effective, appropriate healthcare services for their local populations.  This data tool presents a range of GP practice-level indicators. Users can search for and view data for an individual GP practice and compare it with the ICB and England in a user-friendly format.  There are no plans to update this profile again in its current form. The Department of Health and Social Care (DHSC) is reviewing the future of indicators contained in this profile as part of the wider work to modernise the Fingertips platform.  If you have any comments, questions or feedback, contact us at statistics@dhsc.gov.uk. Use ‘National general practice profiles’ as the email subject.  \"",
+  "base_path": "/government/statistics/national-general-practice-profiles-december-2025-update",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

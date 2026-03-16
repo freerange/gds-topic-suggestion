@@ -1,0 +1,27 @@
+{
+  "title": "OFSI General licence INT/2025/7159960",
+  "body": "\" OFSI General licence INT/2025/7159960 OFSI General licence INT/2025/7159960 Publication notice   On 19 September 2025, OFSI issued General Licence INT/2025/7159960 under all UK Autonomous Sanctions Regulations (see Annex 1 of the General Licence) which permits Persons providing News Media Services (and any Person who provides any goods or services to another Person which are necessary for the provision of News Media Services by that other Person) to carry out any activity reasonably necessary to effect the receipt or provision of News Media Services, including making or receiving Permitted Payments. \"",
+  "base_path": "/government/publications/ofsi-general-licence-int20257159960",
+  "taxons": [
+    {
+      "title": "International",
+      "base_path": "/international"
+    },
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

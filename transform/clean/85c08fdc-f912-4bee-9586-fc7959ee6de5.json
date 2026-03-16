@@ -1,0 +1,31 @@
+{
+  "title": "UK tax residence guidance",
+  "body": "\"From 6 April 2025, previous rules for non-domicile status ended. These were replaced by a system based on tax residence.  \"",
+  "base_path": "/government/collections/uk-tax-residence-guidance",
+  "taxons": [
+    {
+      "title": "Self Assessment",
+      "base_path": "/employment/business-tax-self-employed-self-assessment"
+    },
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "Capital Gains Tax",
+      "base_path": "/money/capital-gains-tax"
+    },
+    {
+      "title": "Inheritance Tax",
+      "base_path": "/money/personal-tax-inheritance-tax"
+    },
+    {
+      "title": "Living and working abroad",
+      "base_path": "/money/personal-tax-living-working-abroad-offshore-living-and-working-abroad"
+    },
+    {
+      "title": "Trusts",
+      "base_path": "/money/trusts"
+    }
+  ]
+}

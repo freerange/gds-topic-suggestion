@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Milk Quality Statistics, April 2025",
+  "body": "\"This release shows the latest monthly information on the Northern Ireland milk quality statistics. \"",
+  "base_path": "/government/statistics/northern-ireland-milk-quality-statistics-april-2025",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

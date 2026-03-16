@@ -1,0 +1,11 @@
+{
+  "title": "Anniversary Statement: Cessna 152, G-BSZW",
+  "body": "\"This statement provides an update on the AAIB investigation into a serious incident involving a Cessna 152 at Blackbushe Airport on 24 February 2024. The aircraft was being flown by a student pilot during a training flight when it suffered a loss of rudder control.  The instructor took control of the aircraft and landed uneventfully.  Examination of the aircraft revealed that the rudder bellcrank had failed at the point where the right rudder cable attached to it.   The investigation has focused on the reason for the failure of the bellcrank and is nearing completion.  The final report is expected to be published later in 2025. \"",
+  "base_path": "/government/news/anniversary-statement-cessna-152-g-bszw",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "AI coding assistant trial",
+  "body": "\"As part of the government’s initiative to increase artificial intelligence (AI) adoption across the public sector, the Government Digital Service (GDS) completed trials into the capabilities of commercial AI tools.  GDS ran a trial of AI coding assistants (AICAs) across government from November 2024 to February 2025. A total of 2,500 licences were made available across central government organisations.  GDS collected quantitative data using surveys and telemetry, and qualitative data was collected using satisfaction and exit surveys. The trial aimed to understand how these tools could help public sector engineering and development teams work better and be more productive.  \"",
+  "base_path": "/government/publications/ai-coding-assistant-trial",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

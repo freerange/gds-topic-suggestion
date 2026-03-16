@@ -1,0 +1,19 @@
+{
+  "title": "EU declaration within the Joint Committee established by the Agreement on the Withdrawal of UK from the EU: pursuant to Article 23(5)(a) of Decision No 1/2023 of the Joint Committee",
+  "body": "\"This declaration was made at the Withdrawal Agreement Joint Committee meeting on 29 April 2025. \"",
+  "base_path": "/government/publications/eu-declaration-within-the-joint-committee-established-by-the-agreement-on-the-withdrawal-of-uk-from-the-eu-pursuant-to-article-235a-of-decision-n",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    },
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    }
+  ]
+}

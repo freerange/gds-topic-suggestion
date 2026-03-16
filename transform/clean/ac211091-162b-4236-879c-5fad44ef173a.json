@@ -1,0 +1,15 @@
+{
+  "title": "Acute Episode-Based Activity Statistics 2024 to 2025",
+  "body": "\"Presents data on consultant episodes in Trusts in Northern Ireland for 2024 to 2025, including breakdown by specialty, diagnosis, procedure, and resource group. \"",
+  "base_path": "/government/statistics/acute-episode-based-activity-statistics-2024-to-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Reported road casualties Great Britain: involving driving for work",
+  "body": "\"This report presents the Department for Transport’s analysis of road collisions recorded in STATS19 where at least one driver was driving for work.  It builds on previous research by University College London (UCL), using a methodology that reclassifies vehicles and casualties based on journey purpose and vehicle type.  This represents an initial attempt to improve on what is recorded in the journey purpose category in STATS19, with some reasonable assumptions.  However, further work to explore additional assumptions is possible and it is hoped to develop this analysis further.  Any comments are welcome via the contact details below.  Contact details   Road safety statistics     Email roadacc.stats@dft.gov.uk        \"",
+  "base_path": "/government/statistics/reported-road-casualties-great-britain-involving-driving-for-work",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

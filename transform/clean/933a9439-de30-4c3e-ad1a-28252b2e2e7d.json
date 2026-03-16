@@ -1,0 +1,11 @@
+{
+  "title": "NHS Health Check quarterly statistics: January to March 2025",
+  "body": "\"This update contains data from 153 local authorities for:   January to March 2025 (quarter 4 for 2024 to 2025) cumulative data from 1 April 2020 to 31 March 2025   The data also includes amended statistics for 62 local authorities for:   April to June 2024 (quarter 1 for 2024 to 2025) July to September 2024 (quarter 2 for 2024 to 2025) October to December 2024 (quarter 3 for 2024 to 2025)   The NHS Health Check programme aims to help prevent heart disease, stroke, diabetes, kidney disease and certain types of dementia in people aged 40 to 74 who have not already been diagnosed with one of these conditions.  For more information about NHS Health Check data, contact nhshealthcheck@dhsc.gov.uk. \"",
+  "base_path": "/government/statistics/nhs-health-check-quarterly-statistics-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    }
+  ]
+}

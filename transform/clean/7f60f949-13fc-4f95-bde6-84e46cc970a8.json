@@ -1,0 +1,11 @@
+{
+  "title": "DBT: ministers' transparency publications",
+  "body": "\"The government is committed to publishing details of ministers’ meetings with external organisations, and overseas travel on a quarterly basis.  From July 2024 onwards, the government has centrally published details of ministers’ gifts (given and received) and hospitality.  Gifts and hospitality records from before July 2024 are still available as part of this collection.  All overseas travel, and meetings with external individuals and organisations will continue to be published and added to this collection. \"",
+  "base_path": "/government/collections/dbt-ministers-transparency-publications",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK Overseas Territories biodiversity strategy",
+  "body": "\"Sets out the UK strategy to conserve, protect, and restore biodiversity in the UK Overseas Territories.  This joint strategy has been developed by Defra in partnership with Overseas Territories Governments and Administrations. \"",
+  "base_path": "/government/publications/uk-overseas-territories-biodiversity-strategy",
+  "taxons": [
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    }
+  ]
+}

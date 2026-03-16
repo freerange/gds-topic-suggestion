@@ -1,0 +1,11 @@
+{
+  "title": "UK road transport energy consumption at regional and local authority level, 2005 to 2023",
+  "body": "\"Consumption statistics for fuels used in road transport in the UK at regional and local levels from 2005 to 2023.  This work forms part of the co-funded Defra / DESNZ National Atmospheric Emissions Inventory (NAEI) work programme which uses geographic information system (GIS) tools to derive spatially resolved energy consumption estimates.  For more information on regional and local authority data, please contact EnergyEfficiency.Stats@energysecurity.gov.uk.  This is an Accredited Official Statistics publication and complies with the Code of Practice for Statistics.  \"",
+  "base_path": "/government/statistics/uk-road-transport-energy-consumption-at-regional-and-local-authority-level-2005-to-2023",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

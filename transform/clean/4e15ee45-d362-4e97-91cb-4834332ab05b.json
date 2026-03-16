@@ -1,0 +1,11 @@
+{
+  "title": "Go paperless for tax code updates",
+  "body": "\" Give us feedback.  We need your help to improve and to make sure GOV.UK works well for you. You can give us feedback about this guidance to help make GOV.UK better.   You can choose to get some of your HMRC tax letters and messages online and by email.  Using the HMRC app   Download the HMRC app. Go to ‘your details’. Select ‘change how HMRC contacts you’. Choose how you want to get letters and messages from HMRC.   Use the communication section to:    view messages and tax letters from HMRC track forms you have sent to HMRC find contact details if you have a question   Using your HMRC online account   Sign in to your HMRC online account. Go to your ‘profile and settings’. In the settings section, select ‘change’ to update your contact preferences. You can choose to:    receive an email when you have a new tax letter update the email you use to receive tax letters get tax letters by post.   On your main PAYE home page you can select:   ‘messages’ to check your tax letters and messages from HMRC ‘check progress’ to track forms you have sent us  — this section lets you check the progress of your submitted form  \"",
+  "base_path": "/guidance/go-paperless-for-tax-code-updates",
+  "taxons": [
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    }
+  ]
+}

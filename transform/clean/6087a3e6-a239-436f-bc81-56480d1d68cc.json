@@ -1,0 +1,11 @@
+{
+  "title": "Monthly Occupancy Statistics, December 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/monthly-occupancy-statistics--5",
+  "taxons": [
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "DSIT: prompt payment data, January to March 2025",
+  "body": "\"The percentage of invoices paid by DSIT within 5 days and within 30 days of receipt. The data is published in yearly quarters.  This data is also available on data.gov.uk:   DSIT: prompt payment data   \"",
+  "base_path": "/government/publications/dsit-prompt-payment-data-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

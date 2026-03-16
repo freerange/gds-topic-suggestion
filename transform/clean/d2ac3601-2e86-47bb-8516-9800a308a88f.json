@@ -1,0 +1,15 @@
+{
+  "title": "Greenhouse gas removals: input to the independent review",
+  "body": "\"The DESNZ Secretary of State commissioned an independent review to consider how options for greenhouse gas removals (GGRs), including large-scale power bio-energy with carbon capture and storage (BECCS) and direct air carbon capture and storage (DACCS), can assist the UK in meeting our net zero targets, out to 2050. The review will report in the autumn of 2025.  As part of the review, the Chair, Dr Alan Whitehead, will consult widely with a diverse range of stakeholders, including developers, offtakers, industry, and experts in different fields, through a series of roundtables and direct meetings.  We are supplementing this with a broad call for evidence, giving the general public, developers and other organisations a chance to share their views on:   potential scale of emissions savings opportunity and barriers to deployment at scale economic cost of deploying GGRs  approaches to transition away from public investment and attract private investment role and opportunity to support government missions role and options to balance the UK’s residual emissions how GGRs could contribute to UK’s security of supply   \"",
+  "base_path": "/government/calls-for-evidence/greenhouse-gas-removals-input-to-the-independent-review",
+  "taxons": [
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

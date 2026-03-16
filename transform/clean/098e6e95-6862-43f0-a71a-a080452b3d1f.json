@@ -1,0 +1,23 @@
+{
+  "title": "New minister appointed with responsibility for intellectual property",
+  "body": "\"Kanishka Narayan MP has been confirmed as the new Minister with responsibility for intellectual property following their appointment as Parliamentary Under-Secretary of State in the Department for Science, Innovation and Technology on 7 September 2025.  Commenting on the announcement, Intellectual Property Office CEO Adam Williams said:   I am delighted to welcome Kanishka Narayan MP as the new Parliamentary Under Secretary of State in the Department for Science, Innovation and Technology, with responsibility for intellectual property.  The UK is widely recognised as having one of the world’s leading IP systems, and intellectual property plays a crucial role in unlocking the creative and innovative potential across our economy. I look forward to working with Minister Narayan to continue supporting the government’s growth mission by helping ensure brilliant ideas are protected, commercialised and supported to thrive.  \"",
+  "base_path": "/government/news/new-minister-appointed-with-responsibility-for-intellectual-property",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    },
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

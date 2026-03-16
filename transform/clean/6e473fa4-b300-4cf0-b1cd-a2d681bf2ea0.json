@@ -1,0 +1,15 @@
+{
+  "title": "General Pharmaceutical Services Statistics for NI, Q3 2024/25",
+  "body": "\"Statistics related to pharmaceutical activity in Northern Ireland for quarter 3 of 2024/25. \"",
+  "base_path": "/government/statistics/general-pharmaceutical-services-statistics-for-ni-q3-202425",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

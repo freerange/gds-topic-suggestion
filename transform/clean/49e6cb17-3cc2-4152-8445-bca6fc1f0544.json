@@ -1,0 +1,11 @@
+{
+  "title": "Fine particulate matter from road wear and dust resuspension",
+  "body": "\"Desk-based study exploring:   Existing literature on the main factors that influence the contribution of fine particulate matter from road surface wear and resuspended dust to ambient air pollution as well as identifying where knowledge gaps exist. Potential measurement methodologies, abatement solutions and areas for possible further research.   Ricardo and AECOM completed the report on behalf of the Department for Transport. \"",
+  "base_path": "/government/publications/fine-particulate-matter-from-road-wear-and-dust-resuspension",
+  "taxons": [
+    {
+      "title": "Road transport emissions",
+      "base_path": "/transport/road-transport-emissions"
+    }
+  ]
+}

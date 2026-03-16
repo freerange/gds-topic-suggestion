@@ -1,0 +1,11 @@
+{
+  "title": "Data for Theme A: Air",
+  "body": "\"This document contains data corresponding to the ‘Theme A: Air’ indicators of the Environmental Indicator Framework. \"",
+  "base_path": "/government/publications/data-for-theme-a-air",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

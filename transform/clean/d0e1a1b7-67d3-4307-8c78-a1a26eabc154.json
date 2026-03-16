@@ -1,0 +1,11 @@
+{
+  "title": "HMRC customer surveys",
+  "body": "\"HMRC conducts yearly Customer Experience surveys with 5 core customer groups: Individuals, Agents, Small Businesses, Mid-sized Businesses and Large Businesses.   \"",
+  "base_path": "/government/collections/hmrc-customer-surveys",
+  "taxons": [
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    }
+  ]
+}

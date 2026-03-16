@@ -1,0 +1,11 @@
+{
+  "title": "FCO Services spending over £500, January 2017",
+  "body": "\"FCO Services publishes details of all spending over £500 using the government procurement card on a monthly basis. \"",
+  "base_path": "/government/publications/fco-services-spending-over-500-january-2017",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Energy portal: privacy notice",
+  "body": "\"We process personal data when we receive submissions to the Energy Portal from organisations and members of the public.  Privacy notices explain what we do with your data and how to contact us with any questions. \"",
+  "base_path": "/government/publications/energy-portal-privacy-notice",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

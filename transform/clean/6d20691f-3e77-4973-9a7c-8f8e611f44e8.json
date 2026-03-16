@@ -1,0 +1,23 @@
+{
+  "title": "New powers for police to tackle neighbourhood crime",
+  "body": "\"The Crime and Policing Bill, which is central to the government’s Plan for Change and Safer Streets mission, will be introduced in Parliament today and begins its journey to becoming law.  It will also include measures to address the highest-harm crimes impacting society, such as knife crime, violence against women and girls, cybercrime, child sexual abuse, and terrorism.  In new measures announced today, police will be given enhanced powers against theft of mobile phones – no longer needing a warrant to search properties where stolen items have been electronically geolocated.  Under the new warrantless powers of entry, officers will be able to enter premises identified by electronic mapping if stolen items are believed to be there and it is not practicable to obtain a warrant from a court. This can be done through a ‘find my phone’ app, wifi access points, Bluetooth, mobile network technology or tracking devices attached to any other possession or vehicle.  It will support the police to act swiftly in the ‘golden hour’ of investigations, which is particularly crucial for investigations into theft, helping to provide swifter seizures of stolen property and providing a better service to victims.  Sitting at the heart of the government’s Safer Streets mission and Plan for Change, the new bill will help tackle the crimes that matter most to communities but have been ignored for too long. The new laws will be backed up by the recruitment of 13,000 extra neighbourhood policing roles, with a named officer in every community.   On the introduction of the Crime and Policing Bill, Home Secretary Yvette Cooper said:   This flagship Crime and Policing Bill is at the heart of our mission for safer streets and this government’s Plan for Change.   For too long communities have had to put up with rising town centre and street crime, and persistent antisocial behaviour, while neighbourhood police have been cut. And for years too little has been done to tackle the most serious violence of all including knife crime and violence against women and children.   That is why the new Crime and Policing Bill is about taking back our streets and town centres, restoring respect for law and order, and giving the police and local communities the support and tools they need to tackle local crime.   On the new warrantless powers of entry, Home Secretary Yvette Cooper said:   For the last few years, our towns and cities have seen street theft shoot up, as organised gangs have been targeting mobile phones.  But it is extremely frustrating for victims when they can see exactly where their stolen phone has gone but nothing is done.  That is why we are determined to give the police the powers they need to move fast to crack down on these crimes that are blighting our communities.   It places significant focus on protecting high streets. The effective immunity for shop theft of goods below £200 will be scrapped and retail workers will be better protected from assault.   There will also be increased powers to crack down...",
+  "base_path": "/government/news/new-powers-for-police-to-tackle-neighbourhood-crime",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Knife, gun and gang crime",
+      "base_path": "/crime-justice-and-law/knife-gun-and-gang-crime"
+    },
+    {
+      "title": "Victims of crime",
+      "base_path": "/crime-justice-and-law/victims-of-crime"
+    },
+    {
+      "title": "Violence against women and girls",
+      "base_path": "/crime-justice-and-law/violence-against-women-and-girls"
+    }
+  ]
+}

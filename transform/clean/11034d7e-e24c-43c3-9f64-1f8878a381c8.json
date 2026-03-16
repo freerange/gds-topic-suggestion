@@ -1,0 +1,11 @@
+{
+  "title": "HNTAS: New build heat networks - draft technical specifications for Consumer Heat Systems",
+  "body": "\"These technical specifications for heat network consumer heat systems detail the draft requirements and technical obligations to be fulfilled as part of the upcoming Heat Network Technical Assurance Scheme (HNTAS).  A consumer heat system is the heating, cooling and/or hot water system within a consumer’s premises.  The specifications include the:   technical requirements to be met  performance monitoring requirements to be met  key failures to be avoided   evidence requirements to be provided to demonstrate conformity with HNTAS    They are for use by:   heat network developers heat network designers heat network operators heat network equipment suppliers organisations within the heat network supply chain   These technical specifications correspond to the draft HNTAS assessment procedures for heat network consumer heat systems.  Next steps  We will be requesting feedback on the information in these documents. We will run a change management process in parallel with the HNTAS technical standards consultation which will launch shortly.  We will make final versions of these documents available before the scheme starts.  \"",
+  "base_path": "/government/publications/hntas-draft-consumer-heat-system-technical-specifications-for-new-build-heat-networks",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

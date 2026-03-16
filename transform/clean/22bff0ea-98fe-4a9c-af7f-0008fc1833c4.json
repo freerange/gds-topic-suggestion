@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland farm performance indicators: 2023/2024",
+  "body": "\"Official statistics are produced impartially and free from any political influence. \"",
+  "base_path": "/government/statistics/northern-ireland-farm-performance-indicators-20232024",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK comparisons - to financial year 2025",
+  "body": "\"We provide here some charts that give a comparison of key statistics across the four different government administrations within the UK. \"",
+  "base_path": "/government/statistics/uk-comparisons-to-financial-year-2025",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

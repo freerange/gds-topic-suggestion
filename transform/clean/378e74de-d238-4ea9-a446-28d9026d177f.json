@@ -1,0 +1,19 @@
+{
+  "title": "Education inspection framework: implementation review",
+  "body": "\"This review assesses how we have put the EIF into practice and determines whether there are aspects that we need to address.  This supports our strategic priority to carry out ‘inspections that raise standards’.   Read about how the EIF has impacted curriculum quality in schools.   \"",
+  "base_path": "/government/publications/education-inspection-framework-implementation-review",
+  "taxons": [
+    {
+      "title": "Inspection and performance of further education providers",
+      "base_path": "/education/inspection-and-performance-of-further-education-providers"
+    },
+    {
+      "title": "Inspection and performance of schools",
+      "base_path": "/education/inspection-and-performance-of-schools"
+    },
+    {
+      "title": "Performance and inspection of childcare providers",
+      "base_path": "/childcare-parenting/performance-and-inspection-of-childcare-providers"
+    }
+  ]
+}

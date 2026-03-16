@@ -1,0 +1,23 @@
+{
+  "title": "Reino Unido lança ferramenta para detecção de surtos e epidemias",
+  "body": "\"Brasília, 03 de fevereiro de 2025 - Nesta semana, a Agência de Segurança Sanitária do Reino Unido (UKHSA) lançou uma iniciativa inovadora de metagenômica para auxiliar na detecção rápida de doenças infecciosas. A metagenômica se dedica à análise do material genético de microrganismos presentes em amostras ambientais, como o solo, a água e o ar.  O Programa de Análise e Colaboração em Vigilância de Metagenômica (mSCAPE), desenvolvido ao longo do último ano, aplica este método à vigilância da saúde pública e análise de patógenos.  A UKHSA vai agregar dados anônimos de patógenos de diversos laboratórios, incluindo os do Sistema Nacional de Saúde do Reino Unido, o NHS, que utilizam metagenômica para diagnósticos. O mSCAPE visa a desenvolver a capacidade de utilização desses dados como parte da vigilância contínua da UKHSA de infecções novas e emergentes e patógenos com potencial pandêmico.  A metodologia metagenômica oferece uma grande vantagem na detecção de patógenos, tanto aqueles que são desconhecidos como os que são conhecidos mas inesperados, para os quais testes específicos não estão prontamente disponíveis e para patógenos que normalmente não são encontrados em humanos. Este é um método pioneiro porque permite que os cientistas testem amostras para encontrar novos patógenos, mesmo sem conhecê-los ainda.  Esses dados serão analisados em nível nacional para monitorar tendências, a evolução epidemiológica e o surgimento acelerado de doenças. Isso vai permitir uma melhora significativa na identificação de novos surtos, fazendo com que os cientistas compreendam sua origem, prevejam a eficácia de diferentes tratamentos potenciais e identifiquem mutações preocupantes.  Esta é uma iniciativa colaborativa, liderada pela UKHSA, envolvendo um consórcio de parceiros do NHS e deinstituições acadêmicas, incluindo a Universidade de Birmingham, a Universidade de Edimburgo e a Rede de Metagenômica Respiratória Clínica do NHS, liderada pelo Guy’s and St Thomas’ NHS Foundation Trust.  A Professora Susan Hopkins, Conselheira Médica Chefe da UKHSA, disse:  “Este é um desenvolvimento extremamente empolgante que aumentará nossa capacidade de responder rapidamente a patógenos novos e emergentes e ajudará a garantir que estejamos o mais preparados possível para agir de forma rápida e eficaz para proteger o público de ameaças futuras.” \"",
+  "base_path": "/government/news/reino-unido-lanca-ferramenta-para-deteccao-de-surtos-e-epidemias.pt",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

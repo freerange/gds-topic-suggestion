@@ -1,0 +1,15 @@
+{
+  "title": "Employer Bulletin: August 2025",
+  "body": "\"HMRC publishes the Employer Bulletin 6 times a year, giving employers and agents the latest information on topics and issues that may affect them.   The August edition of Employer Bulletin includes articles on:     P11D and P11D(b) for tax year 2024 to 2025   PAYE Settlement Agreement — calculations and payment   employers PAYE disputed charges   the preparing businesses for Vaping Products Duty and Vaping Duty Stamps scheme   implementation of the Employment Rights Bill   parents of teens reminded to go online to extend their Child Benefit claim by 31 August 2025    You can register for HMRC’s employer email alert service to receive emails from HMRC which tell you when the latest issue is available.   You can read the bulletin on screen or print it off. It’s compatible with most screen reading software packages. \"",
+  "base_path": "/government/publications/employer-bulletin-august-2025",
+  "taxons": [
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "AI Energy Council meetings minutes",
+  "body": "\"The AI Energy Council was established by the Department for Science, Innovation and Technology (DSIT) and Department for Energy Security and Net Zero (DESNZ) to address the growing energy demands of AI in the UK.  \"",
+  "base_path": "/government/publications/ai-energy-council-meetings-minutes",
+  "taxons": [
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Regulatory Horizons Council: the Governance of Engineering Biology",
+  "body": "\"This report sets out a framework for governing engineering biology as platform technology. This framework addresses the challenges surrounding the effective governance of products across a broad range of enterprises.  The report makes six recommendations intended to provide the framework for future decisions on engineering biology governance, to be undertaken on a sectoral or market basis or based on common sets of properties.  The Regulatory Horizons Council (RHC) is an independent expert committee that identifies the implications of technological innovation, and provides government with impartial, expert advice on the regulatory reform required to support its rapid and safe introduction.  \"",
+  "base_path": "/government/publications/regulatory-horizons-council-the-governance-of-engineering-biology",
+  "taxons": [
+    {
+      "title": "Regulation reform",
+      "base_path": "/business-and-industry/regulation-reform"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

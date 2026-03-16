@@ -1,0 +1,11 @@
+{
+  "title": "Check the statutory market values for oil",
+  "body": "\"If you’re a participator in a UK oil field, you must use these defined market value rates if you dispose of:   crude oil liquefied petroleum gases (LPGs) condensate   Each taxable crude blend has a separate market value. There are 2 types of crude oil for valuation purposes.  Do not use these rates for arm’s length sales.  Category 1 oil  These are the crude oils valued using Price Reporting Agency data.  The crudes for category 1 are:   Brent Ekofisk Flotta Forties Statfjord   This publication shows category 1 values from 2022 to 2025. Earlier years are on the  National Archives website.  Category 2 oil  All other blends (including LPGs and condensates) are classed as category 2.  Category 2 oils are valued using deal data supplied to the Large Business (LB) Oil and Gas Sector in Petroleum Revenue Tax Returns.  The valuation methods used are similar to the way each particular blend is sold at arm’s length, and are agreed with industry.  \"",
+  "base_path": "/government/publications/check-the-statutory-market-values-for-oil",
+  "taxons": [
+    {
+      "title": "Oil, gas and coal",
+      "base_path": "/environment/oil-gas-coal"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Admission appeals in England: reporting year 2025",
+  "body": "\"Appeals data is detailed by school level, whether primary or secondary level, and as a total. Primary data can be subdivided into infant classes and other primary classes. Data is further provided by the type of the school and at local authority level. \"",
+  "base_path": "/government/statistics/admission-appeals-in-england-reporting-year-2025",
+  "taxons": [
+    {
+      "title": "School admissions",
+      "base_path": "/education/school-admissions"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Leaders Council",
+  "body": "\"This collection brings together all documents relating to the Leaders Council.  The Leaders Council is a landmark for the government’s relationship reset with local government, bringing local leaders to the heart of the government to tackle shared problems and deliver for the communities we serve. The Council members are chosen by the sector to represent the diverse range of council types and interests across local government. \"",
+  "base_path": "/government/collections/leaders-council",
+  "taxons": [
+    {
+      "title": "Local government",
+      "base_path": "/regional-and-local-government/local-government"
+    }
+  ]
+}

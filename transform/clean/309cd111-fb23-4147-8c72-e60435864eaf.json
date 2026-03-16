@@ -1,0 +1,11 @@
+{
+  "title": "African horse sickness poster",
+  "body": "\"Download and print our poster on how to spot the signs of African horse sickness.  Read our guidance on African horse sickness. \"",
+  "base_path": "/government/publications/african-horse-sickness",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    }
+  ]
+}

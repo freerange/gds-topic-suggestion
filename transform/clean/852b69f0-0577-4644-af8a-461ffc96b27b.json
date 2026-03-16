@@ -1,0 +1,11 @@
+{
+  "title": "Licence referral",
+  "body": "\"The Animals in Science Committee was commissioned by the government to conduct research on licence referral. You will find a collection of its documents here. \"",
+  "base_path": "/government/collections/licence-referral",
+  "taxons": [
+    {
+      "title": "Animal research and testing",
+      "base_path": "/business-and-industry/animal-research-and-testing"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Perinatal, children and young people's mental health profile: November 2025 update",
+  "body": "\"The perinatal, children and young people’s mental health profile:   supports understanding at a local level of:  mental health during pregnancy and up to 2 years after birth children and young people’s mental health   supports an intelligence-based approach to service planning, commissioning and delivery provides a set of indicators that allow planners, providers and stakeholders to profile their area and benchmark against similar populations   The November 2025 update includes new data on secondary mental health services for under 18s on:   new referrals attended contacts inpatient stays   The perinatal, children and young people’s mental health profile is classified as official statistics in development. \"",
+  "base_path": "/government/statistics/perinatal-children-and-young-peoples-mental-health-profile-november-2025-update",
+  "taxons": [
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    },
+    {
+      "title": "Mental health of children and young people",
+      "base_path": "/childcare-parenting/mental-health-of-children-and-young-people"
+    },
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    }
+  ]
+}

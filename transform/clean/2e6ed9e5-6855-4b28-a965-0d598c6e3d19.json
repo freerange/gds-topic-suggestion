@@ -1,0 +1,11 @@
+{
+  "title": "MOD diversity dashboard: April 2025",
+  "body": "\"Figures on diversity declaration and representation of minority groups of civil servants employed by the Ministry of Defence (MOD).  The creation of the diversity dashboard is to meet the department’s obligations under the Public Sector Equality Duty to provide information on its workforce identified by the Equality Act 2010.  Diversity statistics for military personnel can be found at the UK armed forces biannual diversity statistics: index collection page. \"",
+  "base_path": "/government/statistics/mod-diversity-dashboard-april-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

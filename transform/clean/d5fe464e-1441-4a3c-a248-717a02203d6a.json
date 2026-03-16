@@ -1,0 +1,15 @@
+{
+  "title": "Infected Blood Memorial Committee: Meeting Minutes",
+  "body": "\"This is a collection of the meeting minutes for the Infected Blood Memorial Committee. \"",
+  "base_path": "/government/publications/infected-blood-memorial-committee-meeting-minutes",
+  "taxons": [
+    {
+      "title": "Blood regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-blood-regulation-safety"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

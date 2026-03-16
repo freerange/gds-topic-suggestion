@@ -1,0 +1,19 @@
+{
+  "title": "Noise and vibration: environmental permit application guidance",
+  "body": "\"When you apply for an environmental permit for an operation in England, you must consider the potential risk of noise and vibration associated with this.  This guidance is to help you decide if you need to submit a noise and vibration impact assessment (NIA) and noise and vibration management plan (NMP). The Environment Agency has developed the NAT to help you make this decision.  \"",
+  "base_path": "/government/publications/noise-and-vibration-environmental-permit-application-guidance",
+  "taxons": [
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    }
+  ]
+}

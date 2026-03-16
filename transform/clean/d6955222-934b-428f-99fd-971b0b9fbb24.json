@@ -1,0 +1,31 @@
+{
+  "title": "Childrens Social Care Statistics for Northern Ireland 2024/25",
+  "body": "\"Children’s social care statistics for Northern Ireland presents figures, collected from each of the five health and social care trusts, for children in need at 31 March and year ending 31 March. This includes the total number children in need known to social services by age, gender, religion and ethnicity and the total number of children in need referrals received by source of referral. \"",
+  "base_path": "/government/statistics/childrens-social-care-statistics-for-northern-ireland-202425",
+  "taxons": [
+    {
+      "title": "Data collection for early years and childcare",
+      "base_path": "/childcare-parenting/data-collection-for-early-years-and-childcare"
+    },
+    {
+      "title": "Children's health and welfare",
+      "base_path": "/childcare-parenting/childrens-health-and-welfare"
+    },
+    {
+      "title": "Children and young people leaving care",
+      "base_path": "/childcare-parenting/children-and-young-people-leaving-care"
+    },
+    {
+      "title": "Children's homes and other accommodation",
+      "base_path": "/childcare-parenting/childrens-homes-and-other-accommodation"
+    },
+    {
+      "title": "Data collection for looked-after children",
+      "base_path": "/childcare-parenting/data-collection-for-looked-after-children"
+    },
+    {
+      "title": "Data collection for safeguarding and child protection",
+      "base_path": "/childcare-parenting/data-collection-safeguarding-child-protection"
+    }
+  ]
+}

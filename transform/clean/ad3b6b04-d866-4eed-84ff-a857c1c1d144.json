@@ -1,0 +1,19 @@
+{
+  "title": "Applicants’ Journeys to Claiming PIP: Research",
+  "body": "\"Research background  The Applicants’ Journeys to Claiming Personal Independence Payment (PIP) report builds a more detailed picture of why, how, and when people with disabilities and long-term health condition decide to apply for PIP.  Contribution to the evidence base  The research builds on previous studies, exploring the journeys people take to claiming PIP. It develops a typology of different journeys, exploring drivers for applying and previous knowledge of PIP. Applicants typically confuse entitlement as relating to the presence and experience of a health condition, rather than specifically the impact this has on their mobility or daily living. This report delves into the critical role different types of advisors have in setting expectations in relation to entitlement and the applicant process. This research explores potential reasons why some disabled people apply, and some don’t apply for PIP.  Research value  The department will use these findings, alongside other insights, to inform PIP service design and provision in the future.  \"",
+  "base_path": "/government/publications/applicants-journeys-to-claiming-pip-research",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    },
+    {
+      "title": "Carers and disability benefits",
+      "base_path": "/welfare/disability"
+    },
+    {
+      "title": "Work and disabled people",
+      "base_path": "/employment/work"
+    }
+  ]
+}

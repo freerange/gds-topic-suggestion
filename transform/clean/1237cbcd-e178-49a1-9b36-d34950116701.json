@@ -1,0 +1,11 @@
+{
+  "title": "Estimating the customs administrative burden of 2022 declarations",
+  "body": "\" This report was commissioned under the Conservative administration (2010 to 2024).  HM Revenue and Customs (HMRC) Research Report 820.   This technical paper estimates the administrative burden of 2022 import and export customs declarations for trade between Great Britain (GB) and the European Union (EU).    HM Revenue and Customs (HMRC) commissioned Ipsos to conduct research among businesses based in Great Britain that trade internationally to understand the processes involved and the administrative cost of complying with customs obligations.   The admin burden of GB-EU import and export customs declarations is estimated by multiplying the volume of declarations by an estimated per declaration cost. The volume of declarations is sourced from HMRC administrative data and is therefore based upon the actual number of declarations submitted to HMRC and subsequently reaching a finalised position.     To estimate the per declaration cost, HMRC commissioned a survey of GB based businesses trading internationally. This was delivered by Ipsos between January 2023 and March 2023.    Per declaration costs are made up of individual estimates of:      agent fees (for those using an agent or outsourcing their declaration)     time taken to complete the declaration or provide all information required elsewhere to complete the declaration     average staff wages       HMRC analysis draws on responses to the Ipsos survey, however the focus of Ipsos’ research is on different declaration types and reporting simple averages.  \"",
+  "base_path": "/government/publications/estimating-the-customs-administrative-burden-of-2022-declarations",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

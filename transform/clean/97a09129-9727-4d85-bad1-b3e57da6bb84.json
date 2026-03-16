@@ -1,0 +1,15 @@
+{
+  "title": "Automating intelligence tradecraft to stop more illegal freight",
+  "body": "\"Home Office Intelligence provides information to Border Force so suspect freight consignments arriving at the UK border can be stopped and seized.   A novel detection approach has been developed by a team of Home Office Intelligence investigators which queries the HMRC Compliance and Risk Engineering Solutions Team (CREST) for specific types of customs declarations and enriches this with other information including Companies House data.    The team of three is identifying 70 potentially suspicious companies each month, and there has been a 30-40% success rate in finding illegal commodities including cocaine, tobacco and synthetic opioids in containers compared to the 7% average for freight searches.   However, this risk analysis work – including filtering and analysing spreadsheets and desk research – is highly manual.  So, Home Office Intelligence came to the Accelerated Capability Environment (ACE) to explore how technology can be used to help automate this process.  The aim was to expand the number of companies assessed and maximise insights to both increase the rate of companies being referred for special inspection and the hit rate of those correctly identified as importing contraband.   Developing intelligence packages  ACE worked with Home Office Intelligence and Border Force and Vivace supplier Faculty over 12 weeks to develop a rules-based proof of concept risk model that could develop intelligence packages.   By allowing intelligence officers to upload raw HMRC data and combining this with automated retrieval of Companies House data, it reduces the risk analysis process from around one week to minutes.    The risk model scores companies on their likelihood of being an importer of contraband according to 11 weighted rules. It can be used by the current operational team and presents results immediately.   Successful stops  An operational trial identified hundreds of new companies for investigation out of which there were a number of successful stops.  Initial forecasting shows the tool has the potential to almost double the seizures of contraband from suspicious shipments over the coming months by increasing both volume and hit rate.  Additionally, data captured during this time will enable machine-learning approaches to be added to increase accuracy even further.   A roadmap and recommendations for how this risk model could be moved into wider operation was developed and further commissions focused on ongoing refinement and development are underway.  \"",
+  "base_path": "/government/case-studies/automating-intelligence-tradecraft-to-stop-more-illegal-freight",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

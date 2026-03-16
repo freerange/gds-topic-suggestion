@@ -1,0 +1,23 @@
+{
+  "title": "Decarbonisation readiness: standard rules consultation 32",
+  "body": "\"We propose to:   add new conditions to some standard rules to reflect the new decarbonisation readiness requirements update existing anaerobic digestion standard rules to allow carbon capture, upgrading and temporary storage for utilisation, where operators can meet the new conditions withdraw standard rules set SR2009 No 4: combustion of biogas in engines at a sewage treatment works, as it is no longer required   This is your opportunity to share insights, raise concerns or highlight any unintended consequences we may not have considered. Your feedback will help us make better informed decisions and ensure proportionate, effective environmental regulation. \"",
+  "base_path": "/government/consultations/decarbonisation-readiness-standard-rules-consultation-32",
+  "taxons": [
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    },
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    },
+    {
+      "title": "Carbon capture and storage",
+      "base_path": "/environment/oil-and-gas-carbon-capture-and-storage"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    }
+  ]
+}

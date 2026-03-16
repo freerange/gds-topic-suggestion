@@ -1,0 +1,23 @@
+{
+  "title": "Space projects unlock climate and transport innovations",
+  "body": "\"6 innovative projects will use satellite technology and AI to transform how Britain tackles climate change, manages transport networks and supports accessible travel, following £1.5 million in UK Space Agency funding.  Delivered through the Unlocking Space for Business programme, the projects demonstrate how satellite data combined with artificial intelligence can deliver practical, scalable solutions to real-world challenges. This supports the Government’s Industrial Strategy by driving innovation in priority sectors, accelerating growth and developing technological leadership.    The funding will help financial services and transport businesses accelerate the deployment of innovations that reduce carbon emissions, support the transition to net zero, and boost accessibility, while creating new growth opportunities for the UK’s thriving space sector, which already employs 56,000 people    DSIT Minister Ian Murray said:   These innovative projects showcase the transformative power of Britain’s space sector. From reducing emissions to making our streets more accessible, we’re backing the satellite technology and AI solutions that really make a difference to people’s lives.   Ether Capital will develop a real-time carbon risk dashboard for the shipping industry. By integrating satellite tracking data with advanced AI, the platform will provide immediate insights into vessel emissions, helping maritime finance institutions, insurers, and operators comply with tightening international regulations. This transparency will support greener shipping, de-risk investments, and build global leadership for the UK in sustainable maritime finance.   Furrer+Frey will create a satellite-powered tool that identifies railway assets and produces optimised electrification designs. This innovation will cut planning times, reduce project costs, and lower carbon emissions, enabling faster delivery of green rail infrastructure across the UK. Engineers and decision-makers will be able to access automated, high-precision designs, making rail decarbonisation more efficient and affordable, helping the UK accelerate its journey towards a cleaner transport network.   MakeSense Technology will apply Earth observation data to generate safe, high-precision walking routes tailored for visually impaired people. The breakthrough system will allow users to make spontaneous travel decisions, increasing independence and confidence, while helping the company scale its innovative navigation platform nationally.    Projects from Howden and Rebalance Earth will use satellite intelligence to improve environmental and biodiversity risk assessments for financial institutions. By combining space data with AI analytics, these tools will enable more accurate tracking of nature-related risks, support stronger climate-related disclosures, and enhance investment decisions. In doing so, they will open new market opportunities in sustainable finance and strengthen the UK’s role in developing innovative green finance solutions.     Foresight Group will develop tools that turn satellite data into financial insights to help investors assess climate and nature-related risks.   Each project addresses specific market gaps where traditional terrestrial data has proven to be insufficient or costly. The funding enables businesses to develop scalable solutions that can be deployed nationally and exported internationally, positioning Britain as a leader in space-enabled climate solutions.     Dr Craig Brown, Investment Director at the UK Space Agency said:    These projects show how the UK’s space sector is delivering real-world impact, using satellite data and AI to tackle climate change, decarbonise transport, and improve accessibility. By supporting...",
+  "base_path": "/government/news/space-projects-unlock-climate-and-transport-innovations",
+  "taxons": [
+    {
+      "title": "Transport",
+      "base_path": "/transport"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

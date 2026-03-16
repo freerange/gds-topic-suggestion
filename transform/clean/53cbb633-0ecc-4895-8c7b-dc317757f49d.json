@@ -1,0 +1,11 @@
+{
+  "title": "Public sector employment, UK: March 2025 time series",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/public-sector-employment-uk-march-2025-time-series",
+  "taxons": [
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    }
+  ]
+}

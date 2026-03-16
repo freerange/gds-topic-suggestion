@@ -1,0 +1,11 @@
+{
+  "title": "AAIB Report: Cirrus SR22T, G-RGSK",
+  "body": "\"At the end of a third circuit, which was intended to be a touch-and-go, G-RGSK bounced on touchdown.  The pilot applied full power to go around but lost control of the aircraft, which turned left through approximately 90° before striking the ground.  The aircraft’s ballistic parachute system deployed during the impact sequence.  It was found that the aircraft had approached the stall as the nose attitude was increased for the go-around, triggering the stall warning.  The tendency for the aircraft to yaw and roll left was not controlled, causing the aircraft to turn left, and the aircraft then stalled during the turn.  The pilot sustained fatal injuries.  To warn and protect people who may be unfamiliar with aircraft ballistic parachute systems, such as the emergency rescue services and others, from the potential danger, two Safety Recommendations are made concerning the provision of clear, conspicuous and unambiguous markings.  The UK Civil Aviation Authority has published a Safety Notice on the same topic.  Read the report. \"",
+  "base_path": "/government/news/aaib-report-cirrus-sr22t-g-rgsk",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

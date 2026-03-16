@@ -1,0 +1,11 @@
+{
+  "title": "Supply chain resilience against ransomware",
+  "body": "\"This guidance is to help organisations build resilience into their supply chains, reducing the likelihood and impact of ransomware incidents.  It’s issued by the Counter Ransomware Initiative, an international partnership for collective defence against ransomware. \"",
+  "base_path": "/government/publications/supply-chain-resilience-against-ransomware",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

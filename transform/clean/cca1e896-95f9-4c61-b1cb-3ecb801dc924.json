@@ -1,0 +1,23 @@
+{
+  "title": "Oil Price Cap suspected breach reporting form",
+  "body": "\"Before you start   This form should be used to report suspected breaches of the UK Maritime Services Ban and Oil Price Cap General Licence to HM Treasury’s Office of Financial Sanctions Implementation (OFSI).      Before completing this form, you should consult OFSI’s Russian Oil Services Ban guidance for information on the Maritime Services Ban, Oil Price Cap, and associated reporting and compliance obligations. You should also familiarise yourself with OFSI’s guidance on enforcement and civil monetary penalties, particularly the case factors OFSI uses when assessing potential breaches of UK sanctions. This guidance can be found here: Financial sanctions enforcement and monetary penalties guidance   You should note that for some businesses there is a legal obligation to report, and that not doing so is a criminal offence. If you are unsure of your compliance or reporting obligations under financial sanctions, you should seek independent legal advice.     For reporting that relates to any of the following activities, please use the forms available at Russian Oil Services ban:     Tier 1 reporting activity under Oil Price Cap General Licence INT/2022/2469656 or INT/2024/4423849.    Tier 2/3 notification of dealing with a non-UK Tier 1 under INT/2022/2469656 or INT/2024/4423849.    Tier 2/3 notification that Tier 1 Provider has not confirmed compliance with reporting requirements under INT/2022/2469656 or INT/2024/4423849.    Please ensure that when completing this form, the facts and information provided are accurate and true to the best of your knowledge. You should have completed a narrative report of the circumstances of the breach ready to upload before you commence this form (see below for further guidance), unless this is a pre-notification and you intend to later make a fuller report within a specified timeframe.   You cannot save your progress. Make sure you have the following information before you start:     Contact details of the person making the report.    Details of the suspected breacher and any involved UK persons or entities, including company reference numbers where applicable.     Details of any persons connected to Russia, if involved.    The regulations under which the suspected breach has occurred and the suspected offence that has been triggered.    Details of any suspected breaches of licence conditions or reporting obligations, or the General Licence(s) that the suspected breach relates to, including the licence number.     The tier of service provider of the reporter of the suspected breach.    The tier of service provider of the person(s) suspected of committing the breach.    Details of any suspected breach, including:    Oil transaction details.    Voyage details.    Vessel details.    Any UK nexus and other relevant service providers.    Any sanctions evasion red flags.    Documentation detailing the events or series of actions that led to the suspected breach taking place (further guidance below).    Details of when and how the suspected breach was discovered, and any other authority the matter has also been reported to.    The types of activities, services, and jurisdictions involved.    Any other supporting material, including any relevant attestations.      The information you provide may be shared for the purpose of facilitating, monitoring or ensuring compliance with UK sanctions regulations, in accordance with HM Treasury’s information...",
+  "base_path": "/guidance/oil-price-cap-suspected-breach-reporting-form",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    },
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    },
+    {
+      "title": "Reporting crimes and getting compensation",
+      "base_path": "/crime-justice-and-law/reporting-crimes-compensation"
+    }
+  ]
+}

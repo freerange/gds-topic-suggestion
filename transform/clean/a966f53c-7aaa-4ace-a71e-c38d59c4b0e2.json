@@ -1,0 +1,11 @@
+{
+  "title": "Diabetes profile update:  March 2025",
+  "body": "\" The diabetes profile has been updated by the Office for Health Improvement and Disparities (OHID). Data will be available for England, integrated care boards and upper tier local authorities where available.  This profile provides an overview of data on type 1 and type 2 diabetes and associated risk factors and complications. It is set up to support comparisons between areas and over time for a range of data. It is intended to bring together data across the pathway of healthcare to allow for health professionals and local public health colleagues to assess the impact of diabetes on their local population and support decision making about services.  Details of this release can be found in ‘Diabetes profile: statistical commentary, March 2025’.  The diabetes profile is one of a range of data and analysis resources produced by the CVD Intelligence Team.  \"",
+  "base_path": "/government/statistics/diabetes-profile-update-march-2025",
+  "taxons": [
+    {
+      "title": "Diabetes",
+      "base_path": "/health-and-social-care/diabetes"
+    }
+  ]
+}

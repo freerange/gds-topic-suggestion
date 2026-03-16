@@ -1,0 +1,11 @@
+{
+  "title": "PAYE draft forms: P60 (2025 to 2026)",
+  "body": "\"Use Forms P60 (2025 to 2026) if you’re a PAYE software developer. \"",
+  "base_path": "/government/publications/paye-draft-forms-p60-2025-to-2026",
+  "taxons": [
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    }
+  ]
+}

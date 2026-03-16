@@ -1,0 +1,11 @@
+{
+  "title": "Customs Importer and Exporter Population 2024",
+  "body": "\"Users should be aware that the 2021 to 2024 Customs Importer and Exporter Population publications succeed UK Importer and Exporter Population.  Customs Importer and Exporter Population reports only on traders moving goods in 2021, 2022, 2023 and 2024 and draws no comparison to data on previous years. \"",
+  "base_path": "/government/statistics/customs-importer-and-exporter-population-2024",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

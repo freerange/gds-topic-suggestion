@@ -1,0 +1,23 @@
+{
+  "title": "Abandoned metal mines in England: baseline length of rivers and estuaries polluted by harmful metals",
+  "body": "\"The government’s Environmental Improvement Plan (2023) stated that abandoned metal mines are the largest source of metal pollution to English rivers and into the marine environment. In 2023, a statutory target was set to halve the length of rivers and estuaries polluted by target substances from abandoned metal mines by 31 December 2038 against the baseline polluted length in 2022.  The target substances are:   arsenic cadmium copper lead nickel zinc   This report explains how the Environment Agency has determined the baseline length of rivers and estuaries polluted by any of the target substances from abandoned metal mines as required under the Environmental Targets (Water) (England) Regulations 2023. \"",
+  "base_path": "/government/publications/abandoned-metal-mines-in-england-baseline-length-of-rivers-and-estuaries-polluted-by-harmful-metals",
+  "taxons": [
+    {
+      "title": "Mine water management",
+      "base_path": "/environment/coal-water-management"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Pollution",
+      "base_path": "/environment/environmental-management-land-management-pollution"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Labour Force Survey Quality Update: September 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence.  \"",
+  "base_path": "/government/statistics/labour-force-survey-quality-update-september-2025",
+  "taxons": [
+    {
+      "title": "Labour market reform",
+      "base_path": "/employment/labour-market-reform"
+    }
+  ]
+}

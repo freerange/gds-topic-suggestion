@@ -1,0 +1,19 @@
+{
+  "title": "Methodologies for valuing market access barriers",
+  "body": "\"The Department for Business and Trade (DBT) has developed several methodological approaches to estimate the potential value associated with either the imposition or removal of market access barriers. These valuation estimates, along with other factors, inform decision making such as which barriers should be prioritised for removal by the government.  This analytical working paper sets out the analytical approaches (including methodology, data sources, assumptions and limitations) used to provide indicative valuation estimates for market access barriers.  The following approaches are discussed in this paper:   non-tariff measure (NTM) ad-valorem equivalents for goods-related barriers services trade modelling for services related barriers International Trade Centre export potential indicator for estimating unrealised export potential due to effective import bans foreign direct investment regulatory restrictiveness index for investment related barriers trade facilitation index for goods barriers related to border procedures  \"",
+  "base_path": "/government/publications/methodologies-for-valuing-market-access-barriers",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Trade barriers",
+      "base_path": "/business-and-industry/trade-barriers"
+    }
+  ]
+}

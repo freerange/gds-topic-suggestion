@@ -1,0 +1,11 @@
+{
+  "title": "Defra: spending over £25,000, January 2025",
+  "body": "\"Defra publishes details of all departmental spending over £25,000 on a monthly basis. \"",
+  "base_path": "/government/publications/defra-spending-over-25000-january-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Assistive technology research and development work: 2023 to 2024",
+  "body": "\"Assistive technologies aim to increase the independence or wellbeing of disabled and older people.  Following the Parliamentary report format used in the last reporting period (2022 to 2023), this report has the added feature of enabling those interested in specific areas of assistive technology research to search topics of interest and obtain more detail on this year’s research activity by visiting the associated 2023 to 2024 funding data on the NIHR Open Data website.  This report is aimed at:   individuals with disabilities health and care professionals research stakeholders   \"",
+  "base_path": "/government/publications/assistive-technology-research-and-development-work-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Disability equipment and transport",
+      "base_path": "/health-and-social-care/disabilities-equipment"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

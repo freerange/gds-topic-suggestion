@@ -1,0 +1,11 @@
+{
+  "title": "Summary of movements of goods into Northern Ireland from Great Britain 2024",
+  "body": "\"This release provides a summary of the number of declarations submitted in the calendar year 2024 for movements of goods into Northern Ireland from Great Britain alongside the value of goods moved, and the number of businesses associated with these declarations.  This data is further disaggregated by whether the movement was facilitated by the Trader Support Service (TSS) or declared directly to the Customs Declaration Service (CDS).  \"",
+  "base_path": "/government/statistics/summary-of-movements-of-goods-into-northern-ireland-from-great-britain-2024",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

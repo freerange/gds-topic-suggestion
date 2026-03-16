@@ -1,0 +1,11 @@
+{
+  "title": "Avian influenza: managing human exposures to incidents in birds or animals",
+  "body": "\"This page contains 3 pieces of guidance:  1. For all incidents involving influenza A(H5) within the UK, refer to ‘Guidance for the management of people exposed to birds or other animals infected with influenza A(H5)’.  2. For non-influenza A(H5) exposures within the UK - for example A(H7) - use the strict approach in ’Managing the human health risk of avian influenza in poultry and wild birds: guidance for health protection teams’.  3. Regarding persons exposed to confirmed detections of avian influenza in avian or mammalian species outside the UK, refer to ‘Investigation and initial clinical management of possible human cases of avian influenza with potential to cause severe human disease’.  It is important to note that for incidents of avian influenza involving any subtype, guidance on dosages of antiviral use is set out in the Patient Group Direction for pre- and post-exposure prophylaxis of avian influenza.  Contact your local health protection team for advice and support, particularly in situations that are outside the scope of the guidance.   Please note: we previously published an algorithm for the ‘Investigation and management of possible human cases of avian influenza amongst contacts associated with incidents’. This has been withdrawn for review and updating.   \"",
+  "base_path": "/government/publications/avian-influenza-managing-human-exposures-to-incidents-in-birds-or-animals",
+  "taxons": [
+    {
+      "title": "Health emergency planning",
+      "base_path": "/health-and-social-care/health-emergency-planning"
+    }
+  ]
+}

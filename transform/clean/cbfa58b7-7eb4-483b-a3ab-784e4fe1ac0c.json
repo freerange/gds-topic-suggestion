@@ -1,0 +1,11 @@
+{
+  "title": "UK international sea passengers: November 2024",
+  "body": "\" Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing us with any comments about how we meet these standards.   Monthly statistics on the number of sea passengers arriving to and departing from UK sea ports.  Information included in SPAS0107:  SPAS0107_All contains a table with monthly figures including all passengers arriving and departing.  SPAS0107_Arrivals contains a table with the monthly figures of all passengers arriving.  SPAS0107_Departures contains a table with the monthly figures of all passengers departing.  Contact us  Sea passenger statistics     Email sea-passenger.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats.  \"",
+  "base_path": "/government/statistics/uk-international-sea-passengers-november-2024",
+  "taxons": [
+    {
+      "title": "UK sea passengers",
+      "base_path": "/transport/uk-sea-passengers"
+    }
+  ]
+}

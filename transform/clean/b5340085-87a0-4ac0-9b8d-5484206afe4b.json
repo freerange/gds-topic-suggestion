@@ -1,0 +1,11 @@
+{
+  "title": "Hate crime, England and Wales, year ending March 2025",
+  "body": "\"This publication provides information on the number of hate crimes from police recorded data in England and Wales from April 2024 to March 2025. The bulletin covers the extent and trends in hate crime for all forces, with additional analysis based upon more detailed data supplied by 31 police forces on the types of offences associated with hate crime.  Hate crime is defined as “any criminal offence which is perceived, by the victim or any other person, to be motivated by hostility or prejudice towards someone based on a personal characteristic.”  There are 5 centrally monitored strands of hate crime:   race or ethnicity religion or beliefs sexual orientation disability transgender identity  \"",
+  "base_path": "/government/statistics/hate-crime-england-and-wales-year-ending-march-2025",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Drug-related law enforcement activity and serious violent crime",
+  "body": "\"This research systematically reviews the literature in English, Dutch, Spanish, and Portuguese on the impact of drug-related law enforcement activity on serious violent crimes between 2011 and 2024.  This report examines the evidence on 8 types of law enforcement activities across the globe:   selective enforcement leadership removal removal of a drug-trafficking-organisation member arrests or charges illegal crop eradication drug seizures military interventions multijurisdictional anti-drug coordination and resourcing   It also explores factors that may help or hinder such activities to reduce violence.  Overall, the evidence suggests that drug-related law enforcement activities has limited success in reducing violence. However, due to a lack of UK-based evidence, no firm conclusions can be made about the impacts in the UK. Future research could focus on interventions that may reduce violence, such as selective enforcement, and if the findings would apply in the UK.  This research was commissioned by the last Conservative government, and prior to 5 July 2024. \"",
+  "base_path": "/government/publications/drug-related-law-enforcement-activity-and-serious-violent-crime",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

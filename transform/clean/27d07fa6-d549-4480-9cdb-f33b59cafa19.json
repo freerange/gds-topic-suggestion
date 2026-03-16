@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Stillbirths (Northern Ireland): September 2025",
+  "body": "\"Monthly Stillbirths (Northern Ireland): September 2025 \"",
+  "base_path": "/government/statistics/monthly-stillbirths-northern-ireland-september-2025",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

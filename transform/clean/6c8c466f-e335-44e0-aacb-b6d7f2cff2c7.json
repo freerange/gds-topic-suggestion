@@ -1,0 +1,11 @@
+{
+  "title": "Mpox routes of transmission",
+  "body": "\"This rapid evidence summary identified and summarised the available evidence on the routes of transmission in mpox (clade Ia, Ib, IIb).  The rapid evidence summary searched for research published up to 29 August 2024 and included 28 studies. One study reported on mpox cases in the clade I outbreak that began in January 2023 in the Democratic Republic of Congo, with one other reporting on an mpox clade I outbreak in the Central African Republic in November 2021. Ten studies reported on clade II, one study reported on both clade I and II, and 15 did not report clade. \"",
+  "base_path": "/government/publications/mpox-routes-of-transmission",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

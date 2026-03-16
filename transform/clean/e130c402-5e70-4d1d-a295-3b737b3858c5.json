@@ -1,0 +1,11 @@
+{
+  "title": "Public sector finances, UK: November 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/public-sector-finances-uk-november-2025",
+  "taxons": [
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

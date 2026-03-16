@@ -1,0 +1,11 @@
+{
+  "title": "Alcohol Duty: rates change",
+  "body": "\"This measure increases :   the Alcohol Duty rates by Retail Price Index (RPI) inflation across all alcoholic product categories — in addition, the simplified duty rates used for calculating duty on alcoholic products brought into Great Britain (England, Scotland and Wales) in excess of the travellers’ allowance will also rise the cash discounts provided to small producers which maintains the relative value of Small Producer Relief (SPR)   This measure will take effect from 1 February 2026.  \"",
+  "base_path": "/government/publications/alcohol-duty-rates-change",
+  "taxons": [
+    {
+      "title": "Alcohol duty",
+      "base_path": "/money/alcohol-duty"
+    }
+  ]
+}

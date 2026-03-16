@@ -1,0 +1,11 @@
+{
+  "title": "Changes to Gambling Duties",
+  "body": "\"As announced at Budget 2025 and following consultation in April 2025, the government will introduce legislation in Finance Bill 2025-26 to make changes to Gambling Duties.  The government will not proceed with introducing a single tax on remote betting and gaming. Instead, to raise revenue and better reflect the modern nature and impacts of gambling, the following changes will be introduced:   the rate of Remote Gaming Duty will be increased from 21% to 40% from 1 April 2026 a new remote betting rate of 25% will be introduced within General Betting Duty from 1 April 2027,  remote bets on UK horse-racing will be excluded from these changes and remain subject to a rate of 15% — the new rate does not include bets placed via self-service betting terminals, Pool Betting and Spread Betting Bingo Duty will be abolished from 1 April 2026   \"",
+  "base_path": "/government/publications/changes-to-gambling-duties",
+  "taxons": [
+    {
+      "title": "Gambling duties",
+      "base_path": "/money/gambling-duties"
+    }
+  ]
+}

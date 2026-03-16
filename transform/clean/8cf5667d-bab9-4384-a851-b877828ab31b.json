@@ -1,0 +1,11 @@
+{
+  "title": "Customs declarants and declaration volumes for international trade in 2024",
+  "body": "\"This is an annual statistical release which provides the number of customs declarants and declaration volumes submitted to HM Revenue and Customs in the calendar year 2024, for goods moved between Great Britain (GB) and the European Union (EU), and the United Kingdom (UK) and Non-EU countries. It also provides details on the number of these customs declarations by calendar month, by declarant representation, by location of entry/exit and by type of declaration.  \"",
+  "base_path": "/government/statistics/customs-declarants-and-declaration-volumes-for-international-trade-in-2024",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

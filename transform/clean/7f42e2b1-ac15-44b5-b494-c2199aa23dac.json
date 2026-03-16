@@ -1,0 +1,11 @@
+{
+  "title": "Live facial recognition in Immigration Enforcement",
+  "body": "\"Immigration Enforcement uses live facial recognition (LFR) to identify and locate people they are looking for as part of their law enforcement duties.  Facial recognition is a technology that can compare a human face in a digital image with a watchlist of faces.  Live facial recognition (LFR)  Live facial recognition (LFR) compares a live camera feed of faces against a predetermined watchlist in real time. It is used to locate and identify people who are of interest by generating an alert when a possible match is found.  More information on live facial recognition (LFR) can be found in the documents below. \"",
+  "base_path": "/government/collections/live-facial-recognition-in-immigration-enforcement",
+  "taxons": [
+    {
+      "title": "Immigration offences",
+      "base_path": "/entering-staying-uk/immigration-offences"
+    }
+  ]
+}

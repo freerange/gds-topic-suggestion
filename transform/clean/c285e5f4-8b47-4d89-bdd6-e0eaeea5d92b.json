@@ -1,0 +1,23 @@
+{
+  "title": "MHRA announces proposals to improve access to world’s best medical devices for patients and to boost economic growth in Britain’s med tech sector",
+  "body": "\"The Medicines and Healthcare products Regulatory Agency (MHRA) has today announced important new steps to secure access for patients to the latest medical technologies available in Europe and other advanced countries.  As well as improving patient access to technologies, the proposals will boost med tech industrial growth by reducing duplicative regulatory costs faced by manufacturers and instead focuses the domestic approvals route (UKCA) on first-in-market innovative technologies, including AI as a medical device.    The MHRA has now published the government’s response to its public consultation on future routes to market for medical devices in Great Britain (GB), designed to modernise regulation and improve patient access to the latest innovative technologies.  In direct response to stakeholder feedback, the MHRA is also announcing its intention to consult later this year on the indefinite recognition of CE-marked medical devices.  In parallel, new international reliance routes will be introduced to allow swifter access to medical devices from trusted regulators in Australia, Canada, and the United States. This will allow eligible products to follow a streamlined pathway to market, helping bring the latest technologies to patients more quickly.  The MHRA will support removing the requirement for physical UKCA markings on products and packaging once unique device identification (UDI) requirements are in place. This will reduce barriers to entry to the market while strengthening traceability and safety monitoring.  These measures reflect the government’s commitments in the UK’s Life Sciences Sector Plan and Industrial Strategy, and the 10 Year Health Plan for England, to reduce unwarranted barriers to market entry and to deliver transformative technologies to patients faster.  Today’s announcement forms part of our broader regulatory reform programme for medical devices that will see improvements in patient safety through our new post-market surveillance requirements, the creation of streamlined and risk-proportionate routes for faster market entry for products that have already undergone assessment in comparator regions, and a refocusing of the UKCA domestic pathway on innovative technologies including AI.  Secretary of State for Health and Social Care, Wes Streeting MP, said:    Our 10-Year Health Plan will seize the opportunities provided by new technology, medicines and innovation to deliver better care for patients, whether these originate at home or abroad.  It makes perfect sense that medical devices approved for use on patients in a country whose safety regulations we trust can also be used here - without red tape or bureaucracy delaying devices which can benefit NHS patients now.  We will look around the world to bring the best life-saving devices to Britain quickly and safely and build a modern health service that is fit for the future.   Minister of State for Science, Lord Patrick Vallance MP, said:    The MHRA’s new international reliance routes are excellent news for patients, who will now gain rapid access to new medical devices which have been approved as safe by our trusted regulatory partners. This is precisely the sort of streamlining of red tape that the Life Sciences Sector Plan calls for.  By making quick, informed, sensible decisions enabled by international reliance,...",
+  "base_path": "/government/news/mhra-announces-proposals-to-improve-access-to-worlds-best-medical-devices-for-patients-and-to-boost-economic-growth-in-britains-med-tech-sector",
+  "taxons": [
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    },
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    },
+    {
+      "title": "Research, testing and standards",
+      "base_path": "/health-and-social-care/health-protection-services-research-testing-and-standards"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

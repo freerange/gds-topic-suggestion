@@ -1,0 +1,15 @@
+{
+  "title": "Foreign, Commonwealth & Development Office consular data 2024",
+  "body": "\"The Foreign, Commonwealth and Development Office publishes consular data on assistance provided to British nationals around the world. This data is published monthly.   As part of a wider digital change programme, the Foreign Commonwealth and Development Office introduced a new case management system on 16 October 2023. The new system captures information about services provided in a different way to legacy systems. As a result of this work, we have  re-categorised the assistance service categories reported.   Data is accurate and volumes of services are correct at time of reporting. Consular service volumes are dynamic and historic cases can change previously-published service volumes. \"",
+  "base_path": "/government/publications/foreign-commonwealth-and-development-office-consular-data-2024",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

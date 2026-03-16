@@ -1,0 +1,11 @@
+{
+  "title": "Bovine TB in cattle: badger control areas monitoring data up to 2024",
+  "body": "\"This data release provides the annual TB monitoring data up to the end of 2024 for each badger control area licensed from 2013 up to and including 2023.  New badger control areas will be included in subsequent data releases once they have at least one year of follow-up data available. \"",
+  "base_path": "/government/publications/bovine-tb-in-cattle-badger-control-areas-monitoring-data-up-to-2024",
+  "taxons": [
+    {
+      "title": "Bovine tuberculosis (bovine TB)",
+      "base_path": "/environment/bovine-tuberculosis"
+    }
+  ]
+}

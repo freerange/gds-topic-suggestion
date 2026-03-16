@@ -1,0 +1,27 @@
+{
+  "title": "MSN 1886 (M+F) Amendment 3 Medical examination system standards",
+  "body": "\"This notice should be read with the Merchant Shipping (Maritime Labour Convention) (Medical Certification) Regulations 2010 as amended and the Merchant Shipping (Work in Fishing) (Medical Certification) Regulations 2018 and replaces MSN 1886 amendment 2.  Notice to   approved doctors shipowners ship operators and ship managers fishing vessel owners and managers employers of seafarers and fishermen masters officers and seafarers and fishermen.  \"",
+  "base_path": "/government/publications/msn-1886-mf-amendment-3-medical-examination-system-standards",
+  "taxons": [
+    {
+      "title": "Fishing",
+      "base_path": "/transport/fishing"
+    },
+    {
+      "title": "Maritime safety",
+      "base_path": "/transport/maritime-safety"
+    },
+    {
+      "title": "Employment of seafarers",
+      "base_path": "/transport/employment-of-seafarers"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    },
+    {
+      "title": "Ship crew training and certification",
+      "base_path": "/transport/ship-crew-training-and-certification"
+    }
+  ]
+}

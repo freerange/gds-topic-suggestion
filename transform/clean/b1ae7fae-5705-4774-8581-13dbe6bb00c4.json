@@ -1,0 +1,11 @@
+{
+  "title": "The sport or pleasure vessel code",
+  "body": "\"This Code must, from the date of entry into force (12 December 2025), be used for new small vessels in commercial use for sport or pleasure.  Existing vessels that are certificated under The Safety of Small Commercial Sailing Vessels—A Code of Practice (the “Blue Code”), The Safety of Small Commercial Motor Vessels—A Code of Practice (the “Yellow Code”), The Safety of Small Vessels in Commercial Use for Sport or Pleasure Operating from a Nominated Departure Point—A Code of Practice (the “Red Code”), or their equivalent standards published in the technical Annex to MGN 280 (M) shall meet the requirements of the Code by the vessel’s next renewal examination or three years after the date of entry into force of the Code, whichever is later, except, where references to previous requirements are explicitly specified within individual sections of the Code they may comply with such requirements.  New vessels which have their keels laid, or are at a similar stage of construction, between the entry into force of MGN 280 and the date of entry into force of the Code, may be considered as existing vessels that are certificated under MGN 280; or shall meet the requirements of the Sport or Pleasure Vessel Code in full.  It should also be noted that, where any existing vessel upgrades, and phases-in, to the Sport or Pleasure Vessel Code regime, it must do so fully. A vessel cannot meet a combination of the Sport or Pleasure Vessel Code standards and those of earlier codes or standards.  This Code should be read in conjunction with SI 2025 No. 1195. \"",
+  "base_path": "/government/publications/the-sport-or-pleasure-vessel-code",
+  "taxons": [
+    {
+      "title": "Maritime and shipping",
+      "base_path": "/transport/maritime-and-shipping"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Togo: Knowledge Base profile",
+  "body": "\"This document contains useful information about Togo which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy gender recognition civil partnerships and marriage documents from Togo  \"",
+  "base_path": "/government/publications/togo-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Northern Ireland Road Safety Partnership Statistical Report 2024",
+  "body": "\"This publication can be accessed here \"",
+  "base_path": "/government/statistics/northern-ireland-road-safety-partnership-statistical-report-2024",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    },
+    {
+      "title": "Speeding",
+      "base_path": "/transport/speeding"
+    },
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Drug-related and drug-misuse deaths 2013-2023",
+  "body": "\"Number of drug-related and drug-misuse deaths in Northern Ireland 2013-2023. \"",
+  "base_path": "/government/statistics/drug-related-and-drug-misuse-deaths-2013-2023",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "NCARDRS Congenital Anomaly Official Statistics Report, 2022",
+  "body": "\"This publication report shows key findings, spreadsheet tables with more detailed estimates and a methodology document. \"",
+  "base_path": "/government/statistics/ncardrs-congenital-anomaly-official-statistics-report-2022",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

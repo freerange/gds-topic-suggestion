@@ -1,0 +1,11 @@
+{
+  "title": "Health trends and variation in England 2025: a Chief Medical Officer report",
+  "body": "\"This independent report brings together data to present an overview of the nation’s health.  The report is divided into the following chapters:   Chapter 1: life expectancy and population change Chapter 2: mortality and morbidity Chapter 3: maternal and child health Chapter 4: risk factors and wider determinants Chapter 5: screening and vaccination   The data shows substantial variation in health across the country and over time. This includes analysis by geography, socioeconomic status, gender, age and ethnicity. \"",
+  "base_path": "/government/publications/health-trends-and-variation-in-england-2025-a-chief-medical-officer-report",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

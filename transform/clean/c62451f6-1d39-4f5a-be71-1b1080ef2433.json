@@ -1,0 +1,15 @@
+{
+  "title": "Spaceflight activities: rules and regulations",
+  "body": "\" \"",
+  "base_path": "/government/collections/spaceflight-activities-rules-and-regulations",
+  "taxons": [
+    {
+      "title": "Spaceflight",
+      "base_path": "/transport/spaceflight"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

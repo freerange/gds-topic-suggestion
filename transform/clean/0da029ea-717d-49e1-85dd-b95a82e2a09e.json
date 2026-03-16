@@ -1,0 +1,15 @@
+{
+  "title": "UK Infrastructure Pipeline",
+  "body": "\"The Infrastructure Pipeline is a key element underpinning the delivery of the Government’s 10 Year Infrastructure Strategy.  The Pipeline provides industry and investors with up-to-date information on public and privately delivered infrastructure projects in construction, under development or in pre-project stages where a clear strategic need has been prioritised by the UK Government.  It provides details of capital construction and maintenance projects and programmes anticipated to exceed £25 million for economic infrastructure, such as transport, utilities and energy, and £15 million for other infrastructure, including education, health and defence.  The Pipeline is a dynamic online tool, developed with input from industry stakeholders.  It consists of an interactive dashboard, a fully downloadable spreadsheet providing information about each scheme with details of anticipated spend, current status and expected completion, together with information on the Pipeline’s methodology and government’s intentions for its future evolution.  Access the Pipeline here. \"",
+  "base_path": "/government/publications/uk-infrastructure-pipeline",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Transport",
+      "base_path": "/transport"
+    }
+  ]
+}

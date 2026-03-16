@@ -1,0 +1,11 @@
+{
+  "title": "Lookup table to connect all publicly available UARN to the UPRN system",
+  "body": "\"This is a response to a request for a lookup table to connect all publicly available Unique Address Reference Number (UARN) to the Unique Property Reference Number (UPRN) system. \"",
+  "base_path": "/government/publications/lookup-table-to-connect-all-publicly-available-uarn-to-the-uprn-system",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

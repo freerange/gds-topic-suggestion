@@ -1,0 +1,11 @@
+{
+  "title": "Vehicle emissions carbon tool (VECAT)",
+  "body": "\"The vehicle emissions carbon tool (VECAT) allows transport practitioners to quantify road-user carbon emissions.  You can use it to:   annualise road-user emissions and calculate emissions over a set appraisal period estimate the long-term carbon impact of a transport scheme as part of a business case   The tool works on a link-by-link basis using the parameters and formulas from DfT’s Transport analysis guidance (TAG) and the TAG data book.  Read the user guidance on this page and download the Excel spreadsheet to use the tool.  For any queries about VECAT, contact: vecat@dft.gov.uk.  \"",
+  "base_path": "/government/publications/vehicle-emissions-carbon-tool-vecat",
+  "taxons": [
+    {
+      "title": "Transport modelling and appraisal",
+      "base_path": "/transport/transport-modelling-and-appraisal"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Postcode level gas statistics: 2024",
+  "body": "\"2024 postcode level gas consumption statistics in .csv format.  Please read the accompanying guidance before using these statistics. \"",
+  "base_path": "/government/statistics/postcode-level-gas-statistics-2024",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Funding claims and reconciliation",
+  "body": "\"Funding claims guidance will help you understand how and where to complete and submit your funding claims.  If you have any questions, please contact your place based colleague or use our customer help centre. \"",
+  "base_path": "/government/publications/funding-claims-and-reconciliation",
+  "taxons": [
+    {
+      "title": "Data collection for further education providers",
+      "base_path": "/education/data-collection-for-further-education-providers"
+    },
+    {
+      "title": "Further education funding",
+      "base_path": "/education/further-education-funding"
+    },
+    {
+      "title": "School and academy funding",
+      "base_path": "/education/school-and-academy-funding"
+    }
+  ]
+}

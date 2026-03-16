@@ -1,0 +1,19 @@
+{
+  "title": "Notice to Traders 54/25 - Imports of Rice under Statutory Instrument 2020 No. 1432",
+  "body": "\"You may submit your application between 1 July 2025 and 5pm on 7 July 2025. \"",
+  "base_path": "/government/publications/notice-to-traders-5425-imports-of-rice-under-statutory-instrument-2020-no-1432",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Crops and horticulture ",
+      "base_path": "/environment/producing-distributing-food-crops-horticulture"
+    },
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Extended producer responsibility for packaging: local authorities",
+  "body": "\"This collection of guidance is for local authorities who will receive payments under EPR for packaging.  There is a separate guidance collection for producers, reprocessors, exporters, compliance schemes, material facilities and other groups affected by EPR for packaging.  EPR for packaging is administered by PackUK. \"",
+  "base_path": "/government/collections/extended-producer-responsibility-for-packaging-local-authorities",
+  "taxons": [
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    }
+  ]
+}

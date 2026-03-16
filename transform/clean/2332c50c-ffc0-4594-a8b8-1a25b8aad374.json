@@ -1,0 +1,11 @@
+{
+  "title": "The water flea as an alternative to fish for bioaccumulation testing",
+  "body": "\"This project reviewed bioaccumulation studies for chemical substances using the water flea (scientific name, Daphnia magna) to explore the test methods used and consider the implications of these for regulatory assessments. \"",
+  "base_path": "/government/publications/the-water-flea-as-an-alternative-to-fish-for-bioaccumulation-testing",
+  "taxons": [
+    {
+      "title": "Chemicals",
+      "base_path": "/environment/chemicals"
+    }
+  ]
+}

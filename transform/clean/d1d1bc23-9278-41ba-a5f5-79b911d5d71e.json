@@ -1,0 +1,15 @@
+{
+  "title": "DfT: spending over £25,000, July 2025",
+  "body": "\"The Department for Transport (DfT) publishes details of all departmental spending over £25,000 on a monthly basis.  This data is also available on data.gov.uk.  \"",
+  "base_path": "/government/publications/dft-spending-over-25000-july-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    }
+  ]
+}

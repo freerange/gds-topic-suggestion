@@ -1,0 +1,23 @@
+{
+  "title": "NDA launches pioneering robotics partnership to manage nuclear waste",
+  "body": "\"The Nuclear Decommissioning Authority (NDA) group has today announced a pioneering partnership which will see innovative technology deployed for the first time on a nuclear site to remotely and autonomously sort and segregate radioactive waste.  The NDA has committed to invest up to £9.5m in the project over four years, which is a collaboration with Nuclear Restoration Services (NRS), Sellafield and Nuclear Waste Services (NWS).  The project, Auto-SAS, will be delivered jointly by AtkinsRéalis and Createc, working in partnership as ARCTEC to combine their joint experience and track record of developing automated systems and robotics in nuclear. They will take learning from the solutions they developed in an earlier innovation competition to develop a system which will be deployed on the NRS Oldbury, former nuclear site.  Melanie Brownridge, NDA Chief R&D Officer, said:   This is a hugely exciting project for us, using robotics to autonomously sort and categorise waste and has the potential to save hundreds of millions of pounds in waste storage and disposal costs.  It’s a great example of collaboration across the NDA group and supply chain to develop transformative solutions to decommissioning challenges which enable us to deliver our mission safely and efficiently.  Our ambition is to use what we learn here to benefit multiple sites in the NDA group and potentially beyond.   Manual segregation of radioactive waste is complex and hazardous due to the nature of the material, so caution is exercised and where waste is mixed it’s currently all categorised as Intermediate Level Waste (ILW) or Plutonium Contaminated Material (PCM) rather than being sorted by type or radioactivity.  Using robotics provides the ability to use technology to more accurately categorise the waste, avoiding using more costly waste routes when they aren’t required, while also removing people from hazardous environments and giving them the opportunity to develop new skills.  Energy Minister, Michael Shanks, said:   This cutting-edge partnership represents exactly the kind of innovation the UK needs to lead the world in safe, efficient nuclear decommissioning. It will put the Nuclear Decommissioning Authority at the forefront of using robotics to sort nuclear waste. Not only will this help protect and upskill workers, but by investing in technologies like this, we can ensure better value for taxpayers and potentially save hundreds of millions of pounds.   Auto-SAS will be deployed on the NRS Oldbury site in South Gloucestershire initially and will be used to separate low level waste from intermediate level waste which has been retrieved from the vaults on site - created when the power station was operational.  Andrew Forrest, NRS Chief Technical Officer, commented:   This collaboration brings a game changing opportunity to accelerate our waste management and help deliver the decommissioning mission sooner, safely and cost effectively. I know the Oldbury team is excited to be part of the project and be a centre of innovation for the NDA group.   The ARCTEC system will use a combination of sensors to categorise the waste before robotic manipulators grasp and consign waste items to the most appropriate waste route....",
+  "base_path": "/government/news/nda-launches-pioneering-robotics-partnership-to-manage-nuclear-waste",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    },
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Data (Use and Access) Act 2025: factsheets",
+  "body": "\"Factsheets covering the most significant changes to the Data (Use and Access) Act 2025.  The Data (Use and Access) Act 2025 reforms how the UK manages non-personal and personal data and aims to unlock the secure and effective use of data.  Documents on the Data (Use and Access) Act 2025 can be found on the Parliament website.  Please contact press@dsit.gov.uk for any queries.  \"",
+  "base_path": "/government/publications/data-use-and-access-act-2025-factsheets",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    }
+  ]
+}

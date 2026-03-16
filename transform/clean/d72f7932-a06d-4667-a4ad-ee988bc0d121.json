@@ -1,0 +1,15 @@
+{
+  "title": "UK Space Agency: Climate Change Adaptation Report",
+  "body": "\"A report from the UK Space Agency that explores current and future impacts of a changing climate to the operations of space infrastructure and potential for disruption to services. \"",
+  "base_path": "/government/publications/uk-space-agency-climate-change-adaptation-report",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

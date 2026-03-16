@@ -1,0 +1,15 @@
+{
+  "title": "Co-benefits and trade-offs of UK climate actions",
+  "body": "\"A Rapid Evidence Assessment (REA) to understand the co-benefits and trade-offs between climate mitigation and adaptation in the UK to inform the government’s efforts to promote decarbonisation and resilience.  The assessment rated the effect of a range of climate actions on UK mitigation and adaptation outcomes and determined confidence in these ratings.  \"",
+  "base_path": "/government/publications/co-benefits-and-trade-offs-of-uk-climate-actions",
+  "taxons": [
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

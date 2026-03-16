@@ -1,0 +1,15 @@
+{
+  "title": "Alerts for vets: emerging and endemic disease alert system (EEDAS)",
+  "body": "\"The emerging and endemic disease alert system (EEDAS) is for veterinary professionals working with livestock. Alerts notify of disease risk or important information.  Vets can sign up to receive these alerts by email or text.  They are published by the APHA species expert groups and are independent of the notifiable disease alerts.  \"",
+  "base_path": "/government/publications/alerts-for-vets-emerging-and-endemic-disease-alert-system-eedas",
+  "taxons": [
+    {
+      "title": "Keeping farmed animals",
+      "base_path": "/environment/keeping-farmed-animals"
+    },
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "UK/Germany: Treaty on Friendship and Bilateral Cooperation [CS Germany No.1/2026]",
+  "body": "\"Published title: Treaty between the United Kingdom of Great Britain and Northern Ireland and the Federal Republic of Germany on Friendship and Bilateral Cooperation. \"",
+  "base_path": "/government/publications/ukgermany-treaty-on-friendship-and-bilateral-cooperation-cs-germany-no12026",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

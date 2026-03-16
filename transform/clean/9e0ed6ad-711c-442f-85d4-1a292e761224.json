@@ -1,0 +1,15 @@
+{
+  "title": "UK security export statistics 2024",
+  "body": "\" This statistical release summarises analysis of UK and rest of world security exports carried out by Westlands Advisory under contract from the Department for Business and Trade. The release principally focuses on 2024 data but includes some historical data for context and trend analysis purposes. \"",
+  "base_path": "/government/statistics/uk-security-export-statistics-2024",
+  "taxons": [
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    }
+  ]
+}

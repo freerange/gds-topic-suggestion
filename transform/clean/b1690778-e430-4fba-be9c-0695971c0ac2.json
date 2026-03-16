@@ -1,0 +1,15 @@
+{
+  "title": "Life Expectancy in Northern Ireland 2022-24",
+  "body": "\"This report presents the latest official estimates of life expectancy, healthy life expectancy and disability-free life expectancy for Northern Ireland. \"",
+  "base_path": "/government/statistics/life-expectancy-in-northern-ireland-2022-24",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

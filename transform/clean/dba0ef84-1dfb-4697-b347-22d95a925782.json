@@ -1,0 +1,15 @@
+{
+  "title": "Seasonally vector low period for bluetongue begins",
+  "body": "\"The UK’s Chief Veterinary Officer has announced today (21 January) that we are now in the seasonally vector low period for bluetongue virus.  Due to a decrease in temperature, midge activity is lower, with midges not actively feeding, meaning there is a very low risk of new infections from biting midges.  As a result, some restrictions currently in place to mitigate disease spread will be eased. These include: removing the requirements for post-movement testing of animals out of the Restricted Zone; the use of insecticide on transport vehicles; and the need to send animals moving outside of the Restricted Zone for slaughter to designated abattoirs. These changes take effect from midday on 21 January.  As a precautionary measure, the Restricted Zone currently in place across affected regions along the east and south coast of England will remain whilst discussions with industry continue on next steps.  All animals moving out of the Restricted Zone will still require a pre-movement test unless going direct to slaughter or to a dedicated slaughter market. We will keep the situation under review.  UK Chief Veterinary Officer, Christine Middlemiss said:     We are now in a seasonally vector low period when midge activity is lower with a significantly reduced risk of disease from biting midges, meaning we can ease some of the measures in place to mitigate disease spread.  However, I would urge farmers to remain vigilant and report any livestock they suspect have the disease to APHA.  We are committed to working with everyone affected and will continue to keep the Restricted Zone under review.   Farmers should continue to monitor their animals frequently for clinical signs and make sure their animals and land are registered with APHA so that animals can be located in the event of an outbreak.   BTV is a notifiable disease. Suspicion of BTV in animals in England must be reported to the Animal and Plant Health Agency on 03000 200 301. \"",
+  "base_path": "/government/news/seasonally-vector-low-period-for-bluetongue-begins",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    },
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    }
+  ]
+}

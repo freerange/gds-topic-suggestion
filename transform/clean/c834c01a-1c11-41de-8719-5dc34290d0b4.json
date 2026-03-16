@@ -1,0 +1,11 @@
+{
+  "title": "Inheritance Tax: thresholds",
+  "body": "\"The Inheritance Tax nil-rate band, residence nil-rate band and residence nil-rate band taper will be fixed at their current levels for the tax years up to and including 2030 to 2031.  The combined £1 million allowance for 100% Agricultural Property Relief and Business Property Relief will be fixed for the tax years up to and including 2030 to 2031. \"",
+  "base_path": "/government/publications/inheritance-tax-thresholds",
+  "taxons": [
+    {
+      "title": "Inheritance Tax",
+      "base_path": "/money/personal-tax-inheritance-tax"
+    }
+  ]
+}

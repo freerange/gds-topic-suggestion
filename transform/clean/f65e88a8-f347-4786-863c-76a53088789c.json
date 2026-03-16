@@ -1,0 +1,27 @@
+{
+  "title": "MHRA asks for views on proposed guidance to support the safe regulation of new personalised cancer therapies  ",
+  "body": "\"The Medicines and Healthcare products Regulatory Agency (MHRA) has today launched a consultation on regulatory guidance for individualised mRNA cancer immunotherapies (colloquially referred to as cancer vaccines). This is an important step in bringing these promising therapies closer to clinical practice.  The eight-week consultation was launched today and will run until 31 March 2025. The MHRA is asking all stakeholders, including developers of these medicines, to provide comments, after which the guidance will be updated. The UK regulator also welcomes comments from members of the public including people affected by cancer.   The guidance aims to streamline pathways for bringing these therapies through to patients, without compromising on robust safety principles.  Julian Beach, MHRA Executive Director of Healthcare Quality and Access said:  “Individualised cancer immunotherapies, while still being tested in clinical trials, are a very exciting development in our hunt to find new and better ways to treat cancer, which is a leading cause of death worldwide.  “Because these treatments are tailored to an individual’s tumour, they pose unique scientific questions on how they should be regulated.”  June Raine, MHRA Chief Executive said:  “As an enabling regulator, we do not wish to keep patients waiting unnecessarily for important new medicines such as personalised immunotherapies.  “We are asking all stakeholders to comment on draft guidance that addresses the questions this new regulatory pathway raises.”  Minister for Public Health, Andrew Gwynne, said:  “More people than ever are being diagnosed with cancer so it’s vital that we push the boundaries of science to develop the treatments of the future.  “Personalised immunotherapies could revolutionise our approach by helping patients fight cancer cells in their bodies.  “As government ramps up the use of groundbreaking technologies and medicines across the board, this guidance will be fundamental to achieving our goal of moving from sickness to prevention. And it is yet another example of Britain leading the way on cancer research, transforming cancer care to save lives and support the NHS.”  Individualised mRNA cancer immunotherapies are a new type of cancer treatment that use mRNA technology.  mRNA acts as a messenger in the body and tells cells how to make a specific protein. When used in medicines, specific mRNA molecules can teach the body how to fight diseases.    Unlike conventional cancer therapies, for these medicines each patient receives a version of the mRNA therapy that has been matched to their unique tumour fingerprint using artificial intelligence (AI). In this way, the therapy aims to teach the patient’s immune system to target and destroy their specific tumour cells.   These highly innovative therapies are currently in clinical trials. They pose unique questions on how they should be safely regulated.  With this guidance, the MHRA aims to facilitate patient access to these novel individualised cancer therapies by outlining a clear and streamlined regulatory pathway to approval.  The guidance covers product design and manufacture, evidence needed show safety and effectiveness, and post-approval safety monitoring. The MHRA aims to expand the guidance in due course to cover other types of highly personalised therapies, including for rare diseases.   This...",
+  "base_path": "/government/news/mhra-asks-for-views-on-proposed-guidance-to-support-the-safe-regulation-of-new-personalised-cancer-therapies",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

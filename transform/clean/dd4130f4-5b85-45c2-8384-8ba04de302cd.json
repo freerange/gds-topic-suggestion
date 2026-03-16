@@ -1,0 +1,15 @@
+{
+  "title": "Actions to jointly address climate change and biodiversity loss in England",
+  "body": "\"Climate change and biodiversity loss are among the greatest challenges of our time. They are deeply interconnected and so too must be our response. This report presents examples of how the UK Government is implementing joined-up solutions to meet its global commitments on climate change and biodiversity loss across England.  The report focuses on priority sectors, including:   climate and nature integration delivery of clean energy supporting a rural economy restoring our seas mobilising green finance  \"",
+  "base_path": "/government/publications/actions-to-jointly-address-climate-change-and-biodiversity-loss-in-england",
+  "taxons": [
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Climate change international action",
+      "base_path": "/environment/climate-change-international-action"
+    }
+  ]
+}

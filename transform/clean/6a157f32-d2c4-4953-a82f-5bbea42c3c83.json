@@ -1,0 +1,11 @@
+{
+  "title": "Annual bus statistics: year ending March 2025",
+  "body": "\"Local bus statistics in Great Britain, including passengers, mileage, and vehicle fleet, for the year ending March 2025.  The summary relates only to England to match the coverage of Department for Transport bus policy, but the tables also cover Scotland and Wales.  In the year ending March 2025, the number of bus passenger journeys:   increased by 1% in England decreased by 1% in London increased by 4% in England outside of London   In the year ending March 2025, bus service mileage:   increased by 2% in England remained broadly stable in London increased by 3% in England outside of London   Contact details   Bus statistics     Email bus.statistics@dft.gov.uk     Media enquiries 0300 7777 878      \"",
+  "base_path": "/government/statistics/annual-bus-statistics-year-ending-march-2025",
+  "taxons": [
+    {
+      "title": "Buses",
+      "base_path": "/transport/buses"
+    }
+  ]
+}

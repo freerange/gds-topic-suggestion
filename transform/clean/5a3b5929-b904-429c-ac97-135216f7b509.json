@@ -1,0 +1,11 @@
+{
+  "title": "Fire stations: 2024",
+  "body": "\"This is a standalone release to update the stations statistics in table ‘FIRE1404’ and the equivalent ‘Fire stations incident level dataset’. \"",
+  "base_path": "/government/statistics/fire-stations-2024",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

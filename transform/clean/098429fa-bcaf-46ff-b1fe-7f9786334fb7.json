@@ -1,0 +1,11 @@
+{
+  "title": "Health effects of air pollution",
+  "body": "\"Air pollution is one of the largest environmental risks to public health in the UK. The effects and risks depend on what’s in the air and how long you breathe it for.  Air pollution is a particular threat to vulnerable groups, including adults and children with lung or heart conditions, and older people. \"",
+  "base_path": "/government/publications/health-effects-of-air-pollution",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    }
+  ]
+}

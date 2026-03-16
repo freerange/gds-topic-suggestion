@@ -1,0 +1,15 @@
+{
+  "title": "Sevington Border Control Post: estimated operating costs",
+  "body": "\"The document sets out:   the estimated operating costs of the government-run border control post (BCP) facility in Sevington, Kent how Defra used this figure to calculate common user charge rates   The common user charge applies to eligible imports entering Great Britain through the Port of Dover and Eurotunnel. Read about common user charge rates, eligibility and invoices.  \"",
+  "base_path": "/government/publications/sevington-border-control-post-estimated-operating-costs",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    },
+    {
+      "title": "Import controls",
+      "base_path": "/business-and-industry/import-controls"
+    }
+  ]
+}

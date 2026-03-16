@@ -1,0 +1,15 @@
+{
+  "title": "Statistics: Employer workforce, post-16 skills and training",
+  "body": "\"Also available:    local skills dashboard showing statistics on local employment and skills in England to support local skills planning and delivery (including local skills improvement plans)  jobs and skills dashboard showing statistics on jobs and skills in the UK, including education pathways  \"",
+  "base_path": "/government/collections/statistics-employer-workforce-post-16-skills-and-training",
+  "taxons": [
+    {
+      "title": "Apprenticeships, traineeships and internships",
+      "base_path": "/education/apprenticeships-traineeships-and-internships"
+    },
+    {
+      "title": "Employing people",
+      "base_path": "/business-and-industry/employing-people"
+    }
+  ]
+}

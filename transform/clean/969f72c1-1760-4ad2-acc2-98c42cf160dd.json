@@ -1,0 +1,11 @@
+{
+  "title": "Housing purchase affordability, UK: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/housing-purchase-affordability-uk-2024",
+  "taxons": [
+    {
+      "title": "Homebuying",
+      "base_path": "/housing-local-and-community/homebuying"
+    }
+  ]
+}

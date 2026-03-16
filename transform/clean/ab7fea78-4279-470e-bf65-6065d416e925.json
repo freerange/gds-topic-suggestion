@@ -1,0 +1,11 @@
+{
+  "title": "Vietnam: Knowledge Base profile",
+  "body": "\"This document contains useful information about Vietnam which will assist His Majesty’s Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy civil partnerships and marriage documents from Vietnam  \"",
+  "base_path": "/government/publications/vietnam-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

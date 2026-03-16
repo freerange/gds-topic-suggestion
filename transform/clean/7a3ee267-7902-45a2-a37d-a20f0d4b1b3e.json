@@ -1,0 +1,15 @@
+{
+  "title": "GCSE and A level grading: what you need to know",
+  "body": "\"Grade boundaries change each year to match exam difficulty. This ensures students need the same quality of work to achieve each grade regardless of which year they take exams.  Exam boards set these boundaries after marking by looking at student performance data and having experts review sample answers. The National Reference Test helps monitor standards in English and maths GCSEs over time. \"",
+  "base_path": "/government/publications/gcse-and-a-level-grading-what-you-need-to-know",
+  "taxons": [
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

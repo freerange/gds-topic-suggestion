@@ -1,0 +1,23 @@
+{
+  "title": "UK highlights importance of sustainability ahead of COP30",
+  "body": "\"During the meeting, Ambassador Correa highlighted the United Kingdom’s commitment to global climate action and the fundamental role of the private sector in the transition to sustainable economies.    She highlighted British initiatives such as climate financing through capital markets, UK’s support for funds to mitigate the impact of climate change, the commitments to decarbonize the UK’s electricity grid and submit an NDC aligned with the goal of limiting global warming to 1.5°C.   The meeting reaffirmed the United Kingdom’s willingness to collaborate with Guatemala on the climate agenda, especially in the context of COP30. The active participation of the Guatemalan business sector was recognized as key to advancing climate adaptation, mitigation, and financing measures.    The event was attended by the Vice Minister of Environment, Edwin Castellanos; the Director General for Multilateral and Economic Affairs at the Ministry of Foreign Affairs, Ambassador Ana Isabel Carrillo; and organized by the Guatemala’s Climate Change Special Envoy, Ambassador Rita Mishaan, in coordination with Green Development Guatemala. \"",
+  "base_path": "/government/news/uk-highlights-importance-of-sustainability-ahead-of-cop30",
+  "taxons": [
+    {
+      "title": "Climate change impact in developing countries",
+      "base_path": "/international/climate-change-impact-in-developing-countries"
+    },
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Climate change international action",
+      "base_path": "/environment/climate-change-international-action"
+    },
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

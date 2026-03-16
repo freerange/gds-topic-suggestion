@@ -1,0 +1,11 @@
+{
+  "title": "Labour market statistics time series: April 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/labour-market-statistics-time-series-april-2025",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

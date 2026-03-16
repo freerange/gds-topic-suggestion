@@ -1,0 +1,11 @@
+{
+  "title": "Population trends for waterbirds in the UK (2025 publication; includes data up to 2024)",
+  "body": "\"An important indicator of waterbird status and the health of wetlands in the UK.  Based on assessments of the size of non-breeding waterbird populations; trends in their numbers and distribution; and an assessment of the importance of individual sites for waterbirds.  Data help fulfill objectives of international wetland-related Conventions and Directives & inform local decision making. WeBS is run by the British Trust for Ornithology, RSPB, and the Joint Nature Conservation Committee.  The underlying data are collected by thousands of volunteer WeBS surveyors. \"",
+  "base_path": "/government/statistics/population-trends-for-waterbirds-in-the-uk-2025-publication-includes-data-up-to-2024",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

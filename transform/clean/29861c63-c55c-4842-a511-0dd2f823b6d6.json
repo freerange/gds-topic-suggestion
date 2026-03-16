@@ -1,0 +1,27 @@
+{
+  "title": "Armenia: mental health support abroad",
+  "body": "\"Includes information on:   how to get help medical help renewing prescriptions compulsory hospitalisation   See also mental health and travelling abroad. \"",
+  "base_path": "/government/publications/mental-health-support-for-british-nationals-in-armenia",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    },
+    {
+      "title": "Emergency help for British nationals in Armenia",
+      "base_path": "/world/emergency-help-for-british-nationals-armenia"
+    }
+  ]
+}

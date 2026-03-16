@@ -1,0 +1,27 @@
+{
+  "title": "MGN 586 (F) Amendment 2 ILO work in fishing convention, 2007 - medical care",
+  "body": "\"This notice should be read with the The Merchant Shipping (Work in Fishing Convention) Regulations 2018 and replaces MGN 586 (F) amendment 1.  Amendment 2 updates references and NHS details at section 3.  Section 5 reference information is under review.  Please email workinfishing.convention@mcga.gov.uk with any enquiries.  Notice to   fishing vessel owners operators and managers employers of fishermen skippers officers and fishermen on fishing vessels.  \"",
+  "base_path": "/government/publications/mgn-586-f-amendment-2-ilo-work-in-fishing-convention-2007-medical-care",
+  "taxons": [
+    {
+      "title": "Fishing",
+      "base_path": "/transport/fishing"
+    },
+    {
+      "title": "Safe and compliant operation of vessels",
+      "base_path": "/transport/safe-and-compliant-operation-of-vessels"
+    },
+    {
+      "title": "Employment of seafarers",
+      "base_path": "/transport/employment-of-seafarers"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    },
+    {
+      "title": "Ship crew training and certification",
+      "base_path": "/transport/ship-crew-training-and-certification"
+    }
+  ]
+}

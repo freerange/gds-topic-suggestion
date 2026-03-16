@@ -1,0 +1,23 @@
+{
+  "title": "MMO holds events to support compliance of recreational bluefin tuna fishery permit holders",
+  "body": "\"On Friday 18 July, the Bluefin Tuna catch and release recreational fishery opened to permit holders. In the lead up to this, the Marine Management Organisation (MMO) ran two data submission demonstration events. The events provided information to this years’ recreational bluefin tuna fishery permit holders on how to submit data, which is a legal requirement. This provided assurance on how to comply with permit requirements and will help to ensure the quality of data received by MMO.  The events also included a Q&A session to ask any additional questions and all permit holders now have access to the ‘how to submit data’ demonstration, which they can refer back to throughout the season.  During the events, MMO signposted permit holders to valuable tools that have been produced by the Angling Trust with their code of conduct guidance. Both provide helpful advice to permit holders.  There was a strong turnout, and the events were very well received, with permit holders showing their commitment to providing clear and accurate data. Thanks to all who attended. \"",
+  "base_path": "/government/news/mmo-holds-events-to-support-compliance-of-recreational-bluefin-tuna-fishery-permit-holders",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    },
+    {
+      "title": "Species protection and marine conservation",
+      "base_path": "/environment/species-protection-and-marine-conservation"
+    }
+  ]
+}

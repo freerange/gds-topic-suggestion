@@ -1,0 +1,11 @@
+{
+  "title": "Source of asylum claims in 2024",
+  "body": "\"This release uses internally matched immigration system data, relating to asylum seekers’ method of arrival.  The data is provisional and taken from live operational systems.  These are ‘official statistics in development’ and the estimates may be revised as further work on the analysis develops. \"",
+  "base_path": "/government/publications/source-of-asylum-claims-in-2024",
+  "taxons": [
+    {
+      "title": "Refugees, asylum and human rights",
+      "base_path": "/entering-staying-uk/refugees-asylum-human-rights"
+    }
+  ]
+}

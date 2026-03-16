@@ -1,0 +1,11 @@
+{
+  "title": "Find public health resources",
+  "body": "\"  ‘Find public health resources’ is a new service currently in private beta. Help us improve it by providing feedback.   Available resources   All resources are free.   These resources have been created for people of all ages and backgrounds and are also available in different languages and accessible formats, such as:   audio braille British Sign Language (BSL) Easy Read large print simple text   The types of resources available to view, download, or order as printed copies include:   bulletins consent forms fridge magnets GIFs leaflets posters pull-up banners slide sets stickers record cards videos   Who this service is for  This service is open to everyone and aims to support government health programmes in England.  For example, you can find resources to help you learn how to protect yourself and others from infectious diseases like influenza (flu).  Healthcare professionals can also use these resources in their work to help:   improve uptake of vaccines carry out public health measures reduce health inequalities support informed consent  support in talking to the public   Before you start  You do not need an account to view or download free resources. However, you’ll need to sign in to place an order.  If you are a healthcare professional, you can:   sign in using your work email to access higher order limits request more than your order limit by contacting us through telephone, email, or our online form   Find a resource   Other ways to access this service  Phone  If you have a product code, make sure to have it with you when you call.  Phone: 0300 123 1002 Monday to Friday, 9am to 5:30pm  Email publichealthresources@ukhsa.gov.uk  We aim to respond within 3 to 5 working days.  \"",
+  "base_path": "/guidance/find-public-health-resources",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

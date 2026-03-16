@@ -1,0 +1,11 @@
+{
+  "title": "HMCTS ad hoc statistics",
+  "body": "\" \"",
+  "base_path": "/government/collections/hmcts-ad-hoc-statistics",
+  "taxons": [
+    {
+      "title": "Justice system transparency",
+      "base_path": "/crime-justice-and-law/justice-system-transparency"
+    }
+  ]
+}

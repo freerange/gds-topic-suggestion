@@ -1,0 +1,15 @@
+{
+  "title": "Early years employment reference template",
+  "body": "\"This form will help early years providers give references for current and former employees. It includes questions about the person’s role, safeguarding history, and suitability to work with children. \"",
+  "base_path": "/government/publications/early-years-employment-reference-template",
+  "taxons": [
+    {
+      "title": "Early years curriculum",
+      "base_path": "/education/early-years-curriculum"
+    },
+    {
+      "title": "Safeguarding and child protection",
+      "base_path": "/childcare-parenting/safeguarding-child-protection"
+    }
+  ]
+}

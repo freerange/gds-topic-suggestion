@@ -1,0 +1,11 @@
+{
+  "title": "Phonics screening check attainment: England 2025",
+  "body": "\"The data provides statistics for the phonics screening check.  It includes results for pupils in schools in England by:   national, regional and local authority level pupil characteristics such as:  gender disadvantage special educational needs   school characteristics such as:  school type phase religious character    \"",
+  "base_path": "/government/statistics/phonics-screening-check-attainment-england-2025",
+  "taxons": [
+    {
+      "title": "Phonics",
+      "base_path": "/education/phonics"
+    }
+  ]
+}

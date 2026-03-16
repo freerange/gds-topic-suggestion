@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Index of Production: Quarter 3 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/northern-ireland-index-of-production-quarter-3-2026",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

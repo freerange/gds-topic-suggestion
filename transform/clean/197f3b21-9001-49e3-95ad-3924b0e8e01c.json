@@ -1,0 +1,11 @@
+{
+  "title": "DCMS Surveys",
+  "body": "\" Information for participants You can find more information about being part of the Community and Engagement Survey on the Information for Participants page.   Statistical releases Statistical releases relating to the Community and Engagement Survey can be found on the Statistical Releases page.   Information about the Community and Engagement Survey Please follow the link to find out more information about the Community and Engagement Survey.  \"",
+  "base_path": "/government/collections/dcms-surveys",
+  "taxons": [
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    }
+  ]
+}

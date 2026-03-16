@@ -1,0 +1,11 @@
+{
+  "title": "Nutrient analysis of cows’ milk: sampling and analytical report",
+  "body": "\"The Office for Health Improvement and Disparities commissioned the Food and Nutrition National Bioscience Research Infrastructure to carry out nutrient analysis of composite samples of cows’ milk bought from supermarkets in the UK in 2022 and 2023.  The report provides up-to-date composition data for selected micronutrients (riboflavin, vitamin B12 and iodine) in cows’ milk. The results will be used to estimate intakes of these nutrients in the National Diet and Nutrition Survey.  The report includes a glossary of technical terms, as well as separate data tables outlining the ingredients, label claims and nutrient information taken directly from the product packaging. \"",
+  "base_path": "/government/publications/nutrient-analysis-of-cows-milk-sampling-and-analytical-report",
+  "taxons": [
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    }
+  ]
+}

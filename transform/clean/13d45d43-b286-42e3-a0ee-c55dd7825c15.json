@@ -1,0 +1,11 @@
+{
+  "title": "Armed Forces Compensation Scheme statistics: financial year 2024/25",
+  "body": "\"Summary statistics on claims and awards made under the Armed Forces and Reserve Forces Compensation (AFCS) Scheme, paying compensation for injury, illness or death caused by service.  \"",
+  "base_path": "/government/statistics/armed-forces-compensation-scheme-statistics-financial-year-202425",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

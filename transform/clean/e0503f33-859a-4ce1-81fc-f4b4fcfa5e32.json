@@ -1,0 +1,19 @@
+{
+  "title": "Employee earnings in NI: 2025",
+  "body": "\"The Annual Survey of Hours and Earnings (ASHE) is a UK wide survey that provides a wide range of information on earnings and hours worked. The Office for National Statistics (ONS) carries out ASHE in Great Britain and it is carried out by the Northern Ireland Statistics and Research Agency (NISRA) in Northern Ireland. The sample used comprises approximately 1% of all employees in Northern Ireland who were covered by Pay As You Earn (PAYE) schemes. \"",
+  "base_path": "/government/statistics/employee-earnings-in-ni-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Payroll",
+      "base_path": "/employment/payroll"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

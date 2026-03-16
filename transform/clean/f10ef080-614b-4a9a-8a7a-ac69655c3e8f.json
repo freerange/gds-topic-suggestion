@@ -1,0 +1,23 @@
+{
+  "title": "Report nitrogen and phosphorus emissions from intensive pig and poultry farms",
+  "body": "\"If you have an environmental permit to rear pigs and poultry intensively, you must monitor and report your livestock’s annual:   nitrogen (N) emissions phosphorus (P) emissions   When to report  You can report this annual emissions data from 1 January of each year.   You must submit your data by 28 February of each year.   What you need to report  Your N and P emissions data must cover the previous year, from 1 January to 31 December.  You must report N and P emissions for:   broilers laying hens turkeys ducks (nitrogen only, not phosphorus) weaners (7kg to 30kg) fattening pigs (over 30kg) sows (including piglets)   You do not need to report for pullets, breeders or quails.  Report N and P data for each livestock category separately.  Emission limits  Your emissions must meet the best available techniques (BAT) associated emission levels for total N and P.  These values are given by kilogram (kg) excreted per animal place per year.     Livestock category  N limit  P2O5 limit     Broilers 0.6 0.25   Laying hens 0.8 0.45   Turkeys 2.3 1.0   Ducks 0.8 Not required   Weaners (7kg to 30kg) 4 2.2   Fattening pigs (over 30kg) 13 5.4   Sows (including piglets) 30 15     How to calculate emissions  Choose one of the 2 methods outlined in the BAT conclusions:   mass balance calculation estimation based on manure analysis   Method 1: Mass balance calculation  Use a mass balance calculation based on:   feed intake crude protein or total phosphorus content of the diet animal performance   Calculator tools  The Environment Agency has funded calculator tools for different farm types. Access the latest version of these and guidance on how to use them on the AHDB website: Environmental Permitting Regulations.  If you use varying stocking rates throughout the year (common for broiler rearing):   complete one calculation for each rearing cycle include the specific number of birds per cycle include the number of days in the cycle include the number of days between cycles add the results together to get your annual total make sure the total days equals 365   If you need help with farm-specific data, get support from your livestock supplier, nutritional specialist or trade body. For example, for feed rations or animal performance figures.  Do your own calculation  If you want to do your own mass balance calculation without the calculator tools, check section 4.9.1 of the BAT conclusions.  Method 2: Estimation based on manure analysis  You can estimate emissions based on manure sample analysis.  How to collect manure samples  Follow the method in section 4.9.1 of the BAT conclusions.  You must:   take at least 10 sub-samples from different places or depths make these into one composite sample sample the bottom of litter for poultry   Calculate your emissions  Use this formula to convert laboratory results in kg per tonne to the required reporting units in kg per animal place per year:   (N or P2O5 value from analysis in kg per tonne × annual quantity of manure produced in tonnes) ÷ number of animal places   An example for a 100,000 place broiler farm is: (30 kg...",
+  "base_path": "/guidance/report-nitrogen-and-phosphorus-emissions-from-intensive-pig-and-poultry-farms",
+  "taxons": [
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Keeping farmed animals",
+      "base_path": "/environment/keeping-farmed-animals"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    }
+  ]
+}

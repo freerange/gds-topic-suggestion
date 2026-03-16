@@ -1,0 +1,11 @@
+{
+  "title": "Human papillomavirus (HPV) vaccine coverage estimates in England: 2023 to 2024",
+  "body": "\"Human papillomavirus (HPV) vaccine coverage data for vaccinations received by year 8, year 9 and year 10 females and males, by local authority and NHS England local team: academic year 2023 to 2024.  \"",
+  "base_path": "/government/statistics/human-papillomavirus-hpv-vaccine-coverage-estimates-in-england-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    }
+  ]
+}

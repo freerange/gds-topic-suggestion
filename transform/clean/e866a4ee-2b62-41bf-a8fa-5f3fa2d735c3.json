@@ -1,0 +1,11 @@
+{
+  "title": "Provisional road traffic estimates, Great Britain: October 2024 to September 2025",
+  "body": "\"  Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing with any comments about how we meet these standards.   Provisional estimates of road traffic, by   vehicle type road class   in Great Britain for the year ending September 2025.  Provisional estimates show motor vehicles travelled 337.8 billion vehicle miles in Great Britain for the year ending September 2025. This is up 0.9% compared to the year ending September 2024. Traffic levels were similar to pre-pandemic levels.  When compared to the year ending September 2024:   car traffic showed little change at 256.2 billion vehicle miles van traffic increased by 2.9% to 59.9 billion vehicle miles lorry traffic showed little change at 16.7 billion vehicle miles traffic on motorways showed little change at 70.6 billion vehicle miles traffic on ‘A’ roads increased by 1.2% to 149.7 billion vehicle miles traffic on minor roads increased by 0.7% to 117.5 billion vehicle miles   Contact us  Road traffic and vehicle speed compliance statistics     Email roadtraff.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats.  \"",
+  "base_path": "/government/statistics/provisional-road-traffic-estimates-great-britain-october-2024-to-september-2025",
+  "taxons": [
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    }
+  ]
+}

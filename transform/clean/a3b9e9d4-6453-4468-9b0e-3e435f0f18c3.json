@@ -1,0 +1,11 @@
+{
+  "title": "Merging radar outputs to improve UK rainfall estimates",
+  "body": "\"A study led by researchers at the University of Leeds and the Environment Agency has demonstrated a new method for improving rainfall estimates across the UK.  The research, published in the journal Meteorological Applications in July 2025, shows how data from a mobile X-band radar could be merged with the UK Met Office’s national C-band radar-network using a ‘quality index’.  This  approach could improve the accuracy of rainfall estimates, especially in areas with complex terrain or limited radar coverage. \"",
+  "base_path": "/government/news/merging-radar-outputs-to-improve-uk-rainfall-estimates",
+  "taxons": [
+    {
+      "title": "River maintenance, flooding and coastal erosion",
+      "base_path": "/environment/river-maintenance-flooding-coastal-erosion"
+    }
+  ]
+}

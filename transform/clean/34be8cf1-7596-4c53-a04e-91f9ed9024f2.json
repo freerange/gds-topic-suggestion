@@ -1,0 +1,11 @@
+{
+  "title": "Modernising HMRCs outbound digital communications",
+  "body": "\"From spring 2026 HMRC will be able to operate a ‘digital by default’ model for outbound communications. This means new and existing customers using our digital services will automatically receive digital letters instead of letters by post.  Digital communications will be rolled out gradually, when different services and IT systems become ready.  Customers will be able to opt out of digital communications if they need to receive information by post. Digitally excluded customers will continue to receive paper communications. \"",
+  "base_path": "/government/publications/modernising-hmrcs-outbound-digital-communications",
+  "taxons": [
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "DSIT Public Engagement Survey",
+  "body": "\"The DSIT Public Engagement Survey  The DSIT Public Engagement Survey is a continuous push to web survey of UK adults aged 16 and over. Paper questionnaires are offered as an alternative for those that wish to respond via an offline means. Verian is carrying out the survey on behalf of the Department for Science, Innovation and Technology (DSIT). Fieldwork will begin in November 2025 and will be a main evidence source for DSIT and its sectors by providing statistically representative national estimates of adult engagement with DSIT’s sectors. The survey’s main objectives are to:     Provide a high-quality evidence source that can be used to understand how people are engaging with, or experiencing, science and technology in their day-to-day lives.    Provide reliable data by demographics, such as population sub-groups or regions of the UK, to meet user needs, providing evidence that enables us to monitor whether science and technology is experienced differentially within the population.    Underpin further research on what is driving engagement and the value and benefits of engagement with science and technology.     The development of this survey has been informed by feedback received by users in a user engagement exercise that took place in December 2024 to January 2025.  Official statistics on digital inclusion and skills, and broadband and mobile data usage were previously published by the Department for Culture, Media and Sport (DCMS) until 2024/25 as part of the Participation Survey.  What the survey covers   The survey collects data on:     Digital inclusion and digital skills    Broadband and mobile data usage    Use of government digital services    Attitudes towards science, technology and data    Adoption and attitudes relating to Artificial Intelligence     The survey also includes a series of demographic questions (for example, age and education).   Published data   Data from the survey will be available in the following forms:     An annual official statistics release will provide a detailed summary of the data (including data tables). The first statistical release is expected to be published in Summer 2026.    Annual cleansed datasets will be archived on the UK Data Archive.     Information for survey participants   Participants in the survey are randomly selected from addresses from the Post Office’s list of addresses in the UK. This ensures results reflect the experiences and views of the whole population. You can find more information for survey participants on the DSIT Public Engagement Survey: Information for participants page.  Feedback   Please contact us with any questions or feedback by email at publicengagementsurvey@dsit.gov.uk  \"",
+  "base_path": "/government/collections/dsit-public-engagement-survey",
+  "taxons": [
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    },
+    {
+      "title": "Government technology and digital services",
+      "base_path": "/government/government-technology-and-digital-services"
+    }
+  ]
+}

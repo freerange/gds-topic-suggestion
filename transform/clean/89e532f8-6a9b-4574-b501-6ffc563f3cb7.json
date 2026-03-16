@@ -1,0 +1,11 @@
+{
+  "title": "Data for Theme C: Seas and Estuaries",
+  "body": "\"This document contains data corresponding to the ‘Theme C: Seas and Estuaries’ indicators of the Environmental Indicator Framework. \"",
+  "base_path": "/government/publications/data-for-theme-c-seas-and-estuaries",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

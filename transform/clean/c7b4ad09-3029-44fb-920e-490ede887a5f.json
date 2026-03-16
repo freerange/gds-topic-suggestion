@@ -1,0 +1,11 @@
+{
+  "title": "Student loan repayments via PAYE eligible for refund - Tax Year 2025/26",
+  "body": "",
+  "base_path": "/government/statistics/announcements/student-loan-repayments-via-paye-eligible-for-refund-tax-year-202526",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

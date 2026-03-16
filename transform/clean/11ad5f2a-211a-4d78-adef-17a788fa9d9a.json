@@ -1,0 +1,11 @@
+{
+  "title": "Crime outcomes year to December 2024: data tables",
+  "body": "\"Outcomes assigned to offences recorded to December 2024 and the total number of outcomes recorded, by outcome type and offence type.  For the latest data tables see ‘Police recorded crime and outcomes open data tables’. \"",
+  "base_path": "/government/statistics/crime-outcomes-year-to-december-2024-data-tables",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

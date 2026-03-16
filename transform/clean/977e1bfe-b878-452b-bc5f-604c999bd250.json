@@ -1,0 +1,23 @@
+{
+  "title": "The Patent Office Innovation and Growth Report 2024/25",
+  "body": "\"The IPO is responsible for administering intellectual property rights in the UK, giving creators and inventors the confidence to pioneer ground-breaking products and designs.  The report is a retrospective look at the IPO’s activity for 2024  to 2025 and how its work has encouraged investment in innovation and growth.  Intellectual Property Office is an operating name of the Patent Office.  \"",
+  "base_path": "/government/publications/the-patent-office-innovation-and-growth-report-202425",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    },
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

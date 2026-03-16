@@ -1,0 +1,11 @@
+{
+  "title": "PPS Statistical Bulletin 2024-25",
+  "body": "\"Statistics on key activities of the PPS including files received, caseloads and prosecutorial decisions. \"",
+  "base_path": "/government/statistics/pps-statistical-bulletin-2024-25",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

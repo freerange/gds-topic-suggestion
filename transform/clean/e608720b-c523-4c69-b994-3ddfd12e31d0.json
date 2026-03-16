@@ -1,0 +1,19 @@
+{
+  "title": "Introduction of Carbon Border Adjustment Mechanism",
+  "body": "\"Carbon Border Adjustment Mechanism (CBAM) will make sure that highly traded, carbon intensive goods imported into the UK face a comparable carbon price to that paid by manufacturers in the UK.  This will apply from 1 January 2027 to goods from the following industrial sectors:   aluminium cement fertiliser hydrogen iron and steel   \"",
+  "base_path": "/government/publications/introduction-of-carbon-border-adjustment-mechanism",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

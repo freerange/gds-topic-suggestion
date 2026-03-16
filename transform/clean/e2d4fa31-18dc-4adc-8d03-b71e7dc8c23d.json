@@ -1,0 +1,11 @@
+{
+  "title": "Existing agreement holder's information: capital items",
+  "body": "\"Agreement holder’s information is available for the following capital items:   Capital Grants Higher Tier Capital Grants Protection and Infrastructure grants PA3 Woodland management plan Woodland Tree Health   \"",
+  "base_path": "/government/collections/existing-agreement-holders-information-capital-items",
+  "taxons": [
+    {
+      "title": "Rural grants and payments",
+      "base_path": "/environment/farming-food-grants-payments-rural-grants-payments"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Understanding suicides on the rail network",
+  "body": "\" Warning: this report contains sensitive content related to suicide.   This research explores the:   determinants of rail suicide effectiveness of prevention measures for rail suicides and accidental railway fatalities impacts on rail staff and passengers mitigation strategies to reduce impacts   The National Centre for Social Research (NatCen) carried out this research on behalf of the Department for Transport. \"",
+  "base_path": "/government/publications/understanding-suicides-on-the-rail-network",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    },
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    }
+  ]
+}

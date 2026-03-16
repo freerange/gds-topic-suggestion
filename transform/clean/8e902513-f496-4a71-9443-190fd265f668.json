@@ -1,0 +1,11 @@
+{
+  "title": "Government Cyber Action Plan",
+  "body": "\"The Government Cyber Action Plan defines how we will secure public services so they are trustworthy and resilient, as part of the broader Roadmap for a Modern Digital Government.  It has been developed by the Department for Science, Innovation and Technology (DSIT), in close consultation with departments, public sector organisations, industry partners and the Government Cyber Advisory Board (GCAB).  It sets clear expectations for how government organisations of all kinds should manage cyber security and resilience through measurable objectives and outcomes.  If you would like to provide feedback on the Government Cyber Action Plan, please email gcap@dsit.gov.uk.  \"",
+  "base_path": "/government/publications/government-cyber-action-plan",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

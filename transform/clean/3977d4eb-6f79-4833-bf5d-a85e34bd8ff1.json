@@ -1,0 +1,11 @@
+{
+  "title": "Counter-terrorism disruptive powers report 2024",
+  "body": "\"Annual UK government report that provides information and statistical data on the use of a wide range of disruptive powers and tools by the government, law enforcement, and the security and intelligence agencies to combat terrorism and serious organised crime. \"",
+  "base_path": "/government/publications/counter-terrorism-disruptive-powers-report-2024",
+  "taxons": [
+    {
+      "title": "Counter-terrorism",
+      "base_path": "/crime-justice-and-law/counter-terrorism"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Employer skills survey 2024: UK findings",
+  "body": "\"Information from over 72,000 employer establishments across the UK on skills:   needs use development  \"",
+  "base_path": "/government/publications/employer-skills-survey-2024-uk-findings",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    }
+  ]
+}

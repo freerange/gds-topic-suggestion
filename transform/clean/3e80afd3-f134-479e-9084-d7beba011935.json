@@ -1,0 +1,11 @@
+{
+  "title": "Local Authority Housing Statistics: Technical notes 2023 to 2024",
+  "body": "\"This document provides technical details on the 2023-24 Local Authority Housing Statistics (LAHS) data return, including data collection, processing and publication. \"",
+  "base_path": "/government/statistics/local-authority-housing-statistics-technical-notes-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    }
+  ]
+}

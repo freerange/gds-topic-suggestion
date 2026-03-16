@@ -1,0 +1,15 @@
+{
+  "title": "UK, Philippines sign MOU for Transit Development",
+  "body": "\"The British Embassy Manila, Philippine Department of Education (DepEd), and Philippine Department of Transportation (DOTr) signed a Memorandum of Understanding to implement the Philippines’ first government-led Transit Oriented Development (TOD).  Supported by the UK Green Cities, Infrastructure, and Energy Programme, the partnership will bring together British and Filipino experts, including Crossrail International, to develop a TOD masterplan. This aims to transform DepEd’s ‘Education City’ into a climate-resilient hub, combining sustainable education facilities with efficient public transport connectivity.  British Ambassador to the Philippines, Laure Beaufils, welcomed this partnership and reaffirmed the UK’s commitment to sustainable urban development.  She remarked:   Today’s MOU marks an exciting milestone in the UK-Philippines partnership as we work together to create a masterplan for a vibrant transit oriented ‘Education City’ development.   Ambassador Beaufils further stated:   The UK is proud to bring British expertise and innovation to pioneer a TOD where people can live, learn, work, and thrive — connected by efficient transport systems, designed with people at their heart, and guided by principles of sustainability and resilience.   At the signing, Department of Education Secretary Sonny Angara highlighted the importance of building accessible and sustainable education environments. Secretary Angara said:   This partnership ensures that our learners and educators will also directly benefit from a well-planned, green, and safe environment that ultimately contributes to the public education objectives.   Meanwhile, Department of Transportation Secretary Vince Dizon emphasised the project’s alignment with President Ferdinand Marcos Jr.’s directive to digitise and integrate the country’s transport systems. He stated:   This MOU strengthens the DOTr’s commitment to build transport infrastructures that ease the burden of our commuters, including our young learners. This partnership marks a significant step forward realising a transport-oriented development that not only improves connectivity but also fosters sustainable communities.   Drawing inspiration from Elizabeth Line in London, DepEd’s “Education City” will feature accessible transport systems, modern training facilities, teacher accommodation, and revenue-generating opportunities to fund classroom construction and education digitalisation. \"",
+  "base_path": "/government/news/uk-philippines-sign-mou-for-transit-development",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

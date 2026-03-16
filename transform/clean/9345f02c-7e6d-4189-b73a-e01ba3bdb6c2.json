@@ -1,0 +1,11 @@
+{
+  "title": "Clinical Profession",
+  "body": "\"Until 2025 we had a Government Medical Profession that all healthcare professionals were expected to choose administratively as their profession for HR purposes. This exclusive title was not reflective of the breadth of healthcare professionals who work across Government in many varied types of roles.  To ensure the profession is more inclusive, we have now changed the name to the Clinical Profession in order to ensure all of our healthcare professionals can feel like they belong. This includes all clinical colleagues working across health and social care.  The public is entitled to expect that clinicians, wherever they may be employed including in the Civil Service, are professional, fit to practise, and follow their regulators’ principles of good practice, some of which are described below:  Medical  The General Medical Council (GMC) has advised that to practise safely, doctors must be competent in what they do and follow the principles, values, and standards of professional behaviour expected as set out in Good Medical Practice  Nursing  The Nursing and Midwifery Council (NMC) Code presents the professional standards that nurses must uphold in order to be registered to practise in the UK and is structured around four themes- prioritise people, practise effectively, preserve safety and promote professionalism and trust.  Allied Health Professionals  The Health and Care Professions Council (HCPC) set out, in general terms, how they expect registrants to behave in their standards of conduct, performance and ethics. This includes what the public should expect from their health and care professional.  Pharmacists  The General Pharmaceutical Council has set out the nine standards for pharmacy professionals to be able to register and demonstrate their fitness to practise. The standards are a statement of what people can expect from pharmacy professionals.  Dentists  The General Dental Council sets standards for Dentists  Membership requirements  The following requirements apply to this profession: you must be a regulated clinician in good standing who is working in role that requires your clinical skills/ knowledge. \"",
+  "base_path": "/guidance/clinical-profession",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Data for Theme J: Resource Use and Waste",
+  "body": "\"This document contains data corresponding to the ‘Theme J: Resource Use and Waste’ indicators of the Environmental Indicator Framework. \"",
+  "base_path": "/government/publications/data-for-theme-j-resource-use-and-waste",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

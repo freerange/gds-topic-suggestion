@@ -1,0 +1,15 @@
+{
+  "title": "Child development outcomes: data for 2024 to 2025",
+  "body": "\"Annual and quarterly data for child development at 2 to 2 and a half years. Information is presented at local authority of residence, region and England level.  The metrics presented are ‘the percentage of children who were at or above the expected level’ in these areas of development:   communication skills gross motor skills fine motor skills problem-solving skills personal and social skills all 5 areas of development   The data was collected through an interim reporting system, Children’s public health 0 to 5 years: national reporting, set up to collect health visiting activity data at a local authority resident level. Data is submitted by local authorities on a voluntary basis.  The Community Services Data Set (CSDS) will be used as the basis for these metrics in the longer term, once the data quality has reached a suitable quality.  Local authority commissioners and health professionals can use these resources to track the extent to which children in their local area are achieving the expected levels of development at this age.  \"",
+  "base_path": "/government/statistics/child-development-outcomes-data-for-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    },
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    }
+  ]
+}

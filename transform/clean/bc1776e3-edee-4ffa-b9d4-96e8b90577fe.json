@@ -1,0 +1,11 @@
+{
+  "title": "Quality and methodology information: Legionellosis in residents of England and Wales",
+  "body": "\"Quality and methodology information (QMI) reports are overview notes designed to give users information on the strength and limitations of the data and to allow them to decide what the data is suitable to be used for.  They include:   qualitative information on the 5 Eurostat dimensions of quality (relevance, accuracy, timeliness and punctuality, accessibility and clarity, coherence and comparability) information on the methods used to compile outputs their impact on the quality of the estimates produced   \"",
+  "base_path": "/government/statistics/quality-and-methodology-information-legionellosis-in-residents-of-england-and-wales",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

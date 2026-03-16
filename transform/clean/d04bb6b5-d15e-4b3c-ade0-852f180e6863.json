@@ -1,0 +1,11 @@
+{
+  "title": "Diagnostic waiting times and activity for October 2025",
+  "body": "\"The monthly diagnostics collection collects data on waiting times and activity for 15 key diagnostic tests and procedures. Data are shown at provider organisation level, from NHS Trusts and Independent Sector and other providers. Data are also shown by Commissioning organisation, which are mainly Integrated Care Boards, but in addition, NHS England also nationally commissions some specialised services. Data for this collection is available back to January 2006.  Accredited official statistics are produced impartially and free from any political influence. \"",
+  "base_path": "/government/statistics/diagnostic-waiting-times-and-activity-for-october-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "DCMS Sector Economic Estimates: Research and Development (R&D), 2022",
+  "body": "\"About  These economic estimates are official statistics in development providing an estimate of expenditure on R&D by UK businesses in the DCMS sectors.  Headline findings  In 2022, expenditure on R&D by businesses in the included DCMS sectors was an estimated £7.9 billion, 16% of the R&D expenditure by UK businesses overall (£48.6 billion).   Estimates of R&D expenditure by included DCMS sector (which overlap with each other):   Creative industries: £6.5 billion, accounting for 83% of total expenditure by the included DCMS sectors and 13% of expenditure by UK businesses overall. Tourism industries: £1.1 billion, accounting for 13% of total expenditure by the included DCMS sectors and 2% of expenditure by UK businesses overall.  Sport sector: £0.8 billion, accounting for 10% of total expenditure by the included DCMS sectors and 2% of expenditure by UK businesses overall. Cultural sector: £0.7 billion, accounting for 8% of total expenditure by the included DCMS sectors and 1% of expenditure by UK businesses overall. Gambling sector: £0.2 billion, accounting for 2% of total expenditure by the included DCMS sectors and 0.3% of expenditure by UK businesses overall.   Estimates of R&D expenditure by businesses in the civil society sector are not available in this release because these organisations are not identifiable in the data source.  Due to sampling and methodology changes to the BERD survey in 2022, estimates in this release are not directly comparable to previous estimates produced using BERD data for years before 2022. This includes estimates published by the ONS on Expenditure on research and development performed in UK businesses in the Creative Industries sector, 2020. More information on these changes is available in the accompanying technical report.   Content  These statistics cover the contributions of the following DCMS sectors to the UK economy;   Creative Industries Cultural Sector Gambling Sport Tourism industries (constructed on a different basis to the tourism sector estimates in our other economic estimates releases)   Users should note that there is overlap between DCMS sector definitions. Estimates are not available for the civil society sector, because they are not identifiable in the data source used for this release.  Tourism industries estimates in this release are constructed on a different basis to the tourism sector estimates in our other economic estimates and will be larger as they take into account the entire industry rather than strictly tourism activity.   The release also includes separate estimates for the audio visual and computer games sectors.  A definition for each sector is available in the published data tables. Further information on all these sectors is available in the associated technical report along with details of methods and data limitations.  Released  These statistics were first published on 16 January 2025.  Official statistics in development - Call for feedback  These statistics are labelled as official statistics in development. Official statistics in development are official statistics that are undergoing development and will be tested with users, in line with the standards of trustworthiness, quality and value in the Code of Practice for Statistics. These R&D estimates are designed to complement...",
+  "base_path": "/government/statistics/dcms-sector-economic-estimates-research-and-development-rd-2022",
+  "taxons": [
+    {
+      "title": "Library services",
+      "base_path": "/society-and-culture/library-services"
+    },
+    {
+      "title": "Museums and galleries",
+      "base_path": "/society-and-culture/museums-and-galleries"
+    },
+    {
+      "title": "Sports and leisure",
+      "base_path": "/society-and-culture/sports-and-leisure"
+    },
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    },
+    {
+      "title": "Charities and social enterprises",
+      "base_path": "/business-and-industry/charities-and-social-enterprises"
+    },
+    {
+      "title": "Media and creative industries",
+      "base_path": "/business-and-industry/media-and-creative-industries"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

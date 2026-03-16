@@ -1,0 +1,15 @@
+{
+  "title": "Evaluation of conservation byelaws {MMO1347}",
+  "body": "\"A project to design and implement a comprehensive evaluation framework of the 3 year Marine Protected Area Fisheries and Conservation Strategy. \"",
+  "base_path": "/government/publications/evaluation-of-conservation-byelaws-mmo1347",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    }
+  ]
+}

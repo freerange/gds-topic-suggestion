@@ -1,0 +1,11 @@
+{
+  "title": "Sign after receipt",
+  "body": "\"This guidance tells HM Passport office staff about sign after receipt passports, including:   what sign after receipt passports are which customers must sign their passports after receipt how customers must sign their passports what customers must do if they make a mistake when signing their passport  \"",
+  "base_path": "/government/publications/sign-after-receipt",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

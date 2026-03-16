@@ -1,0 +1,15 @@
+{
+  "title": "UK/Portugal: Agreement on the Protection of Classified Information [CS Portugal No.1/2025]",
+  "body": "\"Published title: Agreement between the United Kingdom of Great Britain and Northern Ireland and the Portuguese Republic on the Protection of Classified Information. \"",
+  "base_path": "/government/publications/ukportugal-agreement-on-the-protection-of-classified-information-cs-portugal-no12025",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

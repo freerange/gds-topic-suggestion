@@ -1,0 +1,23 @@
+{
+  "title": "Environmental permitting: standard rules consultation number 30",
+  "body": "\"This consultation is to seek your views on the proposed new standard rules for:   new cemetery developments proposing moderate burial rates new cemetery developments proposing burials into unweathered bedrock new natural burials grounds new closed-loop ground source heating and cooling systems in certain settings   We will also seek your views on the generic risk assessments associated with each standard rules set.  The consultation document explains:    what we are consulting on an overview of the relevant documents the standard permitting process the proposed new standard rules permits how you can respond to the consultation how we will gain your consent and use your information the principles we follow when running this and other consultations   Your response will help us understand:   whether the new standard rules permit ensures that the environmental risks posed by this activity are reduced to an acceptable level the positive and negative impacts this could have on businesses what charges to apply to these proposed permits  \"",
+  "base_path": "/government/consultations/environmental-permitting-standard-rules-consultation-number-30",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Rural development and land management",
+      "base_path": "/environment/rural-development-land-management"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

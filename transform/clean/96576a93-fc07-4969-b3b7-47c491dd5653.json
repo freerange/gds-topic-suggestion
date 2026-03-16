@@ -1,0 +1,19 @@
+{
+  "title": "Developing an energy smart data scheme",
+  "body": "\"Smart data is the process of sharing customer data - at the customer’s request - with authorised third parties in a secure way. The central objective of smart data is to give customers control over the use of their own data, so they can access useful, innovative and personalised products and services from third party providers that cater to their needs.  A Smart Data scheme is the overarching framework and structure that provides the rules, standards and agreements that governs data sharing between customers, third parties and data holders.  This call for evidence seeks to understand the potential for introducing a Smart Data scheme in the energy sector. We want to support customers to make informed choices about their energy needs in an increasingly complex market. An energy smart data scheme could be one route to delivering this aim.  We are seeking views on the current energy landscape and the potential scope, opportunities, barriers and risks to developing an energy smart data scheme.  Read our consultation privacy notice. \"",
+  "base_path": "/government/calls-for-evidence/developing-an-energy-smart-data-scheme",
+  "taxons": [
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

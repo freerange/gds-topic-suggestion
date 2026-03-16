@@ -1,0 +1,15 @@
+{
+  "title": "Civil News: Unbilled Inactive Cases Exercise",
+  "body": "\"What is the exercise?  In January 2024, we contacted providers who had records in the Client and Case Management System (CCMS), and older civil systems, to ensure that cases that appeared inactive were updated and billed in a reasonable timeframe.  Of these cases, we are aware of around 7,000 cases where we have been told work has completed on the case and the provider is intending to bill, but no bill has yet been paid.  In January 2025 we will be sending a reminder to any firm with one or more cases in this list and prompting them to submit their claim for payment.  Why these cases?  These are cases on which Payments on Account (POA) have been made and in January 2024, flagged in our systems as inactive. This means there has been no significant activity recorded in our case management systems in the past 12 months. Activity in this context means the submission of an Application, Amendment, Outcome, Bill (including POA or bill from counsel), provider transfer request, submission of a Very High Cost Case (VHCC) case plan, allocating costs to counsel or requesting a prior authority over the previous 365 days.  The LAA will send prompts to providers where they have cases from the exercise completed in January 2024 and the response was the case was ‘work completed, to be billed’, but as of January 2025 remain unbilled.  Ensuring that only genuinely ongoing cases are in our system helps us to predict legal aid expenditure. This is of financial benefit to providers as it ensures timely payment for work undertaken and ensures effective risk management from an LAA perspective.  What should I expect from LAA?  Any provider with at least one case in the list will be sent an email with a spreadsheet containing the case(s) on it.  There is no need to reply to the email, instead you should focus billing activity to make sure this case gets paid and closed.  Where this does not happen The LAA will send one final prompt, after which we will consider whether it remains appropriate to leave the case open and may take steps to close the case and recover any outstanding POA that is live on the case.  If you are no longer planning to claim for that case, please inform us and we will take steps to close the case, recoup any outstanding POA and place the case in archive.  Contact us  If you have any questions, please get in touch with your Contract Manager who will be able to assist.  For more information on the exercise run in 2024:  Client and Case Management System (CCMS) – Inactive Case Review - GOV.UK \"",
+  "base_path": "/government/news/civil-news-unbilled-inactive-cases-exercise",
+  "taxons": [
+    {
+      "title": "High cost and complex cases",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-high-cost-complex-cases"
+    },
+    {
+      "title": "Payments and processing",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-payments-processing"
+    }
+  ]
+}

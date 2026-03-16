@@ -1,0 +1,11 @@
+{
+  "title": "UK Semiconductor Workforce Study",
+  "body": "\"This study, commissioned by the Department for Science, Innovation and Technology (DSIT), analyses the UK semiconductor workforce. It draws on data from 82 survey respondents, 25 in-depth stakeholder interviews, and sectoral employment data, identifying acute challenges and opportunities for sustaining and growing the UK’s semiconductor talent pipeline. \"",
+  "base_path": "/government/publications/uk-semiconductor-workforce-study",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

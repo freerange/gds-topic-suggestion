@@ -1,0 +1,19 @@
+{
+  "title": "NHS dentistry contract: quality and payment reforms",
+  "body": "\"This consultation contains a package of changes to improve the current NHS dental contract. Through these proposed reforms, we will secure our commitment of 700,000 more urgent dental care appointments every year, better support patients with complex treatment needs and encourage the delivery of more preventative care.  We welcome views and evidence from:   health and social care professionals academics employers stakeholder organisations the public   All respondents must be aged 16 and over to take part in this survey. Individuals must live in England. Organisations must operate or provide services in England.  NHS dentistry is a devolved service, so the outlined proposals apply to England only. Responses to this survey should only refer to experiences of healthcare in England. \"",
+  "base_path": "/government/consultations/nhs-dentistry-contract-quality-and-payment-reforms",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Dentistry ",
+      "base_path": "/health-and-social-care/dentistry"
+    },
+    {
+      "title": "Oral health",
+      "base_path": "/health-and-social-care/oral-health"
+    }
+  ]
+}

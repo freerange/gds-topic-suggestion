@@ -1,0 +1,11 @@
+{
+  "title": "Vehicle speed compliance statistics for Great Britain: 2024",
+  "body": "\" Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing roadtraff.stats@dft.gov.uk with any comments about how we meet these standards.   These statistics provide insight into speeds at which drivers choose to travel and their compliance with speed limits under free flow conditions but should not be taken as estimates of actual speed compliance or actual average speed across the wider road network.  These statistics are based on speed data from a sample of the Department for Transport’s Automatic Traffic Counters (ATCs), chosen to exclude locations where external factors might restrict driver behaviour (for example junctions, hills, sharp bends and speed cameras).  From 2018 to 2024 under free-flowing conditions:  The percentage of cars that exceeded the speed limit decreased on 30mph roads and motorways and remained broadly similar on national speed limit single carriageways.  On national speed limit single carriageway roads cars, rigid heavy goods vehicles and articulated heavy goods vehicles speed limit exceedance remained broadly similar over time. Motorcycles showed a small decrease in speed limit exceedance overtime.  On motorways, cars, light commercial vehicles and motorcycles all showed a decrease in speed limit exceedance over time. Articulated heavy goods vehicles speed limit exceedance remained similar over time.  In 2024 under free-flowing conditions:    43% of cars exceeded the limit on 30mph roads   9% of cars exceeded the limit on national speed limit single carriageways   44% of cars exceeded the limit on motorways    Contact us  Road traffic and vehicle speed compliance statistics     Email roadtraff.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats.  \"",
+  "base_path": "/government/statistics/vehicle-speed-compliance-statistics-for-great-britain-2024",
+  "taxons": [
+    {
+      "title": "Speeding",
+      "base_path": "/transport/speeding"
+    }
+  ]
+}

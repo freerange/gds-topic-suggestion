@@ -1,0 +1,15 @@
+{
+  "title": "c2c services transferred to public ownership",
+  "body": "\"From today (20 July 2025), the operation of all c2c services has transferred into public ownership and are being managed by DfT Operator Ltd (DFTO).  DFTO is the government’s public sector owning group that will manage all train companies as they move into public ownership ahead of the creation of Great British Railways (GBR).  Publicly owned operators under DFTO are now responsible for 28% of all UK passenger rail journeys.    Public ownership of the railways will deliver an improved experience for passengers, by bringing together train operators and the management of the railway’s infrastructure to improve performance, reduce subsidy, drive innovation and improve satisfaction, making the railway better for customers and taxpayers.  Please see the Department for Transport press release for more information.  \"",
+  "base_path": "/government/news/c2c-services-transferred-to-public-ownership",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    },
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    }
+  ]
+}

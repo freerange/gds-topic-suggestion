@@ -1,0 +1,11 @@
+{
+  "title": "AAIB Report: Cozy Mk IV, G-BYLZ",
+  "body": "\"The aircraft was on final approach to Runway 09 at Gloucestershire Airport when the engine lost power, resulting in the aircraft landing short of the runway and colliding with the ILS localiser antenna array. A plastic air induction elbow attached to the engine had softened and collapsed during the landing approach, causing the loss of power. The Light Aircraft Association (LAA) intends to take two safety actions in response to this accident concerning the use of 3D printed parts.  Read the report \"",
+  "base_path": "/government/news/aaib-report-cozy-mk-iv-g-bylz",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

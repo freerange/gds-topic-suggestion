@@ -1,0 +1,19 @@
+{
+  "title": "Sickness Absence in the Northern Ireland Civil Service 2025/26",
+  "body": "",
+  "base_path": "/government/statistics/announcements/sickness-absence-in-the-northern-ireland-civil-service-202526",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

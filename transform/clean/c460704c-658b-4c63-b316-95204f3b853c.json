@@ -1,0 +1,11 @@
+{
+  "title": "Perspectives on the plan for PQC transition",
+  "body": "\"Quantum computers (QC) are ushering in a new paradigm of computing, with the potential to solve currently intractable mathematical problems and to transform industries and economies. Quantum hardware and algorithm development are advancing faster than initially predicted. But the speed and capabilities of quantum will bring about new threats, alongside these new opportunities.  Government and commercial organisations worldwide are making significant investments to develop cryptographically-relevant quantum computers. Within the next decade, quantum computers could be able to break encryption schemes commonly used for cyber security, compromising the privacy and security of digital communications and impacting individuals, organisations, and nations.  The purpose of this study, conducted by Cambridge Consultants and Capgemini on behalf of the Department for Science, Innovation and Technology (DSIT), is to explore how UK critical national infrastructure (CNI) organisations are engaging with the need to migrate their cyber security schemes to post-quantum cryptography (PQC).  This study focuses on five key CNI sectors in the UK: energy, financial services, healthcare, telecommunications (which in this report includes telecoms operators, IT services and communications infrastructure), and transport.  This work is part of the government’s wider work to assess the threats and opportunities posed by critical and emerging technologies, and to improve UK cyber resilience.  Please note this publication presents independent research commissioned by the Department for Science, Innovation and Technology. The views expressed do not represent HM Government policy. The research addresses regulator and industry perspectives on the current plan for PQC transition.  Further reading  The National Cyber Security Centre has published timelines for migration to post-quantum cryptography setting out activities which organisations must carry out to migrate safely to post-quantum cryptography in the coming years.  \"",
+  "base_path": "/government/publications/perspectives-on-the-plan-for-pqc-transition",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

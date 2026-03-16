@@ -1,0 +1,15 @@
+{
+  "title": "GPS expansion pilot evaluation",
+  "body": "\"The GPS expansion pilot aimed to test the use of electronic monitoring (EM) as a condition of immigration bail. The intervention started in June 2022 and lasted until December 2023. The evaluation involved monitoring 2 groups of individuals: 1) tagged individuals experiencing EM and traditional face-to-face reporting; and 2) a control group experiencing traditional reporting only. This evaluation compared data on the behaviours of these 2 groups to understand if EM had an impact on compliance.  The analysis suggested that GPS tagging did not improve compliance behaviours of asylum claimants on bail conditions and was not a barrier to absconding. The pilot underwent significant challenges, from setting up reporting and tags efficiently to legal disputes. After 16 months, there was no statistically significant difference between the proportions of individuals out of contact (66% in both groups).  This research was commissioned by the last Conservative government, and prior to 5 July 2024. \"",
+  "base_path": "/government/publications/gps-expansion-pilot-evaluation",
+  "taxons": [
+    {
+      "title": "Deportation, removals and curtailment",
+      "base_path": "/entering-staying-uk/deportation-removals-curtailment"
+    },
+    {
+      "title": "Immigration detention",
+      "base_path": "/entering-staying-uk/immigration-detention"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "The Patent Office annual report and accounts 2024 to 2025",
+  "body": "\"This report sets out the activities of the Intellectual Property Office (IPO) over the period 1 April 2024 to 31 March 2025.  It contains our:   performance report accountability report financial statements   The accounts contain detailed accounting and expenditure information for the financial year 2024 to 2025.  \"",
+  "base_path": "/government/publications/the-patent-office-annual-report-and-accounts-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    },
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

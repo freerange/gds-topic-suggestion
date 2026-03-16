@@ -1,0 +1,15 @@
+{
+  "title": "Public attitudes to connected places",
+  "body": "\"The government commissioned Pye Tait Consulting to explore and understand public knowledge, attitudes and confidence levels relating to connected places technologies, identify key concerns and how they could be addressed.  Outputs from the research include two visual explainers (video and infographic) which were audience tested, as well as a local authority communications and consultation guide.   Watch the video here:  Video: Introduction to Connected Places   This research informs the government’s policy on strengthening cyber security in connected places. It is part of the government’s work to improve the UK’s cyber defences and protect and grow our digital economy.  For more information on the government’s previous work in this area, please visit the secure connected places collection page.  For guidance on how organisations can secure their connected places against cyber threats, please see the Secure Connected Places Playbook. \"",
+  "base_path": "/government/publications/public-attitudes-to-connected-places",
+  "taxons": [
+    {
+      "title": "Local government",
+      "base_path": "/regional-and-local-government/local-government"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

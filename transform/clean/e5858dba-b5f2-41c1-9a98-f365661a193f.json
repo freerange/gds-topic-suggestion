@@ -1,0 +1,11 @@
+{
+  "title": "HMRC: spending over £500, February 2025",
+  "body": "\"HMRC publishes details of all spending over £500 using an electronic purchasing card solution (ePCS) on a monthly basis. The ePCS has replaced the government procurement card (GPC).  This data is also available on data.gov.uk.  \"",
+  "base_path": "/government/publications/hmrc-spending-over-500-february-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

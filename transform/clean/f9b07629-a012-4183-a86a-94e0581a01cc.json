@@ -1,0 +1,11 @@
+{
+  "title": "Crime in England and Wales: year ending June 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/crime-in-england-and-wales-year-ending-june-2025",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

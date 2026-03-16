@@ -1,0 +1,15 @@
+{
+  "title": "Timber Forecast Questionnaire 2025: UK forecasts",
+  "body": "\"The Timber Forecast Questionnaire collects estimates for the current year and forecasts for the coming year of removals, production and trade of wood and wood products.   Statistics are collected annually by the United Nations Economic Commission for Europe. \"",
+  "base_path": "/government/statistics/timber-forecast-questionnaire-2025-uk-forecasts",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

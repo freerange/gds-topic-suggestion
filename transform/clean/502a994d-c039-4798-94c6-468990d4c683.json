@@ -1,0 +1,15 @@
+{
+  "title": "Find software that works with Making Tax Digital for Income Tax",
+  "body": "\"You’ll need software to create digital records, send HMRC quarterly updates and submit your tax return using Making Tax Digital for Income Tax.   Check with the software provider that their product meets your specific needs. If you currently use software not listed or have an income source not yet supported, speak to your preferred software provider about their plans. More software options will become available over time.  If you have an agent (like an accountant or bookkeeper), talk to them about your choice of software to make sure they can support you.   If you have more than one agent, what they can do will depend on if they’re a main or supporting agent. You can have more than one supporting agent.  Before you start  If you’re a sole trader or a landlord, you’ll be asked a few questions to get a personalised list of software options for your specific needs.  You’ll need to know:   which of your income sources are covered by Making Tax Digital for Income Tax (self-employment, UK property, foreign property) any other income sources you need to report if you want to create new digital records or connect to existing ones your accounting period   If you’re an agent, you’ll see a list of all compatible software with filter options to help find the right solutions for your clients.  If you’ve not done so already, read the detailed guidance on choosing the right software for Making Tax Digital for Income Tax.  Find software now  Use this tool to search for software that works with Making Tax Digital for Income Tax.  Find now   After you’ve chosen your software  Read next steps on signing up for Making Tax Digital for Income Tax and to connect your chosen software to HMRC to authorise it. \"",
+  "base_path": "/guidance/find-software-that-works-with-making-tax-digital-for-income-tax",
+  "taxons": [
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Stage 3 MPAs Independent Scientific Panel Review Report",
+  "body": "\"MMO has gathered evidence and assessed the impacts of bottom towed fishing gear, anchored nets and lines, and traps in the 43 MPAs included in Stage 3.  A panel of five specialists from outside government with applicable expertise were then asked to review the documents and whether the evidence showed that the conclusions of the assessments were supported. \"",
+  "base_path": "/government/publications/stage-3-mpas-independent-scientific-panel-review-report",
+  "taxons": [
+    {
+      "title": "Fishing, fisheries and fishing vessels",
+      "base_path": "/environment/fishing-fisheries-and-vessels"
+    },
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    },
+    {
+      "title": "Species protection and marine conservation",
+      "base_path": "/environment/species-protection-and-marine-conservation"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

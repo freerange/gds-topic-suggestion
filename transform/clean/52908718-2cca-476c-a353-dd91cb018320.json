@@ -1,0 +1,11 @@
+{
+  "title": "Small vessel ECS performance standard (SV-ECS)",
+  "body": "\"Notice to all manufacturers, equipment suppliers, owners, skippers and watchkeepers of fishing vessels and masters of small vessels in commercial use.  This document replaces the SFIA “mini-ECDIS” performance standard and should be read in conjunction with MGN 319 (amendment 2). \"",
+  "base_path": "/government/publications/small-vessel-ecs-performance-standard-sv-ecs",
+  "taxons": [
+    {
+      "title": "Safe and compliant operation of vessels",
+      "base_path": "/transport/safe-and-compliant-operation-of-vessels"
+    }
+  ]
+}

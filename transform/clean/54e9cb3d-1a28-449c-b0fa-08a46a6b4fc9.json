@@ -1,0 +1,15 @@
+{
+  "title": "A quick scoping review of airborne perfluorooctanoic acid (PFOA) and other per- and polyfluoroalkyl substances (PFAS)",
+  "body": "\"This review provides insights into the sources, transport, concentrations, dispersion, deposition and estimation of airborne perfluorooctanoic acid (PFOA) and other per- and polyfluoroalkyl substances (PFAS) and has identified gaps in knowledge.  Addressing these gaps will help to inform future regulatory measures and mitigation of the impacts of airborne PFAS. \"",
+  "base_path": "/government/publications/a-quick-scoping-review-of-airborne-perfluorooctanoic-acid-pfoa-and-other-per-and-polyfluoroalkyl-substances-pfas",
+  "taxons": [
+    {
+      "title": "Chemicals",
+      "base_path": "/environment/chemicals"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    }
+  ]
+}

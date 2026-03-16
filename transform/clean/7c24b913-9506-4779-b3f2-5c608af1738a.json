@@ -1,0 +1,15 @@
+{
+  "title": "Statistics on trusts in the UK",
+  "body": "\"This publication contains information and tables of statistics about trusts and estates in the UK.  Contact details  Enquires about these statistics should be directed to the statistician who is responsible for this publication.  Statistical contact: BY Seworde  personaltax.statistics@hmrc.gov.uk   Knowledge, Analysis and Intelligence,HM Revenue and Customs,Three New Bailey,New Bailey Street,Salford,M3 5FS  \"",
+  "base_path": "/government/statistics/statistics-on-trusts-in-the-uk",
+  "taxons": [
+    {
+      "title": "Filing a tax return",
+      "base_path": "/money/personal-tax-self-assessment-filing-a-tax-return"
+    },
+    {
+      "title": "Trusts",
+      "base_path": "/money/trusts"
+    }
+  ]
+}

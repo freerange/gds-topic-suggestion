@@ -1,0 +1,19 @@
+{
+  "title": "Climate change risk assessment: transport sector",
+  "body": "\"Climate change risk assessments are used to help organisations understand:   the current and future effects of climate change how to prioritise climate change adaptation   The guidance provides an overarching approach to climate change risk assessments, including:   a step-by-step process and the tools needed to complete the assessment a methodology to score climate risks  best practice case studies   It can be used by organisations across the transport sector in the UK. This guide also provides additional resources for ports, airports and local highways.  The Climate Adaptation HIVE supplies case studies of implemented climate adaptation measures across transport modes to support stakeholders in managing weather and climate-related risks.  \"",
+  "base_path": "/government/publications/climate-change-risk-assessment-transport-sector",
+  "taxons": [
+    {
+      "title": "Road transport and the environment",
+      "base_path": "/transport/road-transport-and-the-environment"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    }
+  ]
+}

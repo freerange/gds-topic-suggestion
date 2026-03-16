@@ -1,0 +1,15 @@
+{
+  "title": "Environmental capacity for industrial clusters: strategic spatial planning report",
+  "body": "\"This study reviews potential opportunities for strategic spatial planning to better support the deployment net zero technologies (and associated infrastructure) in low carbon industrial clusters in Teesside, Humber and HyNet. \"",
+  "base_path": "/government/publications/environmental-capacity-for-industrial-clusters-strategic-spatial-planning-report",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Carbon capture and storage",
+      "base_path": "/environment/oil-and-gas-carbon-capture-and-storage"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Mid-Tier Terms",
+  "body": "\"Mid-Tier Terms for contracts between £135,018 and £20 million inclusive of VAT. \"",
+  "base_path": "/government/publications/mid-tier-terms",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

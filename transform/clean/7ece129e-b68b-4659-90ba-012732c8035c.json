@@ -1,0 +1,11 @@
+{
+  "title": "Polyethylene Terephthalate Glycol (PETG) and other condensation polymers — calculation of the monomer content (Tariff notice 25)",
+  "body": "\"New explanatory notes  For Information only.  A new Combined Nomenclature Explanatory Note published on 10 November 2025:  Explanatory Notes to the Combined Nomenclature of the European Union  (C/2025/6093)  Classification (Combined Nomenclature (CN) code)  Chapter 39 Note 4  Reason  Pursuant to Article 9(1), point (a), of Council Regulation (EEC) No 2658/87, the Explanatory notes to the Combined Nomenclature of the European Union are amended as follows:  on page 196, a new Explanatory note to Note 4 of Chapter 39 is added with the following text:  ‘ Note 4  Calculation of mass ratios of monomer units in copolymers:  The mass ratios of the respective monomer units in copolymer chains are calculated based on the molecular structure of the copolymer (not the starting materials), taking into account the formation reaction of the polymer. When applicable, the atom linking two adjacent monomer units is attributed to the monomer unit from which the atom originates.  The following examples illustrate the calculation of the monomer unit content in copolymers:    In poly(ethylene terephthalate), which is a polyester comprised of terephthalic acid and ethylene glycol moieties, both alcoholic oxygens are attributed to the glycol monomer unit. Hence, ethylene glycol is calculated as C2H4O2, and terephthalate is calculated as C8H4O2.   In polyamide-6,6, which is a polyamide comprised of hexamethylenediamine and adipic acid, both nitrogen atoms are attributed to the diamine monomer unit. Hence, hexamethylenediamine is calculated as C6H14N2 and adipic acid is calculated as C6H8O2.’    Contact details   Tariff ClassificationCustoms Policy & Strategy3rd Floor14 Westfield AvenueStratfordLondonE20 1HZ   Email: tariff.classification@hmrc.gov.uk  This Tariff Notice is published for information purposes only.  \"",
+  "base_path": "/guidance/polyethylene-terephthalate-glycol-petg-and-other-condensation-polymers-calculation-of-the-monomer-content-tariff-notice-25",
+  "taxons": [
+    {
+      "title": "UK Trade Tariff and classification of goods",
+      "base_path": "/business/business-tax-import-export-uk-trade-tariff-and-classification-of-goods"
+    }
+  ]
+}

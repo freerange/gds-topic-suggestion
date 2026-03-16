@@ -1,0 +1,27 @@
+{
+  "title": "Eating habits of children aged 16 to 18 months",
+  "body": "\"This report presents findings from a survey of primary caregivers of children aged 16 to 18 months in England in 2023. The survey was conducted by Ipsos on behalf of the Office for Health Improvement and Disparities in the Department of Health and Social Care.  The findings provide information on:   aspects of the children’s diet and eating behaviours how these compare with UK guidance and dietary recommendations   Participants in the survey were members of the Children of the 2020s study, which follows the lives of around 8,500 children (and their families) born in England at the start of the 2020s. \"",
+  "base_path": "/government/publications/eating-habits-of-children-aged-16-to-18-months",
+  "taxons": [
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    },
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    },
+    {
+      "title": "Benefits for families",
+      "base_path": "/welfare/families"
+    },
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    },
+    {
+      "title": "Oral health",
+      "base_path": "/health-and-social-care/oral-health"
+    }
+  ]
+}

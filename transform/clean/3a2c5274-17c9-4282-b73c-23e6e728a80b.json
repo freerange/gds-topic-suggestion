@@ -1,0 +1,23 @@
+{
+  "title": "New UK sanctions target Russian cybercrime network",
+  "body": "\" UK sanctions target Russian cyber entity, ZSERVERS responsible for facilitating crippling ransomware attacks globally targets also include 6 ZSERVERS members who are part of a prolific cybercrime supply chain, and their UK front company XHOST action on illicit Russian cybercrime syndicate is latest step to strengthen UK national security   Fresh sanctions are targeting ZSERVERS, a key component of the Russian cybercrime supply chain, and 6 of its members, as well as its UK front company, XHOST Internet Solutions LP. ZSERVERS provide vital infrastructure for cybercriminals as they plan and execute attacks against the UK.      The illicit supply chain protects, supports and conceals the operations of some of the world’s most ruthless ransomware gangs. Ransomware actors rely on these services to launch attacks, extort victims and store stolen data.     In the modern digital-first economy, cyber security is a non-negotiable cornerstone of business success. A secure digital economy is a less attractive target for cybercriminals and a more attractive home for investment, generating jobs and putting more money into hardworking people’s pockets, delivering on this government’s Plan for Change.   Foreign Secretary, David Lammy, said:   Putin has built a corrupt mafia state driven by greed and ruthlessness. It is no surprise that the most unscrupulous extortionists and cyber-criminals run rampant from within his borders.    This government will continue to work with partners to constrain the Kremlin and the impact of Russia’s lawless cyber underworld. We must counter their actions at every opportunity to safeguard the UK’s national security and deliver on our Plan for Change.    Predatory ransomware groups pose a clear and persistent threat to national security, public services and privacy. These attacks threaten critical national infrastructure, disrupt essential services, compromise sensitive data and generated $1 billion from their victims globally in 2023 alone.    Minister of State for Security, Dan Jarvis, said:   Ransomware attacks by Russian affiliated cybercrime gangs are some of the most harmful cyber threats we face today and the government is tackling them head on. Denying cybercriminals the tools of their trade weakens their capacity to do serious harm to the UK.    We have already announced new world-first proposals to deter ransomware attacks and destroy their business model.  With these targeted sanctions and the full weight of our law enforcement, we are countering the threats we face to protect our national security, a foundation of our Plan for Change, and our economy.   ZSERVERS explicitly advertise themselves to illicit actors as a Bulletproof Hosting (BPH) Provider. Some BPH are known to host hackers, misinformation, child exploitation material, spam and hate speech. BPH providers like ZSERVERS, protect and enable cybercriminals, offering a range of purchasable tools which mask their locations, identities, and activities. Targeting these providers can disrupt hundreds or thousands of criminals simultaneously.    Today’s action is the latest in a series of coordinated steps alongside US and Australian partners, and comes off the back of recent sanctions against notorious ransomware groups LockBit and Evil Corp.    LockBit affiliates are known to have used ZSERVERS as a launch pad for targeting the UK, enabling ransomware attacks against various targets, including...",
+  "base_path": "/government/news/new-uk-sanctions-target-russian-cybercrime-network",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Managing sludge from non-mains systems",
+  "body": "\"Non-mains domestic sewage systems generate sludges and other wastes. These systems include:   septic tanks small sewage treatment plants separator toilets cesspools chemical toilets portable sanitary toilets   These systems may be used by:   householders who cannot connect to the main sewer holiday parks and camping sites marinas and lock sites construction sites festivals and show grounds allotments public spaces, car parks, visitor attractions, golf courses and other recreational sites   If your business takes this kind of waste, you must meet your duty of care requirements if you:   collect it store it treat it recover it spread it to land (landspread it) dispose of it   Managing separator toilet waste  A separator toilet is like a septic tank. If it has been operated correctly, it will have produced a residual septic tank sludge and a liquid.  If the separator toilet does not separate out the waste liquids and solids, you must manage it as a cesspool waste.  The term ‘composting toilet’ is now widely used for various types of separator toilets.  Check if the solid material produced meets the description of a residual septic tank sludge given in this guidance.  If you are not sure about how to classify the solid material, you can contact the Environment Agency for advice.  Storing sludge from non-mains systems  Check if you can follow the Environment Agency’s regulatory position statement (RPS) Storing and treating chemical toilet waste: RPS 277. This RPS allows you to store:   non-hazardous chemical toilet waste at a location controlled by the operator of a portable toilet hire business cesspool and septic tank waste at a location controlled by a tanker operator sewage from boats at a marina or lock site   You must apply for a permit if you cannot meet the conditions of RPS 277.  If you are planning to store septic tank sludge at the place where it will be used under the Sludge (Use in Agriculture) Regulations, you must either:   register an S3 waste exemption for storing sludge  apply for a permit   See the section of this guide on ‘Storing septic tank sludge for use in agriculture’.  Treating sludge from non-mains systems  You can treat or dispose of waste at an appropriately regulated facility. These include a:   waste water treatment works waste management facility   The sludge you are treating, which is likely to be 20 03 04 ‘septic tank sludge’, may change its waste code and description after the waste treatment activity. Check the waste classification technical guidance for the correct code to use.  Check if you can use the T21 waste exemption: recover waste at a waste water treatment works. You must register this exemption. You must apply for a permit if you cannot meet the conditions of the exemption.  You must only use the waste code and description 16 10 02 ‘cesspool waste and other sewage sludge’ if the sludges have been mixed with cesspool waste.  If you have registered the T21 exemption, check if you can follow Using waste codes for sludge materials: RPS 231. This includes other waste types you can accept. You must be able to meet all of the conditions of the RPS....",
+  "base_path": "/guidance/managing-sludge-from-non-mains-systems",
+  "taxons": [
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    },
+    {
+      "title": "Discharge water",
+      "base_path": "/business/environmental-management-water-discharge-water"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

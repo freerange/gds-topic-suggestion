@@ -1,0 +1,11 @@
+{
+  "title": "UK NSC: about the UK National Screening Committee",
+  "body": "\" Contact the UK National Screening Committee by email: uknsc@dhsc.gov.uk  For screening programme operational queries contact NHS England: england.contactus@nhs.net   \"",
+  "base_path": "/government/collections/uk-nsc-about-the-uk-national-screening-committee",
+  "taxons": [
+    {
+      "title": "Population screening programmes",
+      "base_path": "/health-and-social-care/population-screening-programmes"
+    }
+  ]
+}

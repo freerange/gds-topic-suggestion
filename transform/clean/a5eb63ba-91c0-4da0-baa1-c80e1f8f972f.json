@@ -1,0 +1,11 @@
+{
+  "title": "Testing advice for specific vehicles: guidance for MOT testers",
+  "body": "\"The MOT inspection manuals for cars and passenger vehicles and motorcycles set out the processes and standards for the MOT test.  This guide contains advice on how to test specific makes and models of vehicles (previously called vehicle specific information) that is not in the MOT inspection manuals. \"",
+  "base_path": "/government/publications/testing-advice-for-specific-vehicles-guidance-for-mot-testers",
+  "taxons": [
+    {
+      "title": "Car, motorcycle and van MOT tests",
+      "base_path": "/transport/car-motorcycle-and-van-mot-tests"
+    }
+  ]
+}

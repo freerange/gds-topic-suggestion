@@ -1,0 +1,15 @@
+{
+  "title": "UK Second Generation Search and Rescue Aviation programme - December 2025 Newsletter",
+  "body": "\"An update on the current status of the UKSAR2G project for the future of aviation within HM Coastguard and the search and rescue capability. Includes current base solution for helicopters, information on the expansion of the fixed wing fleet and an update on the new seasonal bases.  Website UK Second-Generation Search and Rescue Aviation programme  Email UKSAR2G@mcga.gov.uk \"",
+  "base_path": "/government/publications/uk-second-generation-search-and-rescue-aviation-programme-december-2025-newsletter",
+  "taxons": [
+    {
+      "title": "Aviation",
+      "base_path": "/transport/aviation"
+    },
+    {
+      "title": "Coastguard search and rescue",
+      "base_path": "/transport/coastguard-search-and-rescue"
+    }
+  ]
+}

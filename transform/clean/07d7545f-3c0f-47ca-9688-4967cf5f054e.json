@@ -1,0 +1,27 @@
+{
+  "title": "Criteria for science and technology procurement decision process",
+  "body": "\" This criteria specifically relates to our how to sell to or work with us page, and defines the different sensitivity and capability criteria.   The presumption is that work should be conducted by external suppliers unless there is a clear reason for it to be done or led by the Defence Science and Technology Laboratory (Dstl).  \"",
+  "base_path": "/government/publications/criteria-for-science-and-technology-procurement-decision-process",
+  "taxons": [
+    {
+      "title": "Armed forces",
+      "base_path": "/defence/working-armed-forces"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

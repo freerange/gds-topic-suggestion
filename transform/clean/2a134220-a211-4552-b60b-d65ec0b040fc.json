@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Stillbirths (Northern Ireland): February 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/monthly-stillbirths-northern-ireland-february-2026",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

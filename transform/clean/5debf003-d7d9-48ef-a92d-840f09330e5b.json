@@ -1,0 +1,19 @@
+{
+  "title": "Implementing Part 4 of the Biodiversity Beyond National Jurisdiction Agreement",
+  "body": "\"We want your views on proposed legislative changes to implement the EIA part of the BBNJ Agreement as it applies to licensable marine activities.   These include proposals about:    extending marine licensing to additional activities in areas beyond national jurisdiction (ABNJ)    exemptions for activities in ABNJ    activity specific regulatory approaches    the application process and guidance for regulating activities in ABNJ     We want to know more about marine activities in ABNJ including:    what activities are taking place in ABNJ currently, and what activities may take place in ABNJ in future    who is carrying out, or likely to carry out, these activities and what is their connection to the UK    evidence on likely impacts of these activities    We’re also asking for views on a proposal to change how marine licensing responsibilities are shared between existing regimes. \"",
+  "base_path": "/government/consultations/implementing-part-4-of-the-biodiversity-beyond-national-jurisdiction-agreement",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine licences",
+      "base_path": "/environment/marine-licences"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    }
+  ]
+}

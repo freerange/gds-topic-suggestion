@@ -1,0 +1,11 @@
+{
+  "title": "Budget 2025 in full",
+  "body": "\"View the Budget 2025 main document, supporting documents and supplementary documents - published by HMT and other government departments \"",
+  "base_path": "/government/collections/budget-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

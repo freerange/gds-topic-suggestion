@@ -1,0 +1,15 @@
+{
+  "title": "CCUS East Coast Cluster: Teesside selection process",
+  "body": "\"DESNZ intends to launch a new East Coast Cluster (ECC) Teesside selection process from early 2026 for the Teesside network. The process will identify new carbon capture projects that could connect to the ECC Teesside network, help utilise remaining licensed CO2 storage capacity at Endurance, and support HMG’s Growth and Net Zero missions.    Following financial close for the ECC transport and storage network (Northern Endurance Partnership) and Net Zero Teesside in December 2024, and subject to ongoing negotiations with the remaining projects on the Projects Negotiations List (published in March 2023), HMG anticipates in the region of 1 Mtpa of T&S capacity may be available from 2029. HMG may also take forward additional projects into negotiations beyond current capacity to maintain contingency and capture network-optimisation opportunities.  \"",
+  "base_path": "/government/publications/ccus-east-coast-cluster-updated-selection-process",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Carbon capture and storage",
+      "base_path": "/environment/oil-and-gas-carbon-capture-and-storage"
+    }
+  ]
+}

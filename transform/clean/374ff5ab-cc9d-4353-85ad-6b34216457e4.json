@@ -1,0 +1,11 @@
+{
+  "title": "AAIB Report: ATR 72-500 (72-212A), LY-JUP",
+  "body": "\"On approach to Runway 27 at Guernsey Airport, the crew of LY-JUP continued to descend below the approach ban altitude despite the reported Runway Visual Range (RVR) being below that required. After passing through approach minima, and at around 70 ft agl, a go-around was initiated. After the power levers were advanced the aircraft remained between 61 and 78 ft agl for 15 seconds before a climb was established. The flight diverted to Southampton Airport where it landed without further incident.  Although both crew members were aware of the approach ban, it was not discussed before or during the approach. As the aircraft passed the decision altitude for the approach, there was confusion and miscommunication between the crew which resulted in the aircraft remaining more or less level with the gear down.  The operator has taken a number of safety actions to improve the selection and training of crews as well as to introduce a Flight Data Monitoring (FDM) programme.  Read the report. \"",
+  "base_path": "/government/news/aaib-report-atr-72-500-72-212a-ly-jup",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Datganiad am rannau cerbyd (V627/1W)",
+  "body": "\"Rhaid defnyddio’r ffurflen hon wrth hysbysu DVLA am gerbyd clasurol wedi’i ailadeiladu, cerbyd wedi’i drosi â chit, cerbyd wedi’i adeiladu â chit, siasi amnewid, cragen corff unigol neu ffrâm (ar gyfer beiciau modur). \"",
+  "base_path": "/government/publications/vehicle-parts-statement-v6271.cy",
+  "taxons": [
+    {
+      "title": "Vehicle manufacturing and modification",
+      "base_path": "/transport/vehicle-manufacturing-and-modification"
+    }
+  ]
+}

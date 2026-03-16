@@ -1,0 +1,11 @@
+{
+  "title": "ISOSS HIV report (for pregnancies between 1 April 2022- 31 March 2023)",
+  "body": "\"This report focuses on pregnancies to women who screened positive for HIV and booked for antenatal care in England from 1 April 2022 to 31 March 2023. \"",
+  "base_path": "/government/publications/isoss-hiv-report-for-pregnancies-between-1-april-2022-31-march-2023",
+  "taxons": [
+    {
+      "title": "NHS infectious diseases in pregnancy screening (IDPS) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-infectious-diseases-in-pregnancy"
+    }
+  ]
+}

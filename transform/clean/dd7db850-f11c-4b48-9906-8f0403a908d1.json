@@ -1,0 +1,11 @@
+{
+  "title": "Housing supply: indicators of new supply, England: April to June 2025",
+  "body": "\"This statistical release includes building control reported estimates of housing supply in England. It also shows estimates of housing supply in England using other additional data sources.  Our interactive dashboard illustrates results and historical trends from this release. \"",
+  "base_path": "/government/statistics/housing-supply-indicators-of-new-supply-england-april-to-june-2025",
+  "taxons": [
+    {
+      "title": "House building",
+      "base_path": "/housing-local-and-community/house-building"
+    }
+  ]
+}

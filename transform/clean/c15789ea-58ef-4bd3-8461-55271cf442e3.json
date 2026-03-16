@@ -1,0 +1,15 @@
+{
+  "title": "Quarterly Employment Survey: December 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/quarterly-employment-survey-december-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

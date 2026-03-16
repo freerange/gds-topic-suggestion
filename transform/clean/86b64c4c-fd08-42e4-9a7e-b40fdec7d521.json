@@ -1,0 +1,19 @@
+{
+  "title": "Nepal: doctors",
+  "body": "\"The Foreign, Commonwealth & Development Office (FCDO) does not accept any liability to any person or company for any financial loss or damage arising from the use of this information or from any failure to give information.  \"",
+  "base_path": "/government/publications/nepal-list-of-doctors",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living in Nepal",
+      "base_path": "/world/living-in-nepal"
+    },
+    {
+      "title": "Countries (Living In)",
+      "base_path": "/going-and-being-abroad/countries-living-in"
+    }
+  ]
+}

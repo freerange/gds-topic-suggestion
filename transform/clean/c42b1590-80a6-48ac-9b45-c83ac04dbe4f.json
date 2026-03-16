@@ -1,0 +1,11 @@
+{
+  "title": "Defence personnel health and safety statistics: financial year 2023/24",
+  "body": "\"This annual statistical notice presents summary statistics on injury and illness to UK regular armed forces personnel, Ministry of Defence (MOD) civilian employees and other civilians that were recorded on MOD health and safety recording systems.  Please note: to make the publication clearer to read and better meet user needs we have made some changes to both the layout of the bulletin and the supplementary tables. The aim is to provide a clearer focus on the types of activities that cause injury and the severity of these injuries on Defence personnel. The main changes are summarised below,  with some additional tables being re-organised to better present the information within them.  Some duplication between tables has been removed to make the tables clearer.  Information on fatalities will provide the total numbers of Armed Forces deaths and focus on those that are deemed to be H&S related.  Further information on fatalities in the UK AF can be found at UK armed forces deaths in service statistics: index.  Information for Reserve personnel will be added as new tables.  Rates and confidence intervals will be presented for the latest year only.  Rates and confidence intervals for previous years will still be available in earlier publications.  Any revisions to numbers of incidents for the previous year will continue be presented, and a 5 year trend will be presented within the bulletin to monitor changes over time.  The numbers of injuries by activity will be grouped into larger categories highlighting the activities where most injuries occur and the number of injuries broken down by body part will no longer be provided. \"",
+  "base_path": "/government/statistics/defence-personnel-health-and-safety-statistics-financial-year-202324",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

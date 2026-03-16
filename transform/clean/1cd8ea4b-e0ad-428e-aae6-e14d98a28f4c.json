@@ -1,0 +1,15 @@
+{
+  "title": "DAP: His Majesty’s Armed Forces passport applications",
+  "body": "\"This guidance tells HM Passport Office staff how to process passport applications from members of the armed forces on DAP (Digital Application Processing). \"",
+  "base_path": "/government/publications/dap-his-majestys-armed-forces-passport-applications",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    },
+    {
+      "title": "Armed forces",
+      "base_path": "/defence/working-armed-forces"
+    }
+  ]
+}

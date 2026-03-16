@@ -1,0 +1,11 @@
+{
+  "title": "Primary and secondary school applications and offers: 2025",
+  "body": "\"The statistics show the number of applications to each local authority. They also show the number and proportion of offers based on whether a preferred offer was made and the level of that preference.  The underlying data includes:   the numbers and proportions by preference level and whether the offer was within or outside the home local authority a time series for previous years  \"",
+  "base_path": "/government/statistics/primary-and-secondary-school-applications-and-offers-2025",
+  "taxons": [
+    {
+      "title": "School admissions",
+      "base_path": "/education/school-admissions"
+    }
+  ]
+}

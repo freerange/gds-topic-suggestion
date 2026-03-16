@@ -1,0 +1,15 @@
+{
+  "title": "CMA consults on releasing  Google from Privacy Sandbox commitments",
+  "body": "\"The Competition and Markets Authority (CMA) has today launched a consultation on releasing Google from commitments after the tech firm announced in April it was abandoning plans to prompt users to decide if they want to block third party cookies from Chrome – the popular browser used by millions of users.  The CMA commitments were put in place to ensure that Google’s Privacy Sandbox was developed in a way that benefits consumers. Without the CMA’s oversight, Google’s original plan to deprecate third-party cookies could have weakened competition in the digital advertising sector – an industry worth billions to the UK economy – harming consumers who ultimately pay for the cost of online advertising.  The commitments protected competition by ensuring that Google designed and developed the Privacy Sandbox in a way that did not favour its own ad-tech services over those of its competitors.  The CMA believes the commitments are no longer necessary and is now consulting before it takes a decision  on whether to release them later this year.  Anyone with an interest in this work is welcome to submit feedback by 11.55pm on 4 July 2025.  More information is available via the Investigation into Google’s ‘Privacy Sandbox’ browser changes case page.  Notes to editors  The CMA has worked closely with the Information Commissioner’s Office (ICO) throughout this project to ensure that competition and privacy aspects were considered together. In the event that the Google Privacy Sandbox initiative were to give rise to competition concerns in the future, the CMA would have the ability to intervene through powers under the Digital Markets, Competition and Consumers Act 2024 as well as the Competition Act 1998. For media enquiries, contact the CMA press office on 020 3738 6460 or press@cma.gov.uk.  \"",
+  "base_path": "/government/news/cma-consults-on-releasing-google-from-privacy-sandbox-commitments",
+  "taxons": [
+    {
+      "title": "Competition law",
+      "base_path": "/business/competition-law"
+    },
+    {
+      "title": "Markets",
+      "base_path": "/business/competition-markets"
+    }
+  ]
+}

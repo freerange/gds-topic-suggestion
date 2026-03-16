@@ -1,0 +1,11 @@
+{
+  "title": "Health protection hazards collection",
+  "body": "\"Guidance and reports on health protection hazards (including environmental hazards or infectious diseases), which have a disproportionate impact on certain population groups (including CORE20PLUS). \"",
+  "base_path": "/government/collections/health-protection-hazards-collection",
+  "taxons": [
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Abolition of the dividend tax credit for non-UK residents",
+  "body": "\"This measure will abolish the notional tax credit that non-UK residents receive for the tax they’re treated as having paid at the ordinary rate, on dividends from UK companies. \"",
+  "base_path": "/government/publications/abolition-of-the-dividend-tax-credit-for-non-uk-residents",
+  "taxons": [
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    },
+    {
+      "title": "Tax on savings and investments",
+      "base_path": "/money/savings-investment-tax"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Format guide for the UK Sanctions List",
+  "body": "\"Introduction   The Foreign, Commonwealth and Development Office (FCDO) publishes the UK Sanctions List, which provides a comprehensive list of those designated  under the Sanctions and Anti-Money Laundering Act 2018 (SAMLA).   The list names the individuals, entities (that is businesses and organisations)  and ships (‘designated persons’ and ‘specified ships’) that are the targets of certain sanctions measures, such as asset freezes and transport sanctions.  FCDO publishes this list to help businesses and individuals comply with UK sanctions.  The UK Sanctions List is published on GOV.UK and is available in 7 formats:  Alongside the original 4 UKSL file types:   ODT ODS XML HTML   an additional 3 formats are now published:   TXT CSV PDF   The data provided in each format is identical but is displayed in different ways, depending on the format.  UK Sanctions List field headings  The UK Sanctions List information in each of the 7 file formats it publishes is broken down under the following field headings:     Heading Description     Last Updated The date that any detail on the listing was last changed or updated on the UK Sanctions List.   Unique ID The unique UK Sanctions List identifying reference number given to all entries relating to a specific individual, entity or ship (‘designated persons’ and ‘specified ships’). If an entry is designated under multiple regimes, there may be different Unique IDs for one ‘designated person’.   OFSI Group ID The unique HMT OFSI Consolidated List identifying code given to all entries relating to a specific individual or entity subject to financial sanctions prior to Wednesday 28 January 2026.   UN Reference Number Reference number created by the UN for those subject to UN sanctions   Name 6 The last name/surname of the individual OR the full name of the entity or ship   Name 1 The first name of the individual   Name 2 The second name (NOT surname) of the individual   Name 3 The third name of the individual   Name 4 The fourth name of the individual   Name 5 The fifth name of the individual   Name type Primary Name, Primary Name Variation, AliasPrimary name variation and Alias are 2 separate, discreet name types.Primary name variations are spelling variations of the primary name.Alias refers to name records that are substantively different from the primary name, or are referred to as Alias in the UN Sanctions List (in the case of UN designations)   Alias strength The strength of an alias – good quality; low quality or if empty, ‘blank’. Alias strengths are only included for UN listings, where provided by the UN. Where absent, this will be blank.   Title Honorary, religious or professional title   Name non-latin script The non-Latin script version of a name   Non-latin script type The type of non-Latin script for the name   Non-latin script language The language of the non-Latin script name   Regime Name Full title of the sanctions regime(s) under which the target is listed   Individual, Entity, Ship States whether the designation is an individual, entity (e.g. organisation) or ship.   Designation source States whether the designation is from a UK autonomous regime only, UN regime only...",
+  "base_path": "/guidance/format-guide-for-the-uk-sanctions-list",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    }
+  ]
+}

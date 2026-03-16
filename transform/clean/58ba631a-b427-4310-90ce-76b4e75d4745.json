@@ -1,0 +1,15 @@
+{
+  "title": "Notice to Traders 37/25 - Imports of Garlic from Countries other than China and EU Member States under Statutory Instrument No. 2020/1432",
+  "body": "\"Your application must be received between 1 May 2025 and 5pm on 7 May 2025. \"",
+  "base_path": "/government/publications/notice-to-traders-3725-imports-of-garlic-from-countries-other-than-china-and-eu-member-states-under-statutory-instrument-no-20201432",
+  "taxons": [
+    {
+      "title": "Crops and horticulture ",
+      "base_path": "/environment/producing-distributing-food-crops-horticulture"
+    },
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    }
+  ]
+}

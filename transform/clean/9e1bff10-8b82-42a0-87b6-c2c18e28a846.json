@@ -1,0 +1,11 @@
+{
+  "title": "Draft: Heat network technical standard (TS1)",
+  "body": "\"This draft standard will supersede the Heat Networks: Code of Practice for the UK (CP1).  The standard is largely based on the content from CP1 (2020), but it transitions from a code of practice to a formal standard, and introduces new requirements in several key technical areas.  TS1 will serve as the principal reference point for HNTAS, supporting the sector’s move to regulation by providing robust technical standards to ensure high performance and good consumer outcomes. \"",
+  "base_path": "/government/publications/heat-network-technical-standard-ts1",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

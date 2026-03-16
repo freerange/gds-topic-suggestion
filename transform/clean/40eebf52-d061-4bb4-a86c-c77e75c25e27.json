@@ -1,0 +1,11 @@
+{
+  "title": "Export client quality survey questionnaires",
+  "body": "\"Participation in the survey is voluntary and respondents are assured their anonymity is preserved. \"",
+  "base_path": "/government/publications/export-client-quality-survey-questionnaires",
+  "taxons": [
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    }
+  ]
+}

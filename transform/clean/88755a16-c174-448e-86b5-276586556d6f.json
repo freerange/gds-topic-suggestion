@@ -1,0 +1,31 @@
+{
+  "title": "Tax update spring 2025: simplification, administration and reform",
+  "body": "\"The government announced a package of technical tax policy proposals on 28 April 2025, to support its ambitions to:   simplify and modernise the tax system tackle non-compliance make the tax system fairer for taxpayers make the customs system work better for traders   Full details of all announcements, supporting documents and information are available.  Read the Written Ministerial Statement for a list of the announced tax policy measures. \"",
+  "base_path": "/government/collections/tax-update-spring-2025-simplification-administration-and-reform",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    },
+    {
+      "title": "Tax evasion and avoidance",
+      "base_path": "/money/tax-evasion-and-avoidance"
+    }
+  ]
+}

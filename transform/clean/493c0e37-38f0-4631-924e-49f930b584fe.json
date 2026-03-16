@@ -1,0 +1,11 @@
+{
+  "title": "Child and Working Tax Credits statistics: 2005 to 2025",
+  "body": "\"These statistics focus on the number of families benefiting from tax credits in England, Scotland, Wales and Northern Ireland from tax year ending 2005 to tax year ending 2025. The statistics present a breakdown of families by their profile position, age and gender, type of family and family size, including the families benefitting from different elements of tax credits. The statistics also cover the number of children in benefitting families broken down by their age. The geographical statistics are broken down into Country and Region, Local Authority, Lower Super Output Area, Westminster Parliamentary Constituency and Scottish Parliamentary Constituency. \"",
+  "base_path": "/government/statistics/child-and-working-tax-credits-statistics-2005-to-2025",
+  "taxons": [
+    {
+      "title": "Tax credits",
+      "base_path": "/welfare/tax-credits"
+    }
+  ]
+}

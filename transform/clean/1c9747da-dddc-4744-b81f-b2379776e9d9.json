@@ -1,0 +1,31 @@
+{
+  "title": "Director of Public Health Core Tables 2023 (Northern Ireland)",
+  "body": "\"The Director of Public Health’s Core Tables (Northern Ireland) is published annually by the Public Health Agency.  They are a set of standard tables which contain a range of demographic information e.g. home population figures and projections, births and fertility data, death rates, childhood immunisation rates, infectious diseases and population screening uptake rates.  Data is provided at different geographic levels (where available): Northern Ireland, Health Trusts and Local Government Districts. \"",
+  "base_path": "/government/statistics/director-of-public-health-core-tables-2023-northern-ireland",
+  "taxons": [
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    },
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    },
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    },
+    {
+      "title": "Population screening programmes",
+      "base_path": "/health-and-social-care/population-screening-programmes"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Inheritance Tax: long-term United Kingdom (UK) residence (IHT401a)",
+  "body": "\"Fill in this form if you’ve claimed that the deceased was not a long-term UK resident.  \"",
+  "base_path": "/government/publications/inheritance-tax-long-term-united-kingdom-uk-residence-iht401a",
+  "taxons": [
+    {
+      "title": "Inheritance Tax",
+      "base_path": "/money/personal-tax-inheritance-tax"
+    }
+  ]
+}

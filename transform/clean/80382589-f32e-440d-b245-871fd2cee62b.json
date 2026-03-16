@@ -1,0 +1,11 @@
+{
+  "title": "Changes in the body mass index (BMI) category of children between the first and final years of primary school, 2023 to 2024",
+  "body": "\" This report examines how individual children’s body mass index (BMI) category has changed between their measurements in reception at age 4 to 5 years in the academic year 2017 to 2018 and their measurements in year 6 at age 10 to 11 years in 2023 to 2024.  Data is reported for children who are underweight, healthy weight, overweight, living with obesity (excluding severe obesity) and living with severe obesity. How children move between BMI categories in reception to year 6 is examined by sex, ethnic group, deprivation and geographic region to see if the patterns differ within these groupings.  Data for the latest 3 cohorts (children who were in year 6 in academic years ending 2022, 2023 and 2024) has been combined to create a dataset for robust analysis at local authority level which is presented in the Obesity profile on Fingertips.  \"",
+  "base_path": "/government/statistics/changes-in-the-body-mass-index-bmi-category-of-children-between-the-first-and-final-years-of-primary-school-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    }
+  ]
+}

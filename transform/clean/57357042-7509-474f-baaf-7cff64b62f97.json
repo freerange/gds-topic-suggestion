@@ -1,0 +1,11 @@
+{
+  "title": "Fires in stables, 2021-22 to 2024-25",
+  "body": "\"This ad hoc statistical release covers fires attended by Fire and Rescue Services (FRSs) in stables, in England, by year or aggregated by source of ignition. \"",
+  "base_path": "/government/statistics/fires-in-stables-2021-22-to-2024-25",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

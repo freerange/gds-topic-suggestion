@@ -1,0 +1,23 @@
+{
+  "title": "Help with Capital Gains on your Self Assessment tax return",
+  "body": "\"Capital Gains Tax is a tax on the profit when you sell something that’s increased in value.  Before you complete your tax return, you can check what you pay Capital Gains Tax on and work out if you need to pay.  If you have sold or given away cryptoassets or cryptocurrencies (such as bitcoin), you can check if you need to pay Capital Gains Tax on cryptoassets.  If you need to pay tax after selling an asset, you can find out how to report and pay your Capital Gains Tax.  Helpsheets for filling in your tax return  Helpsheets provide information that can help you complete your Self Assessment tax return, such as:   checking if you qualify for a relief working out figures you might need to include in your return   Capital Gains Tax reliefs  Read helpsheets about:    Business Asset Disposal Relief (HS275)   Incorporation Relief (HS276)   Private Residence Relief (HS283)   business asset roll-over relief (HS290)   Capital Gains Tax relief on gifts and similar transactions (HS295)   Investors’ Relief (HS308)   the limit on Income Tax reliefs (HS204)    Capital Gains Tax on shares, investments and debts  Read helpsheets about:    shares and Capital Gains Tax (HS284)   Capital Gains Tax, share reorganisations and company takeovers (HS285)   negligible value claims and Income Tax losses on disposal of shares (HS286)   Capital Gains Tax and employee share schemes (HS287)   Capital Gains Tax and the Enterprise Investment Scheme (HS297)   Capital Gains Tax and venture capital trusts (HS298)   reliefs under the Seed Enterprise Investment Scheme (HS393)   Capital Gains Tax and debts (HS296)    Capital Gains Tax on land, property and personal possessions  Read helpsheets about:    Capital Gains Tax on land and leases (HS292)   personal possessions and Capital Gains Tax (HS293)   non-resident Capital Gains for land and property in the UK (HS307)    Capital Gains tax for trusts  Read helpsheets about:    trusts and Capital Gains Tax (HS294)   non-resident trusts and Capital Gains Tax (HS299)   beneficiaries receiving capital payments from non-resident trust (HS301)    Other Capital Gains helpsheets  Read helpsheets about:    temporary non-residents and Capital Gains Tax (HS278)   Capital Gains Tax, civil partners and spouses (HS281)   Capital Gains Tax when someone dies (HS282)   partnerships and Capital Gains Tax (HS288)    HMRC YouTube videos  Property disposals  Watch a video about reporting and paying Capital Gains Tax on property disposals.  How do I report and pay Capital Gains Tax on property disposals?  You will learn about:    who Capital Gains on disposals of property  applies to   what to do if you are a non-UK resident   how to report and pay Capital Gains on property disposals    Allowable expenditure  Watch a video about the allowable expenditure you can claim.  What allowable expenditure can I claim against Capital Gains Tax?  You will learn about:    allowable expenditure   costs not allowed   special rules for using the market value as the cost    Cryptoassets  Watch a video about how crypto transactions are taxed for individuals.  Cryptoassets and paying tax  You will learn about:   categories of cryptoassets types of disposals receiving crypto declaring cryptoasset income or gains  \"",
+  "base_path": "/guidance/help-with-capital-gains-on-your-self-assessment-tax-return",
+  "taxons": [
+    {
+      "title": "Self Assessment",
+      "base_path": "/employment/business-tax-self-employed-self-assessment"
+    },
+    {
+      "title": "Capital Gains Tax",
+      "base_path": "/money/dealing-with-hmrc-paying-hmrc-capital-gains-tax"
+    },
+    {
+      "title": "Capital Gains Tax",
+      "base_path": "/money/capital-gains-tax"
+    },
+    {
+      "title": "Self Assessment",
+      "base_path": "/money/self-assessment"
+    }
+  ]
+}

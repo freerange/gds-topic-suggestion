@@ -1,0 +1,15 @@
+{
+  "title": "Mission Review: James Webb Space Telescope and Solar Orbiter",
+  "body": "\"The James Webb Space Telescope (JWST) is an infrared space telescope developed by the US National Aeronautics and Space Administration (NASA) with contributions from the European Space Agency (ESA) and the Canadian Space Agency (CSA).  The UK Space Agency commissioned RAND Europe and Ipsos to produce a monitoring and evaluation (M&E) framework for future evaluations of the National Space Science Programme (NSSP) and the Science and Exploration Bilateral Programme (SEBP).  As part of this, RAND Europe has conducted two mission reviews, into the James Webb Space Telescope and Solar Orbiter, to test this framework, but they do not constitute full evaluations. \"",
+  "base_path": "/government/publications/mission-review-james-webb-space-telescope-and-solar-orbiter",
+  "taxons": [
+    {
+      "title": "Government evaluation",
+      "base_path": "/government/government-evaluation"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

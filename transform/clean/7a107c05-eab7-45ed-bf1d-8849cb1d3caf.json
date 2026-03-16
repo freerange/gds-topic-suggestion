@@ -1,0 +1,11 @@
+{
+  "title": "Aerial monitoring of environmental radioactivity",
+  "body": "\"This project explored the potential applications of drones for monitoring radioactivity in the environment, now and in the future. The project reviewed the published scientific literature to understand the current and future capabilities of drone systems for environmental radioactivity monitoring.  The findings will help to inform the Environment Agency on the potential use of drones for future independent monitoring programmes and aid the regulation of the nuclear industry. \"",
+  "base_path": "/government/publications/aerial-monitoring-of-environmental-radioactivity",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

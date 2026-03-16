@@ -1,0 +1,11 @@
+{
+  "title": "Fires, fatalities and casualties in on-site caravans, 2010-11 to 2023-24",
+  "body": "\"This ad hoc statistical release covers the number of fires, fatalities and casualties attended by Fire and Rescue Services (FRSs) in on-site caravans, in England, by year. \"",
+  "base_path": "/government/statistics/fires-fatalities-and-casualties-in-on-site-caravans-2010-11-to-2023-24",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

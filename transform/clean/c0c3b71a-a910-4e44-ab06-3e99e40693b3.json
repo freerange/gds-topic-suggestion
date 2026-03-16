@@ -1,0 +1,19 @@
+{
+  "title": "Maldives: mental health support",
+  "body": "\"Includes information on:   consular support how to get emergency medical help prescriptions hospitalisations returning to the UK   For more information, read foreign travel advice for people with mental health needs. \"",
+  "base_path": "/government/publications/maldives-mental-health-support",
+  "taxons": [
+    {
+      "title": "Emergency help for British nationals in Maldives",
+      "base_path": "/world/emergency-help-for-british-nationals-maldives"
+    },
+    {
+      "title": "Living in Maldives",
+      "base_path": "/world/living-in-maldives"
+    },
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    }
+  ]
+}

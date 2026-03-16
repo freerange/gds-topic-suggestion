@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Child Maintenance Service: Data to September 2025",
+  "body": "\"This quarterly statistics publication provides an overview of the performance of the Child Maintenance Service in Northern Ireland. This has been prepared by the Analytics Division of the Department for Communities (DfC). \"",
+  "base_path": "/government/statistics/northern-ireland-child-maintenance-service-data-to-september-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Child maintenance",
+      "base_path": "/childcare-parenting/child-maintenance"
+    }
+  ]
+}

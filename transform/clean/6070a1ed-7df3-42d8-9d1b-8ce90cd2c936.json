@@ -1,0 +1,15 @@
+{
+  "title": "BSL user experience of health and social care in UK",
+  "body": "\"This publication, ‘Locked Out: Exclusion of deaf and deafblind British Sign Language users from health and social care in the UK’, presents the findings and recommendations of the BSL Advisory Board’s Health and Social Care sub-group. The report examines the barriers that BSL users face in navigating the UK’s health and social care systems.   The report highlights the higher levels of health and social care needs within the deaf and deafblind BSL user communities, as well as the resulting health inequalities. It details how persistent challenges, such as inaccessible communication systems and a lack of qualified interpreters, lead to economic costs and cumulative trauma for BSL users.  The BSL Advisory Board puts forward 12 essential priorities and additional areas for action designed to create a more inclusive and equitable future. The aim of these recommendations is to unlock access to services, improve health outcomes, and provide a strong return on investment by reducing avoidable costs in the NHS and social care budgets. \"",
+  "base_path": "/government/publications/bsl-user-experience-of-health-and-social-care-in-uk",
+  "taxons": [
+    {
+      "title": "Disability rights",
+      "base_path": "/health-and-social-care/disabilities-rights"
+    },
+    {
+      "title": "Equality",
+      "base_path": "/society-and-culture/equality"
+    }
+  ]
+}

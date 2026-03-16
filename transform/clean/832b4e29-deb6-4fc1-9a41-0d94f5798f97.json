@@ -1,0 +1,11 @@
+{
+  "title": "Companies House purchase ledger spend 2025",
+  "body": "\"Details of purchase ledgers over the value of £500 raised by our employees in 2025. \"",
+  "base_path": "/government/publications/companies-house-purchase-ledger-spend-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

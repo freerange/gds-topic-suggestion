@@ -1,0 +1,11 @@
+{
+  "title": "Measures installed under SHDF Wave 2 and HUG 2: Statistical audit results",
+  "body": "\"This report summarises the results of a randomised sample of audits, commissioned by DESNZ, to understand the extent of non-compliance in all measures installed through the following government schemes:   Social Housing Decarbonisation Fund (SHDF) Wave 2 Home Upgrade Grant Phase 2 (HUG 2)   \"",
+  "base_path": "/government/publications/measures-installed-under-shdf-wave-2-and-hug-2-statistical-audit-results",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "General licence to move animals from a bluetongue restricted zone to Scotland (EXD662(EW))",
+  "body": "\"  References to ‘animals’ means ruminants (for example, cattle, sheep, goats and deer) and camelids (for example, llamas and alpacas).   If you are planning to move animals from a restricted zone to Scotland, you must follow the guidance on movement licences and pre-movement tests in Scotland.  For any movement out of a bluetongue restricted zone make sure that you:    only use a licence if you meet all the conditions use the latest version of the licence as they are occasionally updated  keep a copy with you when you move animals under the licence check your stock for signs of disease before loading  \"",
+  "base_path": "/government/publications/general-licence-to-move-animals-from-a-bluetongue-restricted-zone-to-scotland-exd662ew",
+  "taxons": [
+    {
+      "title": "Cattle identification, registration and movements",
+      "base_path": "/environment/cattle-identification-registration-movements"
+    },
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Shows, fairs and markets",
+      "base_path": "/environment/keeping-farmed-animals-shows-fairs-markets"
+    },
+    {
+      "title": "Veterinary medicines",
+      "base_path": "/environment/keeping-farmed-animals-veterinary-medicines"
+    }
+  ]
+}

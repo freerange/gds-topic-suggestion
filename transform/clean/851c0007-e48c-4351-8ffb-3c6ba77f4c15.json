@@ -1,0 +1,11 @@
+{
+  "title": "IPO payments: 2025",
+  "body": "\"The information is based on payment date and published in monthly comma delimited files. Each record is made up of standard fields which are used across all departments.  These are:   department family - The Department for Business, Energy & Industrial Strategy entity - The Intellectual Property Office date - payment date expense type - type of expenditure from our the accounting system expense area - the area of the Office paying for the expense supplier - the supplier of the goods or services transaction number - a reference to identify the transaction amount - the amount in pounds VAT registration number - supplier number not published   IPO payments: 2020 IPO payments: 2021 IPO payments: 2022 IPO payments: 2023 IPO payments: 2024  Pre-2014 payment datasets are available from The National Archives. \"",
+  "base_path": "/government/publications/ipo-payments-2025",
+  "taxons": [
+    {
+      "title": "Intellectual property",
+      "base_path": "/business/intellectual-property"
+    }
+  ]
+}

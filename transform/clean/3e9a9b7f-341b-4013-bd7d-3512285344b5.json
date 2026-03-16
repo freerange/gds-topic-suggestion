@@ -1,0 +1,15 @@
+{
+  "title": "Boiler Upgrade Scheme statistics: December 2024",
+  "body": "\"These figures are published as ‘official statistics in development’ because they are a new statistics series and are still in development. They are published to inform users about the uptake of the Boiler Upgrade Scheme and to enable user feedback, as well as further methodological development. The status of these statistics will be under regular review and may be subject to change in the future.   From the publication of Thursday 27 February onwards, the ‘in development’ label will be removed and the statistics published as ‘official statistics’. This is because:   There is a better understanding of the underlying data that is an input into these statistics and it is considered to be of good quality. Historical revisions to the statistics are infrequent and at a scale that is immaterial to the overall narrative. The methodological processes used to produce these statistics have gone through substantial improvement and development, including thorough quality assurance and testing. The content of the statistics has evolved based on user feedback, including the introduction of new breakdowns. The statistics have undergone an internal review and are considered to comply with the Code of Practice for Official Statistics.   Feedback or any objections to this proposal is welcomed by Friday 14 February.   Enquiries about these statistics should be directed to: amelia.ash@energysecurity.gov.uk. \"",
+  "base_path": "/government/statistics/boiler-upgrade-scheme-statistics-december-2024",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    },
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

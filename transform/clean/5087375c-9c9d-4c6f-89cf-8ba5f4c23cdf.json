@@ -1,0 +1,15 @@
+{
+  "title": "Help with imported hybrid mismatches — GfC16",
+  "body": "\" Why this matters to you    These guidelines affects you where  your UK business is both:     part of a multinational group and makes payments to overseas entities — especially if those payments are deductible for UK tax purposes    if those payments are linked to arrangements that create tax mismatches elsewhere in the group, you could be importing a hybrid mismatch into the UK    An example of an imported hybrid mismatch is where:   a UK company pays interest to a group finance company outside the UK that company treats the interest as a taxable receipt but also pays interest to a group company in a third country the interest income is not taxable because the group company is treated as transparent for tax purposes in the third country jurisdiction   The result:   the interest might be deductible in the UK but another interest payment is not taxed elsewhere in the group — creating a mismatch if the UK interest payment is part of a wider series of arrangements that includes that other interest payment, it could trigger the UK’s imported hybrid mismatch rules   These guidelines are here to help you identify situations like this early, understand HMRC expectation, and reduce your compliance risk. They guide you through:     what imported hybrid mismatches are and how they arise   how to analyse your group’s arrangements and identify risk   what evidence HMRC expects you to retain   how to disclose counteractions correctly in your tax return   what to do if you discover an error     These guidelines are designed to support you in making informed, low-risk decisions, whether you’re either:      a tax specialist preparing the analysis      a UK risk lead reviewing the return      They reflect HMRC experience from real-world enquiries and disclosures and include best practice recommendations to help you stay ahead of potential issues. \"",
+  "base_path": "/government/publications/help-with-imported-hybrid-mismatches-gfc16",
+  "taxons": [
+    {
+      "title": "Filing your return",
+      "base_path": "/money/business-tax-corporation-tax-filing-your-return"
+    },
+    {
+      "title": "Working out your Corporation Tax",
+      "base_path": "/money/business-tax-corporation-tax-working-out-your-corporation-tax"
+    }
+  ]
+}

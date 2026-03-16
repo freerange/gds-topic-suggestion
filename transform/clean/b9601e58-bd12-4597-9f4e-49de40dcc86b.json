@@ -1,0 +1,11 @@
+{
+  "title": "Planning applications in England: January to March 2025",
+  "body": "\"This release presents Accredited Official Statistics on authorities that undertake district and county level planning activities in England.  It covers information on planning applications received and decided, including decisions on applications for residential developments (dwellings) and enforcement activities.  Use our interactive dashboard to explore the data.  See the live tables for statistics on planning applications at national and local planning authority level. \"",
+  "base_path": "/government/statistics/planning-applications-in-england-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    }
+  ]
+}

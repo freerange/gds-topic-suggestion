@@ -1,0 +1,11 @@
+{
+  "title": "Energy Company Obligation (ECO) installations and ethnicity in England: report",
+  "body": "\"In their 2024 annual report “the Committee notes the concentration of residents from ethnic minority communities in lower income neighbourhoods comprising housing that is around 100 years old in those local authority areas with higher rates of fuel poverty. It believes research is urgently required to determine whether there is a hidden inequality that needs to be understood and addressed.”   The CFP recommended the department investigate levels of household energy efficiency installations in areas of high populations of ethnic minorities to explore if there was equity across neighbourhoods of high fuel poverty, and that government policy and delivery was not contributing to inequality of access to energy efficiency schemes.  To understand this further, this report, and accompanying Excel spreadsheet file, uses published data to examine the delivery of the Energy Company Obligation (ECO) scheme and Census ethnicity of populations at the Lower Tier Local Authority (LTLA) and Lower layer Super Output Area (LSOA) level in areas identified as having high levels of fuel poverty.  \"",
+  "base_path": "/government/publications/energy-company-obligation-eco-installations-and-ethnicity-in-england-report",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    }
+  ]
+}

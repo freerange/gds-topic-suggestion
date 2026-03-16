@@ -1,0 +1,11 @@
+{
+  "title": "Asset recovery statistics: financial years ending 2020 to 2025",
+  "body": "\"This bulletin presents a 6 year data snapshot on asset recovery, using Proceeds of Crime Act Powers (POCA), from the Joint Asset Recovery Database (JARD), as well as data collected by the Home Office on the use of Asset Recovery Incentivisation Scheme (ARIS). It also contains recent data provided by the National Crime Agency (NCA), relating to progress against priority orders. \"",
+  "base_path": "/government/statistics/asset-recovery-statistics-financial-years-ending-2020-to-2025",
+  "taxons": [
+    {
+      "title": "Justice system transparency",
+      "base_path": "/crime-justice-and-law/justice-system-transparency"
+    }
+  ]
+}

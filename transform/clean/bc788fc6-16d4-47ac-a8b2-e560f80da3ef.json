@@ -1,0 +1,11 @@
+{
+  "title": "Number of exporting registered businesses in the UK, 2016 to 2023",
+  "body": "\"This release provides an estimate of the number and proportion of exporting registered businesses and the number and proportion of exporting registered small and medium enterprises (SMEs) in the UK between 2016 and 2023.  The estimates have been produced using data from the Office for National Statistics (ONS) and the Northern Ireland Statistics and Research Agency (NISRA).  This is the third edition of this publication, all of which can be found in the Number of exporting registered businesses in the UK document collection. Users should always download the latest edition of the publication to ensure they have the most up-to-date tables.  Estimates in this release are considered official statistics in development.  These estimates are based on survey data sources developed to provide the best estimates at a point in time. Changes over time therefore have an additional degree of uncertainty.  Care should be taken when comparing movements over time as small increases and decreases could be due to the volatility of the figures caused by underlying changes to the business population. There is also increased uncertainty in estimates below the total UK level due to smaller sample sizes.  \"",
+  "base_path": "/government/statistics/number-of-exporting-registered-businesses-in-the-uk-2016-to-2023",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    }
+  ]
+}

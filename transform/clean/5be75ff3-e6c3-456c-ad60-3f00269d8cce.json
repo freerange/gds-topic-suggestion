@@ -1,0 +1,11 @@
+{
+  "title": "Covid 19 Inquiry recommendations",
+  "body": "\"Recommendations made by the Covid Inquiry \"",
+  "base_path": "/government/publications/covid-19-inquiry-recommendations",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK international sea passengers: March 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/uk-international-sea-passengers-march-2026",
+  "taxons": [
+    {
+      "title": "UK sea passengers",
+      "base_path": "/transport/uk-sea-passengers"
+    }
+  ]
+}

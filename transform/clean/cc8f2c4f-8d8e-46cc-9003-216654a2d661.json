@@ -1,0 +1,11 @@
+{
+  "title": "Pollen forecast",
+  "body": "\"  CCHS navigation menu:  CCHS homepageTopic: environmental exposures Air-related exposure: airborne allergensPart of: Monitoring and Modelling of Airborne Allergens    Important resources for pollen forecasts:    About  pollen forecasts    Met Office Pollen forecast   Pollen Calendars by Area: University of Worcester   DEFRA Air Pollution Forecast   Pollen forecast and fungal spore forecast: University of Worcester   Pollen forecast and spore forecast: University of Leicester     About pollen forecasts  The resources which are linked to on this page include pollen calendars and forecasts, as well as air quality monitors and forecasts, to allow people who are sensitised to airborne allergens to prepare for seasons during which their allergies are particularly bad.  The above resources are all publicly accessible. The pollen and spore forecasts from the Met Office, University of Worcester and University of Leicester can all be used to determine when pollen and spore counts are high and therefore when caution should be taken by allergy sufferers.  Similarly, the University of Worcester’s pollen calendar can be used to determine when these forecasts are expected to be high.  These pollen and fungal spore calendars and forecasts can be used together with the Met Office’s pollen forecast and Defra’s air pollution forecast to determine when air pollution might make allergies worse. See our air pollution and airborne allergens page for more information about how these interact.  Figure 1. Pollen calendar for the UK  Source: Met Office (1)  This pollen calendar shows the typical UK pollen season for different plant types (trees, grasses and weeds) across the year from January to December.  References  (1) Met Office, ‘Met Office Pollen Forecast 2025: What You Need to Know’ (Viewed 8th May 2025)  \"",
+  "base_path": "/guidance/pollen-forecast",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    }
+  ]
+}

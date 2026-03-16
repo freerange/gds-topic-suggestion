@@ -1,0 +1,11 @@
+{
+  "title": "Animals in Science Committee published reports",
+  "body": "\"The Animals in Science Committee conducts research on all matters concerning the use of animals in scientific procedures. You will find a collection of its reports here. \"",
+  "base_path": "/government/collections/animals-in-science-committee-published-reports",
+  "taxons": [
+    {
+      "title": "Animal research and testing",
+      "base_path": "/business-and-industry/animal-research-and-testing"
+    }
+  ]
+}

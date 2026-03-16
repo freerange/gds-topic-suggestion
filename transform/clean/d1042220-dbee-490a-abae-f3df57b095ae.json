@@ -1,0 +1,15 @@
+{
+  "title": "Changes to charity compliance measures",
+  "body": "\"This measure makes changes to the charity tax rules for charities and community amateur sports clubs (CASCs) across the UK. The changes affect:   tainted donations — changing the rules on what is regarded as a tainted donation approved charitable investments — requiring all investments to be for the benefit of the charity and not for the avoidance of tax attributable income — bringing legacies into the attributable income definition   \"",
+  "base_path": "/government/publications/changes-to-charity-compliance-measures",
+  "taxons": [
+    {
+      "title": "Charity money, tax and accounts",
+      "base_path": "/business-and-industry/running-charity-money-accounts"
+    },
+    {
+      "title": "Tax compliance",
+      "base_path": "/money/tax-compliance"
+    }
+  ]
+}

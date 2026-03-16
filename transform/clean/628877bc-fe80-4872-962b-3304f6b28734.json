@@ -1,0 +1,15 @@
+{
+  "title": "Labour Force Survey annual tables 2024",
+  "body": "\"Following the release of the LFS Annual Summary Report, these tables contain additional breakdowns for January to December 2024, including labour market structure, industry, and occupation. Section 75 breakdowns have also be provided for employment, economic inactivity and unemployment (where available). \"",
+  "base_path": "/government/statistics/labour-force-survey-annual-tables-2024",
+  "taxons": [
+    {
+      "title": "Local government",
+      "base_path": "/regional-and-local-government/local-government"
+    },
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    }
+  ]
+}

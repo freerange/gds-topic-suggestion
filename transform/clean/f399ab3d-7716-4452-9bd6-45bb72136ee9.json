@@ -1,0 +1,19 @@
+{
+  "title": "On-screen assessment: the evidence base for Ofqual’s consultation",
+  "body": "\"This short report summarises 4 research studies published alongside Ofqual’s consultation on regulating on-screen assessment in GCSEs, AS and A levels. Together, these studies explore the opportunities, benefits, risks, and challenges of on-screen assessment. The findings provide a comprehensive evidence base and have directly informed Ofqual’s proposed regulatory approach. \"",
+  "base_path": "/government/publications/on-screen-assessment-the-evidence-base-for-ofquals-consultation",
+  "taxons": [
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    },
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

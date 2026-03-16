@@ -1,0 +1,11 @@
+{
+  "title": "MRSA, MSSA, Gram-negative bacteraemia and CDI: independent sector (annual)",
+  "body": "\"Healthcare-associated infection (HCAI) surveillance data on meticillin-resistant Staphylococcus aureus (MRSA), meticillin-susceptible Staphylococcus aureus (MSSA), Escherichia coli (E. coli), Klebsiella species (Klebsiella spp.), Pseudomonas aeruginosa (P. aeruginosa) bacteraemia and Clostridioides difficile (C. difficile) infection from independent sector (IS) organisations. This report is produced annually.  The spreadsheet includes:   counts and rates of MRSA bacteraemia (table 1) counts and rates of C. difficile infection (table 2) counts and rates of MSSA bacteraemia (table 3) counts and rates of E. coli bacteraemia (table 4) counts and rates of Klebsiella spp. bacteraemia (table 5) counts and rates of P. aeruginosa bacteraemia (table 6)   Prior to October 2025 this annual surveillance data from independent sector organisations was published as Official Statistics in Development. Due to low user interaction with the past reports and user surveys, the statistics have been scaled back to a spreadsheet-only report and recategorised as Management Information.  The UK Health Security Agency (UKHSA) invites feedback via this survey to understand any unintended impacts on users resulting from the re-categorisation and format of the report.  \"",
+  "base_path": "/government/publications/mrsa-mssa-gram-negative-bacteraemia-and-cdi-independent-sector-annual--2",
+  "taxons": [
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    }
+  ]
+}

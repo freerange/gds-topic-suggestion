@@ -1,0 +1,11 @@
+{
+  "title": "Statutory homelessness ad hoc analyses",
+  "body": "\"This page presents a number of requests from statutory homelessness data that have not been previously included in any of our standard statistical releases. These include data that have been provided as part of freedom of information requests or additional data requests from stakeholders. These are being released to improve transparency and accessibility, as required by Official accredited statistics guidance.  Each analysis may cover a different time period. Please see each data file for more information.  Further additional analyses may also be found on MHCLG (2024): ad hoc analyses and statistics. \"",
+  "base_path": "/government/publications/statutory-homelessness-ad-hoc-analyses",
+  "taxons": [
+    {
+      "title": "Homelessness and rough sleeping",
+      "base_path": "/housing-local-and-community/homelessness-rough-sleeping"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "DR Congo: information for victims of rape and sexual assault",
+  "body": "\"This information is provided to help British nationals overseas make informed decisions about whether and how to:   seek medical advice and attention report to local police engage with foreign legal authorities following a rape or other form of sexual assault overseas  \"",
+  "base_path": "/government/publications/democratic-republic-of-congo-information-for-victims-of-rape-and-sexual-assault",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Victims of crime",
+      "base_path": "/crime-justice-and-law/victims-of-crime"
+    },
+    {
+      "title": "Violence against women and girls",
+      "base_path": "/crime-justice-and-law/violence-against-women-and-girls"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

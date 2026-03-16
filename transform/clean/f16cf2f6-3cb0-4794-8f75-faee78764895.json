@@ -1,0 +1,19 @@
+{
+  "title": "UK Antarctic Strategy to 2035",
+  "body": "\"This documents sets out for the first time the UK’s aims and ambitions for Antarctica. It outlines the full range of UK interests in the region and sets out the long-term priorities over the next decade.  At a time of growing global interest in Antarctica, the UK’s approach will see the UK continuing to play an active and leading role in the Antarctic Treaty system, and ensuring the effective administration of the British Antarctic Territory.   Our long-term strategic objective remains for the Antarctic to be a place dedicated to peace and science, characterised by cooperation.   The UK will focus activity across 4 areas:    governance and UK sovereign interests science environmental protection ensuring peaceful and lawful use  \"",
+  "base_path": "/government/publications/uk-antarctic-strategy-to-2035",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Marine",
+      "base_path": "/environment/marine"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

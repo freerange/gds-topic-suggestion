@@ -1,0 +1,15 @@
+{
+  "title": "Working and workless households in the UK: January to March 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/working-and-workless-households-in-the-uk-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

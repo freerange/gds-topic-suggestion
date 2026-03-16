@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: groundwater flooding",
+  "body": "\"This summary explains how groundwater flooding is different to other types of flooding. It identifies some of the main risks and their impact on transport, such as flooding of underground infrastructure. It also provides advice to help mitigate and plan for these risks.  Direct impacts from groundwater flooding include:   damage to transport infrastructure from prolonged periods of flooding disruption to transport services due to flooded roads and railways   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-groundwater-flooding",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

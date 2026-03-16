@@ -1,0 +1,11 @@
+{
+  "title": "Travel trends: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/travel-trends-2024",
+  "taxons": [
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    }
+  ]
+}

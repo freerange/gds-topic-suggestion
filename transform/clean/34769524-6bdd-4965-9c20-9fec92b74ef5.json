@@ -1,0 +1,11 @@
+{
+  "title": "Turkey: Knowledge Base profile",
+  "body": "\"Knowledge Base is an information resource for HM Passport Office staff.  This document includes information about:   names nationality legitimacy adoption surrogacy gender recognition civil partnerships and marriage documents from Turkey  \"",
+  "base_path": "/government/publications/turkey-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Co-ordinated admissions 2026: series 22 files",
+  "body": "\"You can use these files to transfer data related to:   admissions to schools from September 2026 in-year admissions during the academic year 2025 to 2026   In-year co-ordination is not statutory but own admission authority schools (for example academy schools) must notify the local authority of the application for admission and its outcome.  Note: XSD files must be stored in a separate folder from those used in earlier years as some of the files have identical names and may be overwritten in error. \"",
+  "base_path": "/government/publications/co-ordinated-admissions-2026-series-22-files",
+  "taxons": [
+    {
+      "title": "Data collection and censuses for schools",
+      "base_path": "/education/data-collection-and-censuses-for-schools"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Tax-free savings newsletter 16",
+  "body": "\"This newsletter is published by HMRC to update stakeholders on the latest news for Individual Savings Account (ISA) managers and Child Trust Fund (CTF) providers.  Tax-free savings newsletter 16 has articles on:    ISA stocks and shares investments Lifetime ISA (LISA) subscriptions  ISA manager guidance technical consultation on draft changes to ISA regulations   \"",
+  "base_path": "/government/publications/tax-free-savings-newsletter-16",
+  "taxons": [
+    {
+      "title": "Tax on savings and investments",
+      "base_path": "/money/savings-investment-tax"
+    }
+  ]
+}

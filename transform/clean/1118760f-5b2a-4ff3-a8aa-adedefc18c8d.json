@@ -1,0 +1,19 @@
+{
+  "title": "Prison Education and Accredited Programme Statistics 2024 to 2025",
+  "body": "\"Prison Education and Accredited Programme Statistics 2024 - 2025 is based on education data collected through the CURIOUS database, which covers prisoner initial assessments, participation and achievement in courses in public prisons in England. These are analysed by course level and prisoner characteristics, including learning difficulty / disability. It also covers Accredited Programmes starts and completions for prisoners in custody in England and Wales.  TO NOTE: The methodology used to produce the education statistics was updated in the 2023-24 edition to improve data quality and consistency. Historical tables for public prison education have been revised using the updated methodology and included as supplementary tables within the 2024-25 edition. Supplementary tables for private prison education have also been included in the 2024-25 edition.  Pre-release list  The Prison Education Statistics report is produced and handled by the Ministry of Justice’s (MOJ) analytical professionals and production staff.  Pre-release access of up to 24 hours is granted to the following persons at Ministry of Justice and His Majesty’s Prison and Probation Service (HMPPS):  Deputy Prime Minister and Lord Chancellor, Minister of State, Permanent Secretary, Director General Policy, Chief Statistician, Deputy Director (Courts and People), Head of Prison Education Contract Management, Deputy Head (Prisoner Outcomes), Reducing Reoffending Lead (OBPs), Interventions Specialist and Engagement Manager, Analysts x 5, Press Officers x 5. \"",
+  "base_path": "/government/statistics/prison-education-and-accredited-programme-statistics-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Justice system transparency",
+      "base_path": "/crime-justice-and-law/justice-system-transparency"
+    },
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    }
+  ]
+}

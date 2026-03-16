@@ -1,0 +1,31 @@
+{
+  "title": "East Midlands Airport fined £892,500 for environmental pollution",
+  "body": "\"The Environment Agency has successfully prosecuted East Midlands Airport Ltd for allowing discharges of drainage water containing aircraft and runway de-icing fluid.  At Derby Crown Court on Monday 28 July 2025, the company was fined £892,500 for 3 offences of breaching environmental permits for the airport site near Nottingham. They were also ordered to pay costs of £65,687.54.  The court was told that the offences had occurred between 14 January 2022 and 4 February 2022.  The airport’s operation potentially causes water pollution through the discharge of surface water drainage containing residues of de-icing fluid from aircraft and runways.  The discharge must therefore meet quality limits as set out in the airport’s environment permit. These limits are calculated to protect the environment.  Any failure to meet these limits is therefore likely to have a chronic impact on the watercourse and result in a deterioration in water quality.  The airport’s environmental permit allows a discharge of site drainage containing a maximum level of Biochemical Oxygen Demand (BOD) of 15 mg/l.  BOD is a measure of the amount of oxygen consumed by aerobic microorganisms to decompose organic matter in a water sample and is indicative of the level of organic pollution.  However, an investigation by Environment Agency officers found that the company had significantly breached this limit on 3 separate occasions.  In mitigation, the company, which changed management in 2022, said it had actively engaged with the Environment Agency to improve the situation.  The court was told that the company has a poor history of permit compliance.  Prior to this case there have been 13 separate permit breaches at East Midlands Airport since 2006, resulting in 10 written warnings.  Ian Firkins, senior environment officer for the Environment Agency’s East Midlands Area, said:    We welcome this sentence which should act as a deterrent to other companies who flout environmental legislation.     As a regulator, the Environment Agency will not hesitate to pursue companies that fail to meet its obligations to the environment.    The conditions of an environmental permit are designed to protect people and the environment.      Failure to comply with these legal requirements is a serious offence that can damage the environment.   If anyone has environmental concerns they should call our 24/7 hotline on 0800 80 70 60 or Crimestoppers anonymously and in confidence on 0800 555 111.    The Charges    On 14 January 2022 failed to comply with or contravened an environmental permit condition T/57/45295/T in that the level of Biochemical Oxygen Demand (BOD) in the permitted discharge from Outlet 3, Site C of the Western Summer Pond on 14th January 2022 exceeded the limit given in Schedule 3, table S3.1 of the said permit. Contrary to Regulation 38(2) of the Environmental Permitting (England & Wales) Regulations 2016.    On 1 February 2022 failed to comply with an environmental permit T/57/45295/T in that the level of Biochemical Oxygen Demand (BOD) in the permitted discharge from outlet 1 site A of the Eastern Summer Pond exceeded the limit given in Schedule 3, table S3.1 of the said...",
+  "base_path": "/government/news/east-midlands-airport-fined-892500-for-environmental-pollution",
+  "taxons": [
+    {
+      "title": "Contaminated land",
+      "base_path": "/environment/environmental-management-chemicals-contaminated-land"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Discharge water",
+      "base_path": "/business/environmental-management-water-discharge-water"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

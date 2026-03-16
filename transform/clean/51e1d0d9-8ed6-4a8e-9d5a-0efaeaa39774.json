@@ -1,0 +1,35 @@
+{
+  "title": "Find a telecare provider",
+  "body": "\"Telecare, also called a community alarm service or a personal alarm, is a support system designed to help people live independently and safely in their own homes where they otherwise might not be able to do so. Telecare alarm systems can alert call centres or carers if individuals experience a problem, such as a fall at home or outside, depending on the device and its connectivity.  The NHS has further information on personal alarms, monitoring systems (telecare) and key safes.  Get help with costs  Some local authorities provide telecare services. Contact adult social care services at your local authority and ask if they provide telecare services. If they do, they’ll arrange a home assessment.  Find local authority adult social care services  Digital phone switchover  All households in the UK are being moved from the old analogue landline service to a new digital, internet-based voice service, known as Digital Voice, by January 2027.   This is called the digital phone switchover and it may affect telecare devices and personal alarms. Some analogue telecare devices are not digitally compatible or do not perform as reliably on digital networks and may need to be upgraded.   If you or someone you know uses telecare, you should contact your landline provider in the first instance. They can help to make sure your alarm keeps working through the switchover.   \"",
+  "base_path": "/guidance/find-a-telecare-provider",
+  "taxons": [
+    {
+      "title": "Carers and disability benefits",
+      "base_path": "/welfare/disability"
+    },
+    {
+      "title": "Local councils and services",
+      "base_path": "/regional-and-local-government/local-councils"
+    },
+    {
+      "title": "Benefits and financial help",
+      "base_path": "/health-and-social-care/disabilities-benefits"
+    },
+    {
+      "title": "Disability equipment and transport",
+      "base_path": "/health-and-social-care/disabilities-equipment"
+    },
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

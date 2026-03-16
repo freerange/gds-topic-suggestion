@@ -1,0 +1,11 @@
+{
+  "title": "Post-implementation reviews outstanding across government 2015 to 2025",
+  "body": "\"This data reflects which post-implementation reviews are outstanding as at 7 November 2025 for secondary legislation containing a regulatory provision for the following government departments:   Cabinet Office Department for Business and Trade Department for Culture, Media and Sport Department for Environment Food and Rural Affairs Department for Energy Security and Net Zero Department for Education Department for Transport Department of Health and Social Care Ministry of Housing, Communities and Local Government Department for Science, Innovation and Technology Department for Work and Pensions Foreign, Commonwealth and Development Office HM Treasury Home Office Ministry of Justice Health and Safety Executive Food Standards Agency  \"",
+  "base_path": "/government/publications/status-of-post-implementation-reviews",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Load factors for renewable wind technologies",
+  "body": "\"This research covers onshore wind and offshore wind technologies and represents an updated methodology that can be used to estimate net load factors for renewable wind technologies. This research is currently undergoing external peer review.  As per other research reviews in the Generation Costs series, the evidence presented here may inform:   cost estimates and technical assumptions within the Generation Costs Reports administrative strike prices (ASP) analysis for the Contracts for Difference (CfD) renewables deployment scheme power sector modelling   \"",
+  "base_path": "/government/publications/load-factors-for-renewable-wind-technologies",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

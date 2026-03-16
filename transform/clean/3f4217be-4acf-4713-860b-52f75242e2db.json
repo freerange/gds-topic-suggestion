@@ -1,0 +1,11 @@
+{
+  "title": "Customs Technical Handbooks",
+  "body": "\"If you are new to Customs, you may wish to start by reading import, export and customs for businesses: detailed information. \"",
+  "base_path": "/government/collections/customs-technical-handbooks",
+  "taxons": [
+    {
+      "title": "Customs declarations, duties and tariffs (import and export)",
+      "base_path": "/business-and-industry/customs-declarations-duties-tariffs"
+    }
+  ]
+}

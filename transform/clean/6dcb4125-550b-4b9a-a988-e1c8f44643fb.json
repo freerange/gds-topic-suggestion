@@ -1,0 +1,15 @@
+{
+  "title": "Security Situation Statistics for Northern Ireland, period ending 31 August 2025",
+  "body": "\"This publication can be accessed here \"",
+  "base_path": "/government/statistics/security-situation-statistics-for-northern-ireland-period-ending-31-august-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland security",
+      "base_path": "/regional-and-local-government/northern-ireland-security"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

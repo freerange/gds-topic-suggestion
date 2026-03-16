@@ -1,0 +1,11 @@
+{
+  "title": "Severe mental illness (SMI) profile: January 2025 update",
+  "body": "\"January 2025 update  This update includes premature mortality and excess premature mortality for people with SMI indicators (including condition-specific indicators) for the periods 2021 to 2023 for England, regions and upper tier local authorities.  Excess premature mortality for people with SMI indicators by gender have been suppressed where gender is over 5% missing in the data used to calculate the denominator populations, and a data quality note has been applied where gender is 2.5% up to 5% missing in the data used to calculate the denominator populations.  About the severe mental illness profile  The severe mental illness profile has been produced to support an intelligence-driven approach to understanding and meeting need. It provides data to help improve support, services and outcomes for people living with and recovering from severe mental illness. The profile also provides planners, providers and stakeholders with the means to profile their area and benchmark against similar populations.  \"",
+  "base_path": "/government/statistics/severe-mental-illness-smi-profile-january-2025-update",
+  "taxons": [
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    }
+  ]
+}

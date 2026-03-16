@@ -1,0 +1,23 @@
+{
+  "title": "DATRIG housing support and rough sleeping services: privacy notice",
+  "body": "\"The Department of Health and Social Care collects information about people using the housing support and rough sleeping services funded by the drug and alcohol treatment and recovery improvement grant (DATRIG).  These services provide extra support for people currently experiencing or at-risk of sleeping rough, as well as those in need of housing support while in drug and alcohol treatment. This privacy notice is for people using these services. It explains:   what we do with your information how we protect your information and keep it secure how to contact us or make a complaint   The privacy notice can also help service providers address service users’ concerns about confidentiality and data sharing.  This privacy notice combines and replaces 2 previous privacy notices:   ‘Rough sleeping drug and alcohol treatment grant: privacy notice’ ‘Housing support grant-funded services: privacy notice’   \"",
+  "base_path": "/government/publications/datrig-housing-support-and-rough-sleeping-services-privacy-notice",
+  "taxons": [
+    {
+      "title": "Drug misuse and dependency",
+      "base_path": "/health-and-social-care/drug-misuse-and-dependency"
+    },
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    },
+    {
+      "title": "Homelessness and rough sleeping",
+      "base_path": "/housing-local-and-community/homelessness-rough-sleeping"
+    },
+    {
+      "title": "Housing funding programmes",
+      "base_path": "/housing-local-and-community/funding-programmes"
+    }
+  ]
+}

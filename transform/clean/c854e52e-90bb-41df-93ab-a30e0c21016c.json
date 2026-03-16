@@ -1,0 +1,15 @@
+{
+  "title": "NHS Bursary Scheme rules",
+  "body": "\"The NHS Bursary Scheme rules apply to medical and dental students (bursary-eligible study years). \"",
+  "base_path": "/government/collections/nhs-bursary-scheme-rules",
+  "taxons": [
+    {
+      "title": "Student grants, bursaries and scholarships",
+      "base_path": "/education/student-grants-bursaries-scholarships"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

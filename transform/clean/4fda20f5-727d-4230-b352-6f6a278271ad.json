@@ -1,0 +1,15 @@
+{
+  "title": "Sexual orientation, UK: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/sexual-orientation-uk-2024",
+  "taxons": [
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    },
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    }
+  ]
+}

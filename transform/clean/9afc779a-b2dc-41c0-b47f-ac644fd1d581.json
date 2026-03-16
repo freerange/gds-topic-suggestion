@@ -1,0 +1,11 @@
+{
+  "title": "Cereal stocks held on farms in England and Wales to February 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/cereal-stocks-held-on-farms-in-england-and-wales-to-february-2026",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

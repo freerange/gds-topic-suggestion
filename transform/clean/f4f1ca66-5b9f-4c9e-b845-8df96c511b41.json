@@ -1,0 +1,11 @@
+{
+  "title": "Vehicle parts statement (V627/1)",
+  "body": "\"This form must be used when notifying DVLA of a reconstructed classic, kit conversion, kit-built vehicle, like-for-like replacement chassis, monocoque bodyshell or frame (for motorcycles). \"",
+  "base_path": "/government/publications/vehicle-parts-statement-v6271",
+  "taxons": [
+    {
+      "title": "Vehicle manufacturing and modification",
+      "base_path": "/transport/vehicle-manufacturing-and-modification"
+    }
+  ]
+}

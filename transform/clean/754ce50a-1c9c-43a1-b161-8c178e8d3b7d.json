@@ -1,0 +1,11 @@
+{
+  "title": "Hospital tooth extractions in 0 to 19 year olds 2024",
+  "body": "\"This analysis from the Hospital Episode Statistics (HES) data set applies to the financial year ending 2024 and includes inpatient care figures from NHS hospitals across England.  A description of methods, calculations, data quality, data sources and quality assurance procedures used to generate this analysis can be found on the tooth extractions collection page, along with previous years’ reports.   Share your views on the ‘Hospital tooth extractions in 0 to 19 year olds’ report - take part in our survey.  \"",
+  "base_path": "/government/statistics/hospital-tooth-extractions-in-0-to-19-year-olds-2024",
+  "taxons": [
+    {
+      "title": "Oral health",
+      "base_path": "/health-and-social-care/oral-health"
+    }
+  ]
+}

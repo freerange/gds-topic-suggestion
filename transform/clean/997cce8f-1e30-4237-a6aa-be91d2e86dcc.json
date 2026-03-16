@@ -1,0 +1,15 @@
+{
+  "title": "Index of Services, UK: June 2025 time series",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/index-of-services-uk-june-2025-time-series",
+  "taxons": [
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

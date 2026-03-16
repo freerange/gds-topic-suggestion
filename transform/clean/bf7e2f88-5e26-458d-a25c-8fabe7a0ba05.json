@@ -1,0 +1,11 @@
+{
+  "title": "DfE spend control data: January to March 2025",
+  "body": "\"Details of approved expenditure in areas limited by spending controls on a quarterly basis for 2025 to 2026.  This data is also available on data.gov.uk:   DfE Spend Control Data   \"",
+  "base_path": "/government/publications/dfe-spend-control-data-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

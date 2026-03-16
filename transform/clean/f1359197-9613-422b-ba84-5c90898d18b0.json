@@ -1,0 +1,11 @@
+{
+  "title": "Estranged students & care leavers by HEP: AYs 2017/18 - 2024/25",
+  "body": "\"The statistics include students ordinarily domiciled in England, Wales and Northern Ireland, who were approved for means-tested funding. \"",
+  "base_path": "/government/statistics/estranged-students-care-leavers-by-hep-ays-201718-202425",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

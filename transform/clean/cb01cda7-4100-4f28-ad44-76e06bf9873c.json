@@ -1,0 +1,11 @@
+{
+  "title": "UK service personnel medical discharges: financial year 2024/25",
+  "body": "\"This report provides statistical information on medical discharges among UK regular service personnel. Each of the 3 services are presented separately, Royal Navy/Royal Marines, British Army and RAF, and information has been provided on key socio-demographic factors, rank and training status and the principal medical cause leading to discharge. \"",
+  "base_path": "/government/statistics/uk-service-personnel-medical-discharges-financial-year-202425",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "General Dental Services Statistics for NI, Quarter 3 2024/25",
+  "body": "\"This report contains high level summary information on dental activity carried out by general dental practitioners in Northern Ireland for quarter 3 of 2024/25.  It details information on the number of general dental practitioners in Northern Ireland along with the number of registered patients and the treatments carried out and submitted to BSO for payment. \"",
+  "base_path": "/government/statistics/general-dental-services-statistics-for-ni-quarter-3-202425",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Dentistry ",
+      "base_path": "/health-and-social-care/dentistry"
+    }
+  ]
+}

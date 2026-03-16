@@ -1,0 +1,31 @@
+{
+  "title": "Market Exploration: Non-Compressible Haemorrhage – Novel Technologies",
+  "body": "\"Summary  On behalf of the Research and Clinical Innovation, Surgeon General’s Department, DASA is running a Market Exploration to identify existing technologies from Technology Readiness Level (TRL) 3 and above.  This will allow a better understanding of the current market capability to inform future medical research, treatment and development.  Whilst potentially successful technologies and concepts may be exploited, please note that this request for information is not a commitment to subsequently launch a formal DASA competition. \"",
+  "base_path": "/government/publications/market-exploration-non-compressible-haemorrhage-novel-technologies",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Blood regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-blood-regulation-safety"
+    },
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

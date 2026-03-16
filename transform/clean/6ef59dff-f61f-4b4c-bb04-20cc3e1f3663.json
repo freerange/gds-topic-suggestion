@@ -1,0 +1,11 @@
+{
+  "title": "Financial Inclusion Strategy",
+  "body": "\"Financial inclusion means everyone can access the financial products and services they need. This helps people participate in the economy, manage their money well, and plan for the future.  The Financial Inclusion Strategy sets out the government’s plan to improve the financial inclusion and wellbeing of households across the UK.  Developed with input from civil society, devolved governments, and industry, the strategy aims to remove barriers to financial participation and build financial resilience. It focuses on six main areas: digital inclusion and access to banking; savings; insurance; access to credit; tackling problem debt; and financial education. The three themes of mental health, accessibility, and economic abuse have also been considered throughout to ensure that the specific barriers faced by people affected by these issues are reflected. \"",
+  "base_path": "/government/publications/financial-inclusion-strategy",
+  "taxons": [
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    }
+  ]
+}

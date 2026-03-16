@@ -1,0 +1,15 @@
+{
+  "title": "Pension Credit Applications and Awards Statistics: February 2026 ",
+  "body": "",
+  "base_path": "/government/statistics/announcements/pension-credit-applications-and-awards-statistics-february-2026",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    },
+    {
+      "title": "Pensions and ageing society",
+      "base_path": "/work/pensions-and-ageing-society"
+    }
+  ]
+}

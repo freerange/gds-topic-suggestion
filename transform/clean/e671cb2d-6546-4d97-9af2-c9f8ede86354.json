@@ -1,0 +1,11 @@
+{
+  "title": "UK armed forces and UK civilian operational casualty and fatality statistics: data up to 30 September 2025",
+  "body": "\"This biannual report provides statistical information on the number of UK armed forces personnel and UK Civilians who died, were injured or became ill on Permanent Joint Headquarters (PJHQ) led operations. \"",
+  "base_path": "/government/statistics/uk-armed-forces-and-uk-civilian-operational-casualty-and-fatality-statistics-data-up-to-30-september-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

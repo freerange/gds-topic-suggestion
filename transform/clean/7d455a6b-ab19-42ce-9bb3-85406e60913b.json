@@ -1,0 +1,11 @@
+{
+  "title": "Spending Review 2025 document",
+  "body": "\"Spending Review 2025 document. \"",
+  "base_path": "/government/publications/spending-review-2025-document",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

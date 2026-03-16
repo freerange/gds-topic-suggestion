@@ -1,0 +1,11 @@
+{
+  "title": "Corporate Interest Restriction: reporting companies",
+  "body": "\"This measure makes changes to the Corporate Interest Restriction (CIR) regime to simplify administration in relation to reporting companies.  The main change is to remove the time limit to appoint a reporting company, and the requirement for the appointment to be made ‘by notice’ to HMRC. Instead, businesses will be responsible for making sure the reporting company has been appointed for a period, with details of the appointment disclosed in the interest restriction return. Other changes in respect of reporting companies are also being made.  Most of the changes take effect for periods of account ending on or after 31 March 2026.  \"",
+  "base_path": "/government/publications/corporate-interest-restriction-reporting-companies",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    }
+  ]
+}

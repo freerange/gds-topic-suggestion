@@ -1,0 +1,15 @@
+{
+  "title": "Airport capacity and expansion: a government update",
+  "body": "\"This update sets out the role of aviation in growth, provides an overview of the current airport sector and outlines how the government can unlock airport capacity to boost growth.  It invites proposals for a Heathrow third runway to be brought forward by the summer and outlines next steps for the government once these proposals are received.  The update also explains the action being taken to ensure that the economic benefits of airport expansion are delivered in line with climate and environmental obligations. \"",
+  "base_path": "/government/publications/airport-capacity-and-expansion-a-government-update",
+  "taxons": [
+    {
+      "title": "Airport capacity and expansion",
+      "base_path": "/transport/airport-capacity-and-expansion"
+    },
+    {
+      "title": "Aviation and the environment",
+      "base_path": "/transport/aviation-and-the-environment"
+    }
+  ]
+}

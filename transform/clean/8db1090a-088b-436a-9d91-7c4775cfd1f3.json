@@ -1,0 +1,11 @@
+{
+  "title": "Consultation on the Merchant Shipping (Polar Code)(Safety) Regulations",
+  "body": "\"Consultation on new safety regulations for fishing vessels of >24m, pleasure yachts >300GT not engaged in trade and cargo ships of >300GT but below <500GT, when operating in polar waters. \"",
+  "base_path": "/government/consultations/consultation-on-the-merchant-shipping-polar-codesafety-regulations",
+  "taxons": [
+    {
+      "title": "Maritime and shipping",
+      "base_path": "/transport/maritime-and-shipping"
+    }
+  ]
+}

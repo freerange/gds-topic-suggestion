@@ -1,0 +1,15 @@
+{
+  "title": "Crown Court Open Caseload Projections: 2025 to 2029",
+  "body": "\"‘Crown court open caseload projections: 2025 to 2029, England and Wales’ PDF ‘Crown court open caseload projections 2025 to 2029: statistical tables’ ODS \"",
+  "base_path": "/government/publications/crown-court-open-caseload-projections-2025-to-2029",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    },
+    {
+      "title": "Justice system transparency",
+      "base_path": "/crime-justice-and-law/justice-system-transparency"
+    }
+  ]
+}

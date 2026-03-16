@@ -1,0 +1,27 @@
+{
+  "title": "Qualitative research to evaluate the notification of uncertain tax treatment policy",
+  "body": "\"His Majesty’s Revenue and Customs commissioned the National Centre for Social Research to carry out qualitative research to evaluate the notification of uncertain tax treatment policy. The research helped assess whether the policy was meeting its stated aims and was proportionate.  The research was carried out between April and May 2024 with large businesses who were in scope for interaction with the policy. The research consisted of 18 45 minute depth interviews conducted by telephone or online. The findings from this research are illustrative and not representative of this population.  The views in this report are the author’s own and do not necessarily reflect those of HMRC. \"",
+  "base_path": "/government/publications/qualitative-research-to-evaluate-the-notification-of-uncertain-tax-treatment-policy",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    },
+    {
+      "title": "Tax compliance",
+      "base_path": "/money/tax-compliance"
+    }
+  ]
+}

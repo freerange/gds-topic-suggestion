@@ -1,0 +1,15 @@
+{
+  "title": "ESA: outcomes of Work Capability Assessments including mandatory reconsiderations and appeals: June 2025",
+  "body": "\"This is a summary of the latest Accredited Official Statistics on the outcomes of completed Employment and Support Allowance (ESA) Work Capability Assessments (WCA). The publication covers information on both initial and repeat ESA assessments in Great Britain.  This release includes:   Outcomes of initial and repeat WCAs to end of December 2024 Outcomes of completed Incapacity Benefit (IB) reassessments up to December 2024 Completed initial WCA appeal outcomes for ESA claims with a start date to March 2024 End to end initial ESA claim clearance times to end of December 2024 Mandatory Reconsideration (MR) information to end of April 2025:  number of MR registrations number of MR decisions  MR outcomes by type of decision Median MR clearance time     Universal Credit (UC) was rolled out to every jobcentre across Great Britain by December 2018 and has now replaced income-related ESA for most new claimants. This has greatly changed the volume and composition of new claims to ESA.  Note: Information based on Date of Decision is reported up to 6 months prior to the publication, or 9 months where it is based on the date of claim. This allows time for most customer journeys to be completed, and the information presented to accurately reflect this journey.  More information  Read background information on these statistics in ESA: outcomes of Work Capability Assessment policies and statements.  Find more about DWP statistics and contact details on the Statistics at DWP page.  Find details of future DWP statistics releases in the statistics release calendar.  \"",
+  "base_path": "/government/statistics/esa-outcomes-of-work-capability-assessments-including-mandatory-reconsiderations-and-appeals-june-2025",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    },
+    {
+      "title": "Carers and disability benefits",
+      "base_path": "/welfare/disability"
+    }
+  ]
+}

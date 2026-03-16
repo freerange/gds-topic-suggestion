@@ -1,0 +1,11 @@
+{
+  "title": "UK Emissions Trading Scheme (UK ETS): reports and scheme reviews",
+  "body": "\"This page contains scheme or compliance data and other reporting relating to the functioning of the UK ETS Authority.  See also:    Participating in the UK ETS for an overview of the scheme and first steps for new participants  Policy aims of the UK ETS for an overview of existing policy and next steps for developing the scheme  Technical guidance and other tools for current scheme participants  Operation of the UK ETS markets for how to take part in auctions and trade on the secondary market   \"",
+  "base_path": "/government/collections/uk-emissions-trading-scheme-uk-ets-reports-and-scheme-reviews",
+  "taxons": [
+    {
+      "title": "Emissions and emissions trading",
+      "base_path": "/environment/climate-change-energy-emissions"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Defence Safety Authority (DSA) Service Inquiries (SI)",
+  "body": "\" \"",
+  "base_path": "/government/collections/defence-safety-authority-dsa-service-inquiries-si",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Referral to treatment waiting times statistics for consultant-led elective care for December 2024",
+  "body": "\"Monthly RTT waiting times data has been published since March 2007. Initially data was only published for patients whose RTT pathways ended in admission for treatment (admitted pathways). Non-admitted pathway data (patients whose RTT pathways ended for reasons other than admission for treatment) has been published since August 2007. Incomplete RTT pathway data (waiting times for patients waiting to start treatment at the end of the reporting period) has also been published since August 2007. Adjusted admitted RTT pathway data was published from March 2008 to September 2015. Incomplete RTT pathway with a decision to admit for treatment data and New RTT period data has been published since October 2015.  Accredited official statistics are produced impartially and free from any political influence. \"",
+  "base_path": "/government/statistics/referral-to-treatment-waiting-times-statistics-for-consultant-led-elective-care-for-december-2024",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

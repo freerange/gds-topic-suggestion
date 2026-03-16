@@ -1,0 +1,11 @@
+{
+  "title": "Mpox incubation and infectious periods",
+  "body": "\"This rapid evidence summary identified and summarised evidence relating to the incubation and infectious periods of mpox infection.  The rapid evidence summary searched for research published up to 29 August 2024 and included 28 studies. One study reported on mpox clade I, 9 reported on mpox clade II, and 18 studies did not report clade. \"",
+  "base_path": "/government/publications/mpox-incubation-and-infectious-periods",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

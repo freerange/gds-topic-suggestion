@@ -1,0 +1,47 @@
+{
+  "title": "Competition: Defence and Security Accelerator (DASA) Open Call for Innovation - CY2025 - Cycle 4",
+  "body": "\"The Open Call for Innovation allows innovative ideas to be proposed to Defence and Security stakeholders, even where a specific requirement has not been stipulated. It is a broad mechanism to allow innovators to present disruptive ideas which may otherwise be overlooked.  The Defence and Security Accelerator (DASA) uses the Open Call for Innovation to find ideas that address challenges across both Defence and Security landscapes. The general requirements common to all Open Call competitions are contained within the ‘Overarching Competition Document’. The scope relating to specific competitions is contained with each respective competition document.  Please read the competition document in full for all details of the Open Call for Innovation competitions currently accepting proposals.  Submission deadline  12:00 Midday on 13 January 2026 (GMT)  Where do I submit my proposal?  Via the DASA Online Submission Service for which you will require an account. Only proposals submitted through the DASA Online Submission Service will be accepted.  \"",
+  "base_path": "/government/publications/competition-defence-and-security-accelerator-dasa-open-call-for-innovation-cy2025-cycle-4",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Transport security",
+      "base_path": "/transport/transport-security"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    },
+    {
+      "title": "Counter-extremism ",
+      "base_path": "/crime-justice-and-law/counter-extremism"
+    },
+    {
+      "title": "Counter-terrorism",
+      "base_path": "/crime-justice-and-law/counter-terrorism"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

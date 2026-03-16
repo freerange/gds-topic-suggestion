@@ -1,0 +1,11 @@
+{
+  "title": "3/2025: Confirmation of decapitalisation rates",
+  "body": "\"This letter confirms the decapitalisation rates for the 2026 revaluation. \"",
+  "base_path": "/government/publications/22025-confirmation-of-decapitalisation-rates",
+  "taxons": [
+    {
+      "title": "Business rates",
+      "base_path": "/regional-and-local-government/local-government-business-rates"
+    }
+  ]
+}

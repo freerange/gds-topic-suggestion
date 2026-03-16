@@ -1,0 +1,27 @@
+{
+  "title": "Principles for securing personal data in government services",
+  "body": "\"Who these principles are for  These principles are useful to anyone developing a system or service that processes or shares personal data.  They’re mainly for people who work in government organisations and arm’s length bodies. This includes:   chief digital and information officers (CDIOs) chief technology officers (CTOs) chief data officers (CDOs) senior responsible officers (SROs) chief information security officers (CISOs) and cyber security professionals who advise on cyber security risk management and implementation of security policies, standards and procedures data protection officers (DPOs) data owners data custodians data stewards Information Asset Owners (IAOs) data analysts and data scientists anyone whose role involves delivering digital services – for example, product owners, software developers, designers and project and programme managers IT operations roles (DevOps) technical, data and security architects commercial and legal teams responsible for ensuring the safe handling of personal data is included in relevant contracts   Some of these people will be responsible for ensuring the principles are followed, while others need to consider the principles when designing, building and operating digital services.  Government services operate in complex, cross-domain environments. This guidance sets out cross-functional responsibilities in one place, so you can use it to support effective cross-functional working.  The principles are not about day-to-day handling of individual items of personal data, or about risks to physical information.  Why these principles are important  If you work in government or the public sector, you have a duty to protect the personal data you hold about individuals.  You must comply with all UK data protection law. This requires organisations to handle personal data according to 7 data protection principles to protect against unlawful or unauthorised processing, access, loss, destruction or damage.   The government holds data for a subset of individuals who are at greater risk of harm if their data is breached. These risks may not be obvious to government practitioners.  The principles in this guidance will help you to identify these types of heightened risks in your service, and implement controls to mitigate them.   For example, a government service might process personal data about people in witness protection schemes, government staff in sensitive roles or a high profile public figure. The impact of a personal data security breach for these individuals could be catastrophic:   a victim of domestic abuse could be targeted if their new address is discovered by their former partner a serving judge could be in danger if their home address becomes known to a person they previously convicted   When personal data is shared outside an organisation, or when different sources of data are combined, the risk of accidental identification of vulnerable or at-risk individuals increases.  But this does not mean data should not be shared, as not sharing data can also have impacts. For example, an individual who presents a risk to public safety might not be identified if their data is not shared by the relevant agencies.  Following these principles will ensure your service handles personal data more securely, and that you share this data safely across different departments...",
+  "base_path": "/guidance/principles-for-securing-personal-data-in-government-services",
+  "taxons": [
+    {
+      "title": "Digital identity",
+      "base_path": "/government/digital-identity"
+    },
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Digital security",
+      "base_path": "/government/technology-guidance-digital-security"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Reported road casualties Great Britain: road user risk 2024",
+  "body": "\"This short report presents data on those killed in reported road collisions in Great Britain, both in terms of the number of fatalities and fatality rates, for different road user types. This includes the road users themselves, as well as other parties in collisions with them.  This updates equivalent analyses based on  2023 data, 2022 data, 2021 data and 2020 data.  Contact us  Road safety statistics     Email roadacc.stats@dft.gov.uk        \"",
+  "base_path": "/government/statistics/reported-road-casualties-great-britain-road-user-risk-2024",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

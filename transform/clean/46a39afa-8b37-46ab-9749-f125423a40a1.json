@@ -1,0 +1,15 @@
+{
+  "title": "Identifying tuberculosis in people seeking asylum",
+  "body": "\"This rapid systematic review identified and summarised evidence of the effectiveness active case finding for people infected with tuberculosis (TB) or people with active TB disease  in refugees or people seeking asylum, in countries with low incidence of TB (less than 40 cases per 100,000).  This rapid systematic review searched for research published up to 3 July 2024 and included 7 studies. The included studies were not directly comparable and did not conclusively determine which case finding method was most effective. However, the evidence offered some insights into the accuracy and cost-effectiveness of active case finding using chest X-rays, tuberculin skin tests, interferon gamma release assay or symptom-based case finding.  \"",
+  "base_path": "/government/publications/identifying-tuberculosis-in-people-seeking-asylum",
+  "taxons": [
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

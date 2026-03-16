@@ -1,0 +1,11 @@
+{
+  "title": "PCA 2025 Annual Tied Tenant Survey Data Tables",
+  "body": "\"These tables show data from the PCA’s Annual Tied Tenant Survey 2025. \"",
+  "base_path": "/government/publications/pca-2025-annual-tied-tenant-data-tables",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

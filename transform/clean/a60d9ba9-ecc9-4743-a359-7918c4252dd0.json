@@ -1,0 +1,11 @@
+{
+  "title": "UK’s Emergency Alert system",
+  "body": "\"The UK government is testing the Emergency Alerts system on Sunday 7 September 2025 at 3pm. Compatible mobile phones and tablets will receive an alert, make a loud siren-like sound and vibrate. You will not need to take any action.  The Emergency Alerts system is used to warn if there’s a danger to life nearby, including extreme weather. Regular testing ensures the system is functioning correctly, should it need to be used in a life-threatening emergency.  Find out more at gov.uk/alerts. \"",
+  "base_path": "/government/news/uks-emergency-alert-system",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

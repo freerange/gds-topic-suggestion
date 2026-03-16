@@ -1,0 +1,11 @@
+{
+  "title": "Population trend Alerts for non-breeding waterbirds on Special Protection Areas (SPAs) of international importance\r\n(2025 publication, includes data up to winter 2022/23)",
+  "body": "\"An important indicator of waterbird status on SPAs in the UK.  Wetland Bird Survey data were analysed for all UK SPAs that have non-breeding populations of one or more waterbird species as designating ‘features’. High Alerts are issued where declines in these species exceed 50%, and Medium Alerts are issued where declines are 25-50%.  WeBS Alerts are published every few years to aid monitoring and management of SPAs by Statutory Conservation Agencies.  WeBS is run by the British Trust for Ornithology, RSPB, and the Joint Nature Conservation Committee. The underlying data are collected by thousands of volunteer WeBS surveyors. \"",
+  "base_path": "/government/statistics/population-trend-alerts-for-non-breeding-waterbirds-on-special-protection-areas-spas-of-international-importance-2025-publication-includes-data-u",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

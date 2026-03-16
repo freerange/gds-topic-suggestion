@@ -1,0 +1,11 @@
+{
+  "title": "The impact of school absence on lifetime earnings",
+  "body": "\"The report investigates the link between school absence and earnings.  We find an additional day of absence for the typical student is associated with a decrease of £750 in future earnings.  We also find increased absence increases the odds, at age 28, of:   claiming benefits for a sustained period not being in stable employment   We also find a reduction in earnings at age 28 of 0.8% per day for the typical student. \"",
+  "base_path": "/government/publications/the-impact-of-school-absence-on-lifetime-earnings",
+  "taxons": [
+    {
+      "title": "School attendance and absence",
+      "base_path": "/education/school-attendance-and-absence"
+    }
+  ]
+}

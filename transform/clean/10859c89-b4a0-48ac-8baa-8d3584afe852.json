@@ -1,0 +1,11 @@
+{
+  "title": "Seed Sourcing Grant: funded projects",
+  "body": "\"Funded projects include: establishing new seed orchards for species such as wild service tree, wych elm and beech, registering indigenous seed stands across regions including Cheshire and south-west England and improving the productivity of existing stands.  The projects cover a wide range of native broadleaf and alternative conifer species, helping to increase the quality, quantity and diversity of seed stands and orchards on the Register of UK Basic Material.  Find out more about the successful Seed Sourcing Grant projects for 2025. \"",
+  "base_path": "/government/publications/seed-sourcing-grant-funded-projects",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    }
+  ]
+}

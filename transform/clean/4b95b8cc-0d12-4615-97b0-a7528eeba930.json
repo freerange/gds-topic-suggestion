@@ -1,0 +1,11 @@
+{
+  "title": "Animal feed prices: Straights feed prices June 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/animal-feed-prices-straights-feed-prices-june-2026",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

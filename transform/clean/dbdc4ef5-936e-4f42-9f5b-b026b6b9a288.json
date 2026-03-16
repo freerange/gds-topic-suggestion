@@ -1,0 +1,19 @@
+{
+  "title": "Significant funding boost for police to keep streets safe",
+  "body": "\"The public will be better protected from crime as police forces across England and Wales are set to receive a funding boost of up to £798 million in the next financial year, ministers announced today (Thursday 18 December).  This additional money brings total funding up to £19.5 billion, which equals a 4.3 per cent cash increase and a 2 per cent real terms increase.  The majority of this funding is for local forces, with an additional £746 million allowing them to prioritise the crimes impacting their communities, including knife crime, antisocial behaviour and shop theft.  The funding comes after the government’s Neighbourhood Policing Guarantee which has put named, contactable officers in every community, increased peak time patrols in town centres and placed antisocial behaviour leads in every force.  Additionally, funding for Counter Terrorism Policing will increase by at least £52 million, ensuring it has the resources it needs to deal with the threats we face and protect the public. This will bring its total funding to up to more than £1.2 billion.  Crime and Policing Minister, Sarah Jones, said:   We are providing police forces with a significant increase in funding that will allow them to step up their efforts in tackling the crimes that are blighting our communities, including knife crime and antisocial behaviour.  But we know that funding alone will not deliver our ambitions. Police leaders have been crying out for reform, and our upcoming white paper will deliver this to free up officer time and get bobbies back on our streets.   A final settlement providing more detail on grant allocations will be released early next year once the government’s police reform white paper has been published. This will set out landmark reforms to bring policing into the modern age with the technology, innovation and structures forces need to fight crime and protect communities.  This funding increase follows a year in which knife homicides fell by almost 20 per cent in the 12 months to June 2025. Knife crime overall fell for the first time in 4 years, dropping by 5 per cent over the same period. In addition, the government’s winter of action – a nationwide crackdown on crime and antisocial behaviour – builds on its Safer Streets summer initiative, which covered nearly 650 town centres and led to over 16,000 arrests and fines, primarily for shoplifting and antisocial behaviour. \"",
+  "base_path": "/government/news/significant-funding-boost-for-police-to-keep-streets-safe",
+  "taxons": [
+    {
+      "title": "Counter-terrorism",
+      "base_path": "/crime-justice-and-law/counter-terrorism"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

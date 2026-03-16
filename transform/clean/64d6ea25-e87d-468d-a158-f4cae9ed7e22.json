@@ -1,0 +1,11 @@
+{
+  "title": "Sierra Leone: Knowledge Base profile",
+  "body": "\"This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Sierra Leone  \"",
+  "base_path": "/government/publications/sierra-leone-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Grenfell Tower Inquiry Phase 2 recommendations",
+  "body": "\"This dashboard records the recommendations made by the Inquiry and government’s response to them, and will be updated periodically to record implementation progress. The dashboard can be searched by individual recommendation; by recommendation ‘owner’ (for example, the Government) and by the nature of the response (whether the recommendation has been accepted in full or in principle). \"",
+  "base_path": "/government/publications/grenfell-tower-inquiry-phase-2-recommendations",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

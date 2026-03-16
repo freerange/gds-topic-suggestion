@@ -1,0 +1,19 @@
+{
+  "title": "National Framework for Water Resources 2025: water for growth, nature and a resilient future",
+  "body": "\"The National Framework for Water Resources 2025 builds on the foundation provided by:   the 2020 framework water resources management plans and regional water resources plans  \"",
+  "base_path": "/government/publications/national-framework-for-water-resources-2025-water-for-growth-nature-and-a-resilient-future",
+  "taxons": [
+    {
+      "title": "Drought and water availability",
+      "base_path": "/business/environmental-management-water-drought-and-water-availability"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

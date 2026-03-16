@@ -1,0 +1,19 @@
+{
+  "title": "OFSI Video Guidance",
+  "body": "\" Introduction to OFSI and Financial Sanctions  Introduction to OFSI and Financial Sanctions  The first video in OFSI’s ‘Financial Sanctions: The Basics’ series provides detail on the work carried out at OFSI and how financial sanctions work more generally.  OFSI Guidance  OFSI Guidance  The second video in OFSI’s ‘Financial Sanctions: The Basics’ series provides an insight into the range of guidance that OFSI produces to help individuals and companies comply with UK financial sanctions.  Consolidated List  Consolidated List  The third video in OFSI’s ‘Financial Sanctions: The Basics’ series gives an overview of the consolidated list (detailing which individuals are designated under UK sanctions) and how OFSI and FCDO come together when there are new designations, and what firms should do once an individual has been designated.  Reporting to OFSI  Reporting to OFSI  The fourth video in OFSI’s ‘Financial Sanctions: The Basics’ series covers what to do if you suspect a financial sanctions breach, and explains how to report to OFSI quickly and effectively.  General Licences  General Licences  The fifth video in OFSI’s ‘Financial Sanctions: The Basics’ series provides an introduction to general licences, with an overview of who might use one and how they work.  Specific Licences  Specific Licences  The sixth video in OFSI’s ‘Financial Sanctions: The Basics’ series explains what a specific licence is and how to apply for one. \"",
+  "base_path": "/guidance/ofsi-video-guidance",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    },
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Environment Agency 2023 data on regulated businesses in England",
+  "body": "\"These datasets support the Environment Agency Chief Regulator’s report 2023-24.  Compliance ratings for waste and installation permits  The compliance ratings dataset on data.gov.uk contains compliance ratings for all waste and installation permits. We use compliance ratings to help assess the risks from a regulated facility. It helps us identify the operators and facilities that pose a higher risk to the environment and where we need to spend more time regulating and carrying out compliance assessments. Ratings A and B indicate good performance whilst bands D, E and F indicate poor performance.  Pollution inventory  The pollution inventory dataset on data.gov.uk contains information from the pollution inventory for each release type (to air, land and waste transfers off-site). The data is grouped by sector for the industrial activities we regulate.  Pollution incidents  The pollution incidents dataset attached to this page provides information about incidents that met our category 1 and 2 impact criteria for those reported in 2023. These are the most serious environmental incidents we deal with.  Compliance assessment  The national compliance assessment and compliance classification scheme datasets on data.gov.uk contain details of compliance assessments and breaches of permits.  Enforcement action  The prosecutions dataset on data.gov.uk contains details of prosecutions for all the regimes we regulate. Find out more about our position on enforcement and sanctions.  Waste crime  The waste crime summary dataset attached to this page contains details of the numbers, types and activities associated with illegal waste sites, large-scale illegal dumping and illegal waste exports.  The waste investigations dataset on data.gov.uk contains information about our waste crime investigation work and outcomes.  The illegal dumping incidents dataset on data.gov.uk contains all incidents of illegal dumping (fly-tipping) reported to us. Illegal dumping means the illegal deposit of liquid or solid waste on land, not covered by a permit or exemption.  Use of this data  We’ve made the data on this page available to members of the public for information. We’ve published each dataset under either the open government licence or the Environment Agency conditional licence. Each dataset states the licence it’s published under. If you use the information you must meet the conditions of the relevant licence. \"",
+  "base_path": "/government/publications/environment-agency-2023-data-on-regulated-businesses-in-england",
+  "taxons": [
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    },
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

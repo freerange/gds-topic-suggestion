@@ -1,0 +1,11 @@
+{
+  "title": "Quota application mechanism: privacy notice",
+  "body": "\"This privacy notice explains how Defra collects your data for the quota application mechanism (QAM) trial.  Find out how to apply for English fishing quota using the quota application mechanism (QAM).  \"",
+  "base_path": "/government/publications/quota-application-mechanism-privacy-notice",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

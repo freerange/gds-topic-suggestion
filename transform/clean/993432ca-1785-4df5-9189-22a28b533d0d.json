@@ -1,0 +1,11 @@
+{
+  "title": "Quantitative review of sustainable novel food production",
+  "body": "\"Following the 2015 Paris Agreement of the United Nations Framework On Climate Change (UNFCC),  UK Net-Zero emission targets have primarily focused on reductions in CO2 emission levels, with remedial efforts being directed at reductions in fossil fuel combustion emissions. However, other potent greenhouse gases (GHGs), which include methane (CH4) and nitrous oxide (N2O), are yet to attract as much public attention, despite primarily being the biproduct of a variety of food production system (FS) practices, particularly those associated with agricultural activities. Consequently, adoption of alternative methods for food production, particularly those associated with dietary protein production through rearing of livestock, have become a global focus for reducing FS GHG contributions.  The UK is currently witnessing an increasing interest in the development and commercialisation of sources of alternative dietary protein for which markets already exist within the UK. Driven by relevant technological advances, combined with the need for more sustainable sources of dietary protein, the sector has witnessed an acceleration in both innovation and product development. To date, progress has primarily been focused on identifying alternative protein sources (e.g., plant, algal, precision fermented) that require less resource intensive means of production and emit fewer GHGs.  This review, delivered under the Government Chemist programme, provides an evaluation summary of the leading categories of alternative dietary protein based on recent publications in the current scientific and grey literature, with particular focus on plant-based meat substitutes; novel protein sources (inclusive of insects, microalgae and macroalgae), precision fermented biomass (inclusive of fungal and bacteria), and cultured meat. Aspects covered for each category include consumer-based opinion, commercial market options, technical and non-technical challenges, sector regulation and recommendations for category progression. \"",
+  "base_path": "/government/publications/quantitative-review-of-sustainable-novel-food-production",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

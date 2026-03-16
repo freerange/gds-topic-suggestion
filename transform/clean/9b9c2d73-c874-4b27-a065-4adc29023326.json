@@ -1,0 +1,15 @@
+{
+  "title": "Parental Conflict Indicator 2011 to 2022",
+  "body": "\"The parental conflict indicator comprises two measures:   the proportion of children in couple-parent families living with parents who report relationship distress; and the proportion of children in separated families who see their non-resident parent regularly   These statistics are published once every 2 years (biennial) in line with the availability of underlying data. \"",
+  "base_path": "/government/statistics/parental-conflict-indicator-2011-to-2022",
+  "taxons": [
+    {
+      "title": "Parenting, childcare and children's services ",
+      "base_path": "/childcare-parenting"
+    },
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    }
+  ]
+}

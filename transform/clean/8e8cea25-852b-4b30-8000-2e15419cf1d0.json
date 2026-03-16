@@ -1,0 +1,11 @@
+{
+  "title": "Fire safety: Solar photovoltaic panels on roofs",
+  "body": "\"A literature review that examines the fire safety implications of installing photovoltaic (PV) systems, reviewing experimental evidence, incident data and existing regulatory approaches.   Researchers investigated how PV systems installed on roofs influence fire dynamics, introduce additional risks for roof constructions and affect firefighting operations.   The project aimed to identify gaps in current guidance to understand how PV system design and installation affect fire spread.  Background   The government commissioned the research as part of the investigation of real fires project.   OFR Consultants carried out the work, and the findings and recommendations do not represent government policy.  \"",
+  "base_path": "/government/publications/fire-safety-solar-photovoltaic-panels-on-roofs",
+  "taxons": [
+    {
+      "title": "Building regulation",
+      "base_path": "/housing-local-and-community/building-regulation"
+    }
+  ]
+}

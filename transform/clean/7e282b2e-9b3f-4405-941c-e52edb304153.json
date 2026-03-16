@@ -1,0 +1,15 @@
+{
+  "title": "Construction standards for e-scooters",
+  "body": "\"Research report into e-scooter construction standards. The report includes sections on:   a review of literature and international regulations and standards analysis of technical requirements for e-scooters integration with vehicles for disabled people and the effect of e-scooters on their mobility choices sustainability, environmental impact and lifecycle   The Department for Transport commissioned the report to provide evidence on technical requirements to consider in future regulations if e-scooter are legalised. \"",
+  "base_path": "/government/publications/construction-standards-for-e-scooters",
+  "taxons": [
+    {
+      "title": "Self-driving vehicles",
+      "base_path": "/transport/self-driving-vehicles"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

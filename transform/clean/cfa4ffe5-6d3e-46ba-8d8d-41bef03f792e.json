@@ -1,0 +1,11 @@
+{
+  "title": "How we protected the UK and space in October 2025",
+  "body": "\"October saw increased levels of space activity with both uncontrolled re-entry and collision alerts higher than in September. However, overall risk levels were below the 12-month rolling average.  All NSpOC warning and protection services were functioning throughout the period.  Re-entry analysis  October saw a 15% increase in the number of objects re-entering Earth’s atmosphere, monitored by NSpOC, when compared with the previous month.  Of the 54 objects that re-entered, 52 were satellites and 2 were rocket bodies.    November: 47, December: 83, January: 115, February: 129, March: 85, April: 92, May: 64, June: 55, July: 52, August: 34, September: 39, October: 54  Collision avoidance analysis  Collision risks to UK-licensed satellites were higher in October with a 56% increase when compared with September, caused by more interactions between UK-licensed objects and other spacecraft or debris over the previous 30 days.    November: 2,722, December: 2,142, January: 2,694, February: 2,567, March: 2,588, April: 2,620, May: 1,546, June: 1,259, July: 1,038, August: 971, September: 1,537, October: 2,402  Registered Space Objects (RSOs) analysis  The in-orbit population increased in October, with a net addition of 160 objects to the US Satellite Catalogue.  The number of Resident Space Objects (RSOs) reported may be subject to small adjustments over time as the way objects are tracked is refined. Figures in this report reflect the most current available data and may differ slightly from those published in previous months.    November: 29,883, December: 29,934, January: 30,062, February: 30,093, March: 30,187, April: 30,315, May: 30,566, June: 30,892, July: 31,102, August: 31,357, September, 31,516, October: 31,676  Fragmentation analysis  There have been no new fragmentation (break-up) incidents this month.  Space weather analysis  Space weather activity was slightly elevated in October with geomagnetic storms recorded throughout the month. \"",
+  "base_path": "/government/news/how-we-protected-the-uk-and-space-in-october-2025",
+  "taxons": [
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

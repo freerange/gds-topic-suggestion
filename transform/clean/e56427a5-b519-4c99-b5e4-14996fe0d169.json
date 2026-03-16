@@ -1,0 +1,23 @@
+{
+  "title": "Interministerial Group on UK-EU Relations: communiqués",
+  "body": "\"Ministers from the 4 UK administrations meet regularly to discuss matters relating to the UK’s withdrawal and trade and cooperation deals with the European Union.  Find out more in the group’s terms of reference. \"",
+  "base_path": "/government/collections/interministerial-group-on-uk-eu-relations-communiques",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Regional and local government",
+      "base_path": "/regional-and-local-government"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    },
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    }
+  ]
+}

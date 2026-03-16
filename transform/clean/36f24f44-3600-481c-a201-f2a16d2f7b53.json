@@ -1,0 +1,11 @@
+{
+  "title": "Extended Screening Interval Clinical Pathway protocol",
+  "body": "\"The clinical pathway protocol for cervical screening describes the management of individuals offered cervical screening according to the primary HPV screening pathway, following the implementation of an extended 5-year screening interval for those aged 24.5 to 49 years. \"",
+  "base_path": "/government/publications/extended-screening-interval-clinical-pathway-protocol",
+  "taxons": [
+    {
+      "title": "NHS cervical screening (CSP) programme ",
+      "base_path": "/health-and-social-care/population-screening-programmes-cervical"
+    }
+  ]
+}

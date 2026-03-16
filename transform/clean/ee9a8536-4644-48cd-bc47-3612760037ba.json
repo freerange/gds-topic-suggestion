@@ -1,0 +1,11 @@
+{
+  "title": "Ministerial letter on cyber security to leading UK companies",
+  "body": "\"Hostile cyber activity in the UK is growing more intense, frequent and sophisticated. In light of recent cyber incidents, the government has written to leading UK companies with urgent advice to help ensure they are best protected against cyber threats.   The letter sets out 3 actions large businesses can take to improve their cyber resilience:    Make cyber risk a Board-level priority using the Cyber Governance Code of Practice   Sign up to the National Cyber Security Centre’s Early Warning service   Require Cyber Essentials in your supply chain    This letter is being sent to all companies in the FTSE100 and FTSE250, as well as a number of other leading UK firms.  For smaller businesses, a free Cyber Action Toolkit is now available to help protect against cyber threats.  \"",
+  "base_path": "/government/publications/ministerial-letter-on-cyber-security-to-leading-uk-companies",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

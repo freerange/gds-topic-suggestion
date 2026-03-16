@@ -1,0 +1,11 @@
+{
+  "title": "Palliative and end of life care profiles: March 2025 update",
+  "body": "\"The update for March 2025 has been published by the Office for Health Improvement and Disparities (OHID).  There are updates to:   the patterns of care factsheet, with data for deaths that occurred in England in 2023 one indicator, percentage of deaths with 3 or more emergency admissions in the last 90 days of life, with data for deaths that occurred in England in 2023   The palliative and end of life care profiles are presented in an interactive tool which aims to help local government and health services improve care at the end of life.  Correction notice   In the ‘Main findings’ section of the statistical commentary, a typographical error was identified in the reported percentage of deaths (all ages) in 2023 with 3 or more emergency admissions in the last 90 days of life. The figure was published as 5.6% but should have read 6.2%. The corrected value has now been updated in the publication. There are no other changes to the report.   \"",
+  "base_path": "/government/statistics/palliative-and-end-of-life-care-profiles-march-2025-update",
+  "taxons": [
+    {
+      "title": "End of life care",
+      "base_path": "/health-and-social-care/end-of-life-care"
+    }
+  ]
+}

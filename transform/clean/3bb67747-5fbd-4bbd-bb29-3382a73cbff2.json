@@ -1,0 +1,19 @@
+{
+  "title": "Welfare Reform Act 2012: ministerial determinations",
+  "body": "\"Ministerial determinations under the Welfare Reform Act 2012 relating to Universal Credit. \"",
+  "base_path": "/government/collections/welfare-reform-act-2012-ministerial-determinations",
+  "taxons": [
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    },
+    {
+      "title": "Welfare reform",
+      "base_path": "/welfare/welfare-reform"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

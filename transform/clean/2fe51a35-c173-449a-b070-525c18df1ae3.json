@@ -1,0 +1,11 @@
+{
+  "title": "Employer skills survey 2024",
+  "body": "\"The employer skills survey 2024, which covers England, Northern Ireland, Wales and Scotland, asked questions about:   recruitment difficulties and skills lacking from applicants skills lacking from existing employees engagement with schemes to nurture the skills pipeline and apprenticeships the nature and scale of training, including employers’ monetary investment anticipated needs for skill development in the next 12 months engagement with artificial intelligence  \"",
+  "base_path": "/government/collections/employer-skills-survey-2024",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    }
+  ]
+}

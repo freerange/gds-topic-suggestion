@@ -1,0 +1,11 @@
+{
+  "title": "DESNZ: spend control data for October to December 2024",
+  "body": "\"The Department for Energy Security and Net Zero (DESNZ) publishes details of approved expenditure in areas limited by spending controls on a quarterly basis.  This data is also available on data.gov.uk:   DESNZ: spend control data   \"",
+  "base_path": "/government/publications/desnz-spend-control-data-for-october-to-december-2024",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

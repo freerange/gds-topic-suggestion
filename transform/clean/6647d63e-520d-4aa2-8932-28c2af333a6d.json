@@ -1,0 +1,19 @@
+{
+  "title": "UK promotes agricultural cooperation with the Guatemalan Ministry of Agriculture",
+  "body": "\"During the meeting, opportunities to promote British offerings in the agri-tech sector were discussed, including solutions in fertilizers, seeds, machinery, animal genetics, and technologies for water conservation and waste management. The interest of British companies in entering the Guatemalan market was highlighted, as well as the need to facilitate regulatory processes for biotech products.   The Embassy also highlighted the work of the UK Biodiverse Landscapes Fund (BLF), which supports initiatives in Petén and the Trifinio region for biodiversity conservation, community development, and climate change adaptation. The importance of strengthening MAGA’s technical assistance in areas such as beekeeping, agroforestry systems, and value chains like cocoa was emphasized.   The meeting reaffirmed the United Kingdom’s commitment to the sustainable development of the Guatemalan agricultural sector, promoting strategic alliances, technological innovation, and comprehensive solutions to environmental and productive challenges. \"",
+  "base_path": "/government/news/uk-promotes-agricultural-cooperation-with-the-guatemalan-ministry-of-agriculture",
+  "taxons": [
+    {
+      "title": "International",
+      "base_path": "/international"
+    },
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Rural development and land management",
+      "base_path": "/environment/rural-development-land-management"
+    }
+  ]
+}

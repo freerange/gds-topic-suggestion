@@ -1,0 +1,19 @@
+{
+  "title": "Care workforce pathway for adult social care (easy read)",
+  "body": "\"There are 8 groups of jobs in adult social care in England.  ‘Adult social care’ means helping people who have disabilities or who are ill for a long time.  The first booklet on this page tells you what people working in care need so they can do this important work.  The next 8 booklets tell you about each of the job groups in adult social care.   There is more detailed information on the non-easy read version of the page.   \"",
+  "base_path": "/government/publications/care-workforce-pathway-for-adult-social-care-easy-read",
+  "taxons": [
+    {
+      "title": "Careers in health and social care",
+      "base_path": "/health-and-social-care/careers-health-social-care"
+    },
+    {
+      "title": "Health and social care training",
+      "base_path": "/health-and-social-care/health-social-care-training"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

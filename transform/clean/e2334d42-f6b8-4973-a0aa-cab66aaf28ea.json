@@ -1,0 +1,11 @@
+{
+  "title": "Inheritance Tax: anti-avoidance measures for non-long-term UK residents and trusts",
+  "body": "\"This measure will look-through non-UK companies or similar bodies to treat UK agricultural land and buildings as situated in the UK for inheritance tax purposes. This measure also provides that where a settlor ceases to be a long-term UK resident, there will be an Inheritance Tax charge if there is a later change in situs of their trust assets. Also, Inheritance Tax charity exemption will be restricted to gifts made directly to UK charities and registered clubs, and excluded from gifts to trusts which are not registered as UK charities or clubs. \"",
+  "base_path": "/government/publications/inheritance-tax-anti-avoidance-measures-for-non-long-term-uk-residents-and-trusts",
+  "taxons": [
+    {
+      "title": "Tax avoidance",
+      "base_path": "/money/tax-avoidance"
+    }
+  ]
+}

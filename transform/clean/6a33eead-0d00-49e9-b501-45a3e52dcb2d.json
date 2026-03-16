@@ -1,0 +1,51 @@
+{
+  "title": "Defence research security",
+  "body": "\"This guidance is for universities and researchers working with the Defence, Science and Technology Laboratory (Dstl) and the Ministry of Defence (MOD). It will help you understand the security rules you need to follow when working with us.  These measures help protect the UK and our Armed Forces from current and future threats.  Dstl worked with the Higher Education Export Control Association (HEECA) national security subgroup on producing this guidance.  \"",
+  "base_path": "/government/publications/defence-research-security",
+  "taxons": [
+    {
+      "title": "Armed forces",
+      "base_path": "/defence/working-armed-forces"
+    },
+    {
+      "title": "Armed forces support for activities in the UK",
+      "base_path": "/defence-and-armed-forces/armed-forces-support-for-activities-in-the-uk"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Cloud security",
+      "base_path": "/government/technology-guidance-technology-guidance-cloud-security"
+    },
+    {
+      "title": "Digital service security",
+      "base_path": "/government/technology-guidance-technology-guidance-digital-service-security"
+    },
+    {
+      "title": "Risk management",
+      "base_path": "/government/technology-guidance-technology-guidance-risk-management"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

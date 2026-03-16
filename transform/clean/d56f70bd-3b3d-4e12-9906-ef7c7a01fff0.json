@@ -1,0 +1,15 @@
+{
+  "title": "Budget 2025: Overview of tax legislation and rates (OOTLAR)",
+  "body": "\"This document lists the tax policy measures announced at Budget 2025 and shows when they will be legislated.  It also includes links to all of the tax information and impact notes, the rates tables and a table of upcoming tax consultations.  It is intended for tax practitioners and others with an interest in tax policy changes, especially those who will be involved in consultations both on the policy and on draft legislation. \"",
+  "base_path": "/government/publications/budget-2025-overview-of-tax-legislation-and-rates-ootlar",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

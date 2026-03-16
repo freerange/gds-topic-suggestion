@@ -1,0 +1,11 @@
+{
+  "title": "English Housing Survey 2023 to 2024: leasehold experience - fact sheet",
+  "body": "\"This fact sheet covers the amount of ground rent and service charge paid by leaseholders, the perceived fairness of service charge, demographic characteristics, and age and height of the dwellings where leaseholders reside. It also explores regional variation in leasehold characteristics, freehold owners of leasehold flats and complaints. \"",
+  "base_path": "/government/statistics/english-housing-survey-2023-to-2024-leasehold-experience-fact-sheet",
+  "taxons": [
+    {
+      "title": "Freehold and leasehold property",
+      "base_path": "/housing-local-and-community/freehold-leasehold-property"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Understanding and valuing road freight travel time",
+  "body": "\"The value of travel time (VTT) is one of the key sets of values used in the modelling and appraisal of transport investments. For road freight, they represent the value attached to changes in journey time by businesses that move cargo in the UK.  This research presents the results of a major survey of businesses to provide a robust set of road freight VTTs for use in transport modelling and appraisal. It consists of:   a report that summarises research undertaken and sets out proposals for updates to transport analysis guidance (TAG) research commissioned by DfT and National Highways and carried out by ARUP, AECOM, the Institute for Transport Studies and Significance   See the peer review of this research and the peer review response for more information.  \"",
+  "base_path": "/government/publications/understanding-and-valuing-road-freight-travel-time",
+  "taxons": [
+    {
+      "title": "Driving and road transport",
+      "base_path": "/transport/driving-and-road-transport"
+    },
+    {
+      "title": "Transport modelling and appraisal",
+      "base_path": "/transport/transport-modelling-and-appraisal"
+    }
+  ]
+}

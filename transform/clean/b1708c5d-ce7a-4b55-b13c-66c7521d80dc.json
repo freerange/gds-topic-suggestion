@@ -1,0 +1,11 @@
+{
+  "title": "Tuberculosis (TB) regional reports 2023 supplementary data",
+  "body": "\"These spreadsheets contain the data supporting the 2023 TB regional and devolved reports. \"",
+  "base_path": "/government/publications/tuberculosis-tb-regional-reports-2023-supplementary-data",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

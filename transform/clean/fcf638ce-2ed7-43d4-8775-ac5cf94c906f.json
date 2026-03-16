@@ -1,0 +1,11 @@
+{
+  "title": "Monthly Sea Fisheries Statistics July 2025",
+  "body": "\"Highlights   The total quantity of landings by UK vessels (tonnes) decreased in July 2025 compared to 2024, down 13%. The value of landings in July 2025 (£69.8m) decreased compared to 2024 down by 16%. Landings in July 2025 were comprised of slightly more Pelagic species (35%). This was driven by uptake of Herring. This is in line with the expected seasonality of Herring stocks where landings are typically higher in summer months (June - August). Shellfish species comprised the majority of the value landed (46%), with Demersal species also high at 41% as both species groups typically fetch a high price per tonne.  \"",
+  "base_path": "/government/statistics/monthly-sea-fisheries-statistics-july-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

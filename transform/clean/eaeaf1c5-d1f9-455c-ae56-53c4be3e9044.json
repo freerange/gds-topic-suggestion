@@ -1,0 +1,11 @@
+{
+  "title": "Request a teacher training adviser at an ITT event",
+  "body": "\"Complete the form to request a teacher training adviser presence at your event.  A teacher training adviser is an experienced former teacher who provides support to potential teachers. At your event, they can offer:   a presentation on routes into teaching, funding and how to apply a question and answer session one-to-one advice to attendees on their applications (capacity dependent)   We aim to provide support to as many provider-led events as possible. There may be occasions when we need to prioritise events where there is more than one training provider present.  Submit the request at least 4 weeks before your event. \"",
+  "base_path": "/government/publications/request-a-teacher-training-adviser-at-an-itt-event",
+  "taxons": [
+    {
+      "title": "Initial Teacher Training (ITT)",
+      "base_path": "/education/initial-teacher-training-itt"
+    }
+  ]
+}

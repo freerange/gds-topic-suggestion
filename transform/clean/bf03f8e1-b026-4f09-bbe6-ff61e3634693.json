@@ -1,0 +1,15 @@
+{
+  "title": "VAPC Scotland: meeting minutes",
+  "body": "\"Meeting minutes for the Scotland Veterans Advisory and Pensions Committee (VAPC). \"",
+  "base_path": "/government/publications/vapc-scotland-meeting-minutes",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Pensions and ageing society",
+      "base_path": "/work/pensions-and-ageing-society"
+    }
+  ]
+}

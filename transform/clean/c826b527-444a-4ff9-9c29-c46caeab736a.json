@@ -1,0 +1,11 @@
+{
+  "title": "Anniversary Statement: ATR 42-500, G-LMRC, 27 August 2022",
+  "body": "\"This statement provides the mandated update on the third anniversary of a Serious Incident which remains under investigation.  The Serious Incident involved an ATR 42-500, registration G-LMRC, after departure from Aberdeen Airport, on 27 August 2022.  During the departure climb the aircraft suffered a loss of multiple electrical systems and the flight crew reported that all the electronic instrument display screens went blank.  The displays returned but some system faults remained.  The aircraft returned to Aberdeen where it landed normally.  A fault with the 1PA electrical contactor was found which had probably contributed to the severity of the incident, but the underlying cause(s) are still under investigation.  The aircraft manufacturer published an Airworthiness Operator Message (AOM 2022/04) in October 2022 to recommend that all operators of this aircraft type perform an operational test of the 1PA contactor.  In October 2023 the European Union Aviation Safety Agency published Airworthiness Directive 2023-0181 which mandated the operational test of the 1PA contactor and for it to be repeated at 1,000 flight hour intervals.  During the past year additional ground testing and flight testing has been accomplished by the aircraft manufacturer to help understand the causes of the event.  A final report will be published when the investigation has been completed. \"",
+  "base_path": "/government/news/anniversary-statement-atr-42-500-g-lmrc-27-august-2022--2",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

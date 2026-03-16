@@ -1,0 +1,11 @@
+{
+  "title": "Social housing lettings in England, April 2024 to March 2025",
+  "body": "\"This release is part of the annual ‘Social housing lettings in England’ series, which has been badged as Accredited Official Statistics and is the most robust source of data on new social lettings.  It covers new Social Rent, Affordable Rent and Intermediate Rent lets, for both General Needs and Supported Housing.  The 2024/25 release is split into two reports.    ‘Tenancies’ focuses on the tenancies, rents, properties and stock ‘churn’ – how frequently social housing is relet.  ‘Tenants’ focuses on the people living in new social housing lettings – where they lived previously, their route into social housing, how long tenants spent on waiting lists, and information about the tenants themselves.   Summary tables, technical notes, sub-national dashboard and a quality report are published alongside the reports. \"",
+  "base_path": "/government/statistics/social-housing-lettings-in-england-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    }
+  ]
+}

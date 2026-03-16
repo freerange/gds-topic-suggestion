@@ -1,0 +1,11 @@
+{
+  "title": "Agricultural Price Index (data to March 2026)",
+  "body": "",
+  "base_path": "/government/statistics/announcements/agricultural-price-index-data-to-march-2026",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

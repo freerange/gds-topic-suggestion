@@ -1,0 +1,15 @@
+{
+  "title": "ESHR risk and impact categorisations 2024 to 2025",
+  "body": "\"Summary of UKEF’s new and existing Environmental, Social and Human Rights (ESHR) risk and impact categorisations and contingent liabilities. \"",
+  "base_path": "/government/publications/eshr-risk-and-impact-categorisations-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Export finance",
+      "base_path": "/business-and-industry/export-finance"
+    }
+  ]
+}

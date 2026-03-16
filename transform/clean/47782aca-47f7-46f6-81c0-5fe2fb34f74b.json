@@ -1,0 +1,11 @@
+{
+  "title": "Engineering Biology, Quantum Technology and Robotics and Autonomous Systems: Company Performance and R&D Tax Credit Estimates",
+  "body": "\"This publication provides estimates based on HMRC data to measure the size and economic performance of 3 tech sectors in the UK:   Engineering Biology (‘Eng Bio’)  Quantum Technology (‘Quantum’) Robotics and Autonomous Systems (‘RAS’)   The analysis shown here uses DSIT’s novel sector identification methodology and matches company lists to HMRC tax data, to provide indicators of:   performance (company performance estimates) insights into companies’ research and development investment (R&D tax credits estimates) over time   \"",
+  "base_path": "/government/publications/engineering-biology-quantum-technology-and-robotics-and-autonomous-systems-company-performance-and-rd-tax-credit-estimates",
+  "taxons": [
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

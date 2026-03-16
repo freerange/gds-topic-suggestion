@@ -1,0 +1,11 @@
+{
+  "title": "Non-domestic rating: property counts and rateable value (RV) for properties in England with RV over £500,000",
+  "body": "\"This ad hoc release provides information around properties with a rateable value of £500,000 and over. This is a summary of the information published within csv files on 5 February 2025 as part of our non-domestic rating: stock of properties release, with a breakdown by sub-sector and region for properties with a rateable value over £500,000. Its release is to support the committee stage of the Bill on 24 February 2025.  If you would like any further information on this release or any other statistical release please contact:  The VOA statistics team  Email statistics@voa.gov.uk \"",
+  "base_path": "/government/publications/non-domestic-rating-property-counts-and-rateable-value-rv-for-properties-in-england-with-rv-over-500000",
+  "taxons": [
+    {
+      "title": "Business rates",
+      "base_path": "/regional-and-local-government/local-government-business-rates"
+    }
+  ]
+}

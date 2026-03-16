@@ -1,0 +1,11 @@
+{
+  "title": "UK Trade: October 2025 Time Series",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-trade-october-2025-time-series",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Check if you have to pay tax on your pension",
+  "body": "\"You may have to pay tax on your pension depending on your income.  The result you get from this tool will be based on you having the standard Personal Allowance of £12,570 (the amount you can earn before you have to pay tax).  Who cannot use this tool  You cannot use this tool if you get:    any foreign income  Marriage Allowance  Blind Person’s Allowance   Check if your pension payments will be taxed  Before you can check, you’ll need to know:   if you have a State Pension or a private pension how much State Pension and private pension income you will get this tax year (6 April to 5 April) the amount of any other taxable income you’ll get this tax year (for example, from employment or state benefits)   Check now   \"",
+  "base_path": "/guidance/check-if-you-have-to-pay-tax-on-your-pension",
+  "taxons": [
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

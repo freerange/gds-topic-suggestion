@@ -1,0 +1,11 @@
+{
+  "title": "Application to cancel the PGI 'Scottish Salmon'",
+  "body": "\"The Secretary of State has decided to reject the application submitted by WildFish in respect of “Scottish Salmon”, a Protected Geographical Indication (PGI) under the UK Government’s quality scheme for agricultural products and foodstuffs. \"",
+  "base_path": "/government/publications/application-to-cancel-the-pgi-scottish-salmon",
+  "taxons": [
+    {
+      "title": "Producing and distributing food",
+      "base_path": "/environment/producing-distributing-food"
+    }
+  ]
+}

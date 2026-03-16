@@ -1,0 +1,11 @@
+{
+  "title": "List of certifying authorities",
+  "body": "\"The attached document is a list of the head offices of certifying authorities authorised through formal agreement to conduct survey and certification of all types of small commercial vessels.  For more information regarding the responsibilities of certifying authorities and for applications to register as one, please see MIN 538 Amendment 8 (M) Codes of practice - Authorisation of certifying authorities. \"",
+  "base_path": "/government/publications/list-of-certifying-authorities",
+  "taxons": [
+    {
+      "title": "Vessel surveys and inspection",
+      "base_path": "/transport/maritime-surveying"
+    }
+  ]
+}

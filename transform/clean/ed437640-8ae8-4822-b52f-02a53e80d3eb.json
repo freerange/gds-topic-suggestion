@@ -1,0 +1,19 @@
+{
+  "title": "General licence for bluetongue serotype 3 (BTV-3) vaccine",
+  "body": "\"  You must report your use of the BTV-3 vaccine within 48 hours of vaccinating any animals. It is against the law to use the vaccine without reporting it.   Advisory note for veterinarians  Vets should read the Chief Veterinary Officer (CVO)’s advisory note before prescribing any BTV-3 vaccine.  When you should use this licence  You do not need to apply for this general licence, but you must meet its conditions and follow its instructions when vaccinating any animal with the BTV-3 vaccine, including reporting vaccine use.  This general licence only allows vaccination in England. There is a separate:   general licence for Wales declaration for Scotland specific licence you must apply for in Northern Ireland   You can read more about BTV-3 vaccine rules, limitations and permits.  Detailed guidance   Bluetongue serotype 3 (BTV-3) vaccination Report your use of the bluetongue serotype 3 (BTV-3) vaccine   Get help  For help with this form, email btv3vaccine@defra.gov.uk  \"",
+  "base_path": "/government/publications/general-licence-for-bluetongue-serotype-3-btv-3-vaccine--2",
+  "taxons": [
+    {
+      "title": "Cattle deaths",
+      "base_path": "/environment/keeping-farmed-animals-cattle-deaths"
+    },
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Veterinary medicines",
+      "base_path": "/environment/keeping-farmed-animals-veterinary-medicines"
+    }
+  ]
+}

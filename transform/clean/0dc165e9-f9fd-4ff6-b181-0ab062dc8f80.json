@@ -1,0 +1,15 @@
+{
+  "title": "Pertussis: laboratory confirmed cases reported in England 2024",
+  "body": "\"For reports from earlier years see:   Pertussis: laboratory confirmed cases reported in England 2023 Pertussis: laboratory confirmed cases reported in England 2022 Pertussis: laboratory confirmed cases reported in England 2021 Pertussis: laboratory confirmed cases reported in England 2020 Pertussis: laboratory confirmed cases reported in England 2019 Pertussis: laboratory confirmed cases reported in England 2018 Pertussis: laboratory confirmed cases reported in England 2017 Pertussis: laboratory confirmed cases reported in England 2016 Pertussis: laboratory confirmed cases reported in England 2015 Pertussis: laboratory confirmed cases reported in England 2014  the UK Government Web Archive for Health Protection Reports on pertussis (see under ‘Routine data’) and other infection reports from 2013 and earlier years  \"",
+  "base_path": "/government/publications/pertussis-laboratory-confirmed-cases-reported-in-england-2024",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

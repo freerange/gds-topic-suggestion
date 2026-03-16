@@ -1,0 +1,11 @@
+{
+  "title": "FCDO Services spend over £25,000, October 2025",
+  "body": "\"The government is committed to publishing departmental spend over £25,000 as part of its commitment to transparency and open government. This is the FCDO Services spend in the UK for transactions totalling over £25,000 published by month. Transactions that appear to be under £25,000 are due to the transaction being over £25,000 before removing recoverable VAT, or where an invoice over £25,000 has been split between multiple expense types, and/or expense areas. We have published our spend in line with Cabinet Office guidelines which allow for data protection of individuals and security constraints. \"",
+  "base_path": "/government/publications/fcdo-services-spend-over-25000-october-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Income Dynamics: 2010 to 2023",
+  "body": "\"  Cite this statistical release  Add the following citation to any analysis shared or published:  Department for Work & Pensions (DWP), released 27 March 2025, GOV.UK website, statistical release, Income Dynamics: 2010 to 2023 - GOV.UK.   Income Dynamics provides estimates of the rates of persistent low income. An individual is classed as being in persistent low income if they are in low income in at least 3 out of 4 years.  Income Dynamics also provides estimates of mobility across the income distribution, including low income entry and exit rates, as well as analysis on the events associated with low income entry and exit.  Income Dynamics estimates are based on Understanding Society, a longitudinal survey which follows respondents over time. This is unlike the Households below average income (HBAI) series, which uses the Family Resources Survey (FRS) to look at the distribution of incomes within a different sample each year.  Two changes have been made for the 2010 to 2023 publication:     the first is an extension to the age breakdown categories for persistent low income estimates for working-age adults. This change introduces a new category of 65 to 74 year-olds, following changes to the State Pension Age.     the second is a change to the cross-sectional weight. This change was made by the data providers, Understanding Society, and follows the introduction of a boost to the survey sample. Implementing this change affects single-year estimates, such as median income calculations.    \"",
+  "base_path": "/government/statistics/income-dynamics-2010-to-2023",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    }
+  ]
+}

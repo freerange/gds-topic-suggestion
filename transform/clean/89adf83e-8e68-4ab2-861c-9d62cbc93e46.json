@@ -1,0 +1,11 @@
+{
+  "title": "Fire workforce and pension statistics, year ending March 2025",
+  "body": "\"This release presents detailed statistics on Fire and Rescue Service workforce and pensions which cover the year 1 April 2024 to 31 March 2025 for Fire and Rescue Services (FRSs) in England. \"",
+  "base_path": "/government/statistics/fire-workforce-and-pension-statistics-year-ending-march-2025",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

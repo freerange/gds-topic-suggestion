@@ -1,0 +1,15 @@
+{
+  "title": "BDUK delivery performance, quarterly: April 2025 to Sept 2025",
+  "body": "\"This quarterly performance report presents how many premises in the United Kingdom have received a gigabit-capable broadband connection as a result of BDUK subsidy. The figures cover premises that received gigabit-capable coverage through Building Digital UK (BDUK) subsidy between 1 April 2025 and 30 September 2025. We also present revised figures from earlier time periods. \"",
+  "base_path": "/government/statistics/bduk-delivery-performance-quarterly-april-2025-to-sept-2025",
+  "taxons": [
+    {
+      "title": "Broadband investment",
+      "base_path": "/business/broadband-investment"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Labour Demand Volumes by Standard Occupation Classification (SOC2020), UK: January 2017 to September 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/labour-demand-volumes-by-standard-occupation-classification-soc2020-uk-january-2017-to-september-2025",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

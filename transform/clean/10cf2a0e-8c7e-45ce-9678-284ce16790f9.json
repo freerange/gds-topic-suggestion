@@ -1,0 +1,11 @@
+{
+  "title": "National Crime Agency: workforce management information",
+  "body": "\"This data covers:   payroll staff by grade non-payroll staff by type headcount staff numbers full-time equivalent staff numbers staff costs   \"",
+  "base_path": "/government/collections/national-crime-agency-workforce-management-information",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

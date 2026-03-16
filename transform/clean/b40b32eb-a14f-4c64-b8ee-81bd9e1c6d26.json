@@ -1,0 +1,15 @@
+{
+  "title": "Children and young people’s services formula review",
+  "body": "\"This research looks at ways to fund and support children and young people’s services (CYPS) in local authorities. It formed part of the wider review of relative needs and resources to develop up-to-date approaches to distributing funding to local authorities in England.  The research team analysed datasets that were available at the time to determine which characteristics should be included in the relative needs formula. They identified a set of variables that were robust and showed a significant contribution to the model identifying the likelihood of a child in the dataset being supported by children’s social care (CSC).  The report includes:   comprehensive review of the data sources available at the time adopting a child level approach to funding CYPS  developing a statistical approach to modelling the use of CSC services   The peer review, undertaken in December 2019, is an independent assessment of the CYPS formula.  The updated explanatory note on the Children’s Social Care Prevention Grant methodology explains the approach used to allocate new funding in the final local government finance settlement 2025 to 2026.  The research was commissioned in 2018:   by the Ministry of Housing, Communities and Local Government and the Department for Education undertaken by LG Futures and academic partners by a previous government   Non-compliance with the accessibility regulations  ‘The Children and Young People’s Services Formula Review: final evaluation report’ has:   irregularity errors in tables 46, 49, 50, 53 and 54 a formula character encoding error on page 129   This report does not meet WCAG version 2.2 AA – 1.3.1 Info and Relationships: Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text. We will fix this as soon as possible, and within 2 months,  \"",
+  "base_path": "/government/publications/children-and-young-peoples-services-formula-review",
+  "taxons": [
+    {
+      "title": "Child and family social work",
+      "base_path": "/childcare-parenting/child-and-family-social-work"
+    },
+    {
+      "title": "Local government spending",
+      "base_path": "/regional-and-local-government/local-government-spending"
+    }
+  ]
+}

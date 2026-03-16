@@ -1,0 +1,11 @@
+{
+  "title": "UK residual fuel consumption at regional and local authority level, 2005 to 2023",
+  "body": "\"Residual fuels are fuels not used for electricity generation or road transport, and are defined as non-gas, non-electricity and non-road transport fuels. They include:   coal petroleum manufactured solid fuels bioenergy waste   These statistics provide estimates for consumption of residual fuels at a sub-national (regional and local authority) level from 2005 to 2023.  This work forms part of the co-funded Defra / DESNZ National Atmospheric Emissions Inventory (NAEI) work programme which uses geographic information system (GIS) tools to derive spatially resolved energy consumption estimates.  For more information on regional and local authority data, please contact EnergyEfficiency.Stats@energysecurity.gov.uk.  This is an Accredited Official Statistics publication and complies with the Code of Practice for Statistics.  \"",
+  "base_path": "/government/statistics/uk-residual-fuel-consumption-at-regional-and-local-authority-level-2005-to-2023",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

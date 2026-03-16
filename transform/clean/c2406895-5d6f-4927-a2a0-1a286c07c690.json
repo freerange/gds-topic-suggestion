@@ -1,0 +1,35 @@
+{
+  "title": "Advance tax certainty service: draft guidance",
+  "body": "\" This draft guidance reflects the position of the process during the first year of the policy. It is subject to change in line with the parliamentary process of the Finance Bill 2025 to 2026 and will be finalised ahead of the formal launch of the service in July 2026.   This guidance:   has been produced to support both customers and HMRC colleagues in understanding how the advance tax certainty service works in practice outlines which customers are eligible for the process, as well as the scope of taxes for which advance tax certainty can be provided only covers the advance tax certainty service and does not deal with other methods of obtaining certainty from HMRC   HMRC will continue to update this guidance as the service progresses.  Read the Tax information and impact note on the advance tax certainty service for major investment projects. \"",
+  "base_path": "/government/publications/advance-tax-certainty-service-draft-guidance",
+  "taxons": [
+    {
+      "title": "Construction Industry Scheme (CIS)",
+      "base_path": "/money/construction-industry-scheme"
+    },
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "Stamp duty and other tax on property",
+      "base_path": "/money/stamp-taxes"
+    },
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Company benefits and share schemes",
+      "base_path": "/money/personal-tax-income-tax-company-benefits-and-share-schemes"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Office Freedom of Information requests",
+  "body": "\"This collection provides an overview of the FOI requests received by the Northern Ireland Office (NIO), and the level of information provided in response to these requests. \"",
+  "base_path": "/government/collections/northern-ireland-office-freedom-of-information-requests",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

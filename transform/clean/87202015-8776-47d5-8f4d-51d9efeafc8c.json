@@ -1,0 +1,11 @@
+{
+  "title": "Rail passenger numbers and crowding on weekdays in major cities in England and Wales: 2024",
+  "body": "\"This publication provides information on the number of passengers travelling by rail into and out of a number of major city centres in England and Wales. Due to high levels of rail passenger demand in Greater London compared to every other major city in England and Wales, further detail is provided on individual stations in central London.  The statistics are based on counts of passengers carried out in England and Wales between 16 September and 13 December 2024. Data is collected from franchised train operators at selected major cities across England and Wales. It does not include Open Access operators such as Heathrow Express and Lumo.  This publication focuses on passenger numbers during the morning and evening peak hours on Tuesday, Wednesday and Thursday, when rail travel tends to be busiest. The AM peak covers trains arriving into city centres between 07:00 and 09:59, whereas the PM peak reflects trains departing between 16:00 and 18:59. A city centre is defined using a cordon to include the major city centre stations. In some cases, passengers will not alight at the cordon station but are counted there. For crowding statistics, passengers are counted at the busiest station on the route when entering or leaving the city centre.  The loading at the busiest point for the 10 most crowded peak train services in England and Wales during the autumn period is also presented.  Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing rail.stats@dft.gov.uk with any comments about how we meet these standards.  Contact us  Rail statistics enquiries     Email rail.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about the Department for Transport’s statistical publications as they are released, follow us on X at DfTstats. \"",
+  "base_path": "/government/statistics/rail-passenger-numbers-and-crowding-on-weekdays-in-major-cities-in-england-and-wales-2024",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    }
+  ]
+}

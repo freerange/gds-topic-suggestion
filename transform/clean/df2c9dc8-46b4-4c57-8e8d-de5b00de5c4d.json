@@ -1,0 +1,19 @@
+{
+  "title": "DfE Update",
+  "body": "\"DfE Update (formerly ESFA Update) contains the latest information and actions from the Department for Education about funding, assurance and resource management, for academies, local authorities and further education providers.   Click ‘Get emails about this page’ to be notified when a new edition of DfE Update is published.   You can get in touch with us using the Customer Help Portal.  The Education and Skills Funding Agency (ESFA) closed on 31 March 2025. As part of the closure ESFA Update has been renamed DfE Update. You can find previous editions on the ESFA Update collection page.  \"",
+  "base_path": "/government/collections/dfe-update",
+  "taxons": [
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    },
+    {
+      "title": "School and academy financial management and assurance",
+      "base_path": "/education/school-and-academy-financial-management-and-assurance"
+    },
+    {
+      "title": "Funding for different types of schools and settings",
+      "base_path": "/education/funding-for-different-types-of-schools-and-settings"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Integrated Transport Block allocations",
+  "body": "\"Funding allocations awarded to individual local transport authorities in England outside of London. It is allocated to support local transport maintenance and enhancements.  See Highways maintenance funding allocations for more information.   From 2026 to 2027 onwards, the Integrated Transport Block is replaced by the Local Transport Grant.   \"",
+  "base_path": "/government/publications/integrated-transport-block-allocations",
+  "taxons": [
+    {
+      "title": "Local roads",
+      "base_path": "/transport/local-roads"
+    },
+    {
+      "title": "Major roads",
+      "base_path": "/transport/major-roads"
+    },
+    {
+      "title": "Regional and local government",
+      "base_path": "/regional-and-local-government"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

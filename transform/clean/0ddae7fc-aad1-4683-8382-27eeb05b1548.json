@@ -1,0 +1,15 @@
+{
+  "title": "Profiling suicide, drug and alcohol deaths in Northern Ireland",
+  "body": "\"Research outlining the socio-economic associations with suicide, drug-related and alcohol-specific deaths in Northern Ireland \"",
+  "base_path": "/government/publications/profiling-suicide-drug-and-alcohol-deaths-in-northern-ireland",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

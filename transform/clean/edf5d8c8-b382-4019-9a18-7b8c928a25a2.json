@@ -1,0 +1,15 @@
+{
+  "title": "Cofrestr o fuddiannau aelodau Bwrdd OPG",
+  "body": "\"Mae OPG yn cynnal cofrestr o fuddiannau aelodau’r bwrdd. Mae’r rhestr hon yn nodi buddiannau datganedig aelodau anweithredol a gweithredol Bwrdd OPG ym mis Ebrill 2025.  Pan fyddant yn cael eu penodi, gofynnir i holl aelodau’r bwrdd ddatgan unrhyw fuddiannau personol, busnes neu bartïon cysylltiedig a allai ddylanwadu ar eu barn wrth gyflawni eu rhwymedigaethau i’r asiantaeth.  Gofynnir i aelodau’r bwrdd hefyd ddatgan unrhyw wrthdaro buddiannau newydd cyn dechrau pob cyfarfod. \"",
+  "base_path": "/government/publications/register-of-opg-board-members-interests.cy",
+  "taxons": [
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

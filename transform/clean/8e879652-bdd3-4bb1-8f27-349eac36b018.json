@@ -1,0 +1,11 @@
+{
+  "title": "National Transmission System hydrogen blending: study",
+  "body": "\"The Department for Energy Security and Net Zero (DESNZ) commissioned Arup to conduct a technical survey of Original Equipment Manufacturers (OEMs) and existing gas end users connected to the National Transmission System (NTS) to assess:   the extent of any safety, operability, performance and efficiency impacts and risks of accepting a variable blend of up to 2%, up to 5% and up to 20% hydrogen by volume whether any modifications to equipment or processes or mitigations (such as deblending) would be required and any associated costs of these the timeline for NTS end users to be operationally ready to accept variable blends technologies offered, any technical and operational challenges, research and development for hydrogen ready equipment and the support OEMs could provide to their customers in a transition to accepting a hydrogen blend   The outcomes of this survey are published here. This project helped inform the hydrogen blending consultation into the GB gas transmission network.  \"",
+  "base_path": "/government/publications/national-transmission-system-hydrogen-blending-study",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

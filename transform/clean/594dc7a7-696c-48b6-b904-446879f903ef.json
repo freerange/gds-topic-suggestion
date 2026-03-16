@@ -1,0 +1,15 @@
+{
+  "title": "Quarterly Carers Statistics for Northern Ireland (March 2025)",
+  "body": "\"Carers are people who, without payment, provide help and support to a family member or a friend who may not be able to manage without this help because of frailty, illness or disability. Carers can be adults caring for other adults, parents caring for ill or disabled children or young people who care for another family member. This bulletin presents findings from the latest survey of carers’ statistics for Northern Ireland. \"",
+  "base_path": "/government/statistics/quarterly-carers-statistics-for-northern-ireland-march-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

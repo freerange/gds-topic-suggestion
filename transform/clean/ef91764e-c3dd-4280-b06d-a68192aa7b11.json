@@ -1,0 +1,11 @@
+{
+  "title": "Cancer survival in England , Cancer Survival in England, cancers diagnosed 2018 to 2022, followed up to 2023",
+  "body": "\"This release summarises the survival of adults diagnosed with cancer in England between 2018 and 2022 and followed to 2023, and children diagnosed with cancer in England between 2002 and 2022 and followed to 2021. Adult cancer survival estimates are presented by age, deprivation, gender, stage at diagnosis, and geography. This publication now also presents the index of cancer survival. \"",
+  "base_path": "/government/statistics/cancer-survival-in-england-cancer-survival-in-england-cancers-diagnosed-2018-to-2022-followed-up-to-2023",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

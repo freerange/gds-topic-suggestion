@@ -1,0 +1,15 @@
+{
+  "title": "Adult social care in England, monthly statistics: February 2025",
+  "body": "\"Official statistics on adult social care in England. This publication consists of:   a monthly report associated data tables   Data on adult social care settings covered in this publication includes:   occupancy levels in care homes visiting in care homes COVID-19-related absence rates COVID-19 vaccinations flu vaccinations official statistics in development: estimates of digital social care record uptake  \"",
+  "base_path": "/government/statistics/adult-social-care-in-england-monthly-statistics-february-2025",
+  "taxons": [
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "The Adjudicator's Office annual report 2025",
+  "body": "\"Our annual report reflects on performance during the period 1 April 2024 to 31 March 2025.  Our Insight report summarises our deep-dive review of how customer circumstances are applied in decision making, with recommendations to help HMRC improve services to customers. \"",
+  "base_path": "/government/publications/the-adjudicators-office-annual-report-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Complaints and appeals",
+      "base_path": "/money/complaints-appeals"
+    }
+  ]
+}

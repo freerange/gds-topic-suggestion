@@ -1,0 +1,11 @@
+{
+  "title": "Fisheries: consultations between the UK, the EU and Norway for 2026",
+  "body": "\"These agreed records document the outcome of annual consultations between the UK, EU and Norway on opportunities for jointly managed fisheries stocks in 2026.   These consultations promote sustainable management of 7 North Sea jointly managed stocks of fish:    cod  haddock  saithe  whiting  plaice  herring  sprat    There is a separate agreed record of consultations between the EU, Norway and the UK on:    sprat for 1 July 2025 to 30 June 2026    Read this on: Fisheries: consultations between the EU, Norway and the UK for 2025 \"",
+  "base_path": "/government/publications/fisheries-consultations-between-the-uk-the-eu-and-norway-for-2026",
+  "taxons": [
+    {
+      "title": "Marine fisheries",
+      "base_path": "/environment/marine-fisheries"
+    }
+  ]
+}

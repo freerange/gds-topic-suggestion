@@ -1,0 +1,11 @@
+{
+  "title": "South Korea: Knowledge Base profile",
+  "body": "\"This document contains useful information about South Korea which will assist HM Passport Office staff to process passport applications.  This document includes information about:   names nationality legitimacy adoption surrogacy gender recognition civil partnerships and marriage documents from South Korea  \"",
+  "base_path": "/government/publications/south-korea-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

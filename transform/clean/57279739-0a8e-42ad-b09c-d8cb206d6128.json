@@ -1,0 +1,11 @@
+{
+  "title": "FOI release: Devices",
+  "body": "\"FOI202500019S relates to questions about electronic devices deployed by FCDO Services, the procurement of software services and the implantation of AI services. \"",
+  "base_path": "/government/publications/foi-release-devices",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

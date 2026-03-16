@@ -1,0 +1,11 @@
+{
+  "title": "Council Tax levels set by local authorities in England 2025 to 2026",
+  "body": "\"Information on Council Tax levels set by local authorities in England and associated information for the financial year 2025 to 2026. \"",
+  "base_path": "/government/statistics/council-tax-levels-set-by-local-authorities-in-england-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Council Tax",
+      "base_path": "/regional-and-local-government/local-government-council-tax"
+    }
+  ]
+}

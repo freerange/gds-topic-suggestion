@@ -1,0 +1,11 @@
+{
+  "title": "Deaths registered monthly in England and Wales: December 2025 ",
+  "body": "",
+  "base_path": "/government/statistics/announcements/deaths-registered-monthly-in-england-and-wales-decemeber-2025",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    }
+  ]
+}

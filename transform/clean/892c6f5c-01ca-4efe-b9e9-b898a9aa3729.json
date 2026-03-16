@@ -1,0 +1,11 @@
+{
+  "title": "General Practice Workforce, 30 September 2025",
+  "body": "\"This report presents data about GPs, Nurses, Direct Patient Care and Admin/Non-Clinical staff working in General Practice in England, along with information on their patients and practices. All data is final at publication. \"",
+  "base_path": "/government/statistics/general-practice-workforce-30-september-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

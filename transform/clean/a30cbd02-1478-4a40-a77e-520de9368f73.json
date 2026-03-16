@@ -1,0 +1,11 @@
+{
+  "title": "Better Outcomes through Linked Data: Links between homelessness and offending",
+  "body": "\"​This report is based on statistical analysis undertaken as part of the Better Outcomes through Linked Data (BOLD) programme, on linked datasets of the Ministry of Housing, Communities and Local Government’s homelessness data with the Ministry of Justice’s datasets on offenders in prison and on probation.  The key findings provides us with better understanding of the associations between housing support and individuals offending journeys. \"",
+  "base_path": "/government/publications/better-outcomes-through-linked-data-links-between-homelessness-and-offending",
+  "taxons": [
+    {
+      "title": "Homelessness and rough sleeping",
+      "base_path": "/housing-local-and-community/homelessness-rough-sleeping"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Create and submit compartment maps and spatial data",
+  "body": "\"You need maps to support your woodland management plan or felling licence application.  These guides explain what is required when submitting compartment maps and spatial data to the Forestry Commission. \"",
+  "base_path": "/government/publications/create-and-submit-compartment-maps-and-spatial-data",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    }
+  ]
+}

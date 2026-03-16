@@ -1,0 +1,15 @@
+{
+  "title": "Labour Force Survey Annual Summary Report 2024",
+  "body": "\"The Labour Force Survey Annual Summary Report 2024 provides key labour market results from the Labour Force Survey (LFS) for the year ending 31st December 2024. Headline employment, unemployment and economic inactivity estimates are included. \"",
+  "base_path": "/government/statistics/labour-force-survey-annual-summary-report-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

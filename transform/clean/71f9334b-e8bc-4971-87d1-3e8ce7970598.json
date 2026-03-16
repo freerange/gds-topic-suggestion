@@ -1,0 +1,15 @@
+{
+  "title": "ORR: workforce management information, December 2024",
+  "body": "\"The Office of Rail and Road (ORR) publishes details about staff numbers and payroll costs for payroll and non-payroll staff on a monthly basis.  \"",
+  "base_path": "/government/publications/orr-workforce-management-information-december-2024",
+  "taxons": [
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

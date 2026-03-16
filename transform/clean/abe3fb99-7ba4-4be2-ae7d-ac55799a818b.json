@@ -1,0 +1,23 @@
+{
+  "title": "CHM report into the safety implications of proposed puberty blockers legislation: factsheet",
+  "body": "\" The Commission on Human Medicines (CHM) provided the Secretary of State for Health and Social Care and the Minister of Health for Northern Ireland with an independent report setting out their expert view on the safety implications of proposed legislation.  CHM advises ministers on the quality, safety and efficacy of medicinal products. Their report is technical and may not be easily interpreted by non-experts. This factsheet is designed to help readers interpret the report. \"",
+  "base_path": "/government/publications/chm-report-into-the-safety-implications-of-proposed-puberty-blockers-legislation-factsheet",
+  "taxons": [
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    },
+    {
+      "title": "Mental health of children and young people",
+      "base_path": "/childcare-parenting/mental-health-of-children-and-young-people"
+    },
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Sexual and reproductive health",
+      "base_path": "/health-and-social-care/sexual-and-reproductive-health"
+    }
+  ]
+}

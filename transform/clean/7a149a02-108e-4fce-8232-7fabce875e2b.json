@@ -1,0 +1,11 @@
+{
+  "title": "Office for National Statistics workforce management information: 2025",
+  "body": "\"Information about the Office for National Statistics’ workforce and paybill costs, published monthly for transparency. \"",
+  "base_path": "/government/publications/office-for-national-statistics-workforce-management-information-2025",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

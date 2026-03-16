@@ -1,0 +1,15 @@
+{
+  "title": "Effectiveness of targets for road safety",
+  "body": "\"This research was commissioned by the Department for Transport (DfT) as a result of action 68 of the Road safety statement 2019, which committed DfT to ‘commission a review of research on road safety targets and their effectiveness’.  The study examined the background to targets within the context of international efforts to improve road safety and the increasingly widespread adoption of the ‘safe system’ approach to road safety management. It also:   reviewed previous research evaluating the effectiveness of casualty reduction targets on road safety, to provide up-to-date information that will inform the government’s road safety strategy examined international practices to apply a safety performance framework identified the main concepts that are widely accepted as being necessary for a modern road safety strategy   The evidence suggests that targets play a role in reducing fatalities, but their impact cannot be separated from wider road safety strategies.  The study recommends that DfT considers adopting a national road safety performance framework.  WSP and the University of Loughborough completed the research on behalf of DfT.  \"",
+  "base_path": "/government/publications/effectiveness-of-targets-for-road-safety",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    },
+    {
+      "title": "Transport modelling and appraisal",
+      "base_path": "/transport/transport-modelling-and-appraisal"
+    }
+  ]
+}

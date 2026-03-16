@@ -1,0 +1,11 @@
+{
+  "title": "UK national biodiversity strategy and action plan",
+  "body": "\"The UK national biodiversity strategy and action plan (NBSAP) for 2030 draws on the commitments made by the UK and the UK’s Overseas Territories and Crown Dependencies to summarise and emphasise our collective ambition and determination to work together to address biodiversity loss.  The UK NBSAP commits the UK to achieving all 23 of the the Kunming-Montreal Global Biodiversity Framework (GBF) targets at home.  \"",
+  "base_path": "/government/publications/uk-national-biodiversity-strategy-and-action-plan",
+  "taxons": [
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    }
+  ]
+}

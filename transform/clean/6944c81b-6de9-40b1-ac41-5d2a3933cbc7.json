@@ -1,0 +1,19 @@
+{
+  "title": "Quarterly economic commentary: January to March 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/quarterly-economic-commentary-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

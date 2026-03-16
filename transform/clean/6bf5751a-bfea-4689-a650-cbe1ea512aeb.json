@@ -1,0 +1,11 @@
+{
+  "title": "Guidance for property professionals",
+  "body": "\"Guidance      Practice guides  Our guides for property professionals submitting applications with HM Land Registry.      Additional guidance and services Further guidance to support with specific activities.       Support with complex applications  If you cannot find answers in our practice guides, you may be able to get direct support from our specialists.       Forms  Find all of our forms for various application types.      Using HM Land Registry’s digital services User guides for our online application portal and software connected to our Business Gateway APIs.      Training  We have hours of free training videos, tips to avoid common requisitions, application check lists and other support.      Contact HM Land Registry Find quick guidance on common topics, or use our online contact form or phone number to ask specific questions.      \"",
+  "base_path": "/guidance/guidance-for-property-professionals",
+  "taxons": [
+    {
+      "title": "Land registration",
+      "base_path": "/housing-local-and-community/land-registration"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Register a Pernambuco stockpile",
+  "body": "\"We’ll ask you:     to provide information on the size of your Pernambuco stockpile how you plan to use your Pernambuco stockpile  the origin of your Pernambuco stockpile  for the net change in your stockpile if you’re applying to register an update to your last submission   Start now   You should keep a copy of your submission for your records and review it annually to ensure it remains up to date.  Get help    For help using this service, email CITES.UKMA@defra.gov.uk \"",
+  "base_path": "/guidance/register-a-pernambuco-stockpile",
+  "taxons": [
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    }
+  ]
+}

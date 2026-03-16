@@ -1,0 +1,31 @@
+{
+  "title": "Experiences of migrants and employers using eVisa (2022)",
+  "body": "\"This 2022 survey asked migrants and employers about their awareness and usage of eVisas, usage of the online right to work checking service, ease of use, views on communications around eVisas and awareness of legislation changes.  This research was commissioned by the last Conservative government, prior to 5 July 2024 \"",
+  "base_path": "/government/publications/experiences-of-migrants-and-employers-using-evisa-2022",
+  "taxons": [
+    {
+      "title": "Immigration rules",
+      "base_path": "/entering-staying-uk/immigration-rules"
+    },
+    {
+      "title": "Foreign nationals working in the UK",
+      "base_path": "/entering-staying-uk/Foreign-nationals-working-in-UK"
+    },
+    {
+      "title": "Right to rent in the UK",
+      "base_path": "/entering-staying-uk/right-to-rent-in-the-UK"
+    },
+    {
+      "title": "Travel and identity documents for foreign nationals",
+      "base_path": "/entering-staying-uk/travel-identity-documents-for-foreign-nationals"
+    },
+    {
+      "title": "Visa application centres",
+      "base_path": "/entering-staying-uk/visa-application-centres"
+    },
+    {
+      "title": "Visa applications",
+      "base_path": "/entering-staying-uk/visa-applications"
+    }
+  ]
+}

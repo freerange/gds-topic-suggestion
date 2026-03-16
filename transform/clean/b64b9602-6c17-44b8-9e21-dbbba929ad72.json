@@ -1,0 +1,11 @@
+{
+  "title": "AI Playbook for the UK Government",
+  "body": "\"The playbook includes 10 principles civil servants should uphold when using AI. It explains what AI is – including its capabilities, limitations and risks – and how to select, buy and deploy AI in government.  The playbook expands on the Generative AI Framework for HMG published in January 2024. This updated guidance covers new developments and we’ve retitled it to encompass a wider range of AI technologies.  You can order a print copy of the playbook. \"",
+  "base_path": "/government/publications/ai-playbook-for-the-uk-government",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

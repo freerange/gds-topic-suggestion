@@ -1,0 +1,11 @@
+{
+  "title": "UK methane action plan",
+  "body": "\"This action plan demonstrates our progress at home and internationally to tackle methane, recognising that reducing methane emissions is a powerful tool to rapidly slow down the rate of global warming.  The plan details the key methane abating policies we have developed as part of our Carbon Budget and Growth Delivery Plan alongside the actions we are taking internationally to reduce global methane emissions. It also highlights the historic progress that the UK has made so far. \"",
+  "base_path": "/government/publications/uk-methane-action-plan",
+  "taxons": [
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    }
+  ]
+}

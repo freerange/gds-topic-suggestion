@@ -1,0 +1,23 @@
+{
+  "title": "Automated Vehicles Act 2024 implementation",
+  "body": "\"I wish to provide the House with an update on steps the government is taking to implement the Automated Vehicles (AV) Act 2024 and kickstart economic growth, a top priority in the government’s Plan for Change.  The AV Act delivers one of the most comprehensive legal frameworks of its kind anywhere in the world, with safety at its core, which will give potential operators, tech developers and manufacturers the confidence to invest in the UK. It sets out clear legal responsibilities so businesses know where they stand, establishes a safety framework and creates the necessary regulatory powers.  The AV Act implementation programme has been designed to maximise innovation, enabling investors and operators to develop and deploy the creative mobility solutions that can drive growth. This comes as part of a government-wide programme of work using artificial intelligence (AI) to deliver the Plan for Change, with AVs being a clear example of how AI will bring tangible benefits to the public.  Automated passenger services  Today (10 June 2025) I can announce that the government will accelerate the introduction of automated passenger services (APS) regulations, subject to the outcome of a consultation later this summer. This will provide businesses with the regulatory confidence to invest in testing and deploying these innovative services on our streets, reinforcing the UK’s position among the world leaders in tech deployment. It will help facilitate commercial pilots of services with paying passengers and no safety driver to be deployed from spring 2026.  The APS permitting regime was created to address complexities of applying current taxi, private hire vehicle, and public service vehicle legislation to passenger services that would operate without a driver.  Protecting marketing terms for AVs   Today, I launched a consultation, and an accompanying draft statutory instrument (SI) on protecting marketing terms for AVs; the consultation will run for 12 weeks. The AV Act sets out an authorisation process to determine whether a vehicle can safely drive itself without being controlled or monitored by a human. We want to support the innovators and businesses which are building genuinely groundbreaking tech by protecting certain terms so they can only be used to describe authorised self-driving vehicles, boosting investor confidence, consumer trust and driver certainty.  This consultation aims to identify the words, expressions, symbols or marks that should only be used to describe authorised AVs. The government expects to bring forward secondary legislation following careful consideration of consultation responses. Our aim is for these regulations to come into effect in early 2026; they will be subject to the negative procedure.  Statement of safety principles for AVs   Today, I have published a call for evidence on the statement of safety principles which will consider the safety outcomes that should be sought by self-driving vehicles; the call for evidence will also run for 12 weeks. Public confidence in the safety of these vehicles will be essential to take advantage of the huge economic opportunities they will present.  The Department for Transport’s monitoring and annual reporting will consider performance against these...",
+  "base_path": "/government/speeches/automated-vehicles-act-2024-implementation",
+  "taxons": [
+    {
+      "title": "Self-driving vehicles",
+      "base_path": "/transport/self-driving-vehicles"
+    },
+    {
+      "title": "Road infrastructure",
+      "base_path": "/transport/road-infrastructure"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

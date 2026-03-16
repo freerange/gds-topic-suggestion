@@ -1,0 +1,19 @@
+{
+  "title": "Profile: GRU cyber and hybrid threat operations",
+  "body": "\"This document illustrates how the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU) is making sustained and persistent use of cyber and information operations to cause real world harm to the UK and its allies and in support of Russia’s illegal war in Ukraine.  By publicly highlighting malicious activity, and imposing clear costs in response, we are sending a clear message that we know what Russia is doing, it will not be tolerated, and we will hold those responsible to account.    The UK is not acting alone. We will continue to work with our allies and partners (including through NATO and the EU and its Member States) to combat the full spectrum of malign hybrid activity emanating from Putin’s Kremlin in solidarity with Ukraine in their fight for a just and lasting peace. \"",
+  "base_path": "/government/publications/profile-gru-cyber-and-hybrid-threat-operations",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

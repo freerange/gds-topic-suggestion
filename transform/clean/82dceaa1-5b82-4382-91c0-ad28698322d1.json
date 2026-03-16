@@ -1,0 +1,19 @@
+{
+  "title": "Decisions from the Specialised Committee on Road Transport",
+  "body": "\"Road transport systems and practice decisions made by the Specialised Committee on Road Transport.  The decisions affect the transport areas of the:   categories, types and degrees of seriousness of infringements leading to the loss of good repute for road haulage operators national electronic registers of road transport undertakings and modes of information exchange within those systems the United Kingdom’s financial contribution to road transport information systems  \"",
+  "base_path": "/government/publications/decisions-from-the-specialised-committee-on-road-transport",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    },
+    {
+      "title": "Transport businesses and vehicle operator licences",
+      "base_path": "/transport/transport-businesses-and-vehicle-operator-licences"
+    }
+  ]
+}

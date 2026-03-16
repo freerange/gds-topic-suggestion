@@ -1,0 +1,15 @@
+{
+  "title": "Graduated Driver Licensing (GDL) Monitoring Report, 2023",
+  "body": "\"This eighth report in the series presents data for the five years 2019-2023 compared with a 2012-2016 baseline, and provides the current picture ahead of the launch of GDL. It is intended that this report will be updated annually so that trends in these data will help determine how the introduction of GDL has contributed to movement in collisions statistics. \"",
+  "base_path": "/government/statistics/graduated-driver-licensing-gdl-monitoring-report-2023",
+  "taxons": [
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

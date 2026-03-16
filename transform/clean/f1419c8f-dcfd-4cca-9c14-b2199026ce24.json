@@ -1,0 +1,11 @@
+{
+  "title": "Gastrointestinal infections and outbreak statistics for England",
+  "body": "\"These reports are produced by the Gastrointestinal Infections, Food Safety and One Health (GIFSOH) Division in the Clinical Public Health Group, Epidemic and Emerging Infections Directorate, UK Health Security Agency (UKHSA).  Information on the management and epidemiology of gastrointestinal infections can be found via the Gastrointestinal infections: guidance, data and analysis collection.  Previous routine laboratory reports of GI infections were published by Public Health England (2014 to 2021).  \"",
+  "base_path": "/government/publications/gastrointestinal-infections-in-england",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

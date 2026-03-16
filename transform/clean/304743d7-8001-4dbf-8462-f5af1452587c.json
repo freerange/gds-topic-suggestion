@@ -1,0 +1,11 @@
+{
+  "title": "Public service productivity, adult social care, England: financial year ending 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/public-service-productivity-adult-social-care-england-financial-year-ending-2023",
+  "taxons": [
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

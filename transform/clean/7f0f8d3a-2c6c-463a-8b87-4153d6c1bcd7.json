@@ -1,0 +1,15 @@
+{
+  "title": "Consolidated Active Travel Fund: local transport authority allocations",
+  "body": "\"Final funding allocations for local transport authorities for the Consolidated Active Travel Fund. The Consolidated Active Travel Fund supports local transport authorities with developing and constructing walking, wheeling and cycling facilities in England.  The revenue funding will support network planning and early scheme design plus  community engagement and training activities.  The overall grant is provided at 76% capital and 24% revenue, but with variations between local transport authorities.  The Consolidated Active Travel Fund will supersede the Active Travel Fund and Capability Fund in financial year 2025 to 2026. \"",
+  "base_path": "/government/publications/consolidated-active-travel-fund-local-transport-authority-allocations",
+  "taxons": [
+    {
+      "title": "Cycling and walking",
+      "base_path": "/transport/cycling-and-walking"
+    },
+    {
+      "title": "Local transport funding",
+      "base_path": "/transport/local-transport-funding"
+    }
+  ]
+}

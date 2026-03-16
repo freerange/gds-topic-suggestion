@@ -1,0 +1,15 @@
+{
+  "title": "Impacts of integrated land-use and transport planning",
+  "body": "\"This report summarises evidence on how combining land-use and transport planning affects travel, the economy, and the environment. The findings show that, when implemented effectively, integrated planning can:   reduce journey lengths increase levels of active travel improve the performance of public transport deliver economic benefits through enhanced productivity and urban regeneration   The rapid evidence assessment examines transport, economic, social and environmental outcomes associated with integrated land-use and transport planning. It also includes relevant case studies and identifies important insights for policy makers.  The annex document sets out the research strategy and gives more detail on the papers used in the main report’s findings. \"",
+  "base_path": "/government/publications/impacts-of-integrated-land-use-and-transport-planning",
+  "taxons": [
+    {
+      "title": "Public sector land use",
+      "base_path": "/government/public-sector-land-use"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

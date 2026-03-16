@@ -1,0 +1,11 @@
+{
+  "title": "Natural Capital and Ecosystem Assessment (NCEA) programme",
+  "body": "\"The Natural Capital and Ecosystem Assessment (NCEA) programme is a science innovation and transformation programme.  It has been set up to survey England’s land, freshwater, and coastal ecosystems to produce a baseline assessment of our natural assets by 2029.  \"",
+  "base_path": "/government/publications/natural-capital-and-ecosystem-assessment-ncea-programme",
+  "taxons": [
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    }
+  ]
+}

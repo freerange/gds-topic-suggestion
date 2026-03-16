@@ -1,0 +1,23 @@
+{
+  "title": "Inaccurate Self Assessment repayment claims research",
+  "body": "\"HM Revenue and Customs (HMRC) commissioned independent research agency, NatCen, to undertake qualitative research to understand the drivers and deterrents of making inaccurate Self Assessment repayment claims.  The research comprised of 30 in depth interviews with Self Assessment customers. \"",
+  "base_path": "/government/publications/inaccurate-self-assessment-repayment-claims-research",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Paying HMRC",
+      "base_path": "/money/paying-hmrc"
+    },
+    {
+      "title": "Tax compliance",
+      "base_path": "/money/tax-compliance"
+    },
+    {
+      "title": "Self Assessment",
+      "base_path": "/money/self-assessment"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Impact of large events on consumer spending in local UK economies",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/impact-of-large-events-on-consumer-spending-in-local-uk-economies",
+  "taxons": [
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

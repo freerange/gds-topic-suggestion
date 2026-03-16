@@ -1,0 +1,11 @@
+{
+  "title": "Budget 2025 tax related documents",
+  "body": "\"The Chancellor of the Exchequer, the Rt Hon. Rachel Reeves MP, delivered Budget 2025 to Parliament on 26 November 2025.   Full details of all announcements, supporting documents and information are available. Read:    Budget 2025 for full details of the announcements  an overview of tax legislation and rates (OOTLAR) for a list of the announced tax policy measures the impact definitions   \"",
+  "base_path": "/government/collections/budget-2025-tax-related-documents",
+  "taxons": [
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

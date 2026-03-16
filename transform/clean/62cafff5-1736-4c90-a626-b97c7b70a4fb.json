@@ -1,0 +1,15 @@
+{
+  "title": "Egg Packers Survey NI November 2024",
+  "body": "\"The Egg Packers survey provides information to estimate the size and performance of the egg processing sector in Northern Ireland as well as on the structure of the egg packing sector, on the population of laying hens and on the egg production systems used. \"",
+  "base_path": "/government/statistics/egg-packers-survey-ni-november-2024",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

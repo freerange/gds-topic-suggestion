@@ -1,0 +1,35 @@
+{
+  "title": "Local Authority and Transport Operators Data Collection System Discovery report",
+  "body": "\"A Digital Data Collection Discovery Report that outlines potential improvements to the data collection process. This report explores opportunities to collect statistical data through digital solutions.  The discovery was conducted by Lagom Strategy between November 2023 and February 2024. \"",
+  "base_path": "/government/publications/local-authority-and-transport-operators-data-collection-system-discovery-report",
+  "taxons": [
+    {
+      "title": "Driving and road transport",
+      "base_path": "/transport/driving-and-road-transport"
+    },
+    {
+      "title": "Buses",
+      "base_path": "/transport/buses"
+    },
+    {
+      "title": "Light rail and trams",
+      "base_path": "/transport/light-rail-and-trams"
+    },
+    {
+      "title": "Rail",
+      "base_path": "/transport/rail"
+    },
+    {
+      "title": "Road improvement and investment",
+      "base_path": "/transport/road-improvement-and-investment"
+    },
+    {
+      "title": "Road maintenance",
+      "base_path": "/transport/road-maintenance"
+    },
+    {
+      "title": "Taxi and private hire accessibility",
+      "base_path": "/transport/taxi-and-private-hire-accessiblity"
+    }
+  ]
+}

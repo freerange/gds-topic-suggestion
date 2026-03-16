@@ -1,0 +1,11 @@
+{
+  "title": "Heat Network Technical Assurance Scheme (HNTAS): technical specifications",
+  "body": "\"These draft technical specifications relate to the upcoming Heat Network Technical Assurance Scheme (HNTAS) and detail the technical obligations to be fulfilled as part of the scheme, including the:   technical requirements to be met  performance monitoring requirements to be met  key failures to be avoided   evidence requirements to be provided to demonstrate conformity with HNTAS    They are for use by:   heat network developers heat network designers heat network operators heat network equipment suppliers organisations within the heat network supply chain   Each technical specification corresponds to an equivalent assessment procedure.  Next steps  We will publish further draft technical specifications and assessment procedures for new build networks and for existing networks at a later date.  Final versions of these documents will be available once the scheme is live in 2026.  \"",
+  "base_path": "/government/publications/heat-network-technical-assurance-scheme-hntas-technical-specifications",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

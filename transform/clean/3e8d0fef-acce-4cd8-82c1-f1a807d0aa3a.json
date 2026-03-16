@@ -1,0 +1,15 @@
+{
+  "title": "UKHSA launches development programme for wastewater monitoring techniques which could catch pandemic threats early",
+  "body": "\"A new programme to evaluate how wastewater monitoring could be used to detect a wider range of dangerous pathogens has been launched today by the UK Health Security Agency (UKHSA).  Over the coming months, UKHSA laboratories, using £1.3 million of investment from the UK Integrated Security Fund (ISF), will assess the use of cutting-edge technologies to improve the UK’s ability to detect and identify the genetic material of various viruses in wastewater, tracking how the amount of virus detected changes over time.   This programme builds on the UK’s existing wastewater surveillance for polio and, if successful, could develop the UK’s capability to detect dangerous diseases such as Crimean Congo Haemorrhagic Fever, a severe disease endemic in Africa, the Balkans, the Middle East and parts of Asia that has never before been targeted in wastewater testing.   The programme will also explore the potential of these technologies to create an early warning system for pathogens such as Mpox, West Nile Virus, and Lassa, which could in  future, enable the UK to detect and take faster action on outbreaks, which, as we saw in the COVID-19 pandemic, is vital for an effective response.  Pat McFadden, Chancellor of the Duchy of Lancaster, said:   Our first responsibility is to keep people safe, and the Biological Security Strategy and our new Resilience Action Plan sets out how health security is an essential part of our national security.   This new cutting-edge wastewater monitoring project has the potential to be a valuable tool in our armoury - helping us prepare for and rapidly detect future outbreaks as we learn lessons from the pandemic.   Professor Steven Riley, UKHSA Chief Data Officer, said:   Wastewater monitoring has the potential to be central to our work on pathogens that threaten public health. It shows great promise as a cost-effective way for us to quickly detect a range of emerging pathogens, which is vital for an effective response.  This is an exciting and important project. The diversity of biological threats is increasing globally, and it’s crucial that we stay at the cutting edge of new technology to detect them.   The UKHSA wastewater monitoring project for pathogen detection is one of several biosecurity projects funded through the UK Integrated Security Fund (UKISF) Biosecurity Portfolio, launched by the Cabinet Office earlier this year.  \"",
+  "base_path": "/government/news/ukhsa-launches-development-programme-for-wastewater-monitoring-techniques-which-could-catch-pandemic-threats-early",
+  "taxons": [
+    {
+      "title": "Chemical and environmental hazards",
+      "base_path": "/health-and-social-care/health-protection-chemical-and-environmental-hazards"
+    },
+    {
+      "title": "Research, testing and standards",
+      "base_path": "/health-and-social-care/health-protection-services-research-testing-and-standards"
+    }
+  ]
+}

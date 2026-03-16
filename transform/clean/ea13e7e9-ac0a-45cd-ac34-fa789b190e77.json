@@ -1,0 +1,15 @@
+{
+  "title": "Creative Industries Economic Estimates 2024",
+  "body": "\"This bulletin contains information GVA (Gross Value Added), number of businesses and number of people employed in the Creative Industries. The bulletin is an Official Statistics publication produced annually by the Analytics Division of the Department for Communities.  This bulletin provides findings from Culture, Media and Sport (DCMS) Economic Estimates Reports. \"",
+  "base_path": "/government/statistics/creative-industries-economic-estimates-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Arts and culture",
+      "base_path": "/society-and-culture/arts-and-culture"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Farm incomes in Northern Ireland: 2023/24",
+  "body": "\"This is an annual publication based on accounting information collected in the Farm Business Survey(FBS). The sample of farms in the FBS is representative, in terms of types and sizes, of almost all of the population of farm businesses above 0.5 Standard Labour Requirements (SLRs) in Northern Ireland. \"",
+  "base_path": "/government/statistics/farm-incomes-in-northern-ireland-202324",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

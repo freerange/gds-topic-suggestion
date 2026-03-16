@@ -1,0 +1,11 @@
+{
+  "title": "Non-domestic rating: challenges and changes, 2017 and 2023 rating lists, March 2025",
+  "body": "\"Released: 8 May 2025  Next Release: August 2025  Frequency of release: Quarterly  Coverage: England and Wales  This release includes statistics relating to checks and challenges under the Check Challenge Appeal (CCA) system used for the 2023 rating list in both England and Wales and the 2017 rating list in England. It also includes non-CCA challenges for the 2017 rating list in Wales,     In August 2023 we reviewed and redesigned the table structures for this publication, with the aim of making them more usable, as well as more consistent with presentation of official statistics across other departments. As such they will differ in structure to versions prior to August 2023.   We made some changes to improve the coherence of our suite of non-domestic statistics. This impacts both Challenges and Changes and Stock of Properties publications. We have removed the counts of assessment reviews tables from the NDR Challenges and Changes publication. In their place we have added tables in the NDR Stock of Properties publication showing counts of the main types of changes to the list i.e. insertions, deletions, reconstitutions etc, most of which are a result of assessment reviews. The purpose of this change is to help explain in a more complete way, year on year changes to stock and provide a more meaningful set of statistics. These changes were implemented from June 2024.  These statistics will be expanded in future releases depending on user needs, and data availability and quality.  For further details on the information included in this release, including a glossary of terms and a variable list for the CSV format files, please refer to the background information document or the CSV metadata file within the ‘CSV Files’ zip file. \"",
+  "base_path": "/government/statistics/non-domestic-rating-challenges-and-changes-2017-and-2023-rating-lists-march-2025",
+  "taxons": [
+    {
+      "title": "Business rates",
+      "base_path": "/regional-and-local-government/local-government-business-rates"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Avian influenza (bird flu) in Brazil",
+  "body": "\"Preliminary outbreak assessments for avian influenza in Brazil.  We monitor any major, notifiable or new and emerging animal disease outbreaks worldwide. When we become aware of a new animal disease outbreak in the UK or another country, we may carry out a preliminary outbreak assessment.  Earlier reports are available on the National Archives website.  Read our avian influenza (bird flu) detailed guidance for information about how to spot the disease, what to do if you suspect it and measures to prevent it. \"",
+  "base_path": "/government/publications/avian-influenza-bird-flu-in-brazil",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    }
+  ]
+}

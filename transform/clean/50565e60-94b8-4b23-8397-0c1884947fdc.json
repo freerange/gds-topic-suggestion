@@ -1,0 +1,15 @@
+{
+  "title": "Agreement on Defence Export Controls",
+  "body": "\"Details  The UK’s accession to the Agreement will reduce the administrative burden of granting export licences between signatory nations, open opportunities for UK businesses and help boost economic growth across the country. UK sovereignty and robust export controls on defence equipment exports will be maintained under the agreement. The Agreement does not affect the UK’s export control regime or its obligations under international law, including the Arms Trade Treaty, on the conditions for exporting of military equipment. The UK’s licensing authority will therefore continue to assess each licence application against the Strategic Export Licensing Criteria. Accession to the Agreement will not change this approach.  The Agreement establishes a framework between the United Kingdom, France, Germany, and Spain to facilitate the licensing of defence exports within collaborative industrial programs. It creates an expectation that signatories consider joint exports favourably and aims to reduce the likelihood of signatories objecting to the export of Joint Government Projects and Industrial Joint Ventures, subject to compliance with existing national and international legal obligations. This will mean more certainty for UK firms involved in multinational defence programs and supply chains, while preserving UK sovereignty. \"",
+  "base_path": "/government/publications/agreement-on-defence-export-controls",
+  "taxons": [
+    {
+      "title": "International defence commitments",
+      "base_path": "/defence/international-defence-commitments"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    }
+  ]
+}

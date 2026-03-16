@@ -1,0 +1,23 @@
+{
+  "title": "Financial sanctions suspected breach reporting form",
+  "body": "\"Before you start   This form should be used to report suspected breaches of financial sanctions to HM Treasury’s Office of Financial Sanctions Implementation (OFSI).     Before completing this form you should consult OFSI’s general guidance for information on your financial sanctions reporting and compliance obligations.    You should note that for some businesses there is a legal obligation to report, and that not doing so is a criminal offence. If you are unsure of your compliance or reporting obligations under financial sanctions, you should seek independent legal advice.    Please ensure that when completing this form, the facts and information provided are accurate and true to the best of your knowledge. You should have completed a narrative report of the circumstances of the breach ready to upload before you commence this form (see further below for guidance), unless this is a pre-notification and you intend to later make a fuller report within a specified timeframe.   You cannot save your progress. Make sure you have the following information before you start:     Contact details of the person making the report    Details of the suspected breacher and any involved designated person(s) (DP), including their group ID if they are a DP     Details of any persons connected with Russia or trust services, if involved    The sanctions regime under which the suspected breach has occurred and details of any relevant licence numbers that may apply or are suspected to have been breached    Details of the suspected breach including value, currency, date, details of remitter, intermediary and ultimate beneficiary    Documentation detailing the events or series of actions that led to the suspected breach taking place (further guidance below)     Details of when and how the suspected breach was discovered, and any other authority the matter has also been or will be reported to    The types of funds, economic resources or financial services involved    Any other supporting material     Information provided could be used by OFSI in enforcement proceedings if it is considered that a breach of relevant sanctions legislation has occurred. Please also note that information received by OFSI may be disclosed to third parties in accordance with provisions set out in the Information and Records part of the regulations and in compliance with applicable data protection laws. OFSI may refer cases to the appropriate regulators and enforcement agencies who may themselves decide whether to pursue a prosecution or other regulatory action.   Completing the narrative report   Your report should include all known details in relation to the suspected breach activity. You should carefully review OFSI’s financial sanctions enforcement and monetary penalties guidance prior to writing your report. Chapter 3, Case assessment, gives details of how OFSI will assess a case and the factors we will take into account. OFSI encourages all reporters to include as much detail as possible in this report to assist OFSI’s understanding of the case and circumstances. If making a self-report, you should ensure that this report is accurate and materially complete in order for this to be considered a mitigating factor in any subsequent enforcement case,...",
+  "base_path": "/guidance/financial-sanctions-suspected-breach-reporting-form",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    },
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    },
+    {
+      "title": "Reporting crimes and getting compensation",
+      "base_path": "/crime-justice-and-law/reporting-crimes-compensation"
+    }
+  ]
+}

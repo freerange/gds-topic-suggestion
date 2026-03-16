@@ -1,0 +1,19 @@
+{
+  "title": "Using assistive and accessible technology (ATech)",
+  "body": "\"Assistive and accessible technology, often called ATech, refers to any item, product, software, or equipment designed to help people with a disability or impairment.  ATech is a tool that removes barriers, making it possible for people to perform tasks they would otherwise find difficult. This enables them to take part fully in life, work, and education.  This guide is an introduction to ATech. It explains:   what ATech is the different groups of people who can benefit from it the 3 main categories (no-tech, low-tech and high-tech) how to get ATech, including applying for a formal needs assessment how to pay for ATech your legal rights as an employee  \"",
+  "base_path": "/government/publications/using-assistive-and-accessible-technology-atech",
+  "taxons": [
+    {
+      "title": "Disability rights",
+      "base_path": "/health-and-social-care/disabilities-rights"
+    },
+    {
+      "title": "Equality",
+      "base_path": "/society-and-culture/equality"
+    },
+    {
+      "title": "Digital accessibility",
+      "base_path": "/government/digital-accessibility"
+    }
+  ]
+}

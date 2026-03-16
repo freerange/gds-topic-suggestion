@@ -1,0 +1,15 @@
+{
+  "title": "Clinically seriously injured (MAIS 3+) road casualties in Northern Ireland, 1999-2023",
+  "body": "\"This research paper presents the number of people seriously injured in road traffic collisions in Northern Ireland for 1999 to 2023 using a clinical definition. They have been produced using data on road casualties admitted to hospital in Northern Ireland as well as data on road casualties in road traffic collisions reported to the PSNI. Our statistical practice is regulated by the Office for Statistical Regulation (OSR). \"",
+  "base_path": "/government/statistics/clinically-seriously-injured-mais-3-road-casualties-in-northern-ireland-1999-2023",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

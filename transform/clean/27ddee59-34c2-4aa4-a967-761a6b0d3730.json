@@ -1,0 +1,31 @@
+{
+  "title": "Chief Medical Officer's annual report 2025: infections ",
+  "body": "\"The Chief Medical Officer for England, Professor Chris Whitty, has released his annual report for 2025. It is on infectious diseases.   We have been very successful at reducing the risk of once common and feared infections to very low levels in children and young adults. Several major risks and opportunities remain. In a wide ranging report with recommendations for the public, the NHS and the government, Professor Whitty makes a number of key points, including that:     the great majority of deaths from infections are now in older people, who can also suffer significant harms from infections, but we are much less systematic about preventing infections in older age   vaccines provide protection from some of the worst infections and have eliminated or could eliminate many major diseases in the UK, from polio to cervical cancer. England and the wider UK still have some of the world’s highest vaccine uptake rates but these are drifting down - we must turn this around   unlike other major disease types, infections can evolve around our protections, potentially making them ineffective, as seen with antimicrobial resistance and some vaccines. We therefore need constantly to innovate to stay ahead of this evolution   major pandemics and epidemics of new or emerging diseases have always occurred, and always will. We need to maintain our ability to respond to them rapidly. It is very easy to let down our guard and disinvest between emergencies, but if we do that we will always regret it when the next emergency strikes   England has great expertise in preventing, diagnosing and treating people with rare, serious and imported infections in the UK and globally. We need to maintain this capacity to reduce the risk to all    The major risk infections pose to older people is often underappreciated. Older adults are more likely to acquire many infections, much more likely for infections to become severe, and the great majority of those who die of infections are older adults. Infections also increase the risk of other major diseases of older age including stroke and heart attacks, often for weeks after the infection has gone.  Even less-severe infections can significantly impair the quality of life of older people, leading to pain, reduced mobility, repeated hospital admissions and social isolation. We have made remarkable progress in preventing severe infections in children and young adults, and need to achieve similar success in older adults. Recent successes in vaccines for respiratory syncytial virus (RSV), shingles and COVID-19 show what is possible.   Some of the most effective vaccines are against extremely dangerous infections including several previously relatively common causes of meningitis, neurological disease and deaths in children, such as meningococcus, HiB, measles and polio.  Vaccines provided in childhood also provide lifelong protection against cervical and liver cancer. Maintaining good vaccination rates protects the children who are vaccinated and those around them. UK vaccination rates are high by global standards, but some have been drifting down.  Since being vaccinated protects both the child involved and all those around them it is in the...",
+  "base_path": "/government/news/chief-medical-officers-annual-report-2025-infections",
+  "taxons": [
+    {
+      "title": "Vaccinations for COVID-19",
+      "base_path": "/health-and-social-care/vaccinations-for-covid-19"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Antimicrobial resistance (AMR)",
+      "base_path": "/health-and-social-care/antimicrobial-resistance"
+    },
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    },
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

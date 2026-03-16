@@ -1,0 +1,11 @@
+{
+  "title": "Average area of fire damage in dwellings and other buildings, 2010-11 to 2023-24",
+  "body": "\"This ad hoc statistical release covers the average area of fire damage in dwellings and other buildings attended by Fire and Rescue Services (FRSs), in England. \"",
+  "base_path": "/government/statistics/average-area-of-fire-damage-in-dwellings-and-other-buildings-2010-11-to-2023-24",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

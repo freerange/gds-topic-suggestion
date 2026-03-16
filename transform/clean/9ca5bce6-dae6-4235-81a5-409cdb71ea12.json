@@ -1,0 +1,11 @@
+{
+  "title": "Road Safety issues in Northern Ireland 2023/24",
+  "body": "\"in relation to how people regularly use the transport network / modes of travel, when using the transport network who they consider themselves to be responsible for and which road safety issue is most important to them. \"",
+  "base_path": "/government/statistics/road-safety-issues-in-northern-ireland-202324",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

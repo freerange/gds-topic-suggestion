@@ -1,0 +1,11 @@
+{
+  "title": "UK regional trade in goods statistics disaggregated by smaller geographical areas: 2023",
+  "body": "\"HM Revenue & Customs (HMRC) collects the UK’s international trade in goods data, which are published as two National Statistics series - the UK overseas trade in goods statistics (OTS), and the UK regional trade in goods statistics (RTS). The RTS are published quarterly showing trade at summary product and country level, split by UK regions and devolved administrations.  This release provides statistics for 2023 calendar year. It breaks down the RTS into smaller UK geographical areas.  RTS data and related products are categorised by partner country and Standard International Trade Classification (SITC), Revision 4.  In this release data is analysed mainly at partner country and SITC section (1-digit) taken from the RTS collection and publications’ methodology.  \"",
+  "base_path": "/government/statistics/uk-regional-trade-in-goods-statistics-disaggregated-by-smaller-geographical-areas-2023",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

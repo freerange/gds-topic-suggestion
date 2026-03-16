@@ -1,0 +1,11 @@
+{
+  "title": "Defra framework documents",
+  "body": "\"These framework documents set out the relationship between the Department for Environment, Food and Rural Affairs (Defra) and its agencies and public bodies, including:   respective roles responsibilities agreed operational framework  \"",
+  "base_path": "/government/collections/defra-framework-documents",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "AI and software cyber security market analysis",
+  "body": "\"Artificial intelligence (AI) is transforming our daily lives. As the technology continues to evolve and be embedded, it is crucial that efforts are taken to protect AI systems from growing cyber security threats.  This market analysis of software and AI cyber security services supports the government’s ongoing efforts to secure digital technologies, specifically software and AI, through identifying companies which offer crucial and relevant services.  The research explores three market segments in detail:     Cyber security for AI: Providers specialising in securing AI systems and applications.    Specialist software security providers: Firms with clear specialisation in software security provision.   Wider software security provision: firms which offer support for software security as part of a broader offering.   This report is being published alongside the 2025 Cyber Security Sectoral Analysis report.  For more information on the government’s work on AI cyber security, please see the AI Cyber Security Code of Practice.  This research is part of the government’s work to improve the UK’s cyber defences, develop the UK cyber ecosystem and protect and grow our digital economy.  \"",
+  "base_path": "/government/publications/ai-and-software-cyber-security-market-analysis",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

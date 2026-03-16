@@ -1,0 +1,23 @@
+{
+  "title": "Draft strategic steer to the Competition and Markets Authority",
+  "body": "\"Each Parliament, the government publishes a strategic steer to the Competition and Markets Authority (CMA). This draft strategic steer sets out the government’s priorities for the CMA.  This consultation welcomes comments from interested parties on the content of the steer. You can send us your views by completing the survey or emailing a response to strategicsteer@businessandtrade.gov.uk.  Read the public consultations privacy notice.  \"",
+  "base_path": "/government/consultations/draft-strategic-steer-to-the-competition-and-markets-authority",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Competition law",
+      "base_path": "/business/competition-law"
+    },
+    {
+      "title": "Markets",
+      "base_path": "/business/competition-markets"
+    },
+    {
+      "title": "Consumer rights and issues",
+      "base_path": "/business-and-industry/consumer-rights-and-issues"
+    }
+  ]
+}

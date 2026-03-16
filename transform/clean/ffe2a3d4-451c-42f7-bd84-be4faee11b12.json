@@ -1,0 +1,19 @@
+{
+  "title": "Beyond GDP insights – UK 2025: Environment, climate, and nature",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/beyond-gdp-insights-uk-2025-environment-climate-and-nature",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

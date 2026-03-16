@@ -1,0 +1,11 @@
+{
+  "title": "Traveller caravan count: July 2025",
+  "body": "\"Data from the count of Traveller caravans in England which took place on or around 17 July 2025. The twice-yearly count takes place in January and July, recording the number of caravans on both authorised and unauthorised sites across England.  The July count also collects data on New Affordable Residential Pitches. \"",
+  "base_path": "/government/statistics/traveller-caravan-count-july-2025",
+  "taxons": [
+    {
+      "title": "Traveller communities",
+      "base_path": "/housing-local-and-community/traveller-communities"
+    }
+  ]
+}

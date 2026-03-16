@@ -1,0 +1,15 @@
+{
+  "title": "DfT: ministerial travel and meetings, January to March 2025",
+  "body": "\"The Department for Transport (DfT) publishes details of ministers’ travel and external meetings.  DfT ministerial meetings information is also available on data.gov.uk.  Gift and hospitality information is available from the register of ministers’ gifts and hospitality.  \"",
+  "base_path": "/government/publications/dft-ministerial-travel-and-meetings-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Annual Hate Motivation Trends Report 2024/25",
+  "body": "\"This publication can be accessed here \"",
+  "base_path": "/government/statistics/annual-hate-motivation-trends-report-202425",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

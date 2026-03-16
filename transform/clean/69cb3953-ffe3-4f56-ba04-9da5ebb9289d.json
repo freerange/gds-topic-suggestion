@@ -1,0 +1,15 @@
+{
+  "title": "Tax implications for companies and employees in relation to employees trading their shares on PISCES",
+  "body": "\"The Private Intermittent Securities and Capital Exchange System (PISCES), a new type of stock market, will facilitate secondary trading of private company shares on an intermittent basis. HM Treasury (HMT) laid secondary legislation on 15 May 2025 to implement PISCES. In June 2025 the Financial Conduct Authority (FCA) published its final rules underpinning PISCES. Firms wishing to operate PISCES trading events can now apply to the FCA.   Following a commitment made by the government on 15 May 2025, draft legislation was published on 21 July 2025 regarding how existing Company Share Option Plan (CSOP) and Enterprise Management Incentives (EMI) contracts can be amended to include PISCES, without losing the tax advantages that the schemes offer. Following further consultation, the draft legislation was revised and is now in the Finance Bill 2025-26.  This Technical Note aims to provide clarity on the tax implications of PISCES. It sets out the tax consequences in relation to:   when employees acquire shares in the companies they work for how the readily convertible asset rules apply how PISCES trading windows interact with the tax advantaged share schemes (Share Incentive Plan (SIP), Save As You Earn (SAYE), CSOP and EMI) how CSOP and EMI contracts can be amended to include PISCES  when Capital Gains Tax is chargeable share valuation rules   \"",
+  "base_path": "/government/publications/tax-implications-for-companies-and-employees-in-relation-to-employees-trading-their-shares-on-pisces",
+  "taxons": [
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

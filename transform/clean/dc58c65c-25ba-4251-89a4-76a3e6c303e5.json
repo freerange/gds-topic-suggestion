@@ -1,0 +1,11 @@
+{
+  "title": "Patients Registered at a GP Practice, November 2025",
+  "body": "\"Data are reported by both quinary age and single year age band and gender at GP Practice level, PCN, ICB sub-location, ICB and NHS England Commissioning Region level. We also publish this at Lower Super Output Area (LSOA) but not split by quinary ages. This is a monthly snapshot taken from the GP Payments system maintained by NHS England. \"",
+  "base_path": "/government/statistics/patients-registered-at-a-gp-practice-november-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

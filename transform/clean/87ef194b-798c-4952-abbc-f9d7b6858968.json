@@ -1,0 +1,19 @@
+{
+  "title": "UK-Kenya Economic Partnership Agreement Committee documents",
+  "body": "\"These documents include information from decisions and meeting meetings held under the UK-Kenya EPA.  \"",
+  "base_path": "/government/collections/uk-kenya-economic-partnership-agreement-committee-documents",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

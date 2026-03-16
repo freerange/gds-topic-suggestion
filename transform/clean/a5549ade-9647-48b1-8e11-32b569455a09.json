@@ -1,0 +1,15 @@
+{
+  "title": "Finalised Suicide Statistics in Northern Ireland, 2023",
+  "body": "\"Tables detailing the number of deaths due to Suicide in Northern Ireland in 2023 \"",
+  "base_path": "/government/statistics/finalised-suicide-statistics-in-northern-ireland-2023",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

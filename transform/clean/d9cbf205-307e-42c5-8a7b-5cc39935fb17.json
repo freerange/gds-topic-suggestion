@@ -1,0 +1,15 @@
+{
+  "title": "Building materials and components statistics: March 2025",
+  "body": "\"Presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also provides quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.  The Office for National Statistics has paused the publication of producer price indices due to data quality issues. As a result of this, DBT has decided to pause the publication of new data in Tables 1, 2 and 3 for the foreseeable future, as this data is directly dependent on ONS producer price indices. ONS hope to resume the publication of producer price indices in the summer, at which point revisions to the data may be published.  \"",
+  "base_path": "/government/statistics/building-materials-and-components-statistics-march-2025",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    },
+    {
+      "title": "Manufacturing",
+      "base_path": "/business-and-industry/manufacturing"
+    }
+  ]
+}

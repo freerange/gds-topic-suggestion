@@ -1,0 +1,11 @@
+{
+  "title": "Batch recall alert for Vey Tosal 100 mg/ml + 0.05 mg/ml Solution for Injection",
+  "body": "\"We wish to inform veterinarians that Veyx-Pharma GmbH has initiated a Class II recall to veterinarian level with immediate effect for Vey Tosal 100 mg/ml + 0.05 mg/ml solution for injection  Vm 27569/3000.  The reason for this recall is due to the presence of particles observed in the batch.  The recall is for:     Batch number Expiry date     23K019 11/2026     For further information regarding the recall, please contact: pharmacovigilance@veyx.de or +49 5686 9986 0 (general), alternatively +49 5686 9986 62 (24hr availability). \"",
+  "base_path": "/government/news/batch-recall-alert-for-vey-tosal-100-mgml-005-mgml-solution-for-injection",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

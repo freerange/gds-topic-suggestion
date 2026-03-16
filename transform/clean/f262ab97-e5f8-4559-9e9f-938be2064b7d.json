@@ -1,0 +1,11 @@
+{
+  "title": "UK natural capital accounts: 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-natural-capital-accounts-2025",
+  "taxons": [
+    {
+      "title": "Rural and countryside",
+      "base_path": "/environment/rural-and-countryside"
+    }
+  ]
+}

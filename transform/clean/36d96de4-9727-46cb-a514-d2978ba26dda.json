@@ -1,0 +1,23 @@
+{
+  "title": "The Eastern Channel Marine Protected Areas Fishing Gear Byelaw 2024",
+  "body": "\"This draft byelaw covers ICES area 7d and includes measures for the following MPAs:    Albert Field – prohibition of bottom towed gear across the whole of the MPA.    Bassurelle Sandbank – prohibition of bottom towed gear across the whole of the MPA.    Beachy Head East – prohibition of bottom towed gear across the MMO portion of the MPA, except the far southeast portion of the site.    Inner Bank – prohibition of bottom towed gear across the whole of the MPA.    Offshore Brighton – prohibition of bottom towed gear across the MPA except the south west portion which overlaps the Dolphin Head Highly Protected Marine Area.    Offshore Overfalls – prohibition of bottom towed gear across the whole of the MPA.    Wight-Barfleur Reef – a minor change to the boundaries of the existing prohibition of bottom towed fishing gear across the whole of the site.   \"",
+  "base_path": "/government/publications/the-eastern-channel-marine-protected-areas-fishing-gear-byelaw-2024",
+  "taxons": [
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    },
+    {
+      "title": "Species protection and marine conservation",
+      "base_path": "/environment/species-protection-and-marine-conservation"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Register of approved electricity meters",
+  "body": "\"For electricity meters in Great Britain approved under the Electricity Act 1989, the pattern or construction of the meter type must conform to the requirements specified in the accompanying regulations.  Formal approval certificates are issued by the Office for Product Safety and Standards (OPSS) to manufacturers of electricity meters. The meters are then listed in the Register of approved electricity meters, a list of all pattern-approved electricity meters suitable for billing purposes in Great Britain under the Electricity Act 1989.  Electricity supply, transmission and distribution is devolved in Northern Ireland and operates through a different electricity grid (Single Electricity Market). However, all pattern-approved electricity meters suitable for billing purposes in Great Britain are also approved and suitable for billing purposes in Northern Ireland, under the Electricity (Northern Ireland) Order 1992.  The Register of approved electricity meters only includes meters certified under the Electricity Act 1989. It does not list MID or MIR approved meters. \"",
+  "base_path": "/government/publications/register-of-approved-electricity-meters",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

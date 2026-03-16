@@ -1,0 +1,15 @@
+{
+  "title": "Import a Non-Standard Magistrate Claim Service",
+  "body": "\"The Non-Standard Magistrate Claim service was successfully implemented as a replacement for the eForms service in September 2024.  New functionality release  We recently released an import feature within the service that allows you to upload claims exported from enabled case management software systems.  The ‘Import a Claim’ button on the ‘Your claims’ page, has, as of 24 March 2025, allowed a user to upload a claim exported in XML file format from their case management system. This will populate as much of the form as possible and help users complete their claims faster and with fewer errors.   This will be particularly helpful if you have many work items, as currently, these must be entered line by line.  Why is it happening now?  We have heard and seen the difficulty providers have submitting these claims, especially when there are many work items to add. We really wanted to find a fast and simple solution to improve the efficiency of these submissions.  Updates may be required to your case management system  For this feature to work, your case management systems will need to be updated with the ability to export a claim to an XML file that maps to the correct schema.  Case management system providers should have received communications with this attached. However, if yours has not, you may pass on the schema linked in the further information section below.  Note that, without an export that maps to this specific schema, attempts to use the ‘import a claim’ feature will either not work or cause errors and therefore create a slower claim submission experience. If you cannot export a claim in this format, please talk to your case management system provider so that they may assist you in adding this capability.     Provider feedback  The Non-Standard Magistrate Claim service has been informed by provider feedback, and we continue to welcome your feedback through the feedback link in the service.  Looking forward  We will continue to expand the functionality of the service, listening to feedback from providers to deliver a more accessible, user-friendly platform.  Further information  Schema for case management system providers  CRM7 replacement service launch - GOV.UK  Contact Online Support on NSCC@justice.gov.uk for technical issues.        Contact Magistrates Billing on 0300 20 20 20 or email magsbilling@justice.gov.uk for queries about claims and guidance. \"",
+  "base_path": "/government/news/import-a-non-standard-magistrate-claim-service",
+  "taxons": [
+    {
+      "title": "Crime",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-crime"
+    },
+    {
+      "title": "Electronic working",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-electronic-working"
+    }
+  ]
+}

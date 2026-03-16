@@ -1,0 +1,15 @@
+{
+  "title": "Boiler Upgrade Scheme statistics: July 2025",
+  "body": "\" Error notice: 28 August 2025  We have been made aware of an error with the underlying administrative data on vouchers issued in this release. This will impact the numbers of vouchers issued reported in Tables 1.1, 1.2A, 1.2B and M1.1. All other statistics relating to voucher applications, redemption applications and redemptions paid, and the number of vouchers issued in other tables are otherwise not impacted by this error. This error will be corrected in the next scheduled release on Thursday 25 September.   These statistics show the uptake of the Boiler Upgrade Scheme to date including the number of vouchers applications and redemptions, as well as the costs of installation.  Enquiries about these statistics should be directed to: amelia.ash@energysecurity.gov.uk. \"",
+  "base_path": "/government/statistics/boiler-upgrade-scheme-statistics-july-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    },
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Community and Engagement Survey: statistical releases",
+  "body": "\"Community Engagement Survey  You can find out more information about the Community and Engagement Survey on the Guidance Page.  Feedback  We are always interested in hearing your views on the Community and Engagement Survey. Please contact us with any suggestions or feedback by email at cesurvey@dcms.gov.uk.  Annual Publications  Annual statistical releases will be available here from Summer/Autumn 2026  Quarterly Publications  Quarterly statistical releases will be available here in 2026. \"",
+  "base_path": "/government/collections/community-and-engagement-survey-statistical-releases",
+  "taxons": [
+    {
+      "title": "City of Culture",
+      "base_path": "/society-and-culture/city-of-culture"
+    },
+    {
+      "title": "Conservation of historic buildings and monuments",
+      "base_path": "/society-and-culture/conservation-of-historic-buildings-and-monuments"
+    },
+    {
+      "title": "Library services",
+      "base_path": "/society-and-culture/library-services"
+    },
+    {
+      "title": "Museums and galleries",
+      "base_path": "/society-and-culture/museums-and-galleries"
+    },
+    {
+      "title": "British citizenship ",
+      "base_path": "/society-and-culture/citizenship"
+    },
+    {
+      "title": "Digital inclusion and accessibility in society",
+      "base_path": "/society-and-culture/digital-inclusion-and-accessibility-in-society"
+    },
+    {
+      "title": "National events and ceremonies",
+      "base_path": "/society-and-culture/national-events-and-ceremonies"
+    },
+    {
+      "title": "Online safety",
+      "base_path": "/society-and-culture/online-safety"
+    },
+    {
+      "title": "Recreation",
+      "base_path": "/society-and-culture/recreation"
+    },
+    {
+      "title": "Sports participation",
+      "base_path": "/society-and-culture/sports-participation"
+    },
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    },
+    {
+      "title": "Media and creative industries",
+      "base_path": "/business-and-industry/media-and-creative-industries"
+    }
+  ]
+}

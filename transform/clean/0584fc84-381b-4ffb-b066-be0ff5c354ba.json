@@ -1,0 +1,11 @@
+{
+  "title": "Burkina Faso: Knowledge Base profile",
+  "body": "\"This document contains useful information about Burkina Faso which will assist HM Passport Office staff process passport applications.  This document includes information about legitimacy. \"",
+  "base_path": "/government/publications/burkina-faso-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

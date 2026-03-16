@@ -1,0 +1,27 @@
+{
+  "title": "Dstl announces Orpheus satellite mission contract",
+  "body": "\"The Defence Science and Technology Laboratory (Dstl) has awarded the £5.15 million satellite contract for the Orpheus space domain awareness mission to Astroscale UK.  This will be a successor to the Prometheus-2 and CIRCE missions that were lost aboard the Virgin Orbit launch in 2023. Orpheus is a collaborative effort between UK industry, government and academia–as well as international government partners in Canada and the US.  The launch is anticipated to be in 2027.  Astroscale UK is working with subcontractor Open Cosmos Limited who will design and build 2 near identical cubesats that Astroscale UK will operate for the mission. The satellites will fly in formation in Low Earth, Sun Synchronous Orbit to observe and collect critical data using in-situ and remote sensing techniques.  Dstl Chief Executive, Dr Paul Hollinshead, said:  “Changes in space weather can have a critical impact on satellites which provide navigation aids, telecommunications and data transmission. Sustained investment in space research in collaboration with our international partners strengthens the security of UK interests in space.”  Orpheus will host a suite of Space Domain Awareness (SDA) payloads. These payloads will include a Hyperspectral Imaging (HSI) payload on each spacecraft and an array of payloads to characterise the ionosphere (the ionised portion of Earth’s upper atmosphere) from several UK and international partners.   HSI payload The 2 HSI payloads, supplied by Dragonfly Aerospace, will capture image data to support SDA and Intelligence, Surveillance and Reconnaissance (ISR) scientific experiments and measurements of land-based, littoral and ice over water targets.  Used in a lead-trail configuration in a near-polar earth sun-synchronous orbit, the 2 HSI payloads will allow for the detection and identification of materials and targets of interest based on their spectral signatures. Dragonfly Aerospace, South Africa and Defence Research and Development Canada (DRDC), Canada.  The satellites will carry the following payloads to measure the effects of space weather.  Triple Tiny Ionospheric Photometers (Tri-TIP) Characterises the ionosphere through observation of UV wavelengths on the night-side of the Earth, using two payloads with multiple different view angles to allow multi-point sampling. US Naval Research Laboratory, US.  TOPside ionosphere Computer Assisted Tomography (TOPCAT II) Derives total electron content of the propagation medium from differential phase of received GPS signals. University of Bath, UK.  Wind Ion Neutral Composition Suite (WINCS) Provide in-situ observations of ions and neutrals (density, temperature and winds/drifts).  US Naval Research Laboratory, US.  Radiation Monitor (RadMon) Comprised of a particle detector, dose rate monitor and total dose monitor.  Surrey Satellite Technology Ltd, UK.  The suite of payloads carried on Orpheus will generate observations enabling a greater understanding of the driving processes of geophysical phenomena in the ionosphere-thermosphere system, distributed across a wide range of latitudes.  Understanding the characteristics of the dynamic ionosphere is vital for a range of both civil and defence applications, such as:   GNSS communications sensing technology space sustainability   This fully funded project will run for 3 years and will conclude in 2028. It will cover the complete lifecycle of the mission, from design through to launch, operations and...",
+  "base_path": "/government/news/dstl-announces-orpheus-satellite-mission-contract",
+  "taxons": [
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

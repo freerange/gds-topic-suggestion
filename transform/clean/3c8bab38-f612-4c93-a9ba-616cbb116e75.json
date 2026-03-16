@@ -1,0 +1,11 @@
+{
+  "title": "Cape Verde: Knowledge Base profile",
+  "body": "\"This document contains useful information about Cape Verde which will assist HM Passport Office staff process passport applications.  This document includes information about:   nationality legitimacy gender recognition civil partnerships and marriage documents from Cape Verde  \"",
+  "base_path": "/government/publications/cape-verde-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

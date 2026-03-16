@@ -1,0 +1,11 @@
+{
+  "title": "Annual statement of emissions for 2023",
+  "body": "\"The sixteenth annual statement of emissions sets out the steps taken to calculate the net UK carbon account in respect of 2023. It is the first report in the fourth carbon budget period (2023 to 2027).  The net UK carbon account is the metric we compare against the carbon budgets to determine whether they are being met, and it must not exceed the level of the carbon budget at the end of each budgetary period. \"",
+  "base_path": "/government/publications/annual-statement-of-emissions-for-2023",
+  "taxons": [
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    }
+  ]
+}

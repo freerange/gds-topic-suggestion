@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland House Price Index Quarter 4 2024",
+  "body": "\"Quarterly House price index and standardised prices for Northern Ireland  The series runs between Jan - Mar (Quarter 1) 2005 and Oct - Dec (Quarter 4) 2024 and shows a breakdown of prices at:  Northern Ireland Local Government District Property Type New and Existing Resold Dwellings Urban and Rural Classification \"",
+  "base_path": "/government/statistics/northern-ireland-house-price-index-quarter-4-2024",
+  "taxons": [
+    {
+      "title": "Homebuying",
+      "base_path": "/housing-local-and-community/homebuying"
+    },
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    }
+  ]
+}

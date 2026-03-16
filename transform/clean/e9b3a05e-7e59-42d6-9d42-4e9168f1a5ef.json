@@ -1,0 +1,19 @@
+{
+  "title": "UK trade with the United States: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-trade-with-the-united-states-2024",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    },
+    {
+      "title": "Overseas businesses: exporting to the UK",
+      "base_path": "/business-and-industry/overseas-businesses-export-to-uk"
+    }
+  ]
+}

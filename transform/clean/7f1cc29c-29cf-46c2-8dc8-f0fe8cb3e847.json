@@ -1,0 +1,11 @@
+{
+  "title": "Appointments in General Practice, November 2025",
+  "body": "\"The publication will cover historic appointments, marked as attended or did not attend, national to sub ICB location coverage. The aim is to inform users, who range from a healthcare professional to an inquiring citizen, about appointments within primary care. \"",
+  "base_path": "/government/statistics/appointments-in-general-practice-november-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

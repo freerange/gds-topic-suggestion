@@ -1,0 +1,15 @@
+{
+  "title": "FPS Pharmaceutical Statistics for Northern Ireland 2024/25",
+  "body": "\"Statistics provide a breakdown of activity for Northern Ireland as well as Health and Social Care Trusts and Local Government Districts, as well as comparisons with other UK nations. Further analysis presents individual patient information of dispensing by selected drug categories of interest. The use of Optical Character Recognition (OCR) technology has enabled the capture of additional patient information previously unknown as a result of unsuccessfully scanned prescriptions. This technology has been utilised to identify patient information and assign demographic information over the entire time period covered (with the exception of January 2020, for which no prescription images are available), causing a revision to the back series of affected tables beginning in 2017/18 in both the annual and quarterly publications. Consequently, the figures presented in this latest report will differ from historic information in previous publications and should not be used for comparison purposes. In addition, where a revised series begins before 2017/18, earlier years may not be comparable, reflecting a break in the series. Each table or chart affected by this revision will be denoted by (R) in the title. For further information, please see the cover sheet and user guidance located in the annex tables. \"",
+  "base_path": "/government/statistics/fps-pharmaceutical-statistics-for-northern-ireland-202425",
+  "taxons": [
+    {
+      "title": "Pharmacy",
+      "base_path": "/health-and-social-care/pharmacy"
+    },
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    }
+  ]
+}

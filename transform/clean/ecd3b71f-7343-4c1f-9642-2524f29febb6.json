@@ -1,0 +1,11 @@
+{
+  "title": "Heat mortality monitoring report, England: 2024",
+  "body": "\"Previous heat mortality monitoring reports from 2020 to 2023 are available, and from 2019 to 2016 (published by Public Health England).  The UK Health Security Agency’s (UKHSA) heat mortality monitoring helps to provide information on deaths observed during heat episodes each year to inform public health actions.  We estimate heat-associated mortality in England using death registration data, comparing daily deaths during heat episodes with baseline daily deaths. For 2022 onwards, we also compare these observed mortality estimates with modelled estimates, which are based on the temperature-mortality relationship in previous summers.  Adverse heat events are increasing in frequency and intensity as a result of climate change. The health impacts of these events can be significant particularly for vulnerable populations.  The Adverse Weather and Health Plan is intended to protect the population from heat-related harm to health.  Our statistical practice is regulated by the Office for Statistics Regulation (OSR). The OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of Official Statistics should adhere to.  \"",
+  "base_path": "/government/statistics/heat-mortality-monitoring-report-england-2024",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    }
+  ]
+}

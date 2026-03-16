@@ -1,0 +1,11 @@
+{
+  "title": "Global trade outlook reports",
+  "body": "\" \"",
+  "base_path": "/government/collections/global-trade-outlook-reports",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

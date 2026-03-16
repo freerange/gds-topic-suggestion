@@ -1,0 +1,11 @@
+{
+  "title": "Environmental Indicator Framework: Summary",
+  "body": "\"This document includes background and explanatory notes as well as details of future planned developments for the Environmental Indicator Framework. \"",
+  "base_path": "/government/publications/environmental-indicator-framework-summary",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

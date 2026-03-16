@@ -1,0 +1,19 @@
+{
+  "title": "UK and Guatemala strengthen cooperation to combat smuggling",
+  "body": "\"During the meeting between the British Ambassador, Juliana Correa, and Superintendent Werner Ovalle, priority topics for both nations were discussed, including strengthening institutional capacities to combat smuggling, a problem that affects both tax collection and British companies in sectors such as pharmaceuticals and alcoholic beverages.   The United Kingdom reaffirmed its commitment to the values of transparency, innovation, and legality, highlighting its experience in using technologies such as open banking to facilitate tax compliance. The SAT was presented with the possibility of collaborating with British companies to explore digital solutions that improve tax collection efficiency. \"",
+  "base_path": "/government/news/uk-and-guatemala-strengthen-cooperation-to-combat-smuggling",
+  "taxons": [
+    {
+      "title": "International",
+      "base_path": "/international"
+    },
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Appointment: 22 July 2025",
+  "body": "\"The King has been pleased to approve the following appointment:   Lord Lemos CMG CBE as Lord in Waiting (Government Whip).   Lord Moraes OBE has left the Government. \"",
+  "base_path": "/government/news/appointment-22-july-2025",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

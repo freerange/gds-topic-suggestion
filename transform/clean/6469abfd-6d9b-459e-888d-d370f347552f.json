@@ -1,0 +1,15 @@
+{
+  "title": "NIO: GPC Spending over £500, April 2025",
+  "body": "\"Northern Ireland Office (NIO) publishes details of all spending over £500 using an electronic purchasing card solution (ePCS) on a monthly basis. The ePCS has replaced the government procurement card (GPC).  This data is also available on data.gov.uk.  *ePCS: electronic purchasing card solution  *GPCs: government procurement cards  *GPC: government procurement card \"",
+  "base_path": "/government/publications/nio-gpc-spending-over-500-april-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

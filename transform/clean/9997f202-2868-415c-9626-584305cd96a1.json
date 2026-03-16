@@ -1,0 +1,11 @@
+{
+  "title": "Universal Credit Work Capability Assessment statistics, April 2019 to March 2025",
+  "body": "\"Quarterly statistics on the number of people on Universal Credit (UC) with a health condition or disability restricting their ability to work, by stage of process and monthly Department for Work and Pensions (DWP) decisions and outcomes.   This release of statistics covers:    caseload – number of people on UC health by:   stage of process: pre-Work Capability Assessment (WCA) or post-WCA with limited capability for work (LCW) or limited capability for work and work-related activity (LCWRA)  monthly (from April 2019 to March 2025)  age at caseload date  gender  GB level and standard geographical area    number of DWP UC WCA decisions by:   outcome (no limited capability for work (NLCW), LCW, LCWRA, monthly (from April 2019 to November 2024)) GB level and standard geographical area  age  gender  Initial and Repeat decisions  medical conditions (ICD10)      Proposals to further develop these statistics are available in the statistical work programme document and the UC WCA statistics release strategy.   We welcome user feedback on plans for the release of these statistics and their scope. If you have comments, email: stats.consultation-2018@dwp.gov.uk   Read the background information and methodology note for guidance on these statistics, such as timeliness, uses, and procedures.   Pre-release access   In addition to staff who are responsible for the production and quality assurance of the statistics, up to 24-hour pre-release access is provided to ministers and other officials. We publish the job titles and organisations of the people who have been granted up to 24-hour pre-release access to the latest UC WCA statistics.   \"",
+  "base_path": "/government/statistics/universal-credit-work-capability-assessment-statistics-april-2019-to-march-2025",
+  "taxons": [
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    }
+  ]
+}

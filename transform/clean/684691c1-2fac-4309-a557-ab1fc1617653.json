@@ -1,0 +1,19 @@
+{
+  "title": "NHS Blood and Transplant annual report and accounts: 2024 to 2025",
+  "body": "\"This report details the performance of NHS Blood and Transplant (NHSBT) in the year 2024 to 2025, and outlines key objectives and risks. \"",
+  "base_path": "/government/publications/nhs-blood-and-transplant-annual-report-and-accounts-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

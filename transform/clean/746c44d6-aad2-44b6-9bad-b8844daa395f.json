@@ -1,0 +1,15 @@
+{
+  "title": "Evaluation Demonstrators",
+  "body": "\"In April 2025, the Evaluation Task Force (ETF) published the Government Major Project Portfolio (GMPP) Evaluation Review Report alongside an action plan to improve evaluation of major projects. The action plan commits the ETF to develop a set of best practice examples of what good evaluation looks like for major projects, by September 2025.  The ETF is fulfilling this commitment by publishing these five evaluation demonstrator plans of major projects with an accompanying case study report. These evaluation plans demonstrate best practice for projects and provide an outline of common evaluation challenges for GMPP projects, such as complex digital programmes, long-term infrastructure projects and military projects. \"",
+  "base_path": "/government/publications/evaluation-demonstrators",
+  "taxons": [
+    {
+      "title": "Government evaluation",
+      "base_path": "/government/government-evaluation"
+    },
+    {
+      "title": "Major project management",
+      "base_path": "/government/major-project-management"
+    }
+  ]
+}

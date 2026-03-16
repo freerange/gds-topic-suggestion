@@ -1,0 +1,11 @@
+{
+  "title": "Cold-Health Alerting system and action cards",
+  "body": "\" \"",
+  "base_path": "/government/collections/cold-health-alerting-system-and-action-cards",
+  "taxons": [
+    {
+      "title": "Emergency response",
+      "base_path": "/health-and-social-care/health-protection-emergency-response"
+    }
+  ]
+}

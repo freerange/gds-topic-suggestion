@@ -1,0 +1,27 @@
+{
+  "title": "Cutting edge cancer treatments set to be produced out of uranium",
+  "body": "\"  Precision treatments tackling the hardest-to-treat cancers set to be produced from hundreds of tonnes of reprocessed uranium from nuclear reactors Patients to benefit as 15-year deal agreed between cutting-edge biotech firm Bicycle Therapeutics and the UK Nuclear Decommissioning Authority Government is backing the UK’s life sciences innovators to make the boldest ideas a reality that helps save lives, unlocks growth, and drives national renewal    Tens of thousands of doses of cutting-edge cancer therapies, which could help save lives and tackle some of the hardest-to-treat forms of cancer, are set to be produced from hundreds of tonnes of reprocessed uranium, generated from historic processing of spent nuclear reactor fuel. This work is being made possible thanks to a landmark agreement between the cutting-edge biotech firm Bicycle Therapeutics, and the UK Nuclear Decommissioning Authority, being announced today (Tuesday 16 December). Bicycle was co-founded by one of the luminaries of British science, Sir Greg Winter, who was honoured with the Nobel Prize for Chemistry in 2018.  Bicycle will use a groundbreaking process developed by United Kingdom National Nuclear Laboratory (UKNNL) to harvest the valuable medical isotope lead-212 from reprocessed uranium. A tiny amount of lead-212’s parent material – equivalent to a single drop of water in an Olympic-sized swimming pool – is extracted through a series of processes, and through radioactive decay. An even tinier amount of lead-212 is then taken for use in radiopharmaceuticals: a type of precision medicine that could help treat some of the cancers that conventional treatments struggle to tackle.  The UK Nuclear Decommissioning Authority is set to provide Bicycle with access to up to 400 tonnes of material, in the form of reprocessed uranium, over 15 years. Reprocessed uranium will continually regenerate the isotopes required for this process, providing an enduring source of tens of thousands of doses of lead-212, for lifesaving precision therapies, each year.  Science and Technology Secretary Liz Kendall said:   Cancer is a disease that affects millions worldwide, and tears too many families apart. Breakthroughs in medical science are giving more cancer patients and their loved ones hope, and this unique partnership could help take that work even further.  Turning nuclear material into cutting-edge cancer treatments sounds like science fiction – but thanks to the brilliance of scientists, researchers and doctors, it could be a life-saving reality. Work like this shows exactly why we’re determined to support our life sciences innovators to make groundbreaking new treatments possible.   Bicycle Therapeutics CEO Kevin Lee, Ph.D., said:   As a UK-based biotech company, we are incredibly grateful to the UK Government for their recognition of Bicycle’s Nobel-prize winning science and potential to create radiopharmaceutical cancer therapies from up to 400 tonnes of reprocessed uranium over 15 years. We are proud to be part of the British life sciences ecosystem and collaborate to help people and support economic growth. This is a significant milestone, bringing us closer to our goal of helping patients live longer and live well.   This builds on the government’s wider work to transform cancer care across the NHS....",
+  "base_path": "/government/news/cutting-edge-cancer-treatments-set-to-be-produced-out-of-uranium",
+  "taxons": [
+    {
+      "title": "Cancer research and treatment",
+      "base_path": "/health-and-social-care/cancer-research-and-treatment"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    },
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

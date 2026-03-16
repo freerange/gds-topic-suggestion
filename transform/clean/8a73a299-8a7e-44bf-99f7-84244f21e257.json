@@ -1,0 +1,15 @@
+{
+  "title": "MCA customer process for alternative fuels - electric",
+  "body": "\"Batteries have been utilised in vessel design for many reasons. From providing redundant power supply for emergency equipment to peak shaving (scaling down the engine power by sourcing additional electricity from batteries) for engines.  However, with the introduction of higher energy density batteries the use of battery electric power to provide sustained propulsion is increasing.  For larger vessels this allows for reduction of in-port emissions and for smaller vessels they can be fully powered by battery power. This paper focuses on the uptake of Lithium-Ion batteries as these present the biggest current use case for fully electric vessels.  Currently, batteries largely serve either as backup power, or propulsion for short voyages and are mostly used on ferries, tugs and other small vessels. Batteries are not yet suitable for providing the required power for long voyages as the sole method of propulsion.  Key contacts  Any existing customers wishing to build or convert a vessel to operate using electric as part of the vessel propulsion system are encouraged, in the first instance, to contact their MCA Customer Service Manager who will be able to advise further on the process and where necessary set up a meeting with MCA subject matter leads to discuss the proposals in detail.   New customers or those without a Customer Service Manager should contact: HQSurvey@mcga.gov.uk   UK Maritime Innovation Hub  Supporting research and development, economic growth and innovation.  \"",
+  "base_path": "/government/publications/mca-customer-process-for-alternative-fuels-electric",
+  "taxons": [
+    {
+      "title": "Maritime and the environment",
+      "base_path": "/transport/maritime-and-the-environment"
+    },
+    {
+      "title": "Vessel design",
+      "base_path": "/transport/vessel-design"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Vehicle operator licence applications: guidance",
+  "body": "\"When you apply for a vehicle operator licence, you will need to:   get separate licences for each traffic area you have an operating centre in - check the list to find out which counties, boroughs and districts are covered by each traffic area declare any convictions and cautions people involved in your business have - check the list to see what has to be declared advertise in a local newspaper where you plan to keep your vehicles (heavy goods vehicle licences only) - your advert must use the wording in the template   Find out more about how to apply for a vehicle operator licence. \"",
+  "base_path": "/government/publications/vehicle-operator-licence-applications-guidance",
+  "taxons": [
+    {
+      "title": "HGV and goods carriage vehicle licensing",
+      "base_path": "/transport/hgv-and-goods-carriage-vehicle-licensing"
+    },
+    {
+      "title": "Public service vehicles licensing",
+      "base_path": "/transport/public-service-vehicles-licensing"
+    }
+  ]
+}

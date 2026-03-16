@@ -1,0 +1,35 @@
+{
+  "title": "Research exploring UK trading businesses' responses to future customs processes",
+  "body": "\"Following the UK’s departure from the EU, the UK entered a transition period with the EU, during which there were no customs requirements for traders moving goods between the UK and EU member states.  New customs requirements for trade with the EU began on 1 January 2021. To allow traders importing goods a period of adjustment to the new requirements, Staged Customs Controls (SCC) were introduced from January until July 2021. Full customs controls, applying the same import processes as are applied to goods imported into the UK from the rest of the world, were introduced for different types of goods in different stages. For businesses exporting goods to the EU, the new customs requirements began in full on 1 January 2021 with no staged introduction period. HM Revenue and Customs (HMRC) published a Border Operating Model  outlining these arrangements, in July 2020.  In the context of this new landscape, HMRC commissioned Ipsos (formerly Ipsos MORI) in order to:   explore businesses’ current approach to moving goods and customs processing explore businesses’ understanding of upcoming changes understand how businesses proposed to navigate changes to customs processes, particularly in light of the impact of COVID-19 on preparations understand knowledge and experience of, and capability to undertake, customs processes among small and medium enterprises trading in the UK and with the EU but not with the rest of the world inform customer support provided by HMRC, to minimise burden for businesses and maximise compliance   This qualitative research project involved undertaking 35 in-depth interviews with UK businesses that traded with businesses in the EU. Interviews were 60 minutes in length and conducted by telephone between 20 August and 21 September 2020.  \"",
+  "base_path": "/government/publications/research-exploring-uk-trading-businesses-responses-to-future-customs-processes",
+  "taxons": [
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    },
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    },
+    {
+      "title": "Customs Freight Simplified Procedures",
+      "base_path": "/business/business-tax-import-export-customs-freight-simplified-procedures"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    }
+  ]
+}

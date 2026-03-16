@@ -1,0 +1,19 @@
+{
+  "title": "Forestry Commission gender pay gap report 2023 to 2024",
+  "body": "\"The Forestry Commission gender pay gap report publishes the mean and median gender pay gaps, the bonus pay gap and the proportions of male and female employees in each pay quartile. \"",
+  "base_path": "/government/publications/forestry-commission-gender-pay-gap-report-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

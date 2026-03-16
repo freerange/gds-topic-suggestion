@@ -1,0 +1,15 @@
+{
+  "title": "Spring Statement 2025 tax related documents",
+  "body": "\"The Chancellor of the Exchequer, the Rt Hon. Rachel Reeves MP, delivered Spring Statement 2025 to Parliament on 26 March 2025.   Read Spring Statement 2025 for full details of all announcements. \"",
+  "base_path": "/government/collections/spring-statement-2025-tax-related-documents",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

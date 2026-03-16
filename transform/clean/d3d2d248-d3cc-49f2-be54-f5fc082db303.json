@@ -1,0 +1,15 @@
+{
+  "title": "Safeguarding adults, England, 2024 to 2025",
+  "body": "\" This statistical release contains findings from the safeguarding adults collection (SAC) for the period 1 April 2024 to 31 March 2025. The SAC is a mandatory data collection from local authorities in England. Safeguarding adults is a statutory duty for councils with adult social services responsibilities (CASSRs) in England under the Care Act 2014 to safeguard vulnerable adults from abuse or neglect. The data is collected directly from these councils.  This publication consists of:   a statistical commentary on the data from 2024 to 2025 associated data tables (in ODS format) providing:  data at local authority, regional and national level a data quality assessment, including data completeness and integrity measures   data tables in CSV format a background, quality and methodology document the safeguarding adults dashboard (a Power BI dashboard (an interactive business intelligence tool)) a pre-release access list    For the CSV, ‘View online’ will only show the first 1,000 rows of data. To view the full data, download and open the CSV file.   Official statistics on safeguarding adults prior to 2024 to 2025 were previously published by NHS England. \"",
+  "base_path": "/government/statistics/safeguarding-adults-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

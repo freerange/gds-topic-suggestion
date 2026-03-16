@@ -1,0 +1,19 @@
+{
+  "title": "Marine Recovery Fund: statutory nature conservation bodies advice forms",
+  "body": "\"If you do not yet have consent for your offshore wind activity, you’ll need to show on your MRF application that you’ve received advice from the relevant SNCB.  You can use this form to get SNCB advice about MPA designation and/or extension.  We will publish a form to get SNCB advice for other measures when they become available for delivery through the MRF.  Read the guidance on applying for the MRF.  Submitting this form   You must complete Section A before you send this form to the relevant SNCB.  The SNCB will then complete Section B and send it back to you.  You must submit the completed form to Defra as the MRF Operator as part of your ‘expression of interest form – part A’.  \"",
+  "base_path": "/government/publications/marine-recovery-fund-statutory-nature-conservation-bodies-advice-forms",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    }
+  ]
+}

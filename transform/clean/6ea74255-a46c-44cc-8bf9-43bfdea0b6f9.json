@@ -1,0 +1,23 @@
+{
+  "title": "Seminar Summary Note; Consultation on Local Government Standards.",
+  "body": "\"A summary of a seminar held on 20th February by the Committee on Standards in Public Life to respond to a government consultation on proposed changes to the standards framework for local government. \"",
+  "base_path": "/government/publications/seminar-summary-note-consultation-on-local-government-standards",
+  "taxons": [
+    {
+      "title": "Local government",
+      "base_path": "/regional-and-local-government/local-government"
+    },
+    {
+      "title": "Democracy",
+      "base_path": "/government/democracy"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Government reform ",
+      "base_path": "/government/government-reform"
+    }
+  ]
+}

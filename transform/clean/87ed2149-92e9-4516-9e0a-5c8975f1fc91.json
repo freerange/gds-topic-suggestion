@@ -1,0 +1,23 @@
+{
+  "title": "Managing harbour porpoise bycatch in English waters",
+  "body": "\"The MMO is particularly considering new measures for two Marine Protected Areas (MPAs) designated for harbour porpoise:    Southern North Sea MPA   Bristol Channel Approaches MPA    We also want feedback on how wider management measures might apply across the harbour porpoise Management Units (MUs) in the North Sea and the Celtic and Irish Seas  Why action is needed   Harbour porpoises are highly mobile marine mammals found throughout the cold and temperate seas of Europe, including English waters. They play a vital role in regulating fish populations and maintaining healthy marine ecosystems.   Bycatch, when porpoises become entangled in fishing gear such as gillnets, can lead to:     Internal and external injuries    Long-term health issues    Physical and psychological stress    Reduced life expectancy    Drowning and death     Current levels of bycatch in the UK may be unsustainable, particularly in the MPAs identified above. Evidence gathered to date suggests that bycatch from gillnets is above sustainable levels in both MPAs.  We understand that porpoise bycatch is an accidental and entirely unintentional activity. Fishers do not want to harm protected marine wildlife and have a vital role to play in addressing this issue for the future. This includes sharing evidence, their views on potential management options, and using their knowledge of working at sea to shape management approaches. By working together, our approach will reflect both our conservation priorities to protect harbour porpoise, and consider the practical challenges fishers face at sea  What our proposals may include   We are considering six broad bycatch management options. These could be applied within the MPAs or more widely across the relevant Management Units:     Time-area closures. Seasonal or year-round restrictions on gillnets in high-risk areas.    Effort limitation. Limiting the total amount of fishing activity.    Dynamic closures. Temporary closures in response to real-time data, such as porpoise presence or bycatch risk thresholds.    Mandatory acoustic deterrent devices (ADDs). Requiring all gillnet vessels to use ADDs to reduce porpoise bycatch.    Voluntary gear modifications. Promoting alternative fishing methods through voluntary codes of conduct and support schemes.    Bycatch monitoring and reporting. Introduce dedicated bycatch monitoring and reporting as part of an adaptive risk management plan and/or supporting tool.    These options are not decisions, they are potential options under active exploration. MMO welcomes input at this early stage to help shape more formal proposals going forward. We are keen to work with the fishing industry and other stakeholders to ensure any measures are proportionate and practical, whilst still fulfilling our legal duties to achieve the conservation objectives of MPAs. Formal proposals will be presented at a later date.  Your input so far  Thank you to everyone who has already shared early views on potential management options. This is an important step before we consider a future formal consultation. Please read the harbour porpoise bycatch management options document and / or the handouts that summarise the main topics of the document here: Harbour Porpoise Bycatch Management Options  We also appreciate your help in filling bycatch evidence gaps. While we have collected and reviewed the best available evidence on harbour porpoise bycatch and gillnet activity in UK...",
+  "base_path": "/government/collections/managing-harbour-porpoise-bycatch-in-english-waters",
+  "taxons": [
+    {
+      "title": "Fishing vessels",
+      "base_path": "/environment/fishing-vessels"
+    },
+    {
+      "title": "Marine fisheries",
+      "base_path": "/environment/marine-fisheries"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

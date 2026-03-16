@@ -1,0 +1,11 @@
+{
+  "title": "Finnmaster report published",
+  "body": "\"Today, we have published our accident investigation report into the auxiliary engine room fire on the Finland registered roll-on/roll-off cargo ship Finnmaster during departure from Hull, England on 19 September 2021.   The report, available via this link, contains details of what happened, subsequent actions taken and recommendations.    Media enquiries (telephone only)       Media enquiries during office hours 01932 440015   Media enquiries out of hours 0300 7777878      \"",
+  "base_path": "/government/news/finnmaster-report-published",
+  "taxons": [
+    {
+      "title": "Maritime accidents and serious incidents",
+      "base_path": "/transport/maritime-accidents-and-serious-incidents"
+    }
+  ]
+}

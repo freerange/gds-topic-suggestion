@@ -1,0 +1,11 @@
+{
+  "title": "Non-Quota species uptake by UK vessels in EU waters - April 2025",
+  "body": "\"These statistics are provided to monitor non-quota species uptake by UK vessels in EU waters. \"",
+  "base_path": "/government/statistics/non-quota-species-uptake-by-uk-vessels-in-eu-waters-april-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

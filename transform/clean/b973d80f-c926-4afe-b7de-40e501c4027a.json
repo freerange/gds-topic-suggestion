@@ -1,0 +1,11 @@
+{
+  "title": "One IPO Patents service overview",
+  "body": "\"We will soon be launching a new digital service for patents that will drastically change and improve the experience of applying for and managing UK patents. \"",
+  "base_path": "/government/publications/one-ipo-patents-service-overview",
+  "taxons": [
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    }
+  ]
+}

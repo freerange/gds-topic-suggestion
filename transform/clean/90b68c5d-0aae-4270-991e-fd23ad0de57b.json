@@ -1,0 +1,11 @@
+{
+  "title": "NHS Vacancy Statistics England, April 2015 - September 2025, Experimental Statistics",
+  "body": "\"Data from NHS Jobs, the Electronic Staff Record (ESR) and Trac Recruitment Systems (Trac) provide a range of proxy data sources for NHS vacancies. The series also includes management information related to vacancies within the NHS which have been collected by NHS England and NHS Improvement. Data also from Electronic Staff Record vacancy extract for the later portion of this time series. \"",
+  "base_path": "/government/statistics/nhs-vacancy-statistics-england-april-2015-september-2025-experimental-statistics",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

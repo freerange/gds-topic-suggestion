@@ -1,0 +1,27 @@
+{
+  "title": "The Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025",
+  "body": "\"This measure ensures compensation payments made to postmasters under the Horizon Shortfall Scheme Appeals process are exempt from:   Income Tax National Insurance contributions Capital Gains Tax Corporation Tax   This Statutory Instrument also relieves payments in the Horizon Shortfall Scheme Appeals process from Inheritance Tax. \"",
+  "base_path": "/government/publications/the-horizon-shortfall-scheme-appeals-tax-exemptions-and-relief-regulations-2025",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "Capital Gains Tax",
+      "base_path": "/money/capital-gains-tax"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    },
+    {
+      "title": "Inheritance Tax",
+      "base_path": "/money/personal-tax-inheritance-tax"
+    },
+    {
+      "title": "National Insurance",
+      "base_path": "/money/national-insurance"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Strategic steer to the Competition and Markets Authority",
+  "body": "\"Each Parliament, the government publishes a strategic steer setting out the government’s priorities for the CMA. The government’s expectation is that the CMA will focus on growth while delivering its statutory duty to promote competition for the benefit of consumers.  \"",
+  "base_path": "/government/publications/strategic-steer-to-the-competition-and-markets-authority",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Competition law",
+      "base_path": "/business/competition-law"
+    },
+    {
+      "title": "Markets",
+      "base_path": "/business/competition-markets"
+    },
+    {
+      "title": "Consumer rights and issues",
+      "base_path": "/business-and-industry/consumer-rights-and-issues"
+    }
+  ]
+}

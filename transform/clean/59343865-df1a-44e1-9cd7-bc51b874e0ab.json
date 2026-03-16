@@ -1,0 +1,11 @@
+{
+  "title": "Legal aid statistics: January to March 2025 data files",
+  "body": "\"This edition includes Main data, Civil detailed data, Client diversity data, Providers starts and completions by area data and Provider contracts data files. A Index of data in legal aid statistics is published as part of the help guides. This provides guidance on the data held in the more detailed data files and how to use them and can be found on help guides page. \"",
+  "base_path": "/government/statistics/legal-aid-statistics-january-to-march-2025-data-files",
+  "taxons": [
+    {
+      "title": "Legal aid",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers"
+    }
+  ]
+}

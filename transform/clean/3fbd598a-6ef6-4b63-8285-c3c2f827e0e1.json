@@ -1,0 +1,11 @@
+{
+  "title": "National pupil projections: July 2025",
+  "body": "\"This statistical release provides:   actual and projected figures for the pupil population for most school types in England actual and projected figures by age group  \"",
+  "base_path": "/government/statistics/national-pupil-projections-july-2025",
+  "taxons": [
+    {
+      "title": "School places",
+      "base_path": "/education/school-places"
+    }
+  ]
+}

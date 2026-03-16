@@ -1,0 +1,15 @@
+{
+  "title": "Earned settlement",
+  "body": "\"Settlement refers to a person’s right to live in the UK permanently without any immigration restrictions. It is also known as Indefinite Leave to Remain (ILR).  The 2025 UK Immigration White Paper, Restoring Control over the Immigration System, introduced significant reforms to how migrants can settle in the UK.  Settlement will no longer be granted automatically after a fixed period. Instead, migrants will need to earn it by demonstrating sustained good conduct, contribution and integration.  \"",
+  "base_path": "/government/consultations/earned-settlement",
+  "taxons": [
+    {
+      "title": "Border control",
+      "base_path": "/entering-staying-uk/border-control"
+    },
+    {
+      "title": "Refugees, asylum and human rights",
+      "base_path": "/entering-staying-uk/refugees-asylum-human-rights"
+    }
+  ]
+}

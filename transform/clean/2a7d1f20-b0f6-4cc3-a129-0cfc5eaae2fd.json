@@ -1,0 +1,11 @@
+{
+  "title": "Local authority Green Belt statistics for England: 2024 to 2025",
+  "body": "\"Statistics on land designated as green belt in England, by local authority.  Spatial data for the local authority green belt boundaries is available from data.gov.uk. Search for ‘local authority Green Belt dataset’.  Statistical information is also available on land designated as Green Belt and other land designations within the interactive dashboard. \"",
+  "base_path": "/government/statistics/local-authority-green-belt-statistics-for-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    }
+  ]
+}

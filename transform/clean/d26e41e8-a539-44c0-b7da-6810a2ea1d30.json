@@ -1,0 +1,15 @@
+{
+  "title": "Private interferon-gamma (IFN-y) test sample delivery box specifications",
+  "body": "\"Samples must be packed and delivered using a temperature-controlled biological specimen packaging system or box to enable safe and effective transportation of samples for interferon testing.  Read the guidance on private IFN-y testing for bovine tuberculosis (TB) in England.  Temperatures during transit  The delivery system should maintain sample temperature within the range 22±5 degrees Celsius during shipment. This is the range specified by the test manufacturer for optimum performance of the test.  Samples must reach the testing laboratory within 24 hours of being taken from the animal. The delivery system must therefore maintain ambient temperature for the entire journey.  Submissions will be temperature-checked upon arrival at the laboratory and any falling outside of the recommended temperature range limits will be rejected and not tested.  Preparing the packaging The delivery system or box must be prepared following the manufacturer’s instructions in order to achieve and retain ambient temperature throughout delivery.  If using a battery-operated heat-pad system (for example ‘Biotherm’), ensure the battery is fully charged and connected to the heat pad.  If using box inserts or cassettes (for example, ‘Orca’, ‘DHL box’), ensure these are conditioned correctly to ambient temperature. Note that over-heating will damage the sample.  Fill any empty air space in the box with packaging material such as bubble wrap or paper towel – this will help to maintain ambient temperature within the box during transit.  Systems you can use  Examples of temperature controlled delivery boxes include:   DGP/Intelsius Biotherm battery boxes DGP/Intelsius Orca box  DHL controlled room temperature boxes (downloadable PDF). APHA has no practical experience of using this box.   \"",
+  "base_path": "/guidance/private-interferon-gamma-ifn-y-test-sample-delivery-box-specifications",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

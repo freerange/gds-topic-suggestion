@@ -1,0 +1,11 @@
+{
+  "title": "Education and training statistics for the UK: 2025",
+  "body": "\"This statistical release contains data on education and training in the UK. It provides an integrated overview using data collected from:   England Wales Northern Ireland Scotland   It has data on education including:   pupils and teachers attendance information on further education and higher education institutions, staff and students qualifications gained education expenditure  \"",
+  "base_path": "/government/statistics/education-and-training-statistics-for-the-uk-2025",
+  "taxons": [
+    {
+      "title": "Further and higher education courses and qualifications",
+      "base_path": "/education/further-and-higher-education-courses-and-qualifications"
+    }
+  ]
+}

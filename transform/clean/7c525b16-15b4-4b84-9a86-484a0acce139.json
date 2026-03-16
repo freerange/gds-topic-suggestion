@@ -1,0 +1,15 @@
+{
+  "title": "Child Benefit: allow someone to help you with your award (CH105)",
+  "body": "\"Use form CH105 if you want an intermediary, such as Citizens Advice, to help you with your Child Benefit.  Related forms and guidance  Claim and deal with Child Benefit for someone else Guidance on how to deal with the Child Benefit Office for someone else.  Authorise an adviser to deal with your High Income Child Benefit Charge Use form CH995 to allow a tax adviser or accountant to act on your behalf for High Income Child Benefit Charge issues. \"",
+  "base_path": "/government/publications/child-benefit-allow-someone-to-help-you-with-your-award-ch105",
+  "taxons": [
+    {
+      "title": "Child benefit",
+      "base_path": "/childcare-parenting/child-benefit"
+    },
+    {
+      "title": "Child Benefit",
+      "base_path": "/welfare/child-benefit"
+    }
+  ]
+}

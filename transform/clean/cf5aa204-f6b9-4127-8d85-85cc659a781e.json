@@ -1,0 +1,11 @@
+{
+  "title": "Childhood schedule changes 2025 and 2026: information for healthcare practitioners",
+  "body": "\"This guidance provides information for healthcare practitioners about the changes to the routine childhood schedule from 1 July 2025 and January 2026. It includes information on the changes, eligibility, scheduling and vaccine administration.  Other resources relating to the MMRV programme, hexavalent DTaP/IPV/Hib/HepB vaccine and the selective neonatal hepatitis B programme,, Meningococcal B (MenB) vaccination programme and pneumococcal infant vaccination programme including information for healthcare practitioner guidance are also available.  Childhood immunisation eligibility calculator There is a calculator available as an MS excel file you can download and use to enter a child’s birthdate. When you enter the birthdate, the calculator will show which vaccines should be given and at what time.  This calculator assumes vaccinations are administered in line with the routine UK childhood immunisation schedule. It is intended to support clinicians but does not replace clinical judgement or clinical decision making. If any vaccinations are missed, delayed or incomplete, do not use this calculator and instead refer to the UKHSA algorithm for vaccination of individuals of uncertain immunisation status \"",
+  "base_path": "/government/publications/childhood-schedule-changes-from-1-july-2025-information-for-healthcare-practitioners",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    }
+  ]
+}

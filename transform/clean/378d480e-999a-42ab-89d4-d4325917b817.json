@@ -1,0 +1,11 @@
+{
+  "title": "Link between attendance and attainment",
+  "body": "\"This report examines the relationship between attendance and academic achievement for pupils in state-funded mainstream schools during the 2022 to 2023 academic year at the end of:   key stage 2 key stage 4   The study, which builds on previous research from 2016, uses a regression model to account for various factors that could influence attainment, such as prior performance and pupil characteristics.  It uses recent data to look at how similar pupils with different attendance rates perform, isolating the impact of attendance on the likelihood of achieving successful outcomes at each key stage. \"",
+  "base_path": "/government/publications/link-between-attendance-and-attainment",
+  "taxons": [
+    {
+      "title": "School attendance and absence",
+      "base_path": "/education/school-attendance-and-absence"
+    }
+  ]
+}

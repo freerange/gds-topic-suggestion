@@ -1,0 +1,11 @@
+{
+  "title": "Generative AI: product safety expectations",
+  "body": "\"Guidance on the capabilities and features that generative AI products and systems should meet to be considered safe for users in educational settings.  The safety expectations are for edtech developers and suppliers to schools and colleges.  You should also refer to Generative artificial intelligence (AI) in education. \"",
+  "base_path": "/government/publications/generative-ai-product-safety-expectations",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    }
+  ]
+}

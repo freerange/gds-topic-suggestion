@@ -1,0 +1,19 @@
+{
+  "title": "Change a charity’s details",
+  "body": "\"If your organisation is registered as a charity with HMRC, you can use this form to tell us about significant changes to the charity’s details.  Significant changes could be to:   contact details authorised officials nominees, such as tax agents bank account details   You can either:   use the online service fill in the form on-screen, print and post to HMRC    If anyone that you’re naming does not have a National Insurance number, you must use the postal form.  Explain the circumstances in section 55, under ‘any other changes’.   Change details online  You need to sign in using the Government Gateway user ID and password you used when you registered your charity with HMRC.  Start now   Change details by post             ChV1: Change a charity's details by post    PDF, 142 KB, 1 page     This file may not be suitable for users of assistive technology.    Request an accessible format.    If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email different.format@hmrc.gov.uk. Please tell us what format you need. It will help us if you say what assistive technology you use.      You need to:   Download and save the form on your computer. Open it using the latest free version of Adobe Reader. Complete it on-screen. Use the guidance on completing form ChV1 to help you. Print and post it to the address on the form.   The form may not work if you try to open it in your internet browser. If the form does not open, contact online services support for more help.  If you’re a tax agent  You’ll need to use the Charities for Agents online service.  Ask your client to fill in this form and enter your agent details as a nominee.  We’ll send you an agent reference number and a customer reference number by post. You can use these to enrol the Charities for Agents online service onto your Government Gateway account. \"",
+  "base_path": "/guidance/change-a-charitys-details",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Charity money, tax and accounts",
+      "base_path": "/business-and-industry/running-charity-money-accounts"
+    },
+    {
+      "title": "Fundraising",
+      "base_path": "/business-and-industry/running-charity-fundraising"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Bed availability and occupancy data for Q3 2024/25",
+  "body": "\"It collects the total number of available bed days and the total number of occupied bed days by consultant main specialty.  Data for this collection is available back to 2000-01.  Prior to 2010-11 the KH03 was an annual return collecting beds by ward classification. It also included data on Residential Care beds.  Official statistics are produced impartially and free from any political influence. \"",
+  "base_path": "/government/statistics/bed-availability-and-occupancy-data-for-q3-202425",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

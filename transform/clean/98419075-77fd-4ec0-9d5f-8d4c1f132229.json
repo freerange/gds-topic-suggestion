@@ -1,0 +1,11 @@
+{
+  "title": "National Energy Efficiency Data-Framework (NEED) report: summary of analysis 2025",
+  "body": "\"The National Energy Efficiency Data-Framework (NEED) was set up to provide a better understanding of energy use and energy efficiency in domestic and non-domestic buildings in Great Britain. The data framework matches data about a property together - including energy consumption and energy efficiency measures installed - at household level.  \"",
+  "base_path": "/government/statistics/national-energy-efficiency-data-framework-need-report-summary-of-analysis-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

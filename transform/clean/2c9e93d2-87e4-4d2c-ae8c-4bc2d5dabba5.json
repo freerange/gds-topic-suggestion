@@ -1,0 +1,19 @@
+{
+  "title": "Delay compensation claims: 20 July 2025 to 11 October 2025 (Periods 5 to 7)",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/delay-compensation-claims-20-july-2025-to-11-october-2025-periods-5-to-7",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    },
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    },
+    {
+      "title": "Rail ticketing and fares",
+      "base_path": "/transport/rail-ticketing-and-fares"
+    }
+  ]
+}

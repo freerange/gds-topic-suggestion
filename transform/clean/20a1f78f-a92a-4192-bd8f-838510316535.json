@@ -1,0 +1,15 @@
+{
+  "title": "Visit the dedicated Analysis Function website",
+  "body": "\"The Analysis Function is a network for all civil servants working in government analysis.  There are around 17,000 government analysts working across all departments and agencies and from a wide range of professions and disciplines.  The best place to find out more about the Analysis Function is our dedicated website: AnalysisFunction.CivilService.gov.uk.  You can also:   Sign up for our monthly AF Newsletter  Connect with us on [LinkedIn at Gov Analysis Function]https://www.linkedin.com/company/gov-analysis-function/) Follow us on X @gov_analysis to join in the conversation or start a new one Be the first to find out about our events by following us on Eventbrite at Eventbrite/Government Analysis Function   \"",
+  "base_path": "/government/news/analysis-function",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

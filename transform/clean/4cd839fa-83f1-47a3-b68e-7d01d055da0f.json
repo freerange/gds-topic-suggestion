@@ -1,0 +1,19 @@
+{
+  "title": "IPS for alcohol and drug dependence: data linkage outcomes 2025",
+  "body": "\"Individual Placement and Support (IPS) is an intervention that helps people to find and stay in paid employment.  Following a study between 2018 and 2021, IPS for adults in treatment for alcohol and drug dependence was rolled out to the remaining local authorities in England between 2022 and 2025.  This is the second report of the outcomes of the expansion. It summarises the results of linking data on alcohol and drug treatment, held by the Department of Health and Social Care, with employment records, held by HM Revenue and Customs.  \"",
+  "base_path": "/government/publications/ips-for-alcohol-and-drug-dependence-data-linkage-outcomes-2025",
+  "taxons": [
+    {
+      "title": "Finding a job",
+      "base_path": "/employment/finding-job"
+    },
+    {
+      "title": "Drug misuse and dependency",
+      "base_path": "/health-and-social-care/drug-misuse-and-dependency"
+    },
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    }
+  ]
+}

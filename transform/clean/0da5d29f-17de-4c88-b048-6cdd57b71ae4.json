@@ -1,0 +1,15 @@
+{
+  "title": "Research exploring VAT repayment methods",
+  "body": "\"VAT repayments are paid either directly into businesses’ bank accounts (BACS) or by payable order. The majority of payments are made directly into business bank accounts. However, at the time of research, one in five VAT repayments are still being made by payable order.    HM Revenue and Customs (HMRC) commissioned Yonder to conduct mixed methods research to understand why this method is used. The research aimed to understand barriers to switching from payable order to BACS VAT repayments and explore solutions to encourage more businesses to move to BACS VAT repayments. All fieldwork took place between August and December 2023.  \"",
+  "base_path": "/government/publications/research-exploring-vat-repayment-methods",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    }
+  ]
+}

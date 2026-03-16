@@ -1,0 +1,11 @@
+{
+  "title": "Transport connectivity metric",
+  "body": "\"This guidance sets out the methodology for the connectivity metric.  The metric defines connectivity as someone’s ability to get where they want to go. It measures opportunity to travel to various destinations, weighted by people’s overall proclivity to take those options.  It aims to capture the most common modes of travel and destination types, the time required to reach these destinations, the value presented by the destinations, and people’s travel preferences.  It doesn’t show how many people take different routes: purely their opportunity to do so. Nor is it a transport model - there is no trip assignment or convergence processes.  The ODS file on this page contains a variety of connectivity metrics presented at output area, lower super output area, local authority district and regional level for England and Wales. Further details are available in the metadata included within the file. \"",
+  "base_path": "/government/publications/transport-connectivity-metric",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

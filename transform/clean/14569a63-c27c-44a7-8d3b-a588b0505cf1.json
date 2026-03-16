@@ -1,0 +1,11 @@
+{
+  "title": "International passenger survey QMI",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/international-passenger-survey-qmi",
+  "taxons": [
+    {
+      "title": "International",
+      "base_path": "/international"
+    }
+  ]
+}

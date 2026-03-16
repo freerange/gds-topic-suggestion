@@ -1,0 +1,19 @@
+{
+  "title": "Productivity trends in the UK: July to September 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/productivity-trends-in-the-uk-july-to-september-2024",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "Running a business",
+      "base_path": "/business-and-industry/running-a-business"
+    }
+  ]
+}

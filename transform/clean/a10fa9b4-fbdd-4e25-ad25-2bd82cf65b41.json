@@ -1,0 +1,15 @@
+{
+  "title": "Request for input on potential UK measures in response to US tariffs",
+  "body": "\" This request for input opened at:   midday on 3 April 2025   It closed at:   11:59pm on 1 May 2025    This request for input asked for views from UK business on the potential impacts of any future UK tariffs in response to the US government’s tariff announcements in April 2025.  The government welcomed input from stakeholders that could be affected by any potential UK tariff measures.  \"",
+  "base_path": "/government/publications/request-for-input-on-potential-uk-measures-in-response-to-us-tariffs",
+  "taxons": [
+    {
+      "title": "Customs declarations, duties and tariffs (import and export)",
+      "base_path": "/business-and-industry/customs-declarations-duties-tariffs"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    }
+  ]
+}

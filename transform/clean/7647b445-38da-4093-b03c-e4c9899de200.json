@@ -1,0 +1,11 @@
+{
+  "title": "Costs of Child Poverty: A rapid evidence review of the effect of income on child outcomes",
+  "body": "\"Summary  This report reviews robust evidence on how changes in family income affect children’s school readiness, health, and economic outcomes.  Research background  The Department for Work and Pensions commissioned this rapid evidence review to inform the UK government’s Child Poverty Strategy. The review explores whether increasing family income during pregnancy or childhood leads to better outcomes for children. Only studies using robust methods (randomised controlled trials (RCTs) and quasi-experimental designs (QEDs) were included. The review addresses three questions:   What is the effect of income on children’s school readiness? What is the effect of income on children’s health outcomes? What is the effect of income on children’s economic outcomes?   Contribution to the evidence base  The review provides a systematic synthesis of 35 studies, highlighting the types of income interventions (e.g., cash transfers, tax credits, earnings supplements) and their effects on children’s development, health, and future economic outcomes.  UK-based evidence shows health impacts, including reductions in infant mortality and emergency hospital admissions, while international studies support improvements in economic and school readiness outcomes.  The review identifies gaps in the UK evidence base, noting that most studies are from the US, Canada, or Latin America, and calls for further UK-specific research.  Research value  The review strengthens our understanding of how income affects child outcomes by confirming that sustained and targeted increases in household income can causally improve outcomes.  It builds on previous research conducted by Cooper & Stewart (2021), by focusing on studies that show causality and by including a wider range of economic outcomes.  The findings supported the Child Poverty Taskforce and the development of the UK’s cross-government Child Poverty Strategy.  \"",
+  "base_path": "/government/publications/costs-of-child-poverty-a-rapid-evidence-review-of-the-effect-of-income-on-child-outcomes",
+  "taxons": [
+    {
+      "title": "Child poverty",
+      "base_path": "/childcare-parenting/child-poverty"
+    }
+  ]
+}

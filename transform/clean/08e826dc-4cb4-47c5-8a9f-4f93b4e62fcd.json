@@ -1,0 +1,11 @@
+{
+  "title": "Seizures of drugs in England and Wales, financial year ending 2024",
+  "body": "\"The data relate to all drugs controlled under the Misuse of Drugs Act 1971 and Psychoactive Substances Act 2016. The number and quantity of seizures made can be affected by police and Border Force activity and changes in recording practices, as well as changes in the drugs market. Therefore, the number and quantity of drug seizures each year should not be taken as an indicator of drug prevalence in England and Wales.  If you have any comments about this release please contact us at drugseizures.datacollection@homeoffice.gov.uk.  Further information  Seizures of drugs in England and Wales: user guide  Home Office statisticians are committed to regularly reviewing the usefulness, clarity and accessibility of the statistics that we publish under the Code of Practice for Statistics. \"",
+  "base_path": "/government/statistics/seizures-of-drugs-in-england-and-wales-financial-year-ending-2024",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

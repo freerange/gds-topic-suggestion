@@ -1,0 +1,15 @@
+{
+  "title": "Manufactured Animal Feed Statistics N. Ireland, June  2025",
+  "body": "\"Total monthly deliveries of compound and other processed animal feedstuff and the amount of raw materials used in the production of compound and other processed animal feedstuffs, by Northern Ireland feedstuffs manufacturers. \"",
+  "base_path": "/government/statistics/manufactured-animal-feed-statistics-n-ireland-june-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

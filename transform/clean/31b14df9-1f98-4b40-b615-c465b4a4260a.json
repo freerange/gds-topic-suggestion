@@ -1,0 +1,11 @@
+{
+  "title": "Quarterly bus fares statistics: April to June 2025",
+  "body": "\" Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing us with any comments about how we meet these standards.    Quarterly bus fares revisions  As part of this release, we have made minor revisions to the bus fares data following a detailed review of the processing methodology.  This review led to small improvements in how the data are processed and weighted, helping to ensure the statistics remain robust and reflective of the latest available information. These updates have been made to enhance accuracy and consistency. The overall impact on the published figures is minimal and mostly noticeable at more granular geographic levels, such as in Wales. The overall trends in bus fares remain unchanged.  We remain committed to maintaining high standards of data quality and transparency. Further details on the methodology and revisions are available in the accompanying technical documentation.   Statistics on local bus fares in Great Britain  The local bus fares index increased by 15.9% in England outside London between June 2024 and June 2025. This period covers the introduction of the £3 fare cap in England from 1 January 2025, which has led to a larger change than previous quarters.  For other areas, the local bus fares index change between June 2024 and June 2025 was:   0.0% increase in London 14.0% increase in metropolitan areas 17.0% increase in non-metropolitan areas 9.8% increase in Scotland 11.9% increase in Wales   The Consumer Price Index (CPI) increased by 3.6% over the same 12-month period.  Contact us  Bus statistics     Email bus.statistics@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats. \"",
+  "base_path": "/government/statistics/quarterly-bus-fares-statistics-april-to-june-2025",
+  "taxons": [
+    {
+      "title": "Buses",
+      "base_path": "/transport/buses"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Energy Performance of Building Certificates in England and Wales: April to June 2025",
+  "body": "\"Information about certificates on the energy efficiency of domestic and non-domestic buildings and and of larger public authority buildings (DECs) in England and Wales that have been constructed, sold, or let since 2008,  since 2008. These statistics do not cover the entire building stock across England and Wales. \"",
+  "base_path": "/government/statistics/energy-performance-of-building-certificates-in-england-and-wales-april-to-june-2025",
+  "taxons": [
+    {
+      "title": "Energy efficiency in buildings",
+      "base_path": "/housing-local-and-community/energy-efficiency-in-buildings"
+    }
+  ]
+}

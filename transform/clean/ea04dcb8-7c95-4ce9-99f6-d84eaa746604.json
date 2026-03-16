@@ -1,0 +1,11 @@
+{
+  "title": "Sea passenger statistics, all routes: 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/sea-passenger-statistics-all-routes-2025",
+  "taxons": [
+    {
+      "title": "UK sea passengers",
+      "base_path": "/transport/uk-sea-passengers"
+    }
+  ]
+}

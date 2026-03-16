@@ -1,0 +1,35 @@
+{
+  "title": "Economic Estimates: Employment October 2023 to September 2024 for DCMS Sectors",
+  "body": "\"About  These economic estimates are used to provide an estimate of the contribution of DCMS sectors to the UK economy, measured by employment (number of filled jobs). These estimates are calculated based on the Office for National Statistics (ONS) Annual Population Survey (APS).They have been independently reviewed by the Office for Statistics Regulation (OSR) and are accredited official statistics.   Notice on Accreditation:  The ONS has carried out analysis to assess the impact of falling sample sizes on the quality of Annual Population Survey (APS) estimates. Due to the ongoing challenges with response rates, response levels and weighting, the accreditation of ONS statistics based on Annual Population Survey (APS) was temporarily suspended on 9 October 2024. Because of the increased volatility of both Labour Force Survey (LFS) and APS estimates, the ONS advises that estimates produced using these datasets should be treated with additional caution.  ONS statistics based on both the APS and LFS will be considered official statistics in development until further review. We are reviewing the quality of our estimates and will update users about the accreditation of DCMS Employment Economic Estimates if this changes. In the interim, due to these smaller sample sizes, we have published data for this quarter with a slightly reduced set of demographic breakdowns for DCMS sectors and subsectors.    Content  DCMS Sectors  These statistics cover the contributions of the following DCMS sectors to the UK economy;   civil society creative industries cultural sector gambling sport   Tourism is not included as the data is not available for non-calendar year publications. The release also includes estimates for the audio visual sector and computer games sector but they do not form part of the DCMS total.  Users should note that there is overlap between DCMS sector definitions. In particular, several cultural sector industries are simultaneously creative industries.  A definition for each sector is available in the tables published alongside this release. Further information on all these sectors is available in the associated technical report along with details of methods and data limitations.  Headline findings  There were 4.0 million total filled jobs in the included DCMS sectors, representing 11.9% of UK total filled jobs. This is similar to the previous equivalent 12 month period of 11.8% and a 1.2 percentage point increase on pre-pandemic (2019), at 10.7%.  Growth in the included DCMS sectors was 1.3% when compared to the previous equivalent 12 month period, compared to 0.5% for all UK sectors.Growth in filled jobs within the included DCMS sectors has exceeded that of the UK overall compared to 2019 (12.4% vs 1.6%) and over the longer term compared to 2011 (39.4% vs 13.1%).  Within the included DCMS sectors, 24.4% of filled jobs were in London, a higher proportion compared to the UK economy overall, of which 16.0% were in London. However, this varies by sector.  Call for feedback  We are always interested in receiving feedback on our statistics. We are particularly interested in how useful our rolling quarterly employment statistics are, and how statistics for non-calendar year quarterly periods...",
+  "base_path": "/government/statistics/economic-estimates-employment-october-2023-to-september-2024-for-dcms-sectors",
+  "taxons": [
+    {
+      "title": "Library services",
+      "base_path": "/society-and-culture/library-services"
+    },
+    {
+      "title": "Museums and galleries",
+      "base_path": "/society-and-culture/museums-and-galleries"
+    },
+    {
+      "title": "Charities, volunteering and honours",
+      "base_path": "/society-and-culture/charities-honours"
+    },
+    {
+      "title": "Sports and leisure",
+      "base_path": "/society-and-culture/sports-and-leisure"
+    },
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    },
+    {
+      "title": "Media and creative industries",
+      "base_path": "/business-and-industry/media-and-creative-industries"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

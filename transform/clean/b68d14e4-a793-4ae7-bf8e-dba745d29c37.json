@@ -1,0 +1,11 @@
+{
+  "title": "Ebola contact tracing",
+  "body": "\"Ebola disease is a rare but serious disease caused by orthoebolaviruses. There are 6 identified species of orthoebolavirus, 4 of which cause disease in humans.  These information sheets provide guidance for people who have had various degrees of contact with people or material infected by the Ebola disease. \"",
+  "base_path": "/government/collections/ebola-contact-tracing",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK HIV Genomics Database proposal form template",
+  "body": "\"Email completed forms to: avuqueries@ukhsa.gov.uk \"",
+  "base_path": "/government/publications/uk-hiv-genomics-database-proposal-form-template",
+  "taxons": [
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    }
+  ]
+}

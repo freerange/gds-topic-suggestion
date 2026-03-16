@@ -1,0 +1,11 @@
+{
+  "title": "Civil Service median salary by responsibility level in England: 2025",
+  "body": "\"This data shows Civil Service median salary by responsibility level in England and England (excluding London) as at 31 March 2025. \"",
+  "base_path": "/government/statistics/civil-service-median-salary-by-responsibility-level-in-england-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

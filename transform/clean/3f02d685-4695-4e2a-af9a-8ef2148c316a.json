@@ -1,0 +1,15 @@
+{
+  "title": "Assessment of king scallop stock status - English coast 2023/24",
+  "body": "\"Scallop stock assessment 2023/24 research carried out by Cefas.  We are pleased to be able to publish the 8th annual stock assessment report for the selected King Scallop stocks for selected waters around the English coast, which has been delivered in close collaboration and with support from the UK scallop industry. \"",
+  "base_path": "/government/publications/assessment-of-king-scallop-stock-status-english-coast-202324",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    },
+    {
+      "title": "Species protection and marine conservation",
+      "base_path": "/environment/species-protection-and-marine-conservation"
+    }
+  ]
+}

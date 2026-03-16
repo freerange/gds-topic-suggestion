@@ -1,0 +1,15 @@
+{
+  "title": "HMPPS Annual Digest, April 2024 to March 2025",
+  "body": "\"The HMPPS Annual Digest statistics cover performance data on Escapes, Absconds, Failure to return from ROTL and Releases in Error; Prison Crowding; Prisoners Earnings subject to the Prisoners’ Earnings Act 1996; Random Mandatory Drug Testing; Protesting Behaviour; Finds in Prison; Incentives; Mother and Baby Units, Pregnant Prisoners and Births; Community Accommodation Service; Staff in Post.  Pre-release list  The following post holders are given pre-release access up to 24 hours before release.  Ministry of Justice Lord Chancellor and Secretary of State, Minister of State (Prisons, Probation and Reducing Reoffending), relevant Private Secretaries (x2), Permanent Secretary, Director General - Policy, Press Officer (x4), MoJ Chief Statistician, Joint Head of Prison Security Policy (Strategy, Intelligence & Capability), Head of Release in Error, Head of Capacity Management, Capacity reporting Data manager, Policy advisor - Employment, Senior Policy Advisor (Prisoner Outcomes, Resettlement and Reoffending), Divisional Director for Health and Wellbeing(rMDT), Head of MoJ Prison Security Policy, Senior Policy Advisor (Safety, Security, Behaviour and National security Team), Prisoner Behaviour Policy Team, Policy head (MBUs and Maternal Separation), Senior Area Contract Manager, Head of Community Integration (CAS-2),  Production Staff:  MoJ Deputy Director of Courts and People, MoJ Head of Workforce and Equalities Statistics Team, MoJ Head of Service User and Equalities Performance, MoJ Head of Prisons, MoJ Analyst (x18) \"",
+  "base_path": "/government/statistics/hmpps-annual-digest-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "Justice system transparency",
+      "base_path": "/crime-justice-and-law/justice-system-transparency"
+    },
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    }
+  ]
+}

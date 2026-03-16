@@ -1,0 +1,15 @@
+{
+  "title": "Fertiliser Statistics Northern Ireland 2025 - Quarter 3",
+  "body": "\"Fertiliser statistics show the quantities of compound, blended and straight fertilisers delivered in Northern Ireland by Northern Ireland fertiliser firms for agricultural and commercial horticultural use \"",
+  "base_path": "/government/statistics/fertiliser-statistics-northern-ireland-2025-quarter-3",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

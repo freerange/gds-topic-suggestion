@@ -1,0 +1,15 @@
+{
+  "title": "KSI casualties caused by Excessive speed in Northern Ireland, 2019-2023",
+  "body": "\"This bespoke analysis was commissioned by Promotion and Outreach Branch, DfI, and supplements the NI Road Safety Strategy (NIRSS) to 2030 Annual Statistical Report. The purpose of the research is to review PSNI road traffic collision data on pedestrians and identify any emerging issues in relation to the number of people killed or seriously injured due to speeding on Northern Ireland’s roads in the five year period 2019-2023. \"",
+  "base_path": "/government/statistics/ksi-casualties-caused-by-excessive-speed-in-northern-ireland-2019-2023",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    },
+    {
+      "title": "Speeding",
+      "base_path": "/transport/speeding"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Shaping the national cancer plan",
+  "body": "\"Cancer affects 1 in 2 people during their lifetime. The Prime Minister’s health mission sets the objective of building an NHS fit for the future, and an essential part of this is achieving our goal to reduce the number of lives lost to cancer.  The Department of Health and Social Care (DHSC) is seeking the views of individuals, professionals and organisations to understand how we can do more to achieve this ambition. Your views will inform our plan to improve cancer care, from referral and diagnosis to treatment and aftercare, in order to better the experience and outcomes for people with cancer.  Rather than a formal consultation on specific proposals, this call for evidence is a request for ideas and evidence that the government can build on.   This call for  evidence is also available as an easy read version.  \"",
+  "base_path": "/government/calls-for-evidence/shaping-the-national-cancer-plan",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Cancer research and treatment",
+      "base_path": "/health-and-social-care/cancer-research-and-treatment"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "OSCAR annual release: November 2025",
+  "body": "\"This annual set of raw data released from the OSCAR reporting system covers outturn for financial years 2020-21 to 2024-25 and in-year data for financial years 2024-25. This dataset, in addition to the previous OSCAR and COINS releases, makes public spending data more transparent.  OSCAR is a cross-government financial consolidation system that replaced the COINS public spending database. It’s a user-friendly system that provides us with key management information and data for public reporting. Please note that due to the increased level of detail contained in the OSCAR system, it is not backwards compatible with previous COINS releases. \"",
+  "base_path": "/government/publications/oscar-annual-release-november-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

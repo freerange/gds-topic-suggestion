@@ -1,0 +1,23 @@
+{
+  "title": "Tenant Satisfaction Measures 2024/25",
+  "body": "\"TSMs are intended to be a tool to allow tenants to scrutinise their landlord’s performance, give insights to landlords on where they might look to improve their services, and provide a source of intelligence to the regulator on how far landlords are meeting the outcomes of the consumer standards.  Almost half a million tenant perception surveys were completed by landlords in order to generate TSMs. This represents a rich and important source of feedback from tenants to their landlords.  \"",
+  "base_path": "/government/statistics/tenant-satisfaction-measures-202425",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

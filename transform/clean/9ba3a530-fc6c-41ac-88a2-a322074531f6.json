@@ -1,0 +1,11 @@
+{
+  "title": "Unlocking Space for Government",
+  "body": "\" The UK Space Agency’s Unlocking Space for Government (USG) initiative helps public sector organisations, across both civil and defence domains, to adopt space-enabled technologies such as Earth Observation (EO), Satellite Communications (SatCom), and Positioning, Navigation and Timing (PNT) to deliver better, more efficient and more resilient public services and national security outcomes.  Whether supporting healthcare and transport infrastructure, improving environmental monitoring, or enabling defence capability development, satellite-derived services offer significant benefits to the UK. However, their adoption across government has often been constrained by technical, commercial, and institutional barriers.  Unlocking Space for Government works across departments, agencies and regions to identify and pilot high-impact use cases, build public sector capacity, and ensure that the UK government acts as a strategic customer of space-enabled services. It also supports UK companies in developing solutions that meet public sector needs and in navigating civil and defence procurement pathways. \"",
+  "base_path": "/government/publications/unlocking-space-for-government",
+  "taxons": [
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

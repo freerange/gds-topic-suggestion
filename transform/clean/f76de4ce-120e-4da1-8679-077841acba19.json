@@ -1,0 +1,19 @@
+{
+  "title": "Fisheries: memorandum of understanding between Defra (UK) and DFO (Canada)",
+  "body": "\"This memorandum of understanding (MoU) has been agreed between the Department of Fisheries and Oceans of Canada (DFO) and the Department for Environment, Food and Rural Affairs (Defra) of the United Kingdom of Great Britain and Northern Ireland.    The MoU provides for the:      establishment of a framework for formal cooperation in relation to engagement in international fora and frameworks as well as scientific capacity in the North Atlantic Ocean   formalisation of the DFO-Defra Fisheries and Marine Environment Dialogue (FMED)   mutual recognition of the importance of long-term conservation and the sustainable use of marine resources, as well as the dangers posed by climate change, biodiversity loss and pollution   \"",
+  "base_path": "/government/publications/marine-and-fisheries-dfo-defra-memorandum-of-understanding",
+  "taxons": [
+    {
+      "title": "Fishing, fisheries and fishing vessels",
+      "base_path": "/environment/fishing-fisheries-and-vessels"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

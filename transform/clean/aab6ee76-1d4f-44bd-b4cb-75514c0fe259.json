@@ -1,0 +1,31 @@
+{
+  "title": "Perinatal mental health condition prevalence",
+  "body": "\"The report and data tables gives commentary on the estimated prevalence of perinatal mental health (PMH) conditions in females with a birth outcome in 2019.  The report accompanies a new indicator in the Perinatal mental health profile on the Fingertips tool.  This new indicator, estimated prevalence of pre-existing or newly diagnosed mental health conditions during the perinatal period in females aged 15 to 55 years, contains data that covers 2 years, 2016 and 2019, and includes national and sub-national breakdowns  Another new indicator, age standardised rates of access to specialist PMH services for females aged 15 to 54, has been published in the perinatal mental health profile on Fingertips. The data in this indicator covers April 2019 to March 2023 and includes national and sub-national breakdowns.  The perinatal mental health profile helps develop an understanding of PMH at a local level. The data allows planners, providers and other stakeholders to profile their area and benchmark against similar populations.  \"",
+  "base_path": "/government/publications/perinatal-mental-health-condition-prevalence",
+  "taxons": [
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    },
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    },
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    },
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    },
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    },
+    {
+      "title": "Sexual and reproductive health",
+      "base_path": "/health-and-social-care/sexual-and-reproductive-health"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "High Value Council Tax Surcharge",
+  "body": "\"The government has announced the introduction of a new High Value Council Tax Surcharge. The below factsheet outlines the details of this new surcharge. From April 2028, owners of properties identified as being valued at over £2 million will be liable for a recurring annual charge which will be additional to existing Council Tax liability. This measure is estimated to raise £0.4 billion in 2029-30. Local authorities will collect this revenue on behalf of central government and will be fully compensated for the additional costs of administering this new tax. Revenue will be used to support funding for local services, with further consideration through the next Spending Review. \"",
+  "base_path": "/government/publications/high-value-council-tax-surcharge",
+  "taxons": [
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

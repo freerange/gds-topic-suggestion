@@ -1,0 +1,11 @@
+{
+  "title": "Raw Disease Prevalence Data 2024/25",
+  "body": "\"his bulletin presents raw disease prevalence data at GP Federation, LCG and Northern Ireland levels, for 14 registers which count patients with specific conditions or diseases. \"",
+  "base_path": "/government/statistics/raw-disease-prevalence-data-202425",
+  "taxons": [
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

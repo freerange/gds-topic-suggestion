@@ -1,0 +1,11 @@
+{
+  "title": "MGN 672 (M) Extended dry-docking",
+  "body": "\"Notice to all shipowners, masters and UK Recognised Organisations.  This notice should be read in conjunction with:   The Merchant Shipping (Survey and Certification) Regulations 2015, Merchant Shipping Notice 1672 (M+F) (as amended), Merchant Shipping Notice 1751(M+F) (as amended) and Marine Guidance Note 546 (M) (as amended).  \"",
+  "base_path": "/government/publications/mgn-672m-extended-dry-docking",
+  "taxons": [
+    {
+      "title": "Maritime and shipping",
+      "base_path": "/transport/maritime-and-shipping"
+    }
+  ]
+}

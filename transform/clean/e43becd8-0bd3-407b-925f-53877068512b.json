@@ -1,0 +1,11 @@
+{
+  "title": "Outbreaks under monitoring in 2026",
+  "body": "\" There will be no weekly updates in weeks where there are:   no significant changes to outbreaks that are being monitored no new outbreaks of note to publish    This webpage hosts weekly summaries of disease events monitored through the UK Health Security Agency (UKHSA)’s epidemic intelligence activities, including the location, reporting date, brief epidemiological overviews and links to relevant UKHSA guidance and information pages.   The summaries (or reports) are intended for healthcare professionals involved in the identification and management of suspected high consequence infectious diseases (HCID) cases, as well as those with a broader interest in emerging infectious diseases and associated global incidents and outbreaks.  Healthcare professionals seeking information on known HCID risks by country can refer to High consequence infectious disease: country-specific risk.  For general and country-specific travel health advice, see the TravelHealthPro website.  For more information on the background and methods used in updating the reports, see Outbreaks under monitoring: background and methodology.  \"",
+  "base_path": "/government/publications/outbreaks-under-monitoring-in-2026",
+  "taxons": [
+    {
+      "title": "Health emergency planning",
+      "base_path": "/health-and-social-care/health-emergency-planning"
+    }
+  ]
+}

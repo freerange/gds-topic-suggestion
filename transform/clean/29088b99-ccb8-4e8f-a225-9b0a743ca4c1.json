@@ -1,0 +1,15 @@
+{
+  "title": "Change of vaccine for the routine adult pneumococcal vaccination programme and individuals at increased clinical risk",
+  "body": "\"This letter and annexe provide information on the change of vaccine for the routine pneumococcal vaccination programme for adults, for those aged 2 years and above in clinical risk groups for pneumococcal disease, and for children aged less than 2 years of age with asplenia, splenic dysfunction, complement disorder and severe immunosuppression. \"",
+  "base_path": "/government/publications/change-of-vaccine-for-the-routine-adult-pneumococcal-vaccination-programme-and-individuals-at-increased-clinical-risk",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

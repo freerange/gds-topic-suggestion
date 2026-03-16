@@ -1,0 +1,11 @@
+{
+  "title": "Environmental Indicator Framework: Recent updates",
+  "body": "\"Description of recent updates to the Environmental Indicator Framework, including changes to the framework or new data for indicators. \"",
+  "base_path": "/government/publications/environmental-indicator-framework-recent-updates",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

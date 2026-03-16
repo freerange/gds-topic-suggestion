@@ -1,0 +1,11 @@
+{
+  "title": "Renewable Transport Fuel Obligation (RTFO) statistics",
+  "body": "\" These statistics were previously called Renewable fuel statistics and have been renamed to Renewable Transport Fuel Obligation (RTFO) statistics as of February 2025, due to the publication of sustainable aviation fuel (SAF) Mandate statistics. The previous renewable fuel statistics can still be accessed from their old URLs.  Due to the SAF Mandate coming into effect as of January 2025, SAF, reported as ‘Avtur (renewable)’ and ‘Aviation turbine fuel (development)’, will not be included in the 2025 obligation year RTFO statistics series, or any year after that. To view data on SAF being supplied to the UK under the SAF Mandate, please go to the Sustainable aviation fuel (SAF) Mandate collection page.   \"",
+  "base_path": "/government/collections/renewable-transport-fuel-obligation-rtfo-statistics",
+  "taxons": [
+    {
+      "title": "Low carbon fuels",
+      "base_path": "/transport/low-carbon-fuels"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "MHCLG: senior officials’ business expenses, hospitality and meetings",
+  "body": "\"The Ministry of Housing, Communities and Local Government (MHCLG) publishes details of senior officials’ business expenses, hospitality and meetings on a quarterly basis. \"",
+  "base_path": "/government/collections/mhclg-senior-officials-business-expenses-hospitality-and-meetings",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

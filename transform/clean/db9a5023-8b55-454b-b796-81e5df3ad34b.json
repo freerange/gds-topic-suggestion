@@ -1,0 +1,15 @@
+{
+  "title": "Charity Inquiry: The Order of Friars Minor Conventual",
+  "body": "\"A statement of the results of an inquiry into The Order of Friars Minor Conventual (registered charity number 249881). \"",
+  "base_path": "/government/publications/charity-inquiry-the-order-of-friars-minor-conventual",
+  "taxons": [
+    {
+      "title": "Charities, volunteering and honours",
+      "base_path": "/society-and-culture/charities-honours"
+    },
+    {
+      "title": "Charities and social enterprises",
+      "base_path": "/business-and-industry/charities-and-social-enterprises"
+    }
+  ]
+}

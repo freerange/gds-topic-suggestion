@@ -1,0 +1,19 @@
+{
+  "title": "Environment Agency charge proposal: cost of service",
+  "body": "\"As a public body carrying out a regulatory service, the Environment Agency must follow HM Treasury guidance in managing public money which requires us to fully recover the cost of our service. With the increase in costs of delivering these services and inflationary pressures we have reviewed most of our regulatory charges in:   The Environment Agency (Environmental Permitting and Abstraction Licensing) (England) Charging Scheme 2022 The Waste (Miscellaneous) (England) Charging Scheme 2018   This consultation proposes an increase to these charges to accommodate the rise in the cost of our service, so we can continue to fully recover our costs. We invite you to share your view and thoughts about our proposal. \"",
+  "base_path": "/government/consultations/environment-agency-charge-proposal-cost-of-service",
+  "taxons": [
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    },
+    {
+      "title": "Water management",
+      "base_path": "/environment/water-management"
+    }
+  ]
+}

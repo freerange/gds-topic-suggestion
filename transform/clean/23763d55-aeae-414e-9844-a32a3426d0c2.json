@@ -1,0 +1,11 @@
+{
+  "title": "Farm practices survey February 2025",
+  "body": "\"This publication gives the results of the survey run in February 2025 that focused on practices relating to greenhouse gas mitigation.  The survey is usually run annually.  This publication contains the headline results for each survey section as well as a time series containing data from 2011.  A full breakdown of results by region, farm type and farm size are shown in the dataset.  Farm Practices Survey (FPS) – greenhouse gas mitigation datasets and time series containing data from 2011.  This survey is currently under review, if you wish to participate in the consultation, details can be found here: Farm Practices Survey consultation - GOV.UK   Defra statistics: farming Email: farming-statistics@defra.gov.uk You can also contact us via Twitter  \"",
+  "base_path": "/government/statistics/farm-practices-survey-february-2025",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

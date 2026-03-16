@@ -1,0 +1,11 @@
+{
+  "title": "UKHSA Knowledge and Library Services",
+  "body": "\" The Knowledge and Library Services website has moved to GOV.UK  As of Monday 3 November, the UKHSA Knowledge and Library Services (KLS) website and contact form moved to GOV.UK, and is now in Public Beta.  You can access all the usual services, including literature searches, review advice, training and evidence resources, with improved navigation and accessibility.  Use the feedback form to tell us what works well and suggest how we can continue to improve the service.   About KLS  UKHSA Knowledge and Library Services (KLS) help eligible staff find and use the best available evidence for public health. Our work supports decisions, policies, and practice that protect and improve the nation’s health. We provide a range of expert knowledge, library and evidence services.  Access literature and evidence resources   MyAthens - your starting point for access to research and evidence  MyAthens is a platform that provides access to UKHSA’s journals, databases and eBooks, helping you find research and evidence independently.  Once logged in, you can:   Search for specific articles using Discovery search Browse journals with BrowZine Explore databases for wider research   UKHSA staff can log in with single sign-on. Other eligible staff need an OpenAthens account. For more information, refer to the services page for your organisation in the ‘Access our services’ section below.  Visit MyAthens  If you need a specialist search carried out on your behalf, use the literature search service.   Available services  We provide access to the best available evidence for public health underpinned by the expertise of our team. Our full list of services is available below.  For further information or queries, contact us.  Get in touch   \"",
+  "base_path": "/government/collections/ukhsa-knowledge-and-library-services",
+  "taxons": [
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    }
+  ]
+}

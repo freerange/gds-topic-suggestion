@@ -1,0 +1,19 @@
+{
+  "title": "A ‘golf bag’ of robotics could take dangerous jobs from humans",
+  "body": "\"A ‘golf bag’ of robotics and autonomy could soon be protecting lives by replacing people in dangerous situations where there are chemical, biological, radiological or nuclear threats.  The concepts by Oxford Dynamics, Createc, Autonomous Devices and the University of Bristol have received more than £2 million in funding via the Defence, Science and Technology Laboratory (Dstl) from the Department of Environment, Food and Rural Affairs (Defra).   University of Bristol device  Dstl project leader Steve said:  “We are delighted to be working with some of the top minds in industry and beyond on this exciting project.      “This advanced golf bag of technologies will be able to take hazardous and dangerous jobs away from people and deal with highly complex data in real time.      “It is an example of how the work of Dstl is delivering science and technology advantage across Government and ensuring that defence and security are prepared for the future.”  Defra will use these tools for environment remediation and recovery work.  The unique capabilities could also offer solutions to challenges across UK defence and beyond as well as supporting more than 100 specialist jobs.  Tracked machine  Oxford Dynamics have fused cutting-edge AI and advanced robotics to develop a prototype tracked machine called Strider.  The robot will work out the best way to pick up, collect and store samples.  This involves:   object detection assessing surface quality estimating weight    Strider robot from Oxford Dynamics   Strider robot in action  Multi-directional drone  Autonomous Devices have created a multi-directional drone with a swabbing system to test for contamination in hard to reach places, such as entering upstairs windows.  This device also includes the potential to apply decontamination spray.  Robot control software  Createc have developed world-leading robot control software to enable their fleet of robots to gather information and samples to deal with an incident including a drone, a robot dog and four-wheeled vehicles.  These vehicles are autonomous but can be switched over to remote control if required. They can climb stairs, open car doors and use tools.  Uncrewed ground vehicle  The University of Bristol is pioneering an uncrewed ground vehicle with a robotic arm that would work with a tethered drone to carry out decontamination with a spray system at a range of heights.   Find out more about our robotics and autonomy.   Chief Scientific Adviser at Defra, Professor Gideon Henderson, said:  “Science and technology are vital in preparing for the future and whatever challenges and opportunities that brings.      “These innovative solutions could help remove people from hazardous situations and ultimately save lives.      “We are delighted to work with our partners at Dstl and harness this expertise along with some of the top minds in universities and industry.”  This work is part of a wider partnership established by Dstl and Defra.  The National Technical Advisory Group for CBR Recovery (NTAG-R) commissions and conducts key research to improve the approach to CBRN remediation. It works to develop technology options for remediation activity at pace.  \"",
+  "base_path": "/government/news/a-golf-bag-of-robotics-could-take-dangerous-jobs-from-humans",
+  "taxons": [
+    {
+      "title": "Contaminated land",
+      "base_path": "/environment/environmental-management-chemicals-contaminated-land"
+    },
+    {
+      "title": "Armed forces",
+      "base_path": "/defence/working-armed-forces"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    }
+  ]
+}

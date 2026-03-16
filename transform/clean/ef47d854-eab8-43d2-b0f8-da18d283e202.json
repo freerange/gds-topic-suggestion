@@ -1,0 +1,11 @@
+{
+  "title": "DBT national survey of registered businesses’ exporting behaviours, attitudes and needs mid-year tables 2024",
+  "body": "\"The Department for Business and Trade (DBT) National Survey of Registered Businesses (NSRB) measures UK businesses’ self-reported exporting behaviours, plans, and attitudes, alongside insights into their perceptions around barriers to exporting.  This publication consists of 2 open document spreadsheet files, containing mid-year data for wave 9 of the study. The data relates to fieldwork collected between March and August 2024. One file contains data relating to business respondents with an annual turnover of £500,000 or more and the other contains data relating to all business respondents.  \"",
+  "base_path": "/government/statistics/dbt-national-survey-of-registered-businesses-exporting-behaviours-attitudes-and-needs-mid-year-tables-2024",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    }
+  ]
+}

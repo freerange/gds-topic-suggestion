@@ -1,0 +1,15 @@
+{
+  "title": "Barriers and Enablers to Advanced Technology Adoption for UK Businesses",
+  "body": "\"This research finds that business decision-making on advanced technology adoption is complex and that decisions are shaped by the dynamic interplay of multiple interrelated factors.  There was no single most influential determinant of adoption decisions. Instead, businesses reported experiencing multiple catalysts and constraints which act with varying degrees of strength as push and pull forces on their adoption decision-making and businesses experiences of these forces varied significantly across the sample. Overall, business risk profile, clarity of use case, affordability, and regulation were widely reported to exert strong influence on adoption decision-making. \"",
+  "base_path": "/government/publications/barriers-and-enablers-to-advanced-technology-adoption-for-uk-businesses",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

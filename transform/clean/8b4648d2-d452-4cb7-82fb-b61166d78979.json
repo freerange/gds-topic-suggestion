@@ -1,0 +1,23 @@
+{
+  "title": "Plan for Neighbourhoods: Regeneration Plan guidance",
+  "body": "\"As part of the Plan for Neighbourhoods programme, places must create a Regeneration Plan outlining their overarching vision for change over the next 10 years to deliver the strategic objectives of the programme.  Plan for Neighbourhoods: 10-year vision content checklist outlines the content you must include in your 10-year vision. \"",
+  "base_path": "/government/publications/plan-for-neighbourhoods-regeneration-plan-guidance",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "City deals and growth deals",
+      "base_path": "/business-and-industry/city-deals-and-growth-deals"
+    },
+    {
+      "title": "Regional growth fund",
+      "base_path": "/business-and-industry/regional-growth-fund"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

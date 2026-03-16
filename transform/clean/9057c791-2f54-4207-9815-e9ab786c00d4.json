@@ -1,0 +1,15 @@
+{
+  "title": "Waste codes you can accept instead of those ending in 99: RPS 241",
+  "body": "\"This regulatory position statement (RPS) does not change your legal requirement to comply with an environmental permit for a waste operation or a registered waste exemption and the waste codes you are allowed to accept.  However, the Environment Agency will not normally take enforcement action if you do not comply with these legal requirements if you meet the requirements of this RPS.  This regulatory position does not apply to any other legal requirements.  \"",
+  "base_path": "/government/publications/waste-codes-you-can-accept-instead-of-those-ending-in-99-rps-241",
+  "taxons": [
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    }
+  ]
+}

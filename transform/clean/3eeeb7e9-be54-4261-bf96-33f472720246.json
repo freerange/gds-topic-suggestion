@@ -1,0 +1,11 @@
+{
+  "title": "Service Family Accommodation Bulletin: 2025",
+  "body": "\"This is an annual publication which provides figures on the number of service family accommodation properties in the UK, the condition of those properties, and the number of vacant properties. Accompanying this publication, there is an OpenDocument Spreadsheet which includes the full set of data which underlies the figures and charts discussed in this report. \"",
+  "base_path": "/government/statistics/service-family-accommodation-bulletin-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

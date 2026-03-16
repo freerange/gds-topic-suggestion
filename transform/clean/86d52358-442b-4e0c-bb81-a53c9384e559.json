@@ -1,0 +1,11 @@
+{
+  "title": "MOD supported employment estimates: 2023/24",
+  "body": "\"This publication provides figures on MOD employment estimates supported by MOD expenditure, including direct and indirect industry jobs, broken down by region and industry group.  Details of expenditure estimates are published in the MOD Regional Expenditure with UK industry bulletin. \"",
+  "base_path": "/government/statistics/mod-supported-employment-estimates-202324",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

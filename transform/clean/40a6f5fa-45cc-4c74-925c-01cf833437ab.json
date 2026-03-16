@@ -1,0 +1,11 @@
+{
+  "title": "Mortgage and landlord possession statistics: January to March 2025",
+  "body": "\"The bulletin presents the latest statistics on the numbers of mortgage and landlord possession actions in the county courts of England and Wales. These statistics are a leading indicator of the number of properties to be repossessed and the only source of sub-national possession information. In addition to monitoring court workloads, they are used to assist in the development, monitoring and evaluation of policy both nationally and locally.  A supporting document is included alongside the bulletin with background information on the mortgage court system, policy background, methodology used, a user guide to the data CSVs, and other useful sources of mortgage statistics. \"",
+  "base_path": "/government/statistics/mortgage-and-landlord-possession-statistics-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

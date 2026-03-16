@@ -1,0 +1,11 @@
+{
+  "title": "Common transfer file 25: specification",
+  "body": "\"This technical specification is for software suppliers developing and maintaining common transfer files (CTF) in school and local authority management information systems (MIS).  This guide is for local authorities and schools to help them use CTF 25.  Schools and local authorities use the CTF to send pupil data when a pupil transfers from one school to another. The CTF 25 will be valid for use from September 2025.  You should also refer to the common basic data set (CBDS). This defines common data items that schools and local authorities use in MIS, and that we use in our data collections.  \"",
+  "base_path": "/government/publications/common-transfer-file-25-specification--2",
+  "taxons": [
+    {
+      "title": "Data collection and censuses for schools",
+      "base_path": "/education/data-collection-and-censuses-for-schools"
+    }
+  ]
+}

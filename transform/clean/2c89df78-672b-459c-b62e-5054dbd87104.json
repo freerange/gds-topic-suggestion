@@ -1,0 +1,11 @@
+{
+  "title": "Liver disease profile",
+  "body": "\" From 2 December 2025, the liver disease profile ceased as a standalone profile.  This follows a review and streamlining of profiles to avoid duplication within Fingertips.  Where possible, indicators or equivalent data will continue to be published in other publications. These will be updated following those profile timetables and will also update in the liver disease profile. Details of the update status of its profile indicators can be found on Fingertips.  The profile pages will continue to be available - however, the remaining indicators within the liver disease profile that are not captured in other publications will not be updated in the future.   Liver disease is almost entirely preventable with the major risk factors - alcohol, obesity, and hepatitis B and C - accounting for up to 90% of cases.  The liver disease profile presents data for key indicators around liver disease for England, the regions, and where possible, counties, unitary authorities (UAs) and districts.  Some of the indicators are also presented by sex and level of deprivation to highlight inequalities in liver disease outcomes and care between these groups.  Further indicators for alcohol and obesity are available in the alcohol profile and obesity, physical activity and nutrition profile.  Further data and evidence related to liver disease is available in the second Atlas of Variation in risk factors and healthcare for liver disease in England.  For enquiries or feedback relating to the liver disease profile, contact: healthcare.variation@dhsc.gov.uk. \"",
+  "base_path": "/government/collections/liver-disease-profile",
+  "taxons": [
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    }
+  ]
+}

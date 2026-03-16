@@ -1,0 +1,11 @@
+{
+  "title": "Self-driving vehicles: regaining situational awareness",
+  "body": "\"A study that explores driver behavioural responses to transition demands in vehicles with self-driving features engaged.  The aims were to:   investigate which non-driving activities can be safely performed, while in self-driving mode establish mechanisms for measuring situational awareness and thresholds to ensure safe takeover and resumption of manual driving understand the variations in the impact of non-driving related activities across different scenarios   The research tested a sample of 97 participants in driving simulators.  The research will be used to inform connected and automated vehicle or self-driving car policy. \"",
+  "base_path": "/government/publications/self-driving-vehicles-regaining-situational-awareness",
+  "taxons": [
+    {
+      "title": "Self-driving vehicles",
+      "base_path": "/transport/self-driving-vehicles"
+    }
+  ]
+}

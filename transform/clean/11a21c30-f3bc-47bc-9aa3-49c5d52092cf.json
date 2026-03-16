@@ -1,0 +1,11 @@
+{
+  "title": "Food and You 2 (Wave 9)",
+  "body": "\"Adults in England, Wales, and Northern Ireland were surveyed. Topics covered in the Food and You 2: Wave 9 report include:   confidence in food safety and authenticity confidence in the food supply chain awareness, trust and confidence in the FSA concerns about food food security food shopping and labelling online platforms eating at home genetic technologies  \"",
+  "base_path": "/government/statistics/food-and-you-2-wave-9",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

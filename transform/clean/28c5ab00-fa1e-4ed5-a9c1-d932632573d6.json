@@ -1,0 +1,19 @@
+{
+  "title": "Development of Apply for criminal legal aid service",
+  "body": "\"Apply for criminal legal aid service was successfully implemented as a replacement for the eForms service in September 2024. The service became mandatory for all criminal legal aid applications in November 2024.  A search functionality was released in November 2024, to allow providers to search submitted and returned applications within Apply for criminal legal aid. We will continue to improve the search function based on provider feedback.  New functionality release  We recently released an outcome feature within the service that allows you to be able to view the funding decision of a criminal legal aid application in your LAA online portal.  Representation orders, contribution notices, and refusal notices will not be visible and will still be emailed to you.  You will now find applications that have been processed by LAA under the new “Decided” tab. You can view the funding decision inside the full application details screen, along with any comments left by caseworkers. A reminder to always read caseworker comments as they may contain crucial information about the funding decision.  This feature will make it easier to see when an application has been processed and the outcome of that application.   Looking forward  As you will have seen from the releases detailed above, functionality that we release for Apply for criminal legal aid may not be the final version and we aim to keep developing the features wherever possible.  We will continue to expand the functionality of the service, listening to feedback from providers to deliver a more accessible, user-friendly platform.   Provider Feedback  Apply for criminal legal aid has been informed by provider feedback, we continue to welcome your feedback through the feedback link in the header and footer of the Apply for criminal legal aid service.  The language used for the funding decisions has minor grammatical differences from that used in eForms, therefore here are the current definitions within the outcome screens:  Overall results     Message Meaning     Granted The application has passed on both interests of justice (IoJ) and means. A representation order will be emailed to you.   Granted - failed means This result can be returned on appeals to the Crown Court where an application has passed on IoJ but has not passed the means test. The client may be liable to pay a contribution towards the cost of their appeal depending on the outcome of that appeal. A representation order will be emailed to you.   Granted - with contribution The application has passed on IoJ but the means test determined that the client will have to pay a contribution towards the cost of their defence. A representation order and a contribution notice will be emailed to you.   Refused - failed IoJ The application has not met IoJ requirements. A refusal notice will be issued and emailed to you.   Refused - failed IoJ and means The application has not met IoJ requirements and has not passed the means test. A refusal notice will be issued and emailed to you.   Refused - failed means This applies to applications to the...",
+  "base_path": "/government/news/development-of-apply-for-criminal-legal-aid-service",
+  "taxons": [
+    {
+      "title": "Crime",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-crime"
+    },
+    {
+      "title": "Electronic working",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-electronic-working"
+    },
+    {
+      "title": "Payments and processing",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-payments-processing"
+    }
+  ]
+}

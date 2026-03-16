@@ -1,0 +1,19 @@
+{
+  "title": "Border Security, Asylum and Immigration Act 2025",
+  "body": "\"The Border Security, Asylum and Immigration Act creates a framework of new, enhanced powers and offences to improve UK border security and to strengthen the asylum and immigration system.  The Act will:   deter irregular migration to the UK and reduce small boat crossings and loss of life in the Channel through the provision of new powers and data-sharing arrangements establish the framework for the Border Security Command to provide systems leadership for border security strengthen the UK’s wider immigration and asylum system, protect it against abuse, and rebuild public confidence in the UK migration and borders system    The Border Security, Asylum and Immigration Act in Parliament.   \"",
+  "base_path": "/government/collections/border-security-asylum-and-immigration-bill-2025",
+  "taxons": [
+    {
+      "title": "Border control",
+      "base_path": "/entering-staying-uk/border-control"
+    },
+    {
+      "title": "Immigration offences",
+      "base_path": "/entering-staying-uk/immigration-offences"
+    },
+    {
+      "title": "Refugees, asylum and human rights",
+      "base_path": "/entering-staying-uk/refugees-asylum-human-rights"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Compliance clarity: lessons in trade sanctions breach detection",
+  "body": "\"OTSI’s blog has been created to share new updates and important information to help UK businesses understand trade sanctions and support with compliance.  View main page of the OTSI blog. \"",
+  "base_path": "/government/publications/compliance-clarity-lessons-in-trade-sanctions-breach-detection",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    }
+  ]
+}

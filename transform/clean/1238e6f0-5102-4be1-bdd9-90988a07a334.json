@@ -1,0 +1,11 @@
+{
+  "title": "Public Spending Statistics release: May 2025",
+  "body": "\"The May 2025 accredited official statistics public expenditure outturn release presents analyses of public spending against budgeting and expenditure on services frameworks. These analyses cover public spending by department, function and economic category. \"",
+  "base_path": "/government/statistics/public-spending-statistics-release-may-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

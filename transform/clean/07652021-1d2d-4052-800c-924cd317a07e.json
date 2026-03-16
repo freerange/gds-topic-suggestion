@@ -1,0 +1,19 @@
+{
+  "title": "Deaths Registered in Northern Ireland - Week ending 2 May 2025",
+  "body": "\"Tables showing deaths registered in Northern Ireland for 2025, up to and including 2 May 2025. \"",
+  "base_path": "/government/statistics/deaths-registered-in-northern-ireland-week-ending-2-may-2025",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Health and wellbeing during COVID-19",
+      "base_path": "/health-and-social-care/health-and-wellbeing-during-covid-19"
+    }
+  ]
+}

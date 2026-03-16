@@ -1,0 +1,27 @@
+{
+  "title": "Registrar General Quarterly Report (Northern Ireland) - January to March 2025",
+  "body": "\"Births, Deaths and Marriages, Births, Cause of Death, Deaths, Stillbirths & Infant Deaths registered up to and including March 2025. \"",
+  "base_path": "/government/statistics/registrar-general-quarterly-report-northern-ireland-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Having a child, parenting and adoption",
+      "base_path": "/life-circumstances/child-adoption"
+    },
+    {
+      "title": "Marriage, civil partnership and divorce",
+      "base_path": "/life-circumstances/marriage-divorce"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Health and wellbeing during COVID-19",
+      "base_path": "/health-and-social-care/health-and-wellbeing-during-covid-19"
+    }
+  ]
+}

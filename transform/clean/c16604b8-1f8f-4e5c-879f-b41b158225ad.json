@@ -1,0 +1,15 @@
+{
+  "title": "Performing tasks in automated passenger services during emergencies",
+  "body": "\"This report explores how passengers with protected characteristics may respond to emergency situations when travelling in automated passenger services (APS), such as self-driving taxis. The study used virtual reality methods to replicate real-life emergency scenarios.  The aims were to:   identify tasks that may have to be performed by users during emergencies and consider their needs for performing these tasks conduct a task analysis of what tasks might be involved in this process, to identify where responsibilities lie and, where relevant, the interfaces which will facilitate these processes develop qualitative understanding of diverse user experiences (cognitive, behavioural, emotional responses) during these tasks   The research, which was commissioned by the Centre for Connected Autonomous Vehicles, will be used to inform our connected and automated vehicle or self-driving vehicle policy.  \"",
+  "base_path": "/government/publications/performing-tasks-in-automated-passenger-services-during-emergencies",
+  "taxons": [
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Self-driving vehicles",
+      "base_path": "/transport/self-driving-vehicles"
+    }
+  ]
+}

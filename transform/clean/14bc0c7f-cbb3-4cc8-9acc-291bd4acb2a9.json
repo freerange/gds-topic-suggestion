@@ -1,0 +1,11 @@
+{
+  "title": "A&E attendances and emergency admissions for September 2025 and Quarterly report (Q2)",
+  "body": "\"The total number of attendances in the month for all A&E types, including Minor Injury Units and Walk-in Centres, and of these, the number discharged, admitted or transferred within four hours of arrival. Also included are the number of emergency admissions via A&E, and any waits of over four hours for admission following decision to admit. Data are shown at provider organisation level, from NHS Trusts, NHS Foundation Trusts, Primary Care Trusts and Independent Sector Organisations.  Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/ae-attendances-and-emergency-admissions-for-september-2025-and-quarterly-report-q2",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

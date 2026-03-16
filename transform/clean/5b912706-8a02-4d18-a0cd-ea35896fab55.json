@@ -1,0 +1,15 @@
+{
+  "title": "Small boat arrivals and the impact of crossing conditions",
+  "body": "\"This note has been produced to provide an overview of the number of people who have arrived on a small boat across the English Channel (a ‘small boat arrival’) and the impact of crossing conditions in each period. \"",
+  "base_path": "/government/statistics/small-boat-arrivals-and-the-impact-of-crossing-conditions",
+  "taxons": [
+    {
+      "title": "Border control",
+      "base_path": "/entering-staying-uk/border-control"
+    },
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    }
+  ]
+}

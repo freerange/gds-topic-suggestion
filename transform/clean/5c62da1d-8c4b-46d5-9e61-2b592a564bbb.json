@@ -1,0 +1,15 @@
+{
+  "title": "Grenfell Tower Inquiry Government Progress Report translations",
+  "body": "\"Translations of the September 2025 Grenfell Tower Inquiry Government Progress Report: summary update. \"",
+  "base_path": "/government/publications/grenfell-tower-inquiry-government-progress-report-translations",
+  "taxons": [
+    {
+      "title": "Building regulation",
+      "base_path": "/housing-local-and-community/building-regulation"
+    },
+    {
+      "title": "Emergency preparation, response and recovery",
+      "base_path": "/government/emergency-preparation-reponse-and-recovery"
+    }
+  ]
+}

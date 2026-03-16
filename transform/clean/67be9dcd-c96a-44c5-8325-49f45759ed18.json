@@ -1,0 +1,11 @@
+{
+  "title": "Census 2021: General report for England and Wales",
+  "body": "\"The General Report is the official and comprehensive account of the 2021 Census in England and Wales. \"",
+  "base_path": "/government/publications/census-2021-general-report-for-england-and-wales",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

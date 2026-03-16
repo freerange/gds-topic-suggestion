@@ -1,0 +1,23 @@
+{
+  "title": "Notice to Traders 96/25 - Imports of Sugar under Statutory Instrument 2020 No. 1432",
+  "body": "\"You may submit your application for a licence between 17 November 2025 and 5pm on 21 November 2025. \"",
+  "base_path": "/government/publications/notice-to-traders-9625-imports-of-sugar-under-statutory-instrument-2020-no-1432",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Crops and horticulture ",
+      "base_path": "/environment/producing-distributing-food-crops-horticulture"
+    },
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    },
+    {
+      "title": "Sugar",
+      "base_path": "/environment/producing-distributing-food-sugar"
+    }
+  ]
+}

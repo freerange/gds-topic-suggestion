@@ -1,0 +1,11 @@
+{
+  "title": "Pupil absence in schools in England: 2023 to 2024",
+  "body": "\"This release has information on the levels of overall, authorised and unauthorised absence in state-funded:   primary schools secondary schools special schools   It includes:   reasons for absence absence by pupil characteristic rates of persistent and severe absence   It also has separate information on levels of absence in state funded alternative provision, including pupil referral units.  The release uses pupil-level absence data that we collect in the school census. \"",
+  "base_path": "/government/statistics/pupil-absence-in-schools-in-england-2023-to-2024",
+  "taxons": [
+    {
+      "title": "School attendance and absence",
+      "base_path": "/education/school-attendance-and-absence"
+    }
+  ]
+}

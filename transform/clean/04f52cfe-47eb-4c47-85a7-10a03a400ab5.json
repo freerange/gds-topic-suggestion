@@ -1,0 +1,11 @@
+{
+  "title": "Diabetic eye screening: 2022 to 2023 data",
+  "body": "\"The data in this table covers pathway standards for the Diabetic Eye Screening Programme, including:   Percentage of people eligible for routine screening offered appointments Uptake for routine screening and repeat non-attendance Timely invitations and result letters Timely screening for pregnant woman Ungradeable images Timely referrals and attendance  \"",
+  "base_path": "/government/publications/diabetic-eye-screening-2022-to-2023-data",
+  "taxons": [
+    {
+      "title": "NHS diabetic eye screening (DES) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-diabetic-eye"
+    }
+  ]
+}

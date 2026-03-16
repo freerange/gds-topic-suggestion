@@ -1,0 +1,11 @@
+{
+  "title": "NG2 3AB, Nottingham City Council: environmental permit issued - EPR/AP3444QW/V002",
+  "body": "\"The Environment Agency publish permits that they issue under the Industrial Emissions Directive (IED).  This decision includes the permit for:   Operator name: Nottingham City Council Installation name: London Road Heat Station Permit number: EPR/AP3444QW/V002  \"",
+  "base_path": "/government/publications/ng2-3ab-nottingham-city-council-environmental-permit-issued-eprap3444qwv002",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Government Response to the Intelligence and Security Committee of Parliament Report 'IRAN'",
+  "body": "\"The government’s response to the Intelligence and Security Committee of Parliament’s Iran Report. \"",
+  "base_path": "/government/publications/government-response-to-the-intelligence-and-security-committee-of-parliament-report-iran",
+  "taxons": [
+    {
+      "title": "International",
+      "base_path": "/international"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Likelihood of benefit receipt among people who are economically inactive because of long-term ill health, England and Wales: April 2020 to March 2021",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/likelihood-of-benefit-receipt-among-people-who-are-economically-inactive-because-of-long-term-ill-health-england-and-wales-april-2020-to-march-2021",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Employing people",
+      "base_path": "/business-and-industry/employing-people"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

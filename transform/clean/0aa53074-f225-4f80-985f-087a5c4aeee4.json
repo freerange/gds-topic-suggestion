@@ -1,0 +1,15 @@
+{
+  "title": "Data brokers and national security",
+  "body": "\"The UK government is seeking views to understand more about organisations that take part in data broking and the wider industry. In particular, the government would like to understand the operations, security practices and customers of data brokers, to support policy development.  This includes:   the definition and services of data brokers national security risks related to the industry the effectiveness of existing security governance arrangements data brokers’ customers and consumer awareness  \"",
+  "base_path": "/government/calls-for-evidence/data-brokers-and-national-security",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

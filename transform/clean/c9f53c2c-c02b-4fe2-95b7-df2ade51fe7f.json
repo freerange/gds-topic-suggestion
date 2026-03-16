@@ -1,0 +1,11 @@
+{
+  "title": "Farm Rents 2024/25, England",
+  "body": "",
+  "base_path": "/government/statistics/announcements/farm-rents-202425-england",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

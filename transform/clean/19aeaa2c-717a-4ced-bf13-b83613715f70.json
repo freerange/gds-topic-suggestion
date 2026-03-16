@@ -1,0 +1,11 @@
+{
+  "title": "National Biosecurity Centre Programme – Weybridge",
+  "body": "\"This paper outlines plans for a National Biosecurity Centre (NBC) based in Weybridge, Surrey. This will be a world leading science centre protecting people and animals from disease outbreaks.  It outlines why we are we doing this work and timelines for delivery.  \"",
+  "base_path": "/government/publications/national-biosecurity-centre-programme-weybridge",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    }
+  ]
+}

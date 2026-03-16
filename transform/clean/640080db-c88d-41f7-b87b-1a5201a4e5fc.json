@@ -1,0 +1,11 @@
+{
+  "title": "Monthly Occupancy Statistics, October 2025",
+  "body": "\"The monthly hotel occupancy survey provides information on the occupancy rates and rooms and beds sold in hotels in Northern Ireland. This update links to tabular output for the most recent monthly data.  The monthly small service accommodation occupancy survey provides information on the occupancy rates and rooms and beds sold in small service accommodation (including bed&breakfasts, guest accommodation and guesthouses) in Northern Ireland. This update links to tabular output for the most recent monthly data. \"",
+  "base_path": "/government/statistics/monthly-occupancy-statistics-october-2025",
+  "taxons": [
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    }
+  ]
+}

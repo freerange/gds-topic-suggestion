@@ -1,0 +1,11 @@
+{
+  "title": "Refugee Integration Outcomes (RIO) Insights",
+  "body": "\"The Refugee Integration Outcomes (RIO) longitudinal cohort study is a joint project between the Home Office (HO), the Office for National Statistics (ONS) and the Ministry of Housing, Communities and Local Government (MHCLG).  RIO aims to create a comprehensive dataset of refugee outcomes by linking Home Office data with administrative data from across government.  It will provide unique insights into social and economic integration outcomes for refugees in England and Wales and enable the government to better understand refugee needs.  Please direct any questions about the RIO project to refugeeintegrationoutcomes@homeoffice.gov.uk \"",
+  "base_path": "/government/publications/refugee-integration-outcomes-rio-insights",
+  "taxons": [
+    {
+      "title": "Support for asylum claimants and refugees",
+      "base_path": "/entering-staying-uk/support-asylum-claimants-refugees"
+    }
+  ]
+}

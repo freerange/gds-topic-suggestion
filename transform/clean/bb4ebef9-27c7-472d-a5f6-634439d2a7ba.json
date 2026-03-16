@@ -1,0 +1,15 @@
+{
+  "title": "Implementing new methods for estimating the international migration of British nationals, progress update: November 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/implementing-new-methods-for-estimating-the-international-migration-of-british-nationals-progress-update-november-2025",
+  "taxons": [
+    {
+      "title": "Entering and staying in the UK",
+      "base_path": "/entering-staying-uk"
+    },
+    {
+      "title": "Going and being abroad",
+      "base_path": "/going-and-being-abroad"
+    }
+  ]
+}

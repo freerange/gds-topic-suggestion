@@ -1,0 +1,23 @@
+{
+  "title": "Transforming IPO's services",
+  "body": "\"The IPO will be launching a suite of new digital services that represent the biggest change in our history.  Find out more about our plans as we prepare to launch the One IPO patents service, and work gets underway on the One IPO trade marks service. \"",
+  "base_path": "/government/collections/transforming-ipos-services",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    },
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

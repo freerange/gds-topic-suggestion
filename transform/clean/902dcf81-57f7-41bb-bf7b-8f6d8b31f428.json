@@ -1,0 +1,15 @@
+{
+  "title": "Map trywydd at Reilffyrdd Hygyrch",
+  "body": "\"Mae’r map trywydd hygyrchedd rheilffordd yn nodi’r camau sy’n cael eu cymryd i wella hygyrchedd ar draws rhwydwaith y rheilffyrdd yn ystod y cyfnod cyn sefydlu Great British Railways (GBR).    Cafodd ei lunio i fod yn ymarferol ac yn gyraeddadwy, gan ganolbwyntio ar y camau gweithredu sydd ar y gweill neu a fwriadwyd. Mae’n gosod sail gref i GBR adeiladu arni.  \"",
+  "base_path": "/government/publications/accessible-railways-roadmap.cy",
+  "taxons": [
+    {
+      "title": "Rail accessibility",
+      "base_path": "/transport/rail-accessibility"
+    },
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    }
+  ]
+}

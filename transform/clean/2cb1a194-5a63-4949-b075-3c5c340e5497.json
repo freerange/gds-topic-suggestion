@@ -1,0 +1,19 @@
+{
+  "title": "On-screen assessment and mode effects",
+  "body": "\"Ofqual has conducted a wide-ranging research project into the risks, challenges, and benefits of using technology in assessment. Part of this research was concerned with the impact any move towards on-screen assessment (OSA) may have on students. Alongside primary research into the perceptions that students, teachers, and parents and guardians have of OSA, we undertook desk-based research to identify the evidence of the potential benefits and drawbacks of on-screen assessment. This review is one of the products of this desk-based research, and focuses on the effects of OSA on students’ engagement with, cognitive demands during, and performance in assessment.  Authors   Harvey Dodds Yasmine El Masri Tim Stratton   With thanks to   Zeek Sweiry Tom Bramley   How to cite this report:  Dodds, H. J., El Masri, Y., Stratton, T. (2025). On-screen Assessment and Mode Effects: A review of the effects of on-screen assessment on levels of engagement, cognitive demands and performance. (Ofqual research report 25/7280). Ofqual. Retrieved from: https://www.gov.uk/government/publications/on-screen-assessment-and-mode-effects \"",
+  "base_path": "/government/publications/on-screen-assessment-and-mode-effects",
+  "taxons": [
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    },
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

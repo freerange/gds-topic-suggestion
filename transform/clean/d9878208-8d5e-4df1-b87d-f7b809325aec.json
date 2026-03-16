@@ -1,0 +1,19 @@
+{
+  "title": "Notice to Traders 66/25 - Quotas for Cheeses for Export to Designated Importers in the United States of America (USA)",
+  "body": "\"The cheese must be of UK origin. There are requirements in the USA relating to origin for these quotas. \"",
+  "base_path": "/government/publications/notice-to-traders-6625-quotas-for-cheeses-for-export-to-designated-importers-in-the-united-states-of-america-usa",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Dairy and milk production",
+      "base_path": "/environment/producing-distributing-food-dairy-milk-production"
+    },
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Historical Weekly Deaths Data, 2011 to 2024",
+  "body": "\"A summary table of the number of deaths by week of registration and age, including data on deaths linked with a respiratory illness \"",
+  "base_path": "/government/statistics/historical-weekly-deaths-data-2011-to-2024",
+  "taxons": [
+    {
+      "title": "Health and wellbeing during COVID-19",
+      "base_path": "/health-and-social-care/health-and-wellbeing-during-covid-19"
+    },
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

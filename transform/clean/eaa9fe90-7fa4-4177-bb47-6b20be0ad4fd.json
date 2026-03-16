@@ -1,0 +1,15 @@
+{
+  "title": "DVLA customer satisfaction 2024 to 2025",
+  "body": "\"The customer satisfaction survey 2024 to 2025 measures the satisfaction level of private motorists and commercial drivers when using DVLA services. This helps the agency to identify areas for improvement. \"",
+  "base_path": "/government/publications/dvla-customer-satisfaction-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    },
+    {
+      "title": "Driving and road transport",
+      "base_path": "/transport/driving-and-road-transport"
+    }
+  ]
+}

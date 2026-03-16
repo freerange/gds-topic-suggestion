@@ -1,0 +1,11 @@
+{
+  "title": "MHRA strategy blog series",
+  "body": "\"As the UK regulator for medicines and healthcare products, the MHRA plays a central role in shaping the future of health and life sciences. The agency’s upcoming five year plan, due to be published in 2026, is an important part of this – helping the agency to deliver on the ambitions of the government’s recent long-term plans for the NHS and life sciences sector.  To support the development of this upcoming five year strategy, the MHRA is publishing a series of blogs on the challenges and opportunities ahead. This series welcomes in important voices across academia, industry and the patient community to stimulate informed discussion on regulatory approaches that balance safety, innovation and trust. \"",
+  "base_path": "/government/collections/mhra-strategy-blog-series",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

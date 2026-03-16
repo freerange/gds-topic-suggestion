@@ -1,0 +1,11 @@
+{
+  "title": "Ofqual delivery report 2025",
+  "body": "\"This report details the delivery by awarding organisations of Ofqual-regulated qualifications awarded between 1 September 2024 and 31 August 2025. All data relates to qualifications taken in England only. It covers the awarding of more than 7.5 million certifications in total, including GCSEs, AS and A levels, vocational and technical qualifications and apprenticeships. \"",
+  "base_path": "/government/publications/ofqual-delivery-report-2025",
+  "taxons": [
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    }
+  ]
+}

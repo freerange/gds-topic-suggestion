@@ -1,0 +1,15 @@
+{
+  "title": "Police responses to domestic abuse incidents involving children",
+  "body": "\"This report, commissioned by the Home Office and delivered by Ipsos UK and the University of Central Lancashire, explores how frontline police officers in England and Wales respond to domestic abuse incidents involving children. The research draws on surveys, interviews, and case file reviews to examine how officers assess children’s welfare, communicate with children, complete forms, and make referrals to other agencies. The study finds that officers are committed to safeguarding children, with some variation in practice, confidence, and the guidance available. The report provides considerations around strengthening training, operational guidance, and information sharing with partner agencies to further support police responses to domestic abuse incidents involving children. \"",
+  "base_path": "/government/publications/police-responses-to-domestic-abuse-incidents-involving-children",
+  "taxons": [
+    {
+      "title": "Domestic abuse",
+      "base_path": "/crime-justice-and-law/domestic-abuse"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

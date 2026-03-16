@@ -1,0 +1,15 @@
+{
+  "title": "Households below average income: for financial years ending 1995 to 2024",
+  "body": "\" Cite this statistical release  Add the following citation to any analysis shared or published:  Department for Work and Pensions (DWP), released 27 March 2025, GOV.UK website, statistical release, Households below average income: for financial years ending 1995 to 2024.   This Households Below Average Income (HBAI) report presents information on living standards in the United Kingdom year on year from financial year ending (FYE) 1995 to FYE 2024.  It provides estimates on the number and percentage of people living in low-income households based on their household disposable income. Figures are also provided for children, pensioners, working-age adults and individuals living in a family where someone is disabled.  Use our infographic to find out how low income is measured in HBAI.  The statistics in this report come from the Family Resources Survey, a representative survey of just under 17,000 households in the UK.  Data tables  Summary data tables are available on this page, with more detailed analysis available to download as a Zip file.  The directory of tables is a guide to the information in the data tables Zip file.   HBAI data on Stat-Xplore  HBAI data is available from FYE 1995 to FYE 2024 on the Stat-Xplore online tool. You can use Stat-Xplore to create your own HBAI analysis. Please note that data for FYE 2021 is not available on Stat-Xplore.  HBAI information is available at an individual level, and uses the net, weekly income of their household. Breakdowns allow analysis of individual, family (benefit unit) and household characteristics of the individual.  Read the user guide to HBAI data on Stat-Xplore.  We are seeking feedback from users on the HBAI data in Stat-Xplore: email team.hbai@dwp.gov.uk with your comments.  \"",
+  "base_path": "/government/statistics/households-below-average-income-for-financial-years-ending-1995-to-2024",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Strategic Asset Management Plans (SAMPs) Handbook",
+  "body": "\"Supplementary guidance to GovS 004: Property, outlining the expected content of a SAMP, allowing for balance between commonality and customisation between different government departments and other organisations while maintaining good asset management practice. \"",
+  "base_path": "/government/publications/strategic-asset-management-plans-samps-handbook",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

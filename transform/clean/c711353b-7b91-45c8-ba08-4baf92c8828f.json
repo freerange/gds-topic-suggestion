@@ -1,0 +1,11 @@
+{
+  "title": "Finance and housing analysis of UK armed forces veterans",
+  "body": "\"This report provides analysis of responses to the Veterans’ Survey 2022, with focus on:   income and money worries veterans that were homeless, rough sleeping, living in a refuge for domestic abuse and living long-term with family or friends   Estimates of veteran responses are provided by personal and service-related characteristics. All UK estimates are weighted percentages. Qualitative analysis contained in this report is unweighted. \"",
+  "base_path": "/government/publications/finance-and-housing-analysis-of-uk-armed-forces-veterans",
+  "taxons": [
+    {
+      "title": "Veterans and family support",
+      "base_path": "/defence-and-armed-forces/veterans-family-support"
+    }
+  ]
+}

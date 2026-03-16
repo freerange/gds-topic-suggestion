@@ -1,0 +1,11 @@
+{
+  "title": "Schools eligible for RISE intervention",
+  "body": "\"The linked publication has data on the numbers and types of schools that the Department for Education (DfE) considers to be potentially eligible for improvement intervention, based on their Ofsted inspections. \"",
+  "base_path": "/government/publications/schools-eligible-for-rise-intervention",
+  "taxons": [
+    {
+      "title": "Inspection and performance of schools",
+      "base_path": "/education/inspection-and-performance-of-schools"
+    }
+  ]
+}

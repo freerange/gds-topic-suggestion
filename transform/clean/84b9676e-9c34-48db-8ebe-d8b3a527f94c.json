@@ -1,0 +1,11 @@
+{
+  "title": "Gabon: Knowledge Base profile",
+  "body": "\"This document contains useful information about Gabon which will assist HM Passport Office staff process passport applications.  This document includes information about names. \"",
+  "base_path": "/government/publications/gabon-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

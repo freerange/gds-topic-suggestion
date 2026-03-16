@@ -1,0 +1,31 @@
+{
+  "title": "Supporting success: over £4 million awarded for the adoption of PYRAMID on avionics and mission systems.",
+  "body": "\" Eleven innovative organisations have been awarded over £4 million in funding to help develop software systems that are PYRAMID compliant. The Phase 1 DASA PYRAMID for avionics and mission systems competition was run on behalf of the RAF Rapid Capabilities Office (RCO). This phase of the competition sought proposals to support the adoption of PYRAMID in current and upcoming systems.   PYRAMID is a UK Ministry of Defence (MOD) initiative to develop rapidly adaptable avionics and mission systems through a suite of reusable software components. These are designed to operate within a well-defined software Reference Architecture, enabled by systematic reuse processes and Model Based Systems Engineering. PYRAMID targets both future air systems and legacy systems to deliver operational advantage, and to reduce the time and cost in implementing through-life capability enhancements. The MOD has made a significant investment in this initiative, and is now working across national and international programmes, and industrial partners, to support adoption. This DASA competition forms a key aspect of this strategy.  Eleven companies, UK based and international, have won a share of over £4 million in the first phase of the PYRAMID for avionics and mission systems competition. The companies range from major aircraft developers to SMEs, with competition winners implementing PYRAMID into a variety of platforms including fixed wing, rotary wing, small uncrewed systems, and weapons.  The competition which was run on behalf of the RAF Rapid Capabilities Office, was intended to help companies re-engineer pre-existing software, and develop new software that is PYRAMID compliant, thereby unlocking the benefits of adopting the PYRAMID approach.  Mike Lane, PYRAMID Lead, RAF RCO Technology Office said:   It has been an absolute pleasure working with the DASA team on this competition. The outreach team have done a terrific job in soliciting interest from such a wide range of organisations, and the number of high-quality proposals received was a strong indication of their success. Widespread adoption is fundamental to the potential benefits of PYRAMID being realised, and this competition and the resulting contracts are a major step forward.   The eleven successful organisations are listed below with their take on the project:  Raytheon Systems Limited  “With the PYRAMID Reference Architecture now released as a fully UK MOD-endorsed standard, the DASA-led PYRAMID competition significantly supports Raytheon UK in growing the capability to deploy and support PYRAMID for their next family of Air-Launched Effector Mission Systems. By integrating PYRAMID architecture concepts, these Mission Systems gain adaptability by embedding open architecture principles at their core, enhancing Raytheon UK’s capacity to deliver continuous upgrades and maintain an operational edge for our armed forces at the pace of relevance.”  Leonardo UK Ltd (Helicopters Division)  “Leonardo has been selected under a Defence and Security Accelerator (DASA) competition to evaluate the adoption of the Pyramid Reference Architecture (PRA) into sensor software and rotorcraft mission architectures. Under this programme, the company will be focusing on how the PRA could be incorporated into its Osprey AESA radar and related mission systems for new and existing rotary-wing aircraft, considering different core mission architectures...",
+  "base_path": "/government/news/supporting-success-over-4-million-awarded-for-the-adoption-of-pyramid-on-avionics-and-mission-systems",
+  "taxons": [
+    {
+      "title": "Air navigation",
+      "base_path": "/transport/air-navigation"
+    },
+    {
+      "title": "Aviation safety and security",
+      "base_path": "/transport/aviation-safety-and-security"
+    },
+    {
+      "title": "General aviation",
+      "base_path": "/transport/general-aviation"
+    },
+    {
+      "title": "New aviation technology",
+      "base_path": "/transport/new-aviation-technology"
+    },
+    {
+      "title": "Transport modelling and appraisal",
+      "base_path": "/transport/transport-modelling-and-appraisal"
+    },
+    {
+      "title": "Transport security",
+      "base_path": "/transport/transport-security"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Durham University spectrum sandbox reports",
+  "body": "\"Final reports detailing the findings and methodologies for the 2024 to 2025 Durham University regulatory spectrum sandboxes. These reports explore pioneering and innovative spectrum sharing solutions through practical testbeds, advanced simulation, and modelling. \"",
+  "base_path": "/government/publications/durham-university-spectrum-sandbox",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

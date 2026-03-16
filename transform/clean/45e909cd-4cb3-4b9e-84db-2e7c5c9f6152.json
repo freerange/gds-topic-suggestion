@@ -1,0 +1,11 @@
+{
+  "title": "Niger: Knowledge Base profile",
+  "body": "\"This document includes information about:   nationality legitimacy adoption gender recognition civil partnerships and marriage documents from Niger  \"",
+  "base_path": "/government/publications/niger-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

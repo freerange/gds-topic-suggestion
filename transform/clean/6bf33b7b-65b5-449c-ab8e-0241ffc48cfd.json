@@ -1,0 +1,15 @@
+{
+  "title": "Substance misuse treatment in secure settings: 2023 to 2024",
+  "body": "\"Healthcare professionals can use these resources to understand:   outcomes of alcohol and drug treatment services in secure settings in England the profile of adults and young people accessing alcohol and drug treatment services in secure settings   The data will help with planning, commissioning and improving services in prisons and other secure settings.  These secure settings include:   prisons immigration removal centres young offender institutions for 18 to 21 year olds young offender institutions for children aged 17 and under secure training centres secure children’s homes welfare-only homes   The report and accompanying tables include statistical analysis of treatment data from 1 April 2023 to 31 March 2024. Treatment centres in prisons and secure settings across England submitted data to NDTMS for people receiving treatment, details of their treatment and the outcomes.  \"",
+  "base_path": "/government/statistics/substance-misuse-treatment-in-secure-settings-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Drug misuse and dependency",
+      "base_path": "/health-and-social-care/drug-misuse-and-dependency"
+    },
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    }
+  ]
+}

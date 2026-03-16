@@ -1,0 +1,23 @@
+{
+  "title": "Review of Pakistan IP Regime",
+  "body": "\"The UK Intellectual Property Office (UKIPO), Department for Business & Trade (DBT), and British High Commission in Pakistan have published an updated review of Pakistan’s intellectual property (IP) regime, with particular emphasis on enforcement mechanisms.  This comprehensive report, conducted by UK IP senior IP consultant Tom Pengelly, builds upon the 2020 Pakistan IP regime review through four months of research including stakeholder consultations and fieldwork in Islamabad.  The study evaluates developments in Pakistan’s IP framework since 2020, highlighting both enforcement challenges and opportunities for enhancement. It provides strategic recommendations to address IP-related obstacles facing UK and Pakistani rights holders whilst supporting Pakistan’s Intellectual Property Organisation (IPOP) in meeting international IP standards.  The report identifies potential areas for strengthened UK-Pakistan IP cooperation, with recommendations designed to promote economic development through improved innovation and trade facilitation. The findings aim to support Pakistan’s alignment with global IP best practices whilst fostering bilateral commercial relationships.  \"",
+  "base_path": "/government/publications/review-of-pakistan-ip-regime",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    },
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

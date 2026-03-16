@@ -1,0 +1,19 @@
+{
+  "title": "Sanctions implementation and enforcement: cross-government review, May 2025",
+  "body": "\"In October 2024, the Minister for Europe launched a cross-government review of sanctions implementation and enforcement to consider ways to strengthen the UK’s enforcement model.   This document sets out the background, objectives and conclusions of the review, alongside the strategic context and the main principles of UK sanctions. It also includes a summary of external engagement carried out as part of the review. \"",
+  "base_path": "/government/publications/sanctions-implementation-and-enforcement-cross-government-review-may-2025",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    }
+  ]
+}

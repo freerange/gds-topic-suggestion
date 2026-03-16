@@ -1,0 +1,19 @@
+{
+  "title": "UK and Australia launch new partnership in weapons development",
+  "body": "\"The Defence Science and Technology Laboratory (Dstl) and Defence Science and Technology (DST) Group Australia have announced a ground-breaking partnership to develop next-generation sub-systems for low-cost weapons systems, bringing together cutting-edge technologies from both nations.  The partnership will combine the UK’s Modular Weapons Testbed and Australia’s SHARKTOOTH programme, which features innovative ‘plug-and-launch’ modular technology, aimed at accelerating the employment of advanced, yet affordable weapons technologies. This integration represents a significant advancement in complex weapons development and will help accelerate and de-risk industry’s development of guided weapon sub-systems.  Under this collaboration both nations will develop new approaches and new technologies enhancing future weapon systems capability, including low-cost seekers (sensors which are responsible for detecting and tracking targets), additively manufactured engines (created by 3D printing or similar), modular warheads and fuses, algorithms to improve guidance, navigation and control and other novel weapons technologies.  The partnership will deliver several key advantages:   reduced development costs and risks through shared expertise accelerated deployment of new capabilities enhanced interoperability between UK and Australian forces develop and demonstrate innovation ideas from both nations, helping to invest in sovereign defence ecosystems flexible, modular design allowing rapid adaptation to emerging threats.   The collaboration enables both nations to access a wider pool of innovative ideas, co-operate on technology development and deliver faster against a broader range of operational use cases. For both the UK and Australia this will strengthen defence primes, small to medium-sized enterprises (SMEs) and academia in support of Defence Equipment and Support (DE&S) and the UK Ministry of Defence’s Complex Weapons Pipeline and Australia’s Guided Weapons and Explosive Ordnance (GWEO) Enterprise.  Each nation is developing a concept demonstrator equivalent to a concept car to enable us to prove future technologies before they go into sovereign industrial and military capabilities.  SHARKTOOTH is Australia’s developmental weapon system, a small missile which will enable rapid integration of various components including sensors, warheads, guidance systems and propulsion units.  A spokesperson for Dstl said:   This collaboration represents a step-change in how we develop and deploy complex weapons systems.    By combining Australia’s modular approach with the UK’s missiles know-how, we’re creating more versatile and capable systems for our armed forces.   \"",
+  "base_path": "/government/news/uk-and-australia-launch-new-partnership-in-weapons-development",
+  "taxons": [
+    {
+      "title": "International defence commitments",
+      "base_path": "/defence/international-defence-commitments"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

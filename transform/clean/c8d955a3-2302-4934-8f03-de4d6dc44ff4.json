@@ -1,0 +1,19 @@
+{
+  "title": "CW3 cost extension forms updated",
+  "body": "\"Which forms are affected?  Changes have been made to the CW3 forms that immigration providers use when seeking an extension to a cost limit in a Controlled Work matter.  How have the forms been changed?  Changes have been made to the PDF versions:   to update the contract references to include the 2024 Standard Civil Contract to ensure that terminology matches that used in the Standard Civil Contract to help clarify the use of the forms in different case types   We have also removed the electronic (Excel) versions as these are rarely used.  Will old forms still be accepted?  Previous versions of the application forms will continue to be accepted until 27 October 2025 so providers have time to adjust and to allow software vendors time to update their case management systems.  If providers have any queries as to which form to use, they should contact cw3@justice.gov.uk  Why is it happening now?  Forms have been reviewed to ensure they support the current 2024 Standard Civil Contract.  Further information  Updated forms CW3: extension of upper cost limit in controlled work cases - GOV.UK \"",
+  "base_path": "/government/news/cw3-cost-extension-forms-updated",
+  "taxons": [
+    {
+      "title": "Civil and crime contracts",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-contracts"
+    },
+    {
+      "title": "Electronic working",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-electronic-working"
+    },
+    {
+      "title": "Payments and processing",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-payments-processing"
+    }
+  ]
+}

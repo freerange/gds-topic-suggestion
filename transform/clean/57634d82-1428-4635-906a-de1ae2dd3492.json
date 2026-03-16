@@ -1,0 +1,11 @@
+{
+  "title": "Estimating the wider economic benefit of Making Tax Digital",
+  "body": "\"This report makes use of data from a survey with VAT businesses in Making Tax Digital using fully functional software to estimate the wider economic benefit of Making Tax Digital. It uses survey responses on the time spent by businesses on ‘business finances and record keeping’ to estimate average time savings and a financial value of this time.   On average, businesses saved time on their ‘business’ finances and record keeping’ compared to before Making Tax Digital. Across all VAT businesses using fully functional software, the time saved was estimated to be between 26 hours and 40 hours per business per year. When extrapolated to the population, the estimated total time saving was between 32 million hours and 49 million hours in the 2022 to 2023 tax year.   The analysis provides clear evidence that Making Tax Digital is having a positive impact for businesses and demonstrates a wider economic benefit, beyond any requirement to meet tax obligations. \"",
+  "base_path": "/government/publications/estimating-the-wider-economic-benefit-of-making-tax-digital",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    }
+  ]
+}

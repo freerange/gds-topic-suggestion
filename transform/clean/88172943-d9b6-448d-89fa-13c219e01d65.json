@@ -1,0 +1,11 @@
+{
+  "title": "Dyletswydd Alcohol: gwybodaeth fanwl",
+  "body": "\"  Mae’r casgliad hwn hefyd ar gael yn Saesneg.   \"",
+  "base_path": "/government/collections/dyletswydd-alcohol-gwybodaeth-fanwl.cy",
+  "taxons": [
+    {
+      "title": "Alcohol duty",
+      "base_path": "/money/alcohol-duty"
+    }
+  ]
+}

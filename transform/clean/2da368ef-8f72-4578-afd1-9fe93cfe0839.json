@@ -1,0 +1,11 @@
+{
+  "title": "Business data use and productivity study",
+  "body": "\"The data use and productivity study is a telephone and online-based study that explores data use in individual UK businesses and at the economy-wide level, to better understand the data-related activities and attitudes towards data that promote higher productivity and growth.  The study is based on a longitudinal survey that asks businesses about the amount of money and time they invest in data assets, in addition to their data-related skills and activities.  Further information  For queries about data use and productivity statistics, please contact ukbusinessdatasurvey@dsit.gov.uk.  For media enquiries only please contact the DSIT press office:   Email press@dsit.gov.uk Monday to Friday, 8:30am to 6pm 020 7215 3000   The press office phone number and inbox is monitored at all hours. \"",
+  "base_path": "/government/collections/business-data-use-and-productivity-study",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    }
+  ]
+}

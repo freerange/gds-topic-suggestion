@@ -1,0 +1,19 @@
+{
+  "title": "Stage 3 Consultation Document",
+  "body": "\"This document summarises our consultation on proposed byelaws to protect important ecosystems, habitats and species within Stage 3 MPAs. A translation of the Executive Summary in French, Spanish and Dutch has also been provided. \"",
+  "base_path": "/government/publications/stage-3-consultation-document",
+  "taxons": [
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    },
+    {
+      "title": "Species protection and marine conservation",
+      "base_path": "/environment/species-protection-and-marine-conservation"
+    }
+  ]
+}

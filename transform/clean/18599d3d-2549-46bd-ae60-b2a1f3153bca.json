@@ -1,0 +1,15 @@
+{
+  "title": "Register of Oil and Pipelines Agency board member interests",
+  "body": "\" \"",
+  "base_path": "/government/collections/register-of-oil-and-pipelines-agency-board-member-interests",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

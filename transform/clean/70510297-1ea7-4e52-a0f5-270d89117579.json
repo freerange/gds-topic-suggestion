@@ -1,0 +1,27 @@
+{
+  "title": "UK/Ukraine: One Hundred Year Partnership [CS Ukraine No.1/2025]",
+  "body": "\"Published title: One Hundred Year Partnership Agreement between the United Kingdom of Great Britain and Northern Ireland and Ukraine. \"",
+  "base_path": "/government/publications/ukukraine-one-hundred-year-partnership-cs-ukraine-no12025",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "International defence commitments",
+      "base_path": "/defence/international-defence-commitments"
+    },
+    {
+      "title": "Arts and culture",
+      "base_path": "/society-and-culture/arts-and-culture"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

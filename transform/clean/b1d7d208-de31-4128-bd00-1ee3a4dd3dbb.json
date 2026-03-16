@@ -1,0 +1,11 @@
+{
+  "title": "Child and maternal health profiles: October 2025 update",
+  "body": "\" The child and maternal health profiles provide an overview of child and maternal health and wellbeing. They are intended for use by local government and health service professionals to inform planning for health and associated services for local populations.  Indicators for the following topics have been updated in this release:   under 18 conceptions and births smoking at the time of delivery multiple births, low birth weight and general fertility educational outcomes and attendance including for children with additional needs   In June 2025, we asked users for their views on specific changes we planned to make to these profiles based on the responses we received to a consultation about health and social care statistical outputs, delivered by the Department of Health and Social Care (DHSC), including the Office for Health Improvement and Disparities (OHID), NHS Business Services Authority (NHSBSA), UK Health Security Agency (UKHSA), Office for National Statistics (ONS) and NHS England. We have made changes to the profiles following this exercise as part of this release. These are described in the Fingertips tool.  Child health profile summary snapshot reports were last updated in 2023. There are no plans to update these reports in the future.  For queries about this publication email pha-ohid@dhsc.gov.uk.  \"",
+  "base_path": "/government/statistics/child-and-maternal-health-profiles-october-2025-update",
+  "taxons": [
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    }
+  ]
+}

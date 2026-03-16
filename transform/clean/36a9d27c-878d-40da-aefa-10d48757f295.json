@@ -1,0 +1,23 @@
+{
+  "title": "Regulator of Social Housing Corporate Plan 2025-2028",
+  "body": "\"This Corporate plan for the Regulator of Social Housing sets out how we will deliver our purpose over the next three years.  It outlines our objectives, priorities, values, and our annual budget and business plan. It also includes our performance measures, accommodation strategy and our commitment to equality, diversity and inclusion. \"",
+  "base_path": "/government/publications/regulator-of-social-housing-corporate-plan-2025-2028",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

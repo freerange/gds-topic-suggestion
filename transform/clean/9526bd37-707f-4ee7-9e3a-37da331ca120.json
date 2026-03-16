@@ -1,0 +1,11 @@
+{
+  "title": "Transport and environment statistics: 2023",
+  "body": "\" Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing us with any comments about how we meet these standards.   In 2023, United Kingdom domestic transport accounted for:    111.8 million tonnes of carbon dioxide equivalent (MtCO2e), a decrease of 1% compared to 2022 and a decrease of 10% compared to pre-pandemic levels in 2019   29% of domestic greenhouse gas (GHG) emissions   49% of domestic nitrogen oxides (NOx) emissions   26% of domestic airborne particulate matter with an aerodynamic diameter less than 2.5 micrometres (PM2.5) emissions   20% of domestic airborne particulate matter with an aerodynamic diameter less than 10 micrometres (PM10) emissions    Previous releases of the transport and environment statistics report included comparisons of journey emissions, for example journeys by different transport modes. This information is available in the journey emissions interactive data tool. Note that the current version of the tool covers emissions estimates for 2023 and was last updated in October 2023. An update to this tool is expected in 2025. The methodology for this analysis can be found on the transport energy and environment statistics information page.  The Department for Transport previously published a tool to compare carbon dioxide emissions from transport by local authority. The most recent data is available from the National Atmospheric Emissions Inventory Local Authority GHG Map tool.  Contact us  Transport energy and environment statistics     Email environment.stats@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats.  \"",
+  "base_path": "/government/statistics/transport-and-environment-statistics-2023--2",
+  "taxons": [
+    {
+      "title": "Road transport and the environment",
+      "base_path": "/transport/road-transport-and-the-environment"
+    }
+  ]
+}

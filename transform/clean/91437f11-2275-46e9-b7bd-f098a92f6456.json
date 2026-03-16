@@ -1,0 +1,11 @@
+{
+  "title": "Maritime emissions modelling framework",
+  "body": "\"The maritime emissions model estimates greenhouse gas emissions from shipping. It was developed to provide an analysis of the Maritime decarbonisation strategy.  The modelling framework sets out:   the framework for our maritime emissions model, which provides an analysis of the strategy assumptions and limitations of the framework model  \"",
+  "base_path": "/government/publications/maritime-emissions-modelling-framework",
+  "taxons": [
+    {
+      "title": "Maritime and shipping",
+      "base_path": "/transport/maritime-and-shipping"
+    }
+  ]
+}

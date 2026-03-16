@@ -1,0 +1,11 @@
+{
+  "title": "Death registration summary statistics, England and Wales: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/death-registration-summary-statistics-england-and-wales-2024",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    }
+  ]
+}

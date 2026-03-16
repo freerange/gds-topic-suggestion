@@ -1,0 +1,15 @@
+{
+  "title": "Retail Sales; Great Britain: August 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/retail-sales-great-britain-august-2026",
+  "taxons": [
+    {
+      "title": "Money",
+      "base_path": "/money"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

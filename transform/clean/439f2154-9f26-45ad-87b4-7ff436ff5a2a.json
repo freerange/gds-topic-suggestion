@@ -1,0 +1,15 @@
+{
+  "title": "Employer Bulletin: June 2025",
+  "body": "\"HMRC publishes the Employer Bulletin 6 times a year, giving employers and agents the latest information on topics and issues that may affect them.  The June edition of Employer Bulletin includes articles on:   PAYE Settlement Agreement calculations 2024 to 2025 organised labour fraud — the supply of labour through Employment Intermediaries mandating the reporting of Benefits in Kind and expenses through payroll software Spotlight 68 — using prepaid debit cards for profit extraction to reduce profits and disguise income future changes to Statutory Sick Pay parents of teens reminded to go online to extend their Child Benefit claim   You can register for HMRC’s employer email alert service to receive emails from HMRC which tell you when the latest issue is available.  You can read the bulletin on screen or print it off. It’s compatible with most screen reading software packages. \"",
+  "base_path": "/government/publications/employer-bulletin-june-2025",
+  "taxons": [
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    }
+  ]
+}

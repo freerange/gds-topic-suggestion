@@ -1,0 +1,23 @@
+{
+  "title": "Digital twin definition",
+  "body": "\"The Defence Science and Technology Laboratory (Dstl) has created a definition of a digital twin.  The UK government and the National Digital Twin Programme have worked together and agreed on this definition which is supported by defence. This will encourage the use of digital twins and help people create them in ways that are safe, secure and ethical.  We have included an official and an easy-read version of the definition.  \"",
+  "base_path": "/government/publications/digital-twin-definition",
+  "taxons": [
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Radiographic and simple fluoroscopic X-ray imaging: patient doses",
+  "body": "\"The UK Health Security Agency (UKHSA) and its predecessor organisations have provided national benchmarks of patient radiation dose for diagnostic radiographic and fluoroscopy imaging procedures in UK hospitals and clinics since 1986, by undertaking national dose surveys. Since Ionising Radiation (Medical Exposure) Regulations (IR(ME)R) legislation came into force in 2000, information from these surveys has been used to recommend National Diagnostic Reference Levels (NDRLs) for examinations and procedures considered by the surveys.  The fifth UK national general patient diagnostic dose survey reviewed doses from plain radiography, simple fluoroscopy and simple interventional radiology diagnostic imaging performed between 2017 and 2019.  The survey received data from 475 radiography systems and 239 fluoroscopy systems, situated in 169 hospitals, representing over 4,700 system exam data sets, based on approximately 1.4 million patient doses. As a result of the survey, adult patient NDRL values were proposed for 42 projections, examinations and interventional procedures.  This report supersedes the 2010 review.  Related surveys and web pages:   Diagnostic radiology: national diagnostic reference levels Computed tomography (CT): national patient dose audits Dental radiographic X-ray imaging: dose to patients   \"",
+  "base_path": "/government/publications/radiographic-and-simple-fluoroscopic-x-ray-imaging-patient-doses",
+  "taxons": [
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    }
+  ]
+}

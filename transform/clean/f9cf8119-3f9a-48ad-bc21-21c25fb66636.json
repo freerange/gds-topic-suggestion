@@ -1,0 +1,11 @@
+{
+  "title": "Provisional UK greenhouse gas emissions statistics 2024",
+  "body": "\"This publication provides the latest provisional estimates of UK territorial greenhouse gas emissions based on provisional inland energy statistics published Energy Trends.  For the purposes of reporting, greenhouse gas emissions are allocated into a small number of broad, high-level sectors known as Territorial Emissions Statistics sectors, which are as follows: electricity supply, fuel supply, domestic transport, buildings and product uses, industry, agriculture, waste, and land use land use change and forestry (LULUCF). Provisional estimates are also allocated into broad fuel classifications as follows: gas, oil, coal, other solid fuels, and other emissions.  These provisional estimates are subject to revision when the final estimates are published; however, they provide an early indication of emissions in the most recent full calendar year.  This is an Accredited Official Statistics publication and complies with the Code of Practice for Statistics.  Please check our guidance or email GreenhouseGas.Statistics@energysecurity.gov.uk if you have any questions or comments about the information on this page.  \"",
+  "base_path": "/government/statistics/provisional-uk-greenhouse-gas-emissions-statistics-2024",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

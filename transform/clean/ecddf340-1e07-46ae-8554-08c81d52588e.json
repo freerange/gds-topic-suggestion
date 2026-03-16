@@ -1,0 +1,15 @@
+{
+  "title": "Data (Use and Access) Act 2025",
+  "body": "\"The Data (Use and Access) Act 2025 reforms how the UK manages non-personal and personal data and aims to unlock the secure and effective use of data. This wide-ranging Act enables:   the growth of digital verification services new Smart Data schemes like Open Banking a new National Underground Asset Register important changes to the UK’s data protection and privacy legislation   Documents about the Data (Use and Access) Act 2025 can be found on the Parliament website.   \"",
+  "base_path": "/government/collections/data-use-and-access-act-2025",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    }
+  ]
+}

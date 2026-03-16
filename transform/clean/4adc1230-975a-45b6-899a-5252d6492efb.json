@@ -1,0 +1,15 @@
+{
+  "title": "Pre-release access list for Migration transparency data",
+  "body": "\" A range of key input and impact indicators are published by the Home Office in the Migration transparency data statistical data set.   Pre-release access list for data on Border Force, UK Visas and Immigration, Immigration Enforcement and Passports, Citizenship and Civil Registration performance.  These documents include performance data related to migration and borders and data that has been regularly requested from the Home Office by the Home Affairs Select Committee.    Data relating to HM Passport Office is now found in Passports, Citizenship and Civil Registration.  General statistics on immigration are in the Migration statistics collection.  For further information please email: MigrationStatsEnquiries@homeoffice.gov.uk. \"",
+  "base_path": "/government/statistics/pre-release-access-list-for-migration-transparency-data",
+  "taxons": [
+    {
+      "title": "Entering and staying in the UK",
+      "base_path": "/entering-staying-uk"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

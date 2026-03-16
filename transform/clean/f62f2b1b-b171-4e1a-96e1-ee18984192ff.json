@@ -1,0 +1,19 @@
+{
+  "title": "UK humanitarian aid and spend in Syria factsheet 2024 to 2025",
+  "body": "\"UK humanitarian aid and spend in Syria statistics covering April 2024 to March 2025.  View the previous statistics on UK humanitarian aid and spend in Syria. \"",
+  "base_path": "/government/statistics/uk-humanitarian-aid-and-spend-in-syria-factsheet-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Overseas aid transparency",
+      "base_path": "/international/overseas-aid-transparency"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

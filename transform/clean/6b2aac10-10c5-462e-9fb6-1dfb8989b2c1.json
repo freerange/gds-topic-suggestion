@@ -1,0 +1,19 @@
+{
+  "title": "Prison education in England: Educational background and needs",
+  "body": "\"This ad hoc statistics report was produced as part of the Better Outcomes through Linked Data (BOLD) programme at the Ministry of Justice.  The analysis presented provides descriptive statistics based on linking prison education data for two specific groups of prison leavers with other sources about their background and characteristics including offender assessment data and National Pupil Database (NPD) data from the Ministry of Justice-Department for Education data share.  It focuses on examining differences in participation in prison education courses over the full period served in custody (rather than courses delivered each year), and compares prison leavers with different characteristics, educational needs and experiences.  Related links:   Prison Education and Accredited Programme Statistics - GOV.UK Education, children’s social care and offending - GOV.UK Ministry of Justice: Better Outcomes through Linked Data (BOLD) - GOV.UK  \"",
+  "base_path": "/government/publications/prison-education-in-england-educational-background-and-needs",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    },
+    {
+      "title": "Education in prisons",
+      "base_path": "/education/education-in-prisons"
+    }
+  ]
+}

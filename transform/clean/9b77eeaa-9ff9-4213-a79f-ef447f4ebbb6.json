@@ -1,0 +1,11 @@
+{
+  "title": "Total durations on incapacity benefits for claimants on Universal Credit Health or Employment and Support Allowance",
+  "body": "\"This publication provides analysis of the total durations for claimants on Universal Credit with Limited Capability for Work, Limited Capability for Work and Work-Related Activity, or on Employment and Support Allowance, across the following benefits in August 2024 by duration of claim:   Incapacity Benefit (IB) Severe Disablement Allowance (SDA) Universal Credit Health (UC-H) with Limited Capability for Work (LCW) Universal Credit Health (UC-H) with Limited Capability for Work and Work-Related Activity (LCWRA) Employment and Support Allowance (ESA)   \"",
+  "base_path": "/government/statistics/total-durations-on-incapacity-benefits-for-claimants-on-universal-credit-health-or-employment-and-support-allowance",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    }
+  ]
+}

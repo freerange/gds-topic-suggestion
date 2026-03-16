@@ -1,0 +1,31 @@
+{
+  "title": "Contact MMO",
+  "body": "\"Before contacting us you should check to see if we’ve already published information to answer your query. We often get enquiries about the following topics:   Understand your fishing vessel licence Create a UK catch certificate Do I need a marine licence? Marine Licensing: Travel and subsistence cost Bass Fishing Guidance 2025 How to arrange a burial at sea in the UK marine area Marine Protected Areas (MPAs)   Regional offices  We answer the call queues Monday to Thursday 0900 – 1630 and Fridays 0900 – 1600.   You can write to, email or call your local Marine Management Organisation (MMO) office. If you are unable to locate your local office, you can find it by using your postcode here.   Beverley office   First Floor,Crosskill House,Mill Lane,Beverley,HU17 9JBUnited Kingdom   Email:beverley@marinemanagement.org.uk Telephone: 0208 02 60519  Brixham office   New Fish QuayBrixhamDevonTQ5 8AWUnited Kingdom   Email: brixham@marinemanagement.org.uk Telephone: 0208 026 9059  Harwich office   MMO HarwichTrinity House, The QuayHarwichCO12 3JWUnited Kingdom   Email: harwich@marinemanagement.org.uk  Telephone: 0208 026 6094  Hastings office   Muriel Matters HouseBreeds PlaceHastingsEast SussexTN34 3UYUnited Kingdom   Email: hastings@marinemanagement.org.uk Telephone: 0208 026 9180  Hayle office   Chi GallosHayle Marine Renewables Business ParkNorth QuayHayleTR27 4DDUnited Kingdom   Email: western@marinemanagement.org.uk Telephone: 0208 026 9060  London office   2 Marsham Street,London,SW1P 4DF   Email: security.lnh@defra.gov.uk Telephone: 020 7238 5518  Lowestoft office   Pakefield RoadLowestoftSuffolkNR33 0HTUnited Kingdom   Email: lowestoft@marinemanagement.org.uk Telephone: 02080266094  North Shields office   Neville HouseCentral RiversideBell StreetNorth ShieldsTyne and WearNE30 1LJUnited Kingdom   Email: northshields@marinemanagement.org.uk Telephone: 0208 026 5561  Plymouth office   The Fish QuaySutton HarbourPlymouthDevonPL4 0LHUnited Kingdom   Email: plymouth@marinemanagement.org.uk Telephone: 0208 026 9052  Poole office   The QuayPooleDorsetBH15 1HPUnited Kingdom   Email: poole@marinemanagement.org.uk Telephone: 0208 026 9061  Portsmouth office   Lynx House 1 Northern Road PortsmouthPO6 3XBUnited Kingdom   Email: portsmouth@marinemanagement.org.uk Telephone: 0208 0269057  Preston office   Lutra HouseDodd WayWalton SummitPrestonPR5 8BXUnited Kingdom   Email: preston@marinemanagement.org.uk Telephone: 0208 0265643  Scarborough office   Unit 2aNewchase CourtHopper Hill RoadEastfieldScarboroughNorth YorkshireYO11 3YSUnited Kingdom   Email: scarborough@marinemanagement.org.uk Telephone: 0208 026 0538  Shoreham office   Pilots’ Watch HouseBasin Road SouthPortsladeEast SussexBN41 1WDUnited Kingdom   Email: shoreham@marinemanagement.org.uk Telephone: 0208 026 9057  Whitehaven office   Fish HallNorth HarbourNorth ShoreWhitehavenCumbriaCA28 7XYUnited Kingdom   Email: whitehaven@marinemanagement.org.uk Telephone: 0208 026 2554  Fisheries Management   UK Single Issuing Authority: UKSIA@marinemanagement.org.uk  Domestic Licensing: fishingvessellicensing@marinemanagement.org.uk  International Quota: FMC@marinemanagement.org.uk  Inshore Quota: inshorequotamanager@marinemanagement.org.uk  Domestic Quota Swaps: QuotaSwap.DQS@marinemanagement.org.uk  English Fish Producer Organisation Compliance: POCompliance@marinemanagement.org.uk  Bluefin Tuna - commercial: bft.commercial@marinemanagement.org.uk  Bluefin Tuna - recreational: bft.recreational@marinemanagement.org.uk  Fisheries Management Plans (MMO): fmp@marinemanagement.org.uk  Fisheries Management Plans (Defra): FMPs@defra.gov.uk  Marine & fisheries funds: mff.queries@marinemanagement.org.uk    Catch Recording Helpline  Telephone: 0300 0203 788  The line is staffed from 0800 until 1800, Monday to Friday. Outside of these times, the contact centre operates an automated service to allow fishers to leave catch records over the phone.  Fish export helpline  Telephone: 0330 159 1989  The helpline is available between 0800 and 1800, Monday to Friday (excluding bank holidays). Outside of these hours, the helpline service will assist on urgent technical issues, such as unexpected FES system outages or unavailability.  Fishing vessel licensing  For domestic fishing vessel licensing queries:  fishingvessellicensing@marinemanagement.org.uk   North (North Shields, Whitehaven, Preston): DomesticFVLNorth@marinemanagement.org.uk  East (Scarborough, Lowestoft, Beverley, Harwich): DomesticFVLEast@marinemanagement.org.uk  South East (Hastings, Shoreham): DomesticFVLSouthEast@marinemanagement.org.uk  South (Poole, Brixham, Portsmouth): DomesticFVLSouth@marinemanagement.org.uk  South West (Plymouth): DomesticFVLSouthWest@marinemanagement.org.uk  West (Newlyn):...",
+  "base_path": "/guidance/contact-mmo",
+  "taxons": [
+    {
+      "title": "Harbour orders",
+      "base_path": "/environment/harbour-orders"
+    },
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine licences",
+      "base_path": "/environment/marine-licences"
+    },
+    {
+      "title": "Marine planning",
+      "base_path": "/environment/marine-planning"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

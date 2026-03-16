@@ -1,0 +1,11 @@
+{
+  "title": "Heather and Grass Management Code",
+  "body": "\"The Heather and Grass Management Code supports land management activity where rough vegetation is managed by periodic burning or cutting. This includes on grasslands, peatlands, heathlands and rough vegetation.  The Code sets out best practice that balances land management objectives with the other considerations, including:   the protection of sensitive habitats and species the conservation of valued landscapes and soil carbon stores maintaining public safety and amenity  \"",
+  "base_path": "/government/publications/heather-and-grass-management-code",
+  "taxons": [
+    {
+      "title": "Rural development and land management",
+      "base_path": "/environment/rural-development-land-management"
+    }
+  ]
+}

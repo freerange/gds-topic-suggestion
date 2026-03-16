@@ -1,0 +1,11 @@
+{
+  "title": "Ticks",
+  "body": "\" Submit a tick through our surveillance scheme.  Start now  For all other information about ticks, see below.  \"",
+  "base_path": "/government/collections/ticks",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

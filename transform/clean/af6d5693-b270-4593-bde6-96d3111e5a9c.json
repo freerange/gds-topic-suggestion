@@ -1,0 +1,23 @@
+{
+  "title": "Nature-based solutions: Environment Agency position statement",
+  "body": "\"This position statement describes the Environment Agency’s approach to NbS to support outcomes in flood, climate, and nature recovery.  \"",
+  "base_path": "/government/publications/nature-based-solutions-environment-agency-position-statement",
+  "taxons": [
+    {
+      "title": "River maintenance, flooding and coastal erosion",
+      "base_path": "/environment/river-maintenance-flooding-coastal-erosion"
+    },
+    {
+      "title": "Countryside",
+      "base_path": "/environment/countryside"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    },
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    }
+  ]
+}

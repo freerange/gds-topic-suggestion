@@ -1,0 +1,11 @@
+{
+  "title": "Regional economic activity by gross domestic product, UK: 1998 to 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/regional-economic-activity-by-gross-domestic-product-uk-1998-to-2023",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

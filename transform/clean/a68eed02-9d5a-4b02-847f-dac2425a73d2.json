@@ -1,0 +1,15 @@
+{
+  "title": "Technology and Energy Secretaries chair second AI Energy Council meeting",
+  "body": "\"Secretary of State for Science, Innovation and Technology Peter Kyle and Secretary of State for Energy Security and Net Zero Ed Miliband led the second meeting of the AI Energy Council in London this week (Monday 30 June).  Joined by regulators and representatives of the energy and tech sectors, the latest round of talks centred on the energy demands which will be needed to power the UK’s compute ambitions, and the future energy needs of the sector as a whole.  The government has set the ambition of ramping up the UK’s public compute capacity - the building block of AI development - 20 fold in the next 5 years, with talks focused on how the country’s energy grid can meet that goal.  Presentations from the International Energy Agency (IEA) and the National Energy System Operator (NESO) on energy demands for AI kicked off the session, with the Energy Secretary reflecting on the work being undertaken by the council’s dedicated working group on forecasting energy demand.  With the energy demands of data centres - key drivers of AI development and growth - expected to double in the coming years, attendees also reiterated the importance of ensuring they can be connected to the power grid as swiftly as possible.  This was further highlighted by the Technology Secretary’s reflections on the importance of growth and increasing the UK’s sovereign AI capabilities as central pillars of the AI Energy Council’s work, noting its role as a vital forum for answering key questions and unlocking opportunity.   At the conclusion of the meeting, those in attendance reflected on the shared mission across the energy and tech sectors and the urgency of the council’s work in the coming years as the government powers both its AI and clean energy superpower ambitions. This also included an agreement to work together to forecast future trends support the government’s broader work on grid connections.  The council will next meet in Autumn.   DSIT media enquiries     Email press@dsit.gov.uk     Monday to Friday, 8:30am to 6pm 020 7215 3000       \"",
+  "base_path": "/government/news/technology-and-energy-secretaries-chair-second-ai-energy-council-meeting",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    }
+  ]
+}

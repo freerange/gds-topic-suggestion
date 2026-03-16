@@ -1,0 +1,15 @@
+{
+  "title": "Infected Blood Inquiry page",
+  "body": "\"This dashboard records the recommendations made by the Inquiry and government’s response to them, and will be updated regularly to record implementation progress. The dashboard can be searched by individual recommendation; by recommendation ‘owner’ (for example, the Government) and by the nature of the response (whether the recommendation has been accepted in full, partially accepted etc). \"",
+  "base_path": "/government/publications/infected-blood-inquiry-page",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Blood regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-blood-regulation-safety"
+    }
+  ]
+}

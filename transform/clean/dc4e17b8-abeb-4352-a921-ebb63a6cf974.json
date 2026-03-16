@@ -1,0 +1,23 @@
+{
+  "title": "Pride in Place Strategy",
+  "body": "\"The Pride in Place Strategy is the government‘s plan to create safer, healthier neighbourhoods where communities can thrive. It sets out how we will deliver a step change in how we support communities across the country and provide long-term funding to the most doubly disadvantaged areas.  Our Pride in Place Strategy has been developed in consultation with communities and local people. It represents a break from the past, a new way for government to work in partnership with communities and neighbourhoods, empowering them with the tools and levers to drive meaningful change that reflects their priorities. \"",
+  "base_path": "/government/publications/pride-in-place-strategy",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "City deals and growth deals",
+      "base_path": "/business-and-industry/city-deals-and-growth-deals"
+    },
+    {
+      "title": "Regional growth fund",
+      "base_path": "/business-and-industry/regional-growth-fund"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

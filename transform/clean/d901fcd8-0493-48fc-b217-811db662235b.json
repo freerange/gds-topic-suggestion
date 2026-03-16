@@ -1,0 +1,11 @@
+{
+  "title": "Export client quality survey technical reports",
+  "body": "\"The technical reports summarise the key technical aspects of the export client quality survey. \"",
+  "base_path": "/government/publications/export-client-quality-survey-technical-reports",
+  "taxons": [
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    }
+  ]
+}

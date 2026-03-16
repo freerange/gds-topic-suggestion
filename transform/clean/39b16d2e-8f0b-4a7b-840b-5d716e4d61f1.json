@@ -1,0 +1,19 @@
+{
+  "title": "Continuous Household Survey Heat and Insulation Results 2024/25",
+  "body": "\"The CHS Heat and Insulation 2024/25 report, published by the Department for the Economy, presents findings from a dedicated module of the Continuous Household Survey. Its primary purpose is to provide insight into how households across Northern Ireland heat their homes and the types of insulation they use. This information is vital for understanding energy consumption patterns, identifying areas of fuel poverty, and supporting environmental and housing policy.  The report tracks changes in heating methods over time, such as the shift from oil to gas, and examines how these vary by housing type and tenure. It also explores secondary heating sources, fuel choices, heating controls, and consumer behaviour around purchasing heating oil. In addition, it assesses the prevalence of key insulation measures like double glazing, loft, and wall insulation. By capturing these details, the report helps government departments, local councils, and energy agencies target interventions more effectively—whether to improve energy efficiency, reduce carbon emissions, or support vulnerable households. It also contributes to broader climate and sustainability goals by highlighting areas where improvements in home heating and insulation could make a meaningful impact. \"",
+  "base_path": "/government/statistics/continuous-household-survey-heat-and-insulation-results-202425",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

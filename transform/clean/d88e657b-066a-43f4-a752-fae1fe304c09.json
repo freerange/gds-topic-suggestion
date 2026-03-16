@@ -1,0 +1,11 @@
+{
+  "title": "Keep Britain Working 2015 to 2024",
+  "body": "\"This ad hoc release of statistics presents unpublished data used in the discovery phase of the Keep Britain Working independent review.  They include information on the stock and flow of people aged 16 to 64 in the UK who are:   employed (including those off work sick) unemployed and economically inactive (including those who are inactive due to ill-health)   They will cover the period 2015 to 2024 and are broken down by:   age health condition disability status qualification level work history location  \"",
+  "base_path": "/government/statistics/keep-britain-working-2015-to-2024",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

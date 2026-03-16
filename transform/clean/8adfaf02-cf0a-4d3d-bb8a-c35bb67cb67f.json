@@ -1,0 +1,15 @@
+{
+  "title": "Drug and alcohol treatment and recovery funding: 2025 to 2026",
+  "body": "\"This information provides a breakdown of the funding allocated to local councils in England for 2025 to 2026 to help them improve their drug and alcohol treatment and recovery systems.  This funding is on top of the annual ringfenced public health grant that councils use to fund their public health functions, including drug and alcohol services. \"",
+  "base_path": "/government/publications/drug-and-alcohol-treatment-and-recovery-funding-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Drug misuse and dependency",
+      "base_path": "/health-and-social-care/drug-misuse-and-dependency"
+    },
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    }
+  ]
+}

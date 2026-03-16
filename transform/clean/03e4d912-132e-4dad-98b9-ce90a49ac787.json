@@ -1,0 +1,67 @@
+{
+  "title": "Environment Agency Chief Regulator’s report 2024-25",
+  "body": "\"This Chief Regulator’s report and supporting evidence summarises the performance of the businesses and activities regulated by the Environment Agency in England in 2024 to 2025. It outlines key outcomes of our regulation, providing assurance and transparency across our wide regulatory remit, and it sets out the aims and ambitions of our Chief Regulator.  See the datasets that support this report. \"",
+  "base_path": "/government/publications/environment-agency-chief-regulators-report-2024-25",
+  "taxons": [
+    {
+      "title": "Chemicals",
+      "base_path": "/environment/chemicals"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Fishing, fisheries and fishing vessels",
+      "base_path": "/environment/fishing-fisheries-and-vessels"
+    },
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "River maintenance, flooding and coastal erosion",
+      "base_path": "/environment/river-maintenance-flooding-coastal-erosion"
+    },
+    {
+      "title": "Rural and countryside",
+      "base_path": "/environment/rural-and-countryside"
+    },
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    },
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    },
+    {
+      "title": "Water management",
+      "base_path": "/environment/water-management"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

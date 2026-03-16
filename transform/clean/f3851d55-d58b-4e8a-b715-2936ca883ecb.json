@@ -1,0 +1,15 @@
+{
+  "title": "Nursery survey: 2026 Edition",
+  "body": "",
+  "base_path": "/government/statistics/announcements/nursery-survey-2026-edition",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    }
+  ]
+}

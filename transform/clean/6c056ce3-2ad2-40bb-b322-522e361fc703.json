@@ -1,0 +1,11 @@
+{
+  "title": "Inland border facilities",
+  "body": "\"This measure amends the existing powers HMRC has to approve ports and apply approval conditions through secondary legislation. This includes conditions relating to the provision of customs infrastructure. Ports assessed as having insufficient space on-site for customs infrastructure will need to provide equivalent infrastructure at an offsite location, which must be approved by HMRC. \"",
+  "base_path": "/government/publications/inland-border-facilities",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

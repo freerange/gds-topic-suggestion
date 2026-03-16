@@ -1,0 +1,23 @@
+{
+  "title": "MSN 1838 (M) Amendment 2 MLC, 2006 Minimum Age",
+  "body": "\"This notice should be read with Part 2 of the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014, the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 and with MGN 636 (M+F) Amendment 4 health and safety at work regulations 1997. It replaces MSN 1838 (M+F) amendment 1 for merchant ships and other seagoing ships operating commercially.  For young persons on fishing vessels, see MSN 1882 (F) ILO work in fishing convention minimum age.  Notice to:   shipowners other seagoing vessel owners operators managers and employers of seafarers masters officers and seafarers  \"",
+  "base_path": "/government/publications/msn-1838-m-amendment-2-mlc-2006-minimum-age",
+  "taxons": [
+    {
+      "title": "Maritime safety",
+      "base_path": "/transport/maritime-safety"
+    },
+    {
+      "title": "Employment of seafarers",
+      "base_path": "/transport/employment-of-seafarers"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    },
+    {
+      "title": "Ship crew training and certification",
+      "base_path": "/transport/ship-crew-training-and-certification"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Producer price inflation, UK: March 2025 including services, January to March 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/producer-price-inflation-uk-march-2025-including-services-january-to-march-2025",
+  "taxons": [
+    {
+      "title": "Manufacturing",
+      "base_path": "/business-and-industry/manufacturing"
+    }
+  ]
+}

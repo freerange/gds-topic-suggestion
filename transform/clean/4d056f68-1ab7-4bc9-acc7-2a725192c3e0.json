@@ -1,0 +1,11 @@
+{
+  "title": "Belize: Knowledge Base profile",
+  "body": "\"Knowledge Base is an information resource for HM Passport Office staff.  This document includes information about:   names legitimacy and parental responsibility documents from Belize  \"",
+  "base_path": "/government/publications/belize-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

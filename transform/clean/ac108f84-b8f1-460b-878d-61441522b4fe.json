@@ -1,0 +1,15 @@
+{
+  "title": "The impact of adverse pregnancy events on monthly employee earnings and employment, England; April 2014 to December 2022.",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/the-impact-of-adverse-pregnancy-events-on-monthly-employee-earnings-and-employment-england-april-2014-to-december-2022",
+  "taxons": [
+    {
+      "title": "Payroll",
+      "base_path": "/employment/payroll"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

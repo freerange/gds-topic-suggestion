@@ -1,0 +1,15 @@
+{
+  "title": "Sales of plain milk substitute drinks and soft drinks",
+  "body": "\"The Office for Health Improvement and Disparities has produced analysis of the sales of plain milk substitute drinks and soft drinks in Great Britain for 2020.  The data tables contain estimates of the number of products and percentage of sales by category of drink and sugar content per 100 grams.  This analysis supports the consultation on proposed changes to the Soft Drinks Industry Levy published by HM Treasury. \"",
+  "base_path": "/government/publications/sales-of-plain-milk-substitute-drinks-and-soft-drinks",
+  "taxons": [
+    {
+      "title": "Soft Drinks Industry Levy",
+      "base_path": "/money/soft-drinks-industry-levy"
+    },
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Reporting cryptoasset user and transaction data",
+  "body": "\"If you provide cryptoasset services in the UK, you must collect data and report it to HMRC.  This is because of rules called the Cryptoasset Reporting Framework (CARF).   You can subscribe to get email updates about Cryptoasset Reporting Framework guidance.   What you need to report  You need to collect details of all of your users, but you only need to report on users who are tax resident in the UK or another country that is signed up to CARF rules.  You need to report these users’ details and a summary of their transactions.  If you have no information to report in a year, you do not need to submit a report.  When you need to report  You need to submit your first report between 1 January 2027 and 31 May 2027, giving details for 1 January 2026 to 31 December 2026.  In future years you’ll also need to submit a report by 31 May, giving details for the previous calendar year.  How to report  You’ll need to submit your report on our online service. It is not live yet — we’ll update the guidance when it is.  Your report will need to be submitted in an XML schema. You can find guidance on creating an XML schema on the OECD website.  Penalties  If you do not follow the rules, we may charge you a penalty of up to £300 per user.  You could be charged a penalty if:   you do not report you submit your report late if your report is inaccurate, incomplete or unverified   Find out about penalties (International Exchange of Information Manual: IEIM8000600).  More information  You can find detailed information about the Cryptoasset Reporting Framework:   in the International Exchange of Information technical manual  in the rules and commentary on the Organisation for Economic Development (OECD) website    You can also find out about international tax transparency standards on the OECD’s website.  If you have questions about the Cryptoasset Reporting Framework, you can email eoi.policy@hmrc.gov.uk.  \"",
+  "base_path": "/guidance/reporting-cryptoasset-user-and-transaction-data",
+  "taxons": [
+    {
+      "title": "Tax compliance",
+      "base_path": "/money/tax-compliance"
+    }
+  ]
+}

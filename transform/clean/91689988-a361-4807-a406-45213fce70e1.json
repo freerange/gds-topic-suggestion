@@ -1,0 +1,11 @@
+{
+  "title": "Income estimates for small areas, England and Wales",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/income-estimates-for-small-areas-england-and-wales",
+  "taxons": [
+    {
+      "title": "Your pay, tax and the National Minimum Wage",
+      "base_path": "/employment/tax-minimum-wage"
+    }
+  ]
+}

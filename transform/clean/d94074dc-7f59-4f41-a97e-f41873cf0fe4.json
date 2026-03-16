@@ -1,0 +1,15 @@
+{
+  "title": "The health of people in prison, on probation and in the secure NHS estate in England",
+  "body": "\"This report by Professor Chris Whitty, the Chief Medical Officer for England, aims to improve the health outcomes of people in prison, on probation and in the secure NHS estate by supporting professionals, practitioners and policymakers in health and justice. It was produced in collaboration with Ministry of Justice, HM Prison and Probation Service, NHS England and the Department of Health and Social Care and involved engagement with:   frontline health and justice professionals working in prison, probation and secure NHS hospitals people with lived experience of the justice system   On average, people in prison and on probation start from poorer physical and mental health than the general population, and the prison environment can exacerbate this. In addition, the prison population is aging, and age-related health problems which were once rare in prison, are becoming more common. There have been recent improvements in several areas of health provision for this population, delivered by healthcare and prison staff but there are also areas which can improve. There are still barriers to prevention and care, such as:   gaps in provision poor data flows significant risk points when people transition into, out of and between prison and probation   Some of the areas identified where improvement is needed and realistic are the health of specific groups including:   pregnant women prisoners with chronic or preventable infections prisoners with mental health issues prisoners needing palliative care   Many health regions and prison estates are already taking positive action and are improving health of their prison and probation populations. However, there are many opportunities identified in the report to implement these actions across more settings and prioritise these often medically vulnerable groups in future health service developments. This requires joint action by healthcare and justice policymakers and professionals. \"",
+  "base_path": "/government/publications/the-health-of-people-in-prison-on-probation-and-in-the-secure-nhs-estate-in-england",
+  "taxons": [
+    {
+      "title": "Prisons healthcare",
+      "base_path": "/crime-justice-and-law/prisons-probation-healthcare"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

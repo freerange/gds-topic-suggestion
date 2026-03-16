@@ -1,0 +1,23 @@
+{
+  "title": "New data laws will make life easier for British people, cutting life admin, easing traffic and speeding up roadworks",
+  "body": "\"  Data (Use and Access) Bill becomes law – to unleash the power of data to help working people save money and time.  New data regime will reduce time people spend stuck in traffic and give NHS staff more time with patients.   New laws will inject £10 billion into the British economy over ten years, helping the government deliver on its growth mission in the Plan for Change and key manifesto commitments.    It comes as the Data (Use and Access) Act has today (19th June) received Royal Assent, unleashing the power of data into the British society and economy.   The new data regime is set to pump £10 billion into the British economy over the next decade – by cutting NHS and police bureaucracy, speeding up roadworks, and turbocharging innovation in tech and science.   Measures in the Act will ensure healthcare information – like a patient’s pre-existing conditions, appointments and tests – can easily be accessed in real time across all NHS trusts, GP surgeries and ambulance services, no matter what IT system they are using. Enabling data sharing across platforms will save NHS staff 140,000 hours a year in admin, giving them more time to care for patients and make better informed decisions for them more quickly – speeding up diagnoses and treatments for the British people.    Delivering on a manifesto commitment, the Act boosts the development of technology such as price comparison apps that can provide hyper personalised experiences to people so they can save money and time with bills and food shops. The new laws will broaden the access that third parties, like energy suppliers, have to consumer data.  For example, consumers will be able to share data on their energy usage which will help create more accurate price comparisons, informing what utility provider best suits their needs. This measure will give consumers the ability to compare utility prices, find better deals, and reduce their energy use, as well as foster tech innovation and boost competition, which will ultimately grow the UK economy.     Technology Secretary Peter Kyle said:   For too long, previous governments have been sitting on a goldmine of data, wasting a powerful resource which can be used to help families juggle food costs, slash tedious life admin, and make our NHS and police work smarter.  These new laws will finally unleash that power for hardworking people – putting cash back in pockets and boosting vital public services, all part of our Plan for Change.   Secretary of State for Health and Social Care, Wes Streeting, said:   This is a game-changing moment for UK healthcare.  No longer will patients be left waiting needlessly for treatment as NHS staff battle “computer says no” bureaucracy.  We’re making it easier for GPs, nurses, and paramedics to access the information they need, when they need it, safely, securely and at speed.  Only by challenging the status quo and cutting through red tape can we truly deliver our Plan for Change and an NHS Fit for the Future.   Another key manifesto commitment the...",
+  "base_path": "/government/news/new-data-laws-will-make-life-easier-for-british-people-cutting-life-admin-easing-traffic-and-speeding-up-roadworks",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    },
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    }
+  ]
+}

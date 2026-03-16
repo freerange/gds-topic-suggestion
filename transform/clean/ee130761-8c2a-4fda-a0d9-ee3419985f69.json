@@ -1,0 +1,11 @@
+{
+  "title": "Initial teacher training application reports: monthly statistics",
+  "body": "\"These monthly statistics reports provide data on the numbers of candidates applying for initial teacher training (ITT) in the current recruitment cycle. Data for the previous cycle is also provided to allow for comparison.  The reports contain information on the number of candidates applying for ITT and their:   application status age sex area of residence course phase route into teaching subject provider region   This information may be useful for ITT providers, academics and think tanks that use the data for examining their own recruitment processes and trends in ITT recruitment.  \"",
+  "base_path": "/government/publications/initial-teacher-training-application-reports-monthly-statistics",
+  "taxons": [
+    {
+      "title": "Initial Teacher Training (ITT)",
+      "base_path": "/education/initial-teacher-training-itt"
+    }
+  ]
+}

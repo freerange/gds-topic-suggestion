@@ -1,0 +1,11 @@
+{
+  "title": "Fair funding share calculator",
+  "body": "\"A calculator that determines the Fair Funding Share for each local authority, representing their share of England total funding when accounting for their assessed relative overall need and level of resources. \"",
+  "base_path": "/government/publications/fair-funding-share-calculator",
+  "taxons": [
+    {
+      "title": "Local government spending",
+      "base_path": "/regional-and-local-government/local-government-spending"
+    }
+  ]
+}

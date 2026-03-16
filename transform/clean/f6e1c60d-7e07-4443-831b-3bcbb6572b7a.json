@@ -1,0 +1,43 @@
+{
+  "title": "DfI Driver, Vehicle, Operator & Enforcement Statistics-2025-26-Q2",
+  "body": "\"This is a quarterly release of information on the testing, licensing and enforcement / compliance activities of the Driver and Vehicle Agency in Northern Ireland. The statistics reported within this publication include summary key business volumes and transactions for drivers, vehicles, operators and in the area of regulation and enforcement during the second quarter of 2025-26 (i.e. July 2025 to September 2025). \"",
+  "base_path": "/government/statistics/dfi-driver-vehicle-operator-enforcement-statistics-2025-26-q2",
+  "taxons": [
+    {
+      "title": "Car driving tests",
+      "base_path": "/transport/car-driving-tests"
+    },
+    {
+      "title": "Lorry, bus, coach and specialist vehicle driving tests",
+      "base_path": "/transport/lorry-bus-coach-and-specialist-vehicle-driving-tests"
+    },
+    {
+      "title": "Motorcycle and moped tests",
+      "base_path": "/transport/motorcycle-and-moped-tests"
+    },
+    {
+      "title": "Theory tests",
+      "base_path": "/transport/theory-tests"
+    },
+    {
+      "title": "Driving licence applications and renewals",
+      "base_path": "/transport/driving-licence-applications-and-renewals"
+    },
+    {
+      "title": "Car, motorcycle and van MOT tests",
+      "base_path": "/transport/car-motorcycle-and-van-mot-tests"
+    },
+    {
+      "title": "HGV, bus and trailer MOT tests",
+      "base_path": "/transport/hgv-bus-and-trailer-mot-tests"
+    },
+    {
+      "title": "PSV standards and checks",
+      "base_path": "/transport/psv-standards-and-checks"
+    },
+    {
+      "title": "Vehicle tax",
+      "base_path": "/transport/vehicle-tax"
+    }
+  ]
+}

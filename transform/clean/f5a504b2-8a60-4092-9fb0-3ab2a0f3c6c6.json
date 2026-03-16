@@ -1,0 +1,23 @@
+{
+  "title": "Business Secretary flies to Washington on first official visit",
+  "body": "\"The Business and Trade Secretary is flying to Washington on Sunday evening to meet White House senior advisors, CEOs and business leaders to make progress on the UK Tech partnership and strengthen the UK US relationship ahead of the State Visit.    The visit comes only one day after he spoke with over 100 business leaders on Saturday afternoon where he set out his priorities for the department including doubling down on economic growth, the Government’s central mission.   He is set to meet Office of Science and Technology Policy Director Michael Kratsios, as well as Sriram Krishnan, Senior AI Advisor at the White House to discuss the AI Pillar of the Tech Partnership.  Business and Trade Secretary Peter Kyle said:   “From day one in the job I’ve been clear that my mission is to drive forward economic growth and to give businesses across the country the opportunities they need to thrive as part of the Plan for Change.   “My first visit to Washington as Business Secretary is key to strengthening our special relationship as we face global challenges together and building momentum on our Tech Partnership and trade deal ahead of the historic State Visit.”   While in Washington he will also meet Benito Minicucci, CEO Alaska Airlines and Guillaume Faury, CEO Airbus to further cement our position as a top investment destination.    After a full day of meetings, the Secretary of State will fly directly to China as part of delivering secure economic growth with one of the world’s largest economies. \"",
+  "base_path": "/government/news/business-secretary-flies-to-washington-on-first-official-visit",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Outward investment",
+      "base_path": "/business-and-industry/outward-investment"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

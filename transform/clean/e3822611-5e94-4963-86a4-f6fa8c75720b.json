@@ -1,0 +1,23 @@
+{
+  "title": "Large language models (LLMs) solve wargaming challenge",
+  "body": "\"The huge volume of outputs wargaming generates can often be unfathomable, even for the most experienced data processing team.  The Defence, Science and Technology Laboratory (Dstl) and Frazer-Nash have produced detailed research demonstrating how large language models (LLMs) could be applied to this challenge.  The LLMs could help turn complex wargaming output data into easy to use, secure information that improves the scenario interrogation and analysis – simultaneously reducing the burden on the operator.  What LLMs can do  LLMs can:   summarise complex data through their text processing and generating capabilities analyse and assess large data sets from a variety of sources faster than any manual approach (perfect for Command: Modern Operations (CMO) - a wargaming simulation platform that produces large volumes of complex data on completion of a given scenario) provide more privacy and data control compared with online counterparts such as Chat GPT   More on the research  The 6-month Dstl funded research scrutinised whether a LLM could be used reliably and securely to interrogate the output of a CMO scenario - for example, a complex multi-domain engagement involving sea, air and land units. It helped the analyst understand the result of a battlefield scenario and the key factors that drove it much more easily.  The research considered multiple technologies. This included combining Retrieval Augmented Generation (RAG) with a local LLM. RAG is a technique that improves the quality of LLM-generated responses, allowing use-case specific data in everyday formats such as PDF, CSV or XML so it can be easily included in the context for an LLM response.  A set of possible use cases were provided and tested across 2 phases during the 6-month research, and a robust framework tool was created for quantifying the accuracy and reliability of the LLM-generated information.   Results  The research showed that LLMs can helpfully interrogate and disseminate output information of complex wargaming scenarios, if used in the right way.  The techniques can be developed flexibly around changing components. For instance, data types, tools, methodologies and evaluation metrics. This new approach can then evolve with ever-changing demands and challenges.   Published research Access more of Dstl’s published research.  AI and data science: defence science and technology capability  Find out more about Dstl’s AI, data science and machine learning.   \"",
+  "base_path": "/government/case-studies/large-language-models-llms-solve-wargaming-challenge",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    },
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Government technology and digital services",
+      "base_path": "/government/government-technology-and-digital-services"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "DHSC: spending over £25,000, July 2024",
+  "body": "\"The Department of Health and Social Care (DHSC) publishes details of all departmental spending over £25,000 on a monthly basis. \"",
+  "base_path": "/government/publications/dhsc-spending-over-25000-july-2024",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

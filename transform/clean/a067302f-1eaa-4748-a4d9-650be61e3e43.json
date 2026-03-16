@@ -1,0 +1,23 @@
+{
+  "title": "RVAR 2010 exemption: London Underground Limited Central line",
+  "body": "\"Request by London Underground Limited (LUL) for exemption from particular requirements of the Rail Vehicle Accessibility (Non-Interoperable Rail System) Regulations 2010 with which the trains and platforms on its Central line do not comply.  \"",
+  "base_path": "/government/consultations/rvar-2010-exemption-london-underground-limited-central-line",
+  "taxons": [
+    {
+      "title": "Rail accessibility",
+      "base_path": "/transport/rail-accessibility"
+    },
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    },
+    {
+      "title": "Rail stations",
+      "base_path": "/transport/rail-stations"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

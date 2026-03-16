@@ -1,0 +1,15 @@
+{
+  "title": "Notice to Traders 10/25 - Import of Frozen Beef and Veal Quota (GATT) under Statutory Instrument 2020 No. 1432",
+  "body": "\"You may submit your application for a licence between 1 February 2025 and 5pm on 7 February 2025. \"",
+  "base_path": "/government/publications/notice-to-traders-1025-import-of-frozen-beef-and-veal-quota-gatt-under-statutory-instrument-2020-no-1432",
+  "taxons": [
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    },
+    {
+      "title": "Meat production",
+      "base_path": "/environment/producing-distributing-food-meat-production"
+    }
+  ]
+}

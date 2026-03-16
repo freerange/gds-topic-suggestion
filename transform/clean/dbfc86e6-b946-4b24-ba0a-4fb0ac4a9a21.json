@@ -1,0 +1,11 @@
+{
+  "title": "Northern Ireland HSC Workforce Statistics December 2024",
+  "body": "\"A quarterly summary of HSC staff by organisation and staff group including summary of 5 year trends. \"",
+  "base_path": "/government/statistics/northern-ireland-hsc-workforce-statistics-december-2024",
+  "taxons": [
+    {
+      "title": "Health workforce",
+      "base_path": "/health-and-social-care/health-workforce"
+    }
+  ]
+}

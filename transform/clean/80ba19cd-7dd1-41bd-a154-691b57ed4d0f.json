@@ -1,0 +1,15 @@
+{
+  "title": "Work Quality in Northern Ireland 2023/24",
+  "body": "\"This paper examines Work Quality statistics relating to a number of indicators primarily sourced from the Labour Force Survey (LFS), alongside an earnings indicator sourced from the Annual Survey of Hours and Earnings (ASHE). It contains analysis of eleven work quality indicators; earnings, secure employment, under/overemployment, job satisfaction, meaningful work, career progression, employee involvement in decision-making, bullying/harassment, under/over skilled, line manager support, and flexible working. \"",
+  "base_path": "/government/statistics/work-quality-in-northern-ireland-202324",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

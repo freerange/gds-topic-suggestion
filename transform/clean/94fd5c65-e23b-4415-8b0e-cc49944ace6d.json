@@ -1,0 +1,11 @@
+{
+  "title": "How we protected the UK and space in November 2025",
+  "body": "\"November saw sustained levels of space activity with collision and space weather alerts higher than in October, but with fewer uncontrolled re-entries into Earth’s atmosphere.  All  NSpOC warning and protection services were functioning throughout the period.  Re-entry analysis  November saw a 20% decrease in the number of objects re-entering Earth’s atmosphere, monitored by NSpOC, when compared with the previous month.  Of the 43 objects that re-entered, 34 were satellites and 9 were rocket bodies.   December: 83, January: 115, February: 129, March: 85, April: 92, May: 64, June: 55, July: 52, August: 34, September: 39, October: 54, November: 43  Collision avoidance analysis  Collision risks to UK-licensed satellites were slightly higher in November with a 3% increase when compared with October, caused by more interactions between UK-licensed objects and other spacecraft or debris over the previous 30 days.   December: 2,142, January: 2,694, February: 2,567, March: 2,588, April: 2,620, May: 1,546, June: 1,259, July: 1,038, August: 971, September: 1,537, October: 2,402, November: 2,472  Registered Space Objects (RSOs) analysis  The in-orbit population increased in November, with a net addition of 246 objects to the US Satellite Catalogue.   December: 29,927, January: 30,055, February: 30,085, March: 30,179, April: 30,307, May: 30,556, June: 30,881, July: 31,090, August: 31,344, September, 31,634, October: 31,931, November: 32,177  The number of Resident Space Objects (RSOs) reported may be subject to small adjustments over time as the way objects are tracked is refined. Figures in this report reflect the most current available data and may differ slightly from those published in previous months.  Fragmentation analysis  There have been no new fragmentation (break-up) incidents this month.  Space weather analysis  Space weather activity was elevated in November with geomagnetic storms, solar radiation storms and solar flares registered throughout the month. \"",
+  "base_path": "/government/news/how-we-protected-the-uk-and-space-in-november-2025",
+  "taxons": [
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

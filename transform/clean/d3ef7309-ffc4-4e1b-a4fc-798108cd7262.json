@@ -1,0 +1,11 @@
+{
+  "title": "Increase in payment rates for Higher Level Stewardship from 2025",
+  "body": "\"The attached table gives details of all Higher Level Stewardship (HLS) options.  The table shows the:   relevant option code option name previous rate of payment rate of payment from January 2025 code of Countryside Stewardship (CS) or Sustainable Farming Incentive (SFI) equivalent item, if relevant name of CS or SFI equivalent item payment rate   If an option has different payment rates depending on the HLS handbook edition, the handbook edition number is given in brackets next to the option code.  Non-standard rates  To calculate the increase to an agreement that contains non-standard rates, you will need to calculate the difference between the non-standard rate set out in that agreement and the CS or SFI equivalent.  To do this:   Identify the non-standard HLS rates from your agreement document. Where there is an equivalent CS or SFI option in the table, subtract the HLS rate listed in your agreement from the CS or SFI rate. Calculate 34.4% of the difference and add to the original HLS rate listed in the agreement document – this is the new rate.   Example  The HLS option HE11 is equivalent to AB8 in CS Higher Tier.    the standard rate for HE11 is £590/ha, the payment rate for AB8 is £798/ha the difference is £208  take 34.4% of this difference = £71.55 to the nearest pence   the new standard rate for HE11 is £661.55 = original standard rate (£590) + 34.4% of the difference (£71.55)   \"",
+  "base_path": "/government/publications/increase-in-payment-rates-for-higher-level-stewardship-from-2025",
+  "taxons": [
+    {
+      "title": "Rural grants and payments",
+      "base_path": "/environment/farming-food-grants-payments-rural-grants-payments"
+    }
+  ]
+}

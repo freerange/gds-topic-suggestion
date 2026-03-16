@@ -1,0 +1,15 @@
+{
+  "title": "Government Internal Audit Agency: senior civil servants’ secondary employment",
+  "body": "\"Information about any paid (or otherwise renumerated) outside secondary employment, declared by members of the Senior Civil Service (SCS) in Government Internal Audit Agency through the departmental management and declaration of outside interest process. \"",
+  "base_path": "/government/publications/government-internal-audit-agency-senior-civil-servants-secondary-employment",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

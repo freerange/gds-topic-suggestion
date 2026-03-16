@@ -1,0 +1,11 @@
+{
+  "title": "NHS Surplus Land, Quarter 2 2025/26",
+  "body": "\"The present collection combines metrics from previous data sources to make available a broader range of information than previously possible.  The main findings will be published as an interactive PowerBI dashboard. In addition the publication will include a separate machine readable data file and data definitions document. \"",
+  "base_path": "/government/statistics/nhs-surplus-land-quarter-2-202526",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

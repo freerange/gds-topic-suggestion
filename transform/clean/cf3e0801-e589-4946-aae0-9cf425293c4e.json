@@ -1,0 +1,11 @@
+{
+  "title": "Apply for vehicle eligibility for the Electric Car Grant",
+  "body": "\"The Electric Car Grant offers banded grant levels for vehicles priced at £37,000 or below.  For a vehicle to be eligible for the grant, vehicle manufacturers need to provide:   information about themselves and the vehicle evidence about the sustainability of vehicle manufacturing   All evidence must be supplied in English.  Vehicle manufacturers who want to apply for grant eligibility should complete this form and send it with the supporting evidence to ECGApplications@ozev.gov.uk.  If you are applying for more than one variant of a base vehicle, where the range or battery specifications differ, you may need to complete an application form for each variant.  Read separate guidance on how to complete the form and the evidence you need to provide.  \"",
+  "base_path": "/government/publications/apply-for-vehicle-eligibility-for-the-electric-car-grant",
+  "taxons": [
+    {
+      "title": "Zero emission and electric vehicles",
+      "base_path": "/transport/zero-emission-and-electric-vehicles"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Transport artificial intelligence action plan",
+  "body": "\"Following the 2025 AI opportunities action plan, this plan sets out the approach the Department for Transport (DfT) is taking to working with artificial intelligence (AI).  This includes implementing AI within DfT to support our business and deploying it across the transport system to both improve transport user experiences and boost growth.  The action plan represents the start of a step-change for AI in our transport system, recognising its power to increase resilience, productivity and turbo-charge innovation across the private and public sectors.  It signals our intent to stakeholders across the transport system, other government departments and innovators creating new AI solutions.  \"",
+  "base_path": "/government/publications/transport-artificial-intelligence-action-plan",
+  "taxons": [
+    {
+      "title": "Transport modelling and appraisal",
+      "base_path": "/transport/transport-modelling-and-appraisal"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

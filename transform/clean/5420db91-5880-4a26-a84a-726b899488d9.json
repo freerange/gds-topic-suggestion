@@ -1,0 +1,15 @@
+{
+  "title": "MGN165 Amendment 1 (F) fishing vessels: risk of flooding",
+  "body": "\"Notice to all designers, builders, certifying authorities, classification societies, agents, brokers, owners, employers, skippers and crew of fishing vessels.  This notice should be read with the Fishing Vessel (Code of Practice) Regulations 2017 No. 943, MSN1871 (F) The Code of Practice for the Safety of Fishing Vessels of less than 15m Length Overall, MSN1872 (F) The Code of Safe Working Practice for the construction and use of Fishing Vessels of 15m Length Overall to less than 24m Registered Length, MGN570 Fishing Vessels: Emergency Drills and MGN571 Fishing Vessels – Prevention of Man Overboard.  This notice:    provides guidance on bilge systems, during construction and operation, to help reduce the number of vessels and lives lost as a result of flooding;   preventative maintenance around all aspects of the vessel integrity and pumping arrangements is critical against the risk of flooding   recommends owners and skippers to consider using additional or alternative equipment, such as salvage pumps, propeller shaft-mounted pumps and secondary bilge alarms, to reduce the risk of catastrophic flooding;   provides guidance on the actions to take in the event of flooding.    \"",
+  "base_path": "/government/publications/mgn165-amendment-1-f-fishing-vessels-risk-of-flooding",
+  "taxons": [
+    {
+      "title": "Fishing",
+      "base_path": "/transport/fishing"
+    },
+    {
+      "title": "Maritime safety",
+      "base_path": "/transport/maritime-safety"
+    }
+  ]
+}

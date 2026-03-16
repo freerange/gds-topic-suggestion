@@ -1,0 +1,15 @@
+{
+  "title": "Optional key stage 1 tests: 2025 mathematics test materials",
+  "body": "\"It is recommended that schools administer the optional mathematics tests at the end of KS1 in May 2025. Test administration instructions and mark schemes are also provided.  Please refer to the copyright ownership report for details of how schools, educational establishments and third parties can use these materials.  \"",
+  "base_path": "/government/publications/optional-key-stage-1-tests-2025-mathematics-test-materials",
+  "taxons": [
+    {
+      "title": "Maths (key stage 1)",
+      "base_path": "/education/primary-curriculum-key-stage-1-maths"
+    },
+    {
+      "title": "Tests and assessments (key stage 1)",
+      "base_path": "/education/primary-curriculum-key-stage-1-tests-and-assessments"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Fisheries: consultations between the UK and the EU for 2026",
+  "body": "\"These written records document the outcome of the annual fisheries consultations between the UK and the EU about opportunities for jointly managed fish stocks in 2026.   There are separate written records for consultations between the UK and the EU on:     sprat for 1 July 2025 to 30 June 2026    Norway pout for 1 November 2025 to 31 October 2026     Read these on: Fisheries: consultations between the UK and the EU for 2025 \"",
+  "base_path": "/government/publications/fisheries-consultations-between-the-uk-and-the-eu-for-2026",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Farm Business Income by type of farm in England 2025/26 forecast",
+  "body": "",
+  "base_path": "/government/statistics/announcements/farm-business-income-by-type-of-farm-in-england-202526-forecast",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

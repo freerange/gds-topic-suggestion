@@ -1,0 +1,11 @@
+{
+  "title": "Apprenticeships in England by industry characteristics: 2022 to 2023",
+  "body": "\"This release presents statistics on apprenticeship starts and achievements by:   employer size industry sector region   We have linked information about apprentices to their employers, using data from the:   individualised learner record apprenticeship service Office for National Statistics inter-departmental business register   The release covers learner characteristics, including:   age gender learners with learning difficulties or disabilities ethnicity whether they live in a relatively deprived area   It covers apprenticeship information, including:   level standard or framework subject studied geography of workplace whether they were supported by levy funds from an apprenticeship service account   It also covers employer enterprise characteristics, including:   industry sector size band legal status  \"",
+  "base_path": "/government/statistics/apprenticeships-in-england-by-industry-characteristics-2022-to-2023",
+  "taxons": [
+    {
+      "title": "Apprenticeships, traineeships and internships",
+      "base_path": "/education/apprenticeships-traineeships-and-internships"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "HM Land Registry launches new APIs to save customers time",
+  "body": "\"HM Land Registry has improved its digital services for customers who use software connected to Business Gateway application programming interfaces (APIs).    APIs are software components that automatically update data between HM Land Registry and customers. The update will ensure a more reliable and flexible service for those developing software through the introduction of new APIs with a modern ‘RESTful architecture’.    Faster, simpler, smarter registrations – bringing DRS to Business Gateway    This change in APIs will bring the Digital Registration Service (DRS) to Business Gateway. This will enable faster applications for customers, as it enables the introduction of new digital checks to check for common administrative errors.    The checks highlight issues such as incorrect names or title numbers before an application is submitted. As well as helping to avoid requisitions and reduce delays, it means customers will know their applications are right first time.    A full list of what is being checked can be found on GOV.UK.   These checks are already included in the DRS on HM Land Registry’s online portal, and this change extends the benefits to customers using Business Gateway software.    Bringing the service to both channels makes digital registration faster, smarter, and easier for professionals across the property industry.   When will customers see the change?   Customers will experience these changes at different times, depending on when their software provider integrates the new APIs. Customers can reach out to their software providers to find out when they can expect to see these changes.   This change is part of a wider effort to reduce the number of avoidable errors in applications. Working with customers, HM Land Registry is highlighting the frequency and impact of these issues, providing free training and guidance to help customers get their applications ‘right first time’. \"",
+  "base_path": "/government/news/hm-land-registry-launches-new-apis-to-save-customers-time",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "Land registration",
+      "base_path": "/housing-local-and-community/land-registration"
+    },
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    }
+  ]
+}

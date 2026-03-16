@@ -1,0 +1,11 @@
+{
+  "title": "Judicial Statistics 2024",
+  "body": "\"This publication is a Accredited Official Statistics publication and is produced in accordance with the pillars and principles set out in the Code of Practice for Statistics. It presents the following statistics for the Northern Ireland Court and Tribunals Service for the calendar year 2024: The number of Children Order applications received and disposed at Family Proceedings Courts, Family Care Centres and the High Court, together with waiting times from lodgement to disposal; County Court business received and disposed, waiting times and sitting days in County Courts; Court of Appeal business received and disposed, waiting times and sitting days in Court of Appeal; The number of cases and defendants received and disposed, waiting times, pleas and findings and sittings at the Crown Court; Business received and disposed, waiting times and sitting days in the Chancery, Queen’s Bench and Family Divisions of the High Court; The number of youth and adult defendants received and disposed, charges and outcomes, sittings, civil applications received and disposed and waiting times at Magistrates’ Courts; A summary of some other miscellaneous business areas such as Enforcement of Judgments Office, Coroners and Pension Appeal Tribunals; A breakdown of the Judge Court sitting days split by the majority type of business heard. \"",
+  "base_path": "/government/statistics/judicial-statistics-2024",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    }
+  ]
+}

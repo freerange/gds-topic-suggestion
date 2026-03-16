@@ -1,0 +1,11 @@
+{
+  "title": "Stamp Duty Reserve Tax — relief for newly listed companies",
+  "body": "\"This measure provides a relief from the 0.5% Stamp Duty Reserve Tax charge on agreements to transfer securities of a company whose shares are newly listed on a UK regulated market. The relief will apply to the company’s securities for a 3-year period from the listing of the company’s shares. \"",
+  "base_path": "/government/publications/stamp-duty-reserve-tax-relief-changes",
+  "taxons": [
+    {
+      "title": "Stamp duty on shares",
+      "base_path": "/money/stamp-duty-on-shares"
+    }
+  ]
+}

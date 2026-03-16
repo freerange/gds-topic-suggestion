@@ -1,0 +1,19 @@
+{
+  "title": "Review into the operational effectiveness of the Care Quality Commission (easy read)",
+  "body": "\" In May 2024, Dr Penny Dash was asked by the Department of Health and Social Care (DHSC) to review how well the Care Quality Commission (CQC) works.  This easy read version of the full report tells you what Dr Dash found out in her review. \"",
+  "base_path": "/government/publications/review-into-the-operational-effectiveness-of-the-care-quality-commission-easy-read",
+  "taxons": [
+    {
+      "title": "Patient safety",
+      "base_path": "/health-and-social-care/patient-safety"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Dstl's pivotal role in StormShroud uncrewed aircraft capability",
+  "body": "\"The Defence Science and Technology Laboratory (Dstl) has played a crucial role in developing StormShroud, a new uncrewed aircraft system recently announced by Prime Minister Sir Keir Starmer during a visit to Leonardo UK’s Luton site.  StormShroud is the first of a new family of Autonomous Collaborative Platforms (ACP) designed to make RAF combat aircraft more survivable and more lethal in contested battlespaces.  The system consists of the TEKEVER AR3 uncrewed air platform integrated with Leonardo’s BriteStorm Electronic Warfare payload. It offers increased survivability to RAF jets and crew through disruption and deception of enemy radars.  Dr Paul Hollinshead, Chief Executive of Dstl, said:   This achievement demonstrates how Dstl’s world-class research directly contributes to operational advantage for our Armed Forces.  StormShroud represents our commitment to delivering mission-winning science and technology at pace, supporting both mission success and economic growth through close collaboration with industry partners.   StormShroud has been a collaborative effort involving the following:   Dstl  RAF’s Rapid Capabilities Office Defence Equipment & Support (DE&S)  UK defence industry partners   RAF Air Chief Marshal Sir Rich Knighton said:   This is a seminal moment for the RAF to maintain our advantage in Air Combat and national security.  Autonomous Collaborative Platforms will revolutionise how we conduct a range of missions, from intelligence gathering to strike and logistical support.    Dstl’s contribution  Dstl has delivered significant impact at all levels of the project through:   world-class research, technical expertise and advice on electronic warfare capabilities embedded technical leadership within the RAF Rapid Capabilities Office and Air and Space Warfare Centre operational analysis informing RAF requirements trials event design, participation and analysis   Creating jobs and boosting the economy  The StormShroud project is creating significant economic benefits across the UK, which include:   supporting over 300 high-skilled jobs in the British defence technology sector creating a supply chain involving more than 45 UK small and medium-sized enterprises generating an estimated £175 million in economic activity over the next 5 years establishing the UK as a global leader in autonomous defence technology, opening export opportunities developing transferable skills and technologies with applications in civilian sectors   The announcement reinforces defence’s commitment to integrating autonomous systems in future forces, aligning with the Defence Drone Strategy, RAF Autonomous Collaborative Platforms Strategy, and across the Front Line Commands.  Dstl continues to support StormShroud development and future Air Domain ACP capabilities through various projects that aim to enhance coherence and drive exploitation of technology in this field.   Find out more about how Dstl delivers mission success through science and technology advantage.   \"",
+  "base_path": "/government/news/dstls-pivotal-role-in-stormshroud-uncrewed-aircraft-capability",
+  "taxons": [
+    {
+      "title": "Armed forces",
+      "base_path": "/defence/working-armed-forces"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

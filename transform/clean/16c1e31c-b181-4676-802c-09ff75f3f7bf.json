@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: drought",
+  "body": "\"This summary identifies some of the main risks caused by drought, such as reduced water usage and subsidence, and how they can impact transport. It also provides advice to help mitigate and plan for these risks.  Direct impacts on transport from droughts include:   impacts on health and safety due to reduced water availability damage to transport infrastructure due to drying and cracking of the ground   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-drought",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

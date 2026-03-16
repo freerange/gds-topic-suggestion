@@ -1,0 +1,11 @@
+{
+  "title": "East Anglia EA12 Pakefield Road 2024",
+  "body": "\"An assessment of the 2024 hydrographic survey of the area EA12: to monitor recent seabed movement; to identify any implications for shipping; and to make recommendations for future surveys. \"",
+  "base_path": "/government/publications/east-anglia-ea12-pakefield-road-2024",
+  "taxons": [
+    {
+      "title": "Hydrography",
+      "base_path": "/environment/hydrography"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "National Diet and Nutrition Survey 2019 to 2023",
+  "body": "\"The National Diet and Nutrition Survey (NDNS) is a UK survey carried out on behalf of the Food Standards Agency and the Office for Health Improvement and Disparities in the Department of Health and Social Care. It assesses the diet, nutrient intake and nutritional status of adults and children aged 18 months and over living in private households in England, Scotland, Wales and Northern Ireland.  This report presents results from fieldwork carried out in 2019 to 2023 by a consortium of the National Centre for Social Research (NatCen) and the Medical Research Council Epidemiology Unit at the University of Cambridge. Fieldwork in Northern Ireland was carried out by the Northern Ireland Statistics and Research Agency and NatCen.  The survey is used by UK governments to monitor progress towards achieving diet and nutrition objectives and to develop food and nutrition policies.  \"",
+  "base_path": "/government/statistics/national-diet-and-nutrition-survey-2019-to-2023",
+  "taxons": [
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    }
+  ]
+}

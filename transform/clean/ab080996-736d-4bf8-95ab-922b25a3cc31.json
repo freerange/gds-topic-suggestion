@@ -1,0 +1,15 @@
+{
+  "title": "Economic activity and social change in the UK, real-time indicators : 4 September 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/economic-activity-and-social-change-in-the-uk-real-time-indicators-4-september-2025",
+  "taxons": [
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

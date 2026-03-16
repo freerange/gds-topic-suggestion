@@ -1,0 +1,11 @@
+{
+  "title": "DCMS workforce management information",
+  "body": "\"This data covers:   payroll staff by grade non-payroll staff by type headcount staff numbers full-time equivalent staff numbers staff costs   These figures are not official statistics. They are internal workforce management information published in the interests of transparency.  These figures have not been reconciled centrally with any National Statistics. Where differences appear between the monthly information and National Statistics, clarifying comments will be provided. The ONS quarterly public sector employment statistics provide an official headline measure for comparing the overall size of employment in central government organisations with other sectors of the economy at the relevant quarterly reference point. \"",
+  "base_path": "/government/collections/dcms-workforce-management-information",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

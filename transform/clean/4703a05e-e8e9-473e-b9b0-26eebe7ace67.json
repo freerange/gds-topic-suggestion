@@ -1,0 +1,11 @@
+{
+  "title": "Montenegro: Knowledge Base profile",
+  "body": "\"This document contains useful information about Montenegro which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Montenegro  \"",
+  "base_path": "/government/publications/montenegro-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

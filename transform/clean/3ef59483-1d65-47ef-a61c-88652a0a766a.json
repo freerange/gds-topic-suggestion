@@ -1,0 +1,19 @@
+{
+  "title": "Ministry of Justice spend control data: January 2025 to March 2025",
+  "body": "\"The Ministry of Justice publishes details of approved expenditure in areas limited by spending controls in this data. \"",
+  "base_path": "/government/publications/ministry-of-justice-spend-control-data-january-2025-to-march-2025",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

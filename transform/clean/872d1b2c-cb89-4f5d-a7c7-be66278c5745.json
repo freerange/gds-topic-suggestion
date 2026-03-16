@@ -1,0 +1,23 @@
+{
+  "title": "Pathway Action Plans for invasive non-native species in Great Britain",
+  "body": "\"The Department for Environment, Food and Rural Affairs (Defra), the Scottish Government and Welsh Government want to know your views on draft Pathway Action Plans (PAPs) for invasive non-native species (INNS) in Great Britain.   Pathways are ways INNS can be introduced and spread. We have identified 5 priority pathways as:   recreational boating angling horticulture zoos and aquaria pets   The PAPs we have developed provide best practice guidance. The implementation of the plans will target the risks of introduction and spread associated with these priority pathways.  Your responses will help us publish comprehensive finalised PAPs aimed at preventing or minimising these risks.  You can read the Welsh version of this information.  \"",
+  "base_path": "/government/consultations/pathway-action-plans-for-invasive-non-native-species-in-great-britain",
+  "taxons": [
+    {
+      "title": "Boats and waterways",
+      "base_path": "/environment/boats-waterways"
+    },
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    },
+    {
+      "title": "Pets",
+      "base_path": "/environment/pets"
+    },
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    }
+  ]
+}

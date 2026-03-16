@@ -1,0 +1,71 @@
+{
+  "title": "Dstl to tackle emerging health threats",
+  "body": "\"Researchers from both organisations aim to strengthen the UK’s ability to detect, understand and combat known and emerging pathogens.  Bringing together experts in infectious diseases and pandemic research from different organisations is essential for improving the UK’s ability to prepare for, respond to, and recover from these threats.  This collaboration will support several research projects drawing on the expertise of both organisations. This includes developing new diagnostic tests, evaluating new therapeutics and using cutting edge technology to better understand viral pathogens.  There are 9 projects in total. One of which will use artificial intelligence (AI) to predict virus-host interactions, aiding the development of new diagnostics and therapeutics.  Professor Tom Solomon CBE, Director of The Pandemic Institute (TPI), emphasised the importance of the collaboration:  “The recent global health crises have shown us that we must be proactive rather than reactive when dealing with infectious threats. This collaboration with the Defence Science and Technology Laboratory (Dstl) will ensure that we are at the forefront of scientific innovation, developing tools that could be crucial in preventing future pandemics.”  Dr Stuart Perkins, Programme Manager at Dstl stated:  “This joint programme encourages and supports our scientists to work within national multidiscipline teams and will allow Dstl to access novel tools and products, being developed within academia, that could be utilised within the defence and security arena.      “It generates value for money and ensures cohesion across defence and academic research.      “The programme strengthens Dstl’s mission to ensure our armed forces maintain operational effectiveness at all times, even in the event they were exposed to infectious agents.”  This partnership represents an exciting step forward in pandemic preparedness, and helps the UK remain at the cutting edge of infectious disease research.   Find out more about Dstl’s work and funded projects at TPI.   \"",
+  "base_path": "/government/news/dstl-to-tackle-emerging-health-threats",
+  "taxons": [
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    },
+    {
+      "title": "COVID-19",
+      "base_path": "/health-and-social-care/covid-19"
+    },
+    {
+      "title": "Vigilance, safety alerts and guidance",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts"
+    },
+    {
+      "title": "Emergency response",
+      "base_path": "/health-and-social-care/health-protection-emergency-response"
+    },
+    {
+      "title": "Health emergency planning",
+      "base_path": "/health-and-social-care/health-emergency-planning"
+    },
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    },
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    },
+    {
+      "title": "Laboratories and reference facilities",
+      "base_path": "/health-and-social-care/health-protection-services-laboratories-and-reference-facilities"
+    },
+    {
+      "title": "Research, testing and standards",
+      "base_path": "/health-and-social-care/health-protection-services-research-testing-and-standards"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

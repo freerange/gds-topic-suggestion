@@ -1,0 +1,15 @@
+{
+  "title": "Potential risks from transfer slabs in buildings",
+  "body": "\"Information for principal accountable persons and building owners, issued by the Building Safety Regulator. It includes details about potential structural issues and risks associated with transfer slabs in buildings. \"",
+  "base_path": "/government/publications/potential-risks-from-transfer-slabs-in-buildings",
+  "taxons": [
+    {
+      "title": "Building regulation",
+      "base_path": "/housing-local-and-community/building-regulation"
+    },
+    {
+      "title": "Housing design and sustainability",
+      "base_path": "/housing-local-and-community/housing-design-and-sustainability"
+    }
+  ]
+}

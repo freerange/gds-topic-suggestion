@@ -1,0 +1,11 @@
+{
+  "title": "Buffer stop collision at London Bridge station",
+  "body": "\"At around 15:45 on 13 December 2024, the 14:50 Southern passenger service from London Victoria to London Bridge collided with the buffer stops on platform 12 at London Bridge station.  The train entered the platform at a speed of 13.6 mph (21.9 km/h) and was travelling at a speed of 2.3 mph (3.7 km/h) when it collided with the buffer stops. There were no reported injuries to the train’s driver or the passengers on the train as a result of the collision, although minor damage was sustained by the train and the buffer stops.  Our investigation will seek to identify the sequence of events that led to the accident. It will also consider:   the actions of the train driver involved and anything which may have influenced them the management of the train driver, including their training and competence the arrangements in place to manage and control the risks associated with buffer stop collisions any underlying management factors, including any actions taken in response to previous relevant safety recommendations.   Our investigation is independent of any investigation by the railway industry, the British Transport Police or the industry’s regulator, the Office of Rail and Road.  We will publish our findings, including any recommendations to improve safety, at the conclusion of our investigation. This report will be available on our website.  You can subscribe to automated emails notifying you when we publish our reports. \"",
+  "base_path": "/government/news/buffer-stop-collision-at-london-bridge-station",
+  "taxons": [
+    {
+      "title": "Rail accidents and serious incidents",
+      "base_path": "/transport/rail-accidents-and-serious-incidents"
+    }
+  ]
+}

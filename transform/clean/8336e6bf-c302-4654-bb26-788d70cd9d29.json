@@ -1,0 +1,19 @@
+{
+  "title": "CARIFORUM-UK Economic Partnership Agreement: committee documents",
+  "body": "\"\"",
+  "base_path": "/government/collections/cariforum-uk-economic-partnership-agreement-committee-documents",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

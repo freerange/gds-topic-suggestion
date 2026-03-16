@@ -1,0 +1,15 @@
+{
+  "title": "Pension Credit applications and awards",
+  "body": "\"This collection lists statistical releases on Pension Credit applications and awards.  The releases cover the number of weekly Pension Credit:   claims received claims cleared claims awarded   Pension Credit is extra money for pensioners to bring their weekly income up to a minimum amount. \"",
+  "base_path": "/government/collections/pension-credit-applications-and-awards",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    },
+    {
+      "title": "Pensions and ageing society",
+      "base_path": "/work/pensions-and-ageing-society"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Carrier Bag Levy Statistics 2024/25",
+  "body": "\"This publication reports on the number of carrier bags dispensed in the 2024/25 financial year under the Carrier Bag Levy in Northern Ireland. \"",
+  "base_path": "/government/statistics/northern-ireland-carrier-bag-levy-statistics-202425",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Waste and recycling",
+      "base_path": "/environment/waste-and-recycling"
+    }
+  ]
+}

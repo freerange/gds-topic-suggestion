@@ -1,0 +1,11 @@
+{
+  "title": "AAIB Report: Spitfire Mk 26B, G-ENAA",
+  "body": "\"The aircraft yawed left during the takeoff roll, pitched up rapidly and once airborne rolled rapidly to the left. The left wingtip struck the ground and the aircraft came to rest inverted and caught fire. The pilot was fatally injured. The investigation found that the aircraft most probably stalled during the rapid pitch up and that the ensuing left roll and yaw occurred as a result of a post-stall autorotation.  Examination of the aircraft, while limited to some extent by the disruption caused by the impact and fire, did not reveal any technical defects which may have adversely affected the controllability of the aircraft.  No definitive cause was established for the loss of control.  Read the report \"",
+  "base_path": "/government/news/aaib-report-spitfire-mk-26b-g-enaa",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

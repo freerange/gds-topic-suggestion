@@ -1,0 +1,11 @@
+{
+  "title": "Trade union statistics 2024",
+  "body": "\"The trade union membership statistics 2024 are Official Statistics in Development  that primarily use the Labour Force Survey to provide an estimate of the levels and density of trade union membership for all UK workers. It also covers union presence and collective bargaining.  Estimates are presented by:   gender sector age industry region occupation  \"",
+  "base_path": "/government/statistics/trade-union-statistics-2024",
+  "taxons": [
+    {
+      "title": "Trade unions",
+      "base_path": "/work/trade-unions"
+    }
+  ]
+}

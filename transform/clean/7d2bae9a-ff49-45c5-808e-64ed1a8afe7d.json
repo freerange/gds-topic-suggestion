@@ -1,0 +1,15 @@
+{
+  "title": "Vehicle Market Surveillance Unit emissions testing results, 2024",
+  "body": "\"This report provides results from the 33 vehicles tested in the 2023 vehicle emissions testing programme.  This included:   diesel cars petrol cars light vans plug-in hybrid electric vehicles (PHEV) hybrid cars (also known as self-charging hybrid cars) heavy goods vehicles (HGVs) public service vehicles (PSVs)   They’re carried out by the Vehicle Market Surveillance Unit, part of the Driver and Vehicle Standards Agency.  \"",
+  "base_path": "/government/publications/vehicle-market-surveillance-unit-emissions-testing-results-2024",
+  "taxons": [
+    {
+      "title": "Road transport emissions",
+      "base_path": "/transport/road-transport-emissions"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    }
+  ]
+}

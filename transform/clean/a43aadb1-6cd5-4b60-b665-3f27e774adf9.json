@@ -1,0 +1,11 @@
+{
+  "title": "LEO graduate outcomes provider level data: 2022 to 2023",
+  "body": "\"This release uses longitudinal education outcomes (LEO) data. It can be used to compare earnings and employment outcomes for graduates who studied different subjects at different providers in Great Britain. \"",
+  "base_path": "/government/statistics/leo-graduate-outcomes-provider-level-data-2022-to-2023",
+  "taxons": [
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    }
+  ]
+}

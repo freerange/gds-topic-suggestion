@@ -1,0 +1,19 @@
+{
+  "title": "Slovakia: affirmation of marital status forms",
+  "body": "\"You must fill in one or both of these forms if you are a British national getting married in Slovakia and you do not live in the UK. The forms are the same but one is in English and the other in Slovak.  Present the form/s at a register office in Slovakia but get them signed by a local notary public first.  Ask at the register office whether they need the form in Slovak and English or just one of these. \"",
+  "base_path": "/government/publications/slovakia-affirmation-of-marital-status-forms",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    }
+  ]
+}

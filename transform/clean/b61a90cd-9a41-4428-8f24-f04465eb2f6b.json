@@ -1,0 +1,11 @@
+{
+  "title": "Manage your DVSA vehicle testing pre-funded account",
+  "body": "\"Use this service to:   view and top up the balance of your pre-funded account view past transactions add or remove team members who can manage your ATF   You can make payments into your pre-funded account by:   credit card debit card Direct Debit cheque   You can only use this service if you’ve been invited to by the Driver and Vehicle Standards Agency (DVSA), after you apply for an account.   You will not be able to top up your pre-funded account by BACS or by using the Transport Office Portal once you’ve been invited to use this service.   Start now   Other ways to pay  You can top up your pre-funded account by card over the phone.   DVSA customer service centre Telephone: 0300 123 9000 Monday to Friday, 7:30am to 6pm Find out about call charges   You can send a cheque or postal order to:   Driver and Vehicle Standards Agency (DVSA) FinanceEllipsePadley RoadSwanseaSA1 8AN   Cheques and postal orders must be made payable to ‘Driver and Vehicle Standards Agency (DVSA)’, crossed ‘Account payee only’. You must also include your pre-funded account number.  Help using the service  Contact the Driver and Vehicle Standards Agency (DVSA) to get help with the service, close an account or withdraw money.   DVSA customer service centre Telephone: 0300 123 9000 Monday to Friday, 7:30am to 6pm  Find out about call charges   \"",
+  "base_path": "/guidance/manage-your-dvsa-vehicle-testing-pre-funded-account",
+  "taxons": [
+    {
+      "title": "HGV, bus and trailer MOT tests",
+      "base_path": "/transport/hgv-bus-and-trailer-mot-tests"
+    }
+  ]
+}

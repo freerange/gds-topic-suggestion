@@ -1,0 +1,11 @@
+{
+  "title": "Thames Estuary TE5A Long Sand Head 2024",
+  "body": "\"An assessment of the 2024 hydrographic survey of the area TE5A: to monitor recent seabed movement; to identify any implications for shipping; and to make recommendations for future surveys. \"",
+  "base_path": "/government/publications/thames-estuary-te5a-long-sand-head-2024",
+  "taxons": [
+    {
+      "title": "Hydrography",
+      "base_path": "/environment/hydrography"
+    }
+  ]
+}

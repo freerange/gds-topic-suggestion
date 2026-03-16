@@ -1,0 +1,11 @@
+{
+  "title": "PPN 012: Security Classifications Policy",
+  "body": "\"This PPN has been updated to reflect new terminology introduced by the Procurement Act 2023 and the Procurement Regulations 2024. For procurements commenced and contracts awarded before this date, please refer to PPN 07/23. \"",
+  "base_path": "/government/publications/ppn-012-security-classifications-policy",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

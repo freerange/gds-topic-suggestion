@@ -1,0 +1,15 @@
+{
+  "title": "Government response on cyber governance",
+  "body": "\"Good management of cyber risks is critical to the operation of modern businesses.  Digital technologies are now firmly embedded within the vast majority of businesses and organisations across the UK, regardless of size. For most, critical business operations, such as payroll and invoicing, could not happen without digital technologies. However, directors and boards often have little to no meaningful oversight over how these technologies are used and managed, despite the business critical risks if something happened to them.  Cyber incidents can lead to major impacts on businesses and organisations whether that is direct loss of income due to disruption of services, damage to customer trust following theft of personal data or intellectual property, or costly remedial action following a ransomware attack.  The proposed Cyber Governance Code of Practice sets out how company boards and senior leaders can build resilience to a wide range of cyber risks across their organisation. The code, which has been co-designed with technical experts from the NCSC and a range of governance experts across industry, focuses on the actions leaders should take to govern cyber risks effectively within their organisation.    The draft code of practice was published as part of a call for views between January and March 2024.  This document provides an overview of the responses to the call for views and key themes that emerged, as well as stating the government’s response to the feedback. This document outlines the next steps, including a commitment to publish the full Cyber Governance Code of Practice in early 2025.  This government response was published on 31 January 2025 as part of a wider government announcement on cyber security. Please read the press notice for further information.  \"",
+  "base_path": "/government/publications/government-response-on-cyber-governance",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Running a business",
+      "base_path": "/business-and-industry/running-a-business"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Public Rights of Way & Common Land",
+  "body": "\"A collection of the Public Rights of Way & Common Land areas we deal with and their guidance. \"",
+  "base_path": "/government/collections/access-to-the-countryside",
+  "taxons": [
+    {
+      "title": "Access to the countryside",
+      "base_path": "/environment/access-to-the-countryside"
+    }
+  ]
+}

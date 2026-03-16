@@ -1,0 +1,11 @@
+{
+  "title": "Census 2021 public microdata teaching sample for Northern Ireland",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/census-2021-public-microdata-teaching-sample-for-northern-ireland",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

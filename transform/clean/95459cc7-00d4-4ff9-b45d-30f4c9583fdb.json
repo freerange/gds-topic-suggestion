@@ -1,0 +1,35 @@
+{
+  "title": "Nigeria: information for victims of rape and sexual assault",
+  "body": "\"This information is provided to help British nationals overseas make informed decisions about whether and how to:   seek medical advice and attention report to local police engage with foreign legal authorities following a rape or other form of sexual assault overseas   If you have been sexually assaulted it is important to remember that it was not your fault. Rape and sexual assault is always wrong – no matter who commits it or where it happens. It is traumatic and it can affect you both physically and emotionally. Do not be afraid to get help.  For information on support available in the UK, see Rape and Sexual Assault: Returning to the UK. \"",
+  "base_path": "/government/publications/nigeria-information-for-victims-of-rape-and-sexual-assault",
+  "taxons": [
+    {
+      "title": "Emergency help for British nationals in Nigeria",
+      "base_path": "/world/emergency-help-for-british-nationals-nigeria"
+    },
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Legal aid",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers"
+    },
+    {
+      "title": "Victims of crime",
+      "base_path": "/crime-justice-and-law/victims-of-crime"
+    },
+    {
+      "title": "Violence against women and girls",
+      "base_path": "/crime-justice-and-law/violence-against-women-and-girls"
+    }
+  ]
+}

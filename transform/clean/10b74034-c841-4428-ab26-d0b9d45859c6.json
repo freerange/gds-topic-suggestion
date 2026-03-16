@@ -1,0 +1,23 @@
+{
+  "title": "Insolvency and Fair Competition",
+  "body": "\"The application sought authorisation for fifteen vehicles to support the company’s tool and plant hire operations. However, investigations revealed significant overlaps between PHS Group SW Ltd and the recently insolvent Purple Hire Solutions Ltd, including shared business addresses, contact details, operating centres, and familial ties among directors.  Notably, Purple Hire Solutions Ltd had substantial unpaid tax liabilities, with a shortfall to HM Revenue and Customs (HMRC) amounting to £818,253. The company had previously prioritised payments to suppliers over settling its obligations to the public purse, a practice that undermines fair competition and places compliant businesses at a disadvantage.  Commissioner Rooney also noted that Purple Hire Solutions Ltd was itself granted at a hearing following the insolvency of YHC Hire Services Ltd with a deficiency of £7.3 Million. Of that, £5.2 Million was expected to be novated to Purple Hire Solutions Ltd leaving £2.1 Million of which £680,000 was owed to the public purse.  The commissioner emphasised that such practices not only violate legal obligations but also erode the integrity of the industry by allowing entities to operate without fulfilling their tax responsibilities. This behaviour distorts the competitive landscape, disadvantaging businesses that adhere to fiscal and regulatory requirements.  Commissioner Rooney said “The Parker family business has gained liquidity to the sum of £1.5 Million at the expense of the UK taxpayer. That is clear unfair competition and makes the applicant unfit to hold a restricted goods vehicle operator’s licence. For the avoidance of doubt, it would also fail to establish good repute.”  In light of these findings, the Traffic Commissioner concluded that PHS Group SW Ltd failed to meet the mandatory requirements of fitness to hold a restricted goods vehicle operator’s licence, leading to the refusal of their application.  This decision underscores the commitment of regulatory authorities to uphold fair competition, maintaining a level playing field within the industry. Further information can be found here. \"",
+  "base_path": "/government/news/insolvency-and-fair-competition",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

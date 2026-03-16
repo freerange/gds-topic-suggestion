@@ -1,0 +1,19 @@
+{
+  "title": "Dal a thrin dofednod: newidiadau arfaethedig i ddulliau a ganiateir",
+  "body": "\"Rydym eisiau gwybod beth yw eich barn am newidiadau arfaethedig i sut y gallwch drin ieir yn gyfreithlon i’w cludo fel rhan o weithgareddau masnachol.  Rydyn ni’n cynnig gwneud y gyfraith yn gliriach er mwyn i chi allu dal ieir wrth ddwy goes, yn unol â chanllawiau lles sefydledig.  Rydym hefyd eisiau casglu rhagor o wybodaeth am y canlynol:    yr amser a gymerir i ddal ieir gan ddefnyddio gwahanol ddulliau mewn gwahanol systemau cadw dofednod   sut mae tyrcwn yn cael eu dal a’u trin ar hyn o bryd   sut i gasglu data yn y ffordd orau i ddeall y cysylltiadau rhwng dulliau dal, gofynion adnoddau dynol a lles anifeiliaid    Gallwch ddarllen y fersiwn Saesneg o’r wybodaeth hon. \"",
+  "base_path": "/government/consultations/dal-a-thrin-dofednod-newidiadau-arfaethedig-i-ddulliau-a-ganiateir.cy",
+  "taxons": [
+    {
+      "title": "Keeping farmed animals",
+      "base_path": "/environment/keeping-farmed-animals"
+    },
+    {
+      "title": "Producing and distributing food",
+      "base_path": "/environment/producing-distributing-food"
+    },
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    }
+  ]
+}

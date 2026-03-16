@@ -1,0 +1,35 @@
+{
+  "title": "AI Exemplars programme",
+  "body": "\"The Prime Minister’s AI Exemplars Programme is changing how government uses Artificial Intelligence (AI) to improve public services. The programme features a range of exemplary AI projects that will explore new ways to make best use of emerging technology as part of a modern digital government.  The Exemplars were selected as the most promising opportunities for rapidly using AI to make public services more efficient and easier to use. We’re testing multiple AI solutions on different use cases in order to learn quickly from both successes and failures while delivering real improvements.    The programme focuses on practical improvements to public services. For example:   helping doctors discharge patients from hospitals more quickly while maintaining clinical oversight speeding up planning decisions to improve consistency and reduce bureaucracy for homeowners saving teachers time on lesson plans and marking and supporting pupils to achieve and thrive in education     AI Exemplar projects include:  Department for Education    The Education Content Store  aims to provide the enabling infrastructure and underpinning content and data that developers need to create high quality AI tools that are aligned with education standards and evidence-based practice. Tools developed utilising this content can save educators time, enabling them to focus on face-to-face teaching and support pupils and students to achieve and thrive in education.   Department for Health and Social Care    A&E Demand Forecasting aims to reduce patient wait times by using AI for demand forecasting. The tool supports NHS accident and emergency departments to predict when services will be most busy and plan their resources effectively to meet the demand.  AI Diagnostics provides tools to support clinicians to identify conditions such as lung cancer from scans, helping diagnose patients more quickly and reducing the diagnostic backlog.  AI Assisted Discharge summaries aim to speed up the process of discharging patients from hospital by assisting clinicians with an AI tool that can draft discharge summaries. Clinicians retain final control and approval over content.   Department for Science Innovation and Technology    GOV.UK chat is an AI-powered chatbot that provides a new way for the public to interact with government. GOV.UK Chat takes a user’s question and, using relevant GOV.UK pages, generates an instant answer, the way users would write or speak in everyday life.  AI Transcription for Local Government called Minute, will reduce the time public servants spend note taking, transcribing and summarising meetings by producing summaries in the formats that public servants need.  Humphrey Productivity Suite aims to support policy professionals with a range of tasks including minute taking, consultation analysis and parliamentary handling, leading to better policy-making.   Ministry of Housing, Communities and Local Government   Digital Planning Programme - Extract helps councils convert decades-old, handwritten planning documents and maps into data in minutes, speeding up the process of planning applications for home improvements and new homes.   Ministry of Justice   Probation Casework aims to reduce the note taking burden for frontline staff so that they can spend less time on admin and focus more on personal interactions during probation meetings.   HMRC   Tax Compliance - An AI tool to...",
+  "base_path": "/guidance/ai-exemplars-programme",
+  "taxons": [
+    {
+      "title": "Refugees, asylum and human rights",
+      "base_path": "/entering-staying-uk/refugees-asylum-human-rights"
+    },
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    },
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    },
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    },
+    {
+      "title": "NHS efficiency",
+      "base_path": "/health-and-social-care/nhs-efficiency"
+    }
+  ]
+}

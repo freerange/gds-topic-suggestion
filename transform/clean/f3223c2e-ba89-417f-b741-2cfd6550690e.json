@@ -1,0 +1,15 @@
+{
+  "title": "Reporting of deaths by suicide according to registration data and occurrence data",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/reporting-of-deaths-by-suicide-according-to-registration-data-and-occurrence-data",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

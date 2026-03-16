@@ -1,0 +1,11 @@
+{
+  "title": "Temperature and dissolved oxygen trends in English estuaries over the past 30 years",
+  "body": "\"In this project, Environment Agency monitoring data from English estuaries was used to determine trends in temperature and dissolved oxygen since 1990.  This information can be used to infer some of the processes that have affected these parameters in estuaries, improving our awareness of what might be expected in the future. \"",
+  "base_path": "/government/publications/temperature-and-dissolved-oxygen-trends-in-english-estuaries-over-the-past-30-years",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

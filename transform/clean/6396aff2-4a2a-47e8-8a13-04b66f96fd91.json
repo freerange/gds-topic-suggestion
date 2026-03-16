@@ -1,0 +1,15 @@
+{
+  "title": "Assessing the effectiveness of Radio Frequency Electronic Monitoring",
+  "body": "\"In England and Wales, RF EM has been used nationally since 1999 to monitor compliance with curfew orders. This type of EM relies on radio frequency signals to detect whether “tagged” individuals are present or absent within a specific geographic range of a monitoring unit box installed at their residence or other designated location.  A quasi-experimental impact evaluation was undertaken based on historic data to estimate the effect of RF EM across a range of factors among recipients of community orders and suspended sentence orders, including the extent to which this EM type reduced reoffending.  One report compares 12 month proven reoffending among a cohort of community sentence recipients subject to a curfew requirement to a group of offenders whose community sentences did not include RF EM. The findings are based on data extracted from the Police National Computer for disposals that began during 2016/17.  A separate report uses court reconvictions data as a proxy for proven reoffending to estimate whether the use of RF EM within community sentences had any effects during the median EM period, during the disposal period and in the 12 months after the disposal had ended. Wider probationary compliance is also assessed. The findings are based on data held by the MOJ about community sentences that began between 2014 and 2018.  A third report contains detailed technical information about how the impact evaluation was conducted. \"",
+  "base_path": "/government/publications/assessing-the-effectiveness-of-radio-frequency-electronic-monitoring",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    }
+  ]
+}

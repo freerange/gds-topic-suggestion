@@ -1,0 +1,19 @@
+{
+  "title": "Marine Recovery Fund",
+  "body": "\"Offshore wind developers can apply to use the Marine Recovery Fund (MRF) to deliver strategic environmental compensation. This is to compensate for their offshore wind activity’s adverse effects on marine protected areas (MPAs).  \"",
+  "base_path": "/government/collections/marine-recovery-fund",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    }
+  ]
+}

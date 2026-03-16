@@ -1,0 +1,19 @@
+{
+  "title": "Increasing automated detection capabilities at the UK border ",
+  "body": "\"As cross-border traffic continues to grow, Border Force aims to expand its use of artificial intelligence (AI) to enhance the searching and screening of freight at UK seaports. To balance security with the smooth movement of legitimate goods, the agency is seeking to automate the detection of anomalies in x-ray images, as manual analysis is both time-consuming and prone to error.    AI-driven automation will not only speed up screening times but also increase the volume of goods processed. Additionally, it will free up officers to focus on critical tasks, reduce false alarms and minimise unnecessary secondary inspections.   To achieve this, Border Force turned to the Accelerated Capability Environment (ACE) for support in organising and analysing its extensive x-ray image database, which had previously been stored inconsistently across multiple data structures. ACE was initially tasked with creating a fully indexed and standardised repository of x-ray images and associated data — making it easily accessible to analysts and suitable for AI algorithm development.   Six ACE suppliers — Faculty, Leonardo, Polygeist, Roke, Symetrica and Zaizi — collaborated to explore innovative AI and machine-learning methodologies for anomaly detection. Using the newly indexed data, they developed three use cases: vector integrity, pattern recognition and high-density material detection.    The insights gained were presented to Border Force at a demonstration day, where all three approaches showed strong operational potential for further development.    The success of the initiative prompted Border Force UK Deputy Director, Chino Nwachukwu, to share a glowing endorsement on LinkedIn, praising the “quality and professionalism” of the team. Reflecting on the project’s impact, he stated:   “I’m still buzzing from the high on which I ended last week, having spent the last few months working with some of the best brains in Britain to explore the potential of Artificial Intelligence and Machine Learning techniques in Border Security.”   There is now a need to take these solutions forward for trials in a controlled operational environment. In order to plan for this, a recently completed commission assessed the capability requirements and the feasibility of integrating these solutions into Border Force systems. This commission analysed Border Force’s data, systems and applications, consolidating the data into a unified, structured format. Trials were conducted with Border Force staff across multiple ports to evaluate the AI anomaly detection system.    The success of these commissions has led to a request for further development, forming the foundation of a business case for wider AI implementation across Border Force operations.  \"",
+  "base_path": "/government/case-studies/increasing-automated-detection-capabilities-at-the-uk-border",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

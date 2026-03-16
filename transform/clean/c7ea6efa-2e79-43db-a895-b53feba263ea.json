@@ -1,0 +1,15 @@
+{
+  "title": "Report Climate Change Levy subsidies to HMRC",
+  "body": "\" Before you report, read ‘Check when to report Climate Change Levy subsidies’ to:   work out your subsidy awards for Climate Change Levy check when you need to report them to HMRC    What you’ll need  You’ll need to confirm whether you’re reporting as:   a participant in a Climate Change Agreement an operator under the open access rail service   You’ll need to tell us:   your company name and address your company VAT number the number of employees in your business if your business is incorporated and registered in Northern Ireland the type of business activity (such as goods or services) where the subsidy is mainly used and information about the sector the region which has benefitted the most from the subsidy the amount of subsidy your business has received for the required reporting period, rounded down to the nearest pound   Completing the online form for VAT registered businesses  If you’re a single entity business, you’ll need to report your subsidy award through your VAT registration.  If you’re reporting subsidy award details for a business in a VAT group:   you must add up the total, relevant subsidies received by all the businesses in the VAT group and report that figure if you’re above threshold levels enter only the name of the representative member when you report   If you’re a single entity business holding a divisional registration, enter the name of the single legal entity, rather than the divisional members.  Report subsidies  If you’re a representative of the company  You’ll need a Government Gateway user ID and password. If you do not have a user ID, you can create one the first time you sign in.  If you’re an agent  You’ll need the Government Gateway user ID and password you used when you registered for the agent services account. You can create an agent services account if you do not have one. We may also ask you to enter your agent details manually.  Report now    If you submit the online form and then realise you’ve made a mistake, complete it again. We’ll only process the most recent form you complete.   Contact HMRC for more help  Contact us by email at: energy.taxes@hmrc.gov.uk if you:   have missed the reporting deadline for a calendar year, or think you might miss it have any more questions about reporting Climate Change Levy subsidies  \"",
+  "base_path": "/guidance/report-climate-change-levy-subsidies-to-hmrc",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Climate Change Levy",
+      "base_path": "/money/climate-change-levy"
+    }
+  ]
+}

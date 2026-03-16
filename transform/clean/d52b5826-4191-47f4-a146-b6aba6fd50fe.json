@@ -1,0 +1,15 @@
+{
+  "title": "NI Policing Plan Survey 2025",
+  "body": "\"Findings of a telephone survey with views from 2,500 adults in Northern Ireland. It provides statistical data on perceptions of the Police Service of Northern Ireland (PSNI), Policing and Community Safety Partnerships, the Northern Ireland Policing Board and the National Crime Agency.  This is the third survey commissioned by the Northern Ireland Policing Board and is designated as experimental statistics, within the classification of official statistics. The first Northern Ireland Policing Plan Survey was published in May 2022. \"",
+  "base_path": "/government/statistics/ni-policing-plan-survey-2025",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

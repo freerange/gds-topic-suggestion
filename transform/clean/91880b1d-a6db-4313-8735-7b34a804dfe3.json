@@ -1,0 +1,15 @@
+{
+  "title": "Foreign direct investment involving UK companies (directional)",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/foreign-direct-investment-involving-uk-companies-directional",
+  "taxons": [
+    {
+      "title": "Inward investment",
+      "base_path": "/business-and-industry/inward-investment"
+    },
+    {
+      "title": "Outward investment",
+      "base_path": "/business-and-industry/outward-investment"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Third party bulk personal datasets: code of practice",
+  "body": "\"This code provides guidance on the procedures that must be followed before third party bulk personal datasets can be accessed and examined by:   the Security Service the Secret Intelligence Service the Government Communications Headquarters   It should be read alongside part 7B of the Investigatory Powers Act and the explanatory notes. \"",
+  "base_path": "/government/publications/third-party-bulk-personal-datasets-code-of-practice",
+  "taxons": [
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

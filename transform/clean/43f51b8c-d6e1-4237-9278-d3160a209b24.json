@@ -1,0 +1,11 @@
+{
+  "title": "Waiting times for suspected and diagnosed cancer patients for July 2025",
+  "body": "\"These reports present the validated results of the monitoring of waiting times for cancer services in England and the information for each organisation on the numbers of patients who are told they have cancer, or cancer is definitively excluded within 28 days from an urgent referral are included, broken down by route & by suspected cancer or breast symptomatic; on the numbers of patients with cancer who started first or subsequent treatment of cancer within and above 31 days from a decision to treat/earliest clinically appropriate date are included, broken down by treatment stage and modality; on the numbers of patients with cancer who started first definitive treatment for cancer within and above 62 days from an Urgent Suspected Cancer or Breast Symptomatic Referral, or Urgent Screening Referral, or Consultant Upgrade are included for each organisation, broken down by source of referral; on the numbers of patients with cancer who seen at a first outpatient attendance from an Urgent Suspected Cancer Referrals are included on the numbers of patients with cancer who seen at a first outpatient attendance from an Urgent Breast Symptomatic Referrals.  Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/waiting-times-for-suspected-and-diagnosed-cancer-patients-for-july-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

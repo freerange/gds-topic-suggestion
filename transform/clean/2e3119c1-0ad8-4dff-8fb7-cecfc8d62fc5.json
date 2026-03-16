@@ -1,0 +1,19 @@
+{
+  "title": "British Ambassador Presents Credentials to President Castro",
+  "body": "\"Ambassador Correa was received by President Castro and the Secretary of Foreign Affairs, Javier Bu Soto. During the meeting, the Ambassador reaffirmed the UK’s commitment to strengthening the longstanding political and economic partnership between the UK and Honduras.   In her remarks, Ambassador Correa welcomed the deepening of bilateral trade through the UK-Central America Association Agreement and highlighted the UK’s ongoing support for biodiversity conservation and sustainable community development in ecologically rich regions such as La Moskitia.   She also underscored the shared values that underpin the UK-Honduras relationship, including the promotion of democratic governance, the protection of human rights, media freedom, and inclusive development. Ambassador Correa expressed her enthusiasm for further enhancing cooperation in these areas.   Ambassador Juliana Correa was appointed His Majesty’s Ambassador to the Republic of Guatemala and non-resident Ambassador to the Republic of Honduras in April 2024. She took up her post in the region in October 2024. \"",
+  "base_path": "/government/news/british-ambassador-presents-credentials-to-president-castro",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "International aid and development",
+      "base_path": "/international/international-aid-and-development"
+    },
+    {
+      "title": "UK prosperity and security: Asia, Latin America and Africa",
+      "base_path": "/international/uk-prosperity-and-security-asia-latin-america-and-africa"
+    }
+  ]
+}

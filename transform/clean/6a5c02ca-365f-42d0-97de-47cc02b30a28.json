@@ -1,0 +1,15 @@
+{
+  "title": "The Pensions Commission",
+  "body": "\"The Pensions Investment Review published its final report on 29 May 2025. Following this, the government has announced the launch of the Pensions Commission, which will be undertaken by Baroness Jeannie Drake, Sir Ian Cheshire and Professor Nick Pearce. This Commission will explore the long-term questions of adequacy and retirement outcomes and will build on the findings of the Pensions Investment Review and the measures in the Pension Schemes Bill, which focused on boosting investment and economic growth.  Alongside the terms of reference for the Pensions Commission, the Government is also publishing Finishing the job: Launching the Pensions Commission, which is an assessment of the state of Britain’s pensions landscape, including the progress made in the two decades since the first Pensions Commission (2002 to 2006). It draws together evidence of the challenges facing current and future pensioners which this new Pensions Commission will consider and make recommendations to address. \"",
+  "base_path": "/government/collections/the-pensions-commission",
+  "taxons": [
+    {
+      "title": "Pensions and ageing society",
+      "base_path": "/work/pensions-and-ageing-society"
+    },
+    {
+      "title": "Workplace and personal pensions",
+      "base_path": "/employment/workplace-personal-pensions"
+    }
+  ]
+}

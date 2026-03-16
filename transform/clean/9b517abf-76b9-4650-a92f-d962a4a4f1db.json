@@ -1,0 +1,19 @@
+{
+  "title": "Map of Firth of Forth Green Freeport customs site",
+  "body": "\"This map shows the Freeport customs site within Firth of Forth Green Freeport. This site is recognised in law as a geographical area where businesses can benefit from simplified customs and VAT arrangements.  Check the full list of Freeport maps and the Freeport customs site locations within them. \"",
+  "base_path": "/government/publications/map-of-firth-of-forth-green-freeport-customs-site",
+  "taxons": [
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

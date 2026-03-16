@@ -1,0 +1,11 @@
+{
+  "title": "Environmental impacts of emerging carbon capture technologies for industrial decarbonisation",
+  "body": "\"This project reviewed evidence on the potential environmental impacts of emerging and novel applications of carbon capture technologies (CCT) used in industrial decarbonisation.  CCT remove carbon dioxide (CO2) from industrial flue gases to prevent its release into the atmosphere.  The captured CO2 can be used or stored underground, helping reduce emissions from fossil fuel use when alternative options are limited. \"",
+  "base_path": "/government/publications/environmental-impacts-of-emerging-carbon-capture-technologies-for-industrial-decarbonisation",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

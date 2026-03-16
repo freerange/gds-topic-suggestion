@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Independent Custody Visiting Report 2024-2025",
+  "body": "\"Covering 12 months to 31 March 2025, this statistical report details the number of visits made to custody suites in Northern Ireland by independent Custody Visitors (ICVs). ICVs are volunteers from across the community and are independent of the police and criminal justice system. The report includes matters raised by detainees or custody visitors regarding facilities, conditions of detention, treatment and welfare of detainees in both custody suites and serious crime suites. \"",
+  "base_path": "/government/statistics/northern-ireland-independent-custody-visiting-report-2024-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

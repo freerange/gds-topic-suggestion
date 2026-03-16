@@ -1,0 +1,15 @@
+{
+  "title": "Non-domestic National Energy Efficiency Data Framework (ND-NEED), 2025",
+  "body": "\"This report presents statistics on the metered electricity and gas consumption of non-domestic buildings in England and Wales for 2012 to 2023, with analysis by:   building use building size occupying business size   It also presents statistics about the ND-NEED non-domestic building stock in England and Wales, by year of construction and business size.  \"",
+  "base_path": "/government/statistics/non-domestic-national-energy-efficiency-data-framework-nd-need-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    },
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

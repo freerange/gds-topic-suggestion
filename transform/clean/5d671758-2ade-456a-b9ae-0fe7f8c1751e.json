@@ -1,0 +1,15 @@
+{
+  "title": "Probation Board NI quarterly caseload, quarter 3, 2024/25",
+  "body": "\"This report presents data on the caseload i.e. the number of individual Orders and Licences being supervised by the Probation Board for Northern Ireland (PBNI) as of 31st December 2024 by type of Order/Licence along with comparisons with previous quarters.  Data are also presented at service user level as individual service users can be under supervision with PBNI for multiple Orders/Licences at any given time.  The report also presents data on the number of reports completed by PBNI and the number of victims registered with PBNI between 1st April 2024 and 31st December 2024. This data is considered provisional until the publication of the PBNI Annual Caseload report 2024/25. \"",
+  "base_path": "/government/statistics/probation-board-ni-quarterly-caseload-quarter-3-202425",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Report COVID-19 fraud",
+  "body": "\"  Use this service to tell us if you suspect an individual or organisation may have committed fraud related to COVID-19 funds. You can choose to submit your report anonymously. There are no personal or legal repercussions if we find that no fraud was committed. Please answer the questions to the best of your knowledge, but do not put yourself at risk by attempting to gather further information. For your own safety and protection, only provide details you already know and avoid engaging with the individuals or organisations you are reporting.  Before you start  To use this service you need to know:   the full name of the person who committed the fraud what type of COVID-19 spending the fraud was on (e.g. Bounce Back Loans) the estimated value of the fraud the date (or dates) it took place   Report COVID-19 fraud   Reporting other types of fraud or crime  There are different ways to report other kinds of fraud (not related to COVID-19) or report a crime. You can:   report benefit fraud  report tax fraud  report NHS fraud report a general crime  report an immigration or border crime   report other types of fraud to Action Fraud  (for example, cyber fraud)   If you’re in danger or it’s an emergency, dial 999 and ask for the police. \"",
+  "base_path": "/guidance/report-covid-19-fraud",
+  "taxons": [
+    {
+      "title": "COVID-19",
+      "base_path": "/health-and-social-care/covid-19"
+    }
+  ]
+}

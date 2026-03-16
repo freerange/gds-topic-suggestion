@@ -1,0 +1,11 @@
+{
+  "title": "Local authority capital expenditure and receipts in England: 2024 to 2025 individual local authority data",
+  "body": "\"The data in these spreadsheets have been used to compile the final outturn figures of local authority capital expenditure and financing for the financial year April 2024 to March 2025. \"",
+  "base_path": "/government/statistics/local-authority-capital-expenditure-and-receipts-in-england-2024-to-2025-individual-local-authority-data",
+  "taxons": [
+    {
+      "title": "Local government finance and capital assets",
+      "base_path": "/regional-and-local-government/finance-capital-assets"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Early-in-year student withdrawal notifications: academic year 2018/19 to 2025/26 up to 29/11/2025",
+  "body": "\"The statistics include students ordinarily domiciled in England, Wales, Northern Ireland and the EU who receive student finance from Student Finance England (SFE), Student Finance Wales (SFW) and Student Finance Northern Ireland (SFNI). \"",
+  "base_path": "/government/statistics/early-in-year-student-withdrawal-notifications-academic-year-201819-to-202526-up-to-29112025",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

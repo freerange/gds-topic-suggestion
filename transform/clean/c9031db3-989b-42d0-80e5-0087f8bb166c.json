@@ -1,0 +1,15 @@
+{
+  "title": "Employment Data Lab Analysis: Social Mobility Foundation Aspiring Professionals Programme",
+  "body": "\"This Employment Data Lab report presents estimates of the impact of the Social Mobility Foundation’s Aspiring Professionals Programme (APP), on the education and employment outcomes of the programme participants. The APP is aimed at supporting students in Year 12, lower sixth or S5 in Scotland from low socio-economic backgrounds across the UK. Participants have access to the programme from sixth form, through undergraduate study and on to graduation (typically five years).   The results in this report have been generated using quasi-experimental techniques which introduce some uncertainty. The results should be used with a degree of caution. Further information can be found in section 7 of this report, and in an associated methodology report.  \"",
+  "base_path": "/government/statistics/employment-data-lab-analysis-social-mobility-foundation-aspiring-professionals-programme",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "Young people",
+      "base_path": "/society-and-culture/young-people"
+    }
+  ]
+}

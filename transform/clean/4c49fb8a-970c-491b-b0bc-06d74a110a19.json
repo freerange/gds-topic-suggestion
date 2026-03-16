@@ -1,0 +1,23 @@
+{
+  "title": "How RSH works",
+  "body": "\"Each month new videos will be added exploring different aspects of our work and what we do.  How we regulate  How we regulate  We regulate social landlords to drive improvement in how they operate, so we get more and better social homes.      Find out more about how we regulate      How we inspect landlords  How we inspect landlords  We use inspections of landlords to help us form our view about how well a landlord is delivering the outcomes of some or all of our standards.      Find out more about how our inspections work      Making a referral  Making a referral  Whether you have a problem with your home or landlord or are a third party looking to make a complaint, this is what you need to know about making a referral.     Find out more about how to make a referral or complaint     How we assess governance  How we assess governance  When we assess governance in a social landlord, we are checking that their governance arrangements are working effectively to manage risks so that they can invest in new and existing homes.     Find out more about how we assess governance     How we assess viability  How we assess viability  When we assess viability in landlords we are looking for assurance that they have the financial capacity to deal with a wide range of scenarios and can manage financial risks effectively.     Find out more about how we assess viability     Regulation: one year on  Regulation: one year on  We take a look at what has been learned in the year since the landmark Social Housing Regulation Act came into force.     Find out more about how we regulate    \"",
+  "base_path": "/guidance/how-rsh-works",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

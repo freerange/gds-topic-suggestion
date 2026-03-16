@@ -1,0 +1,15 @@
+{
+  "title": "UK State Safety Programme for aviation",
+  "body": "\"This guidance outlines the UK’s State Safety Programme (SSP) for aviation.  It provides an overview of our oversight of the aviation system and defines clear roles and responsibilities across the UK, its Overseas Territories and Crown Dependencies.  It establishes a structured approach for continuous safety improvements, reinforcing our commitment to safeguarding the future of aviation safety, and preventing complacency.  The SSP is mandated by the International Civil Aviation Organization.  \"",
+  "base_path": "/government/publications/uk-state-safety-programme-for-aviation",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    },
+    {
+      "title": "Aviation safety and security",
+      "base_path": "/transport/aviation-safety-and-security"
+    }
+  ]
+}

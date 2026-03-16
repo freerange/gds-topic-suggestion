@@ -1,0 +1,15 @@
+{
+  "title": "Schmallenberg virus",
+  "body": "\"Information notes provide vets with further guidance for circumstances such as:   unusual seasonal events emerging diseases outbreaks of non-statutory disease   Guidance from APHA’s Surveillance Intelligence Unit (SIU).  \"",
+  "base_path": "/government/publications/schmallenberg-virus",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

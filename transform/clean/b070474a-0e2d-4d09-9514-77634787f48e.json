@@ -1,0 +1,11 @@
+{
+  "title": "Quarterly bus fares statistics: April to June 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/quarterly-bus-fares-statistics-april-to-june-2026",
+  "taxons": [
+    {
+      "title": "Buses",
+      "base_path": "/transport/buses"
+    }
+  ]
+}

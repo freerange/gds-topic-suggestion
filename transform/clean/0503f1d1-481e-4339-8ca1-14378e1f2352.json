@@ -1,0 +1,23 @@
+{
+  "title": "HMRC insolvency practitioner bulletins",
+  "body": "\"Some of these bulletins give you the latest information on topics and issues that may affect you if you’re acting on behalf of a business or individual.  HMRC has published older issues of out-of-date bulletins previously sent by email for information purposes only. We cannot guarantee the accuracy of the content.  All the latest bulletins will be published online.  You can find HMRC insolvency practitioner bulletins published in 2023 and earlier years on the National Archive website. \"",
+  "base_path": "/government/collections/hmrc-insolvency-practitioner-bulletins",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Paying HMRC",
+      "base_path": "/money/paying-hmrc"
+    },
+    {
+      "title": "Disguised remuneration schemes",
+      "base_path": "/money/dealing-with-hmrc-tax-avoidance-disguised-remuneration-schemes"
+    },
+    {
+      "title": "Self Assessment",
+      "base_path": "/money/self-assessment"
+    }
+  ]
+}

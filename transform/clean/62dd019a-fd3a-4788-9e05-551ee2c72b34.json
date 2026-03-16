@@ -1,0 +1,27 @@
+{
+  "title": "Project SIREN: advancing networked sensing through collaboration",
+  "body": "\"For the first time in the UK, the Defence Science and Technology Laboratory (Dstl) has successfully demonstrated advanced radar signal processing and sensor fusion across multiple air platforms as an enabler for faster and more accurate detection.  Collaborating with industry and academia The demonstration is an important achievement of Project SIREN (System for Integrated Radar Early-response Networking) which directly supports the UK’s future integrated air domain sensing capability. The outcome demonstrated the power of collaboration with industry and academia, marking a major step toward future integrated sensing capabilities.  Funded by the Chief Scientific Advisor’s research programme, this science-led initiative shows the ‘One Defence’ mindset which is central to the Strategic Defence Review 2025. By uniting government scientists, industry partners, and academic researchers, the SIREN consortium moved from concept to demonstration in just 15 months, finishing in a series of airborne experiments off Scotland’s east coast in May 2025.  The joint academic and industry team successfully integrated multiple radars to produce a near real-time picture of the air and maritime environment. These technologies promise to significantly improve situational awareness and tracking - something which is vital for modern defence operations.   An important step was the fusion of data from distributed sensors using cloud-based integration, linking airborne systems with ground stations. This lays the foundation for future multi-platform sensing across defence, and supports the UK’s emerging Digital Targeting Web, which enables rapid coordination from sensor to decision-maker.   Who the project brought together  The project brought together expertise from Leonardo, Igence Radar, Voyant and academic partners from the University of Edinburgh and University of Liverpool. Dstl provided leadership and technical guidance, helping to align commercial and academic innovation.  This model clearly shows how collaboration between government, primes, SMEs and academia can harness best-of-breed capability, accelerating development through to exploitation and strengthening the UK defence enterprise.  Benefits of SIREN  SIREN offers cutting-edge technology into the hands of our armed forces faster. It has generated valuable intellectual property and technical capability that will inform future defence programmes. The consortium’s knowledge, tools and expertise are now being applied to better understand the value and advantages of networked systems as part of the future force mix.  Building on the progress made by SIREN, work is now focused on transitioning to an exploitation footing, targeting both spiral development options for existing platforms as well as new and novel implementations.   Find out more about Dstl and how to work with us.   \"",
+  "base_path": "/government/case-studies/project-siren-advancing-networked-sensing-through-collaboration",
+  "taxons": [
+    {
+      "title": "Armed forces",
+      "base_path": "/defence/working-armed-forces"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

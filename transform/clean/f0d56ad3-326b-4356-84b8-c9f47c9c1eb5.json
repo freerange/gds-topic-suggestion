@@ -1,0 +1,15 @@
+{
+  "title": "Register to export captive birds to the EU or Northern Ireland",
+  "body": "\"Captive birds intended for export to the EU must be fitted with either:   a marked closed-ring an injectable transponder (known as ‘microchips’) from an approved manufacturer or supplier    These must have a unique 15-digit identification number that starts with a country code prefix that meets ISO 3166 standard.  Marked closed-rings usually have the prefix  ‘GB’.  Microchips must use the prefix ‘826’ for birds coming from the UK.  Register your birds  If you own and intend to export a captive bird that has been injected with an ‘826’ transponder, you must register your bird with Defra:   before the export takes place after a change in ownership (but not movement between sites of the same owner)    To register a bird with Defra or get more information, email:  GBEUCaptiveBirds@defra.gov.uk   Exporting captive birds  You must also follow the rules for exporting and moving:   live animals ungulates (hooved animals) and captive-bred birds for conservation, display, education or research  \"",
+  "base_path": "/guidance/register-to-export-captive-birds-to-the-eu-or-northern-ireland",
+  "taxons": [
+    {
+      "title": "Export controls and licensing",
+      "base_path": "/business-and-industry/export-controls"
+    },
+    {
+      "title": "Licences and special rules",
+      "base_path": "/business-and-industry/business-exports-licences-and-special-rules"
+    }
+  ]
+}

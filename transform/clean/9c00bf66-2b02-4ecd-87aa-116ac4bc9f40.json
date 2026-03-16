@@ -1,0 +1,31 @@
+{
+  "title": "Wealthy individuals and mid-sized business tax compliance links",
+  "body": "\"HM Revenue & Customs (HMRC) commissioned the National Centre for Social Research (NatCen) and Walnut Unlimited (Walnut) to carry out qualitative research with wealthy UK individuals who own or operate mid-sized businesses, as sole owners, shareholders, or salaried directors. The research aimed to gain further evidence and to deepen understanding of the possible links between attitudes and behaviours around business and personal taxes. \"",
+  "base_path": "/government/publications/wealthy-individuals-and-mid-sized-business-tax-compliance-links",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    },
+    {
+      "title": "Tax evasion and avoidance",
+      "base_path": "/money/tax-evasion-and-avoidance"
+    },
+    {
+      "title": "Business auditing, accounting and reporting",
+      "base_path": "/business-and-industry/business-auditing-accounting-reporting"
+    },
+    {
+      "title": "Business finance and support",
+      "base_path": "/business/finance-support"
+    }
+  ]
+}

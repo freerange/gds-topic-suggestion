@@ -1,0 +1,11 @@
+{
+  "title": "Microsoft 365 Copilot Experiment: Cross-Government Findings Report",
+  "body": "\"The Government Digital Service (GDS) conducted a large-scale experiment with Microsoft 365 Copilot from 30 September to 31 December 2024.   M365 Copilot is an AI-powered assistant integrated into Microsoft’s productivity tools, including Word, Excel, PowerPoint, Outlook, and Teams. The experiment evaluated whether AI tools could:   improve user satisfaction at work- reduce effort required to complete tasks improve task quality reduce time spent on routine activities   This report presents the findings and examines the impact on productivity, efficiency and user satisfaction during a three-month experiment.  The experiment involved 20,000 government employees across 12 different organisations, making it the largest deployment of M365 Copilot in UK government to date. \"",
+  "base_path": "/government/publications/microsoft-365-copilot-experiment-cross-government-findings-report",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

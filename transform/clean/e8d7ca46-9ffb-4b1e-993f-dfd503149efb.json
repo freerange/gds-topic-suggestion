@@ -1,0 +1,15 @@
+{
+  "title": "Public opinion of forestry 2025: Scotland",
+  "body": "\"This release presents results from the latest survey of public attitudes to forestry and forestry-related issues in Scotland. Topics covered include:   forestry in the media benefits of forestry climate change wood as a fuel visits to woodland health and wellbeing changes to woodland woodland learning activities tree health urban woodlands  \"",
+  "base_path": "/government/statistics/public-opinion-of-forestry-2025-scotland",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

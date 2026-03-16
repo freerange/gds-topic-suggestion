@@ -1,0 +1,11 @@
+{
+  "title": "HMRC: prompt payment data April 2025 to March 2026",
+  "body": "\"HMRC’s percentage of invoices paid within 5 days and within 30 days of receipt. The data is in yearly quarters.  \"",
+  "base_path": "/government/publications/hmrc-prompt-payment-data-april-2025-to-march-2026",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

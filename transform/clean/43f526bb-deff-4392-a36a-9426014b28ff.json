@@ -1,0 +1,23 @@
+{
+  "title": "UK clamps down on China-based companies for reckless and irresponsible activity in cyberspace",
+  "body": "\" UK exposes two China-based companies that have carried out cyberattacks against the UK and its allies New sanctions clamp down on attempts to undermine UK security and prosperity Sanctioned businesses had launched global cyberattacks against over 80 government and private industry IT systems   Two tech companies based in China have been sanctioned today [Tuesday 9 December] for reckless and indiscriminate cyberattacks:    Sichuan Anxun Information Technology Co. Ltd (known as i-Soon) for targeting over 80 government and private industry IT systems across the world, and for supporting others planning to carry out malicious cyber activity.   Integrity Technology Group Incorporated (known as Integrity Tech) for controlling and managing a covert cyber network and providing technical assistance for others to carry out cyberattacks. Targets have included UK public sector IT systems.    I-Soon and Integrity Tech are examples of the threat posed by the cyber industry in China, which includes information security companies, data brokers (that collect and sell personal data), and ‘hackers for hire’. Some of these companies provide cyber services to the Chinese intelligence services.  The UK’s National Cyber Security Centre (NCSC) assesses that it is almost certain that this ‘ecosystem’ or complex network of private sector actors, supports Chinese state-linked cyber operations.   The announcement follows the August 2025 exposure by the UK and international partners of three China-based companies linked to the cyber-espionage campaign known as SALT TYPHOON. Combined, they highlight the vast scale of cyberattacks by China-based companies targeting governments, telecommunications, military institutions, and public services worldwide.  These cyberattacks from unrestrained actors in China go against agreed UN cyber principles. The measures announced today are designed to reduce the risk of such threats to the UK’s security and broader international stability.  As the Prime Minister set out recently in a speech at the Guildhall, protecting our security is non-negotiable and the first duty of the government. The UK recognises that China poses a series of threats to UK national security. China is also a fellow permanent member of the UN Security Council, the world’s second largest economy and a nuclear power which has delivered almost a third of global economic growth over the past decade. We challenge threats robustly, enabling us to pursue cooperation where it is in our interest.  Notes to Editors   In August 2025, the UK alongside 12 other countries co-sealed a cyber security advisory linking China-based technology companies to some of the activities associated with a China state-affiliated APT group (commonly known as SALT TYPHOON). These companies are: Sichuan Juxinhe Network Technology Co. Ltd, Beijing Huanyu Tianqiong Information Technology Co., and Sichuan Zhixin Ruije Network Technology Co. Ltd. This activity targeted governments, telecommunications, transportation, and military infrastructure globally, and sought to provide Chinese intelligence services with the capability to identify and track targets’ communications and movements worldwide. Together with France, the UK continues to lead the Pall Mall Process, an international initiative which seeks to establish a framework for responsible behaviour for those involved in the rapidly growing market in commercial cyber intrusion capabilities. The UK has...",
+  "base_path": "/government/news/uk-clamps-down-on-china-based-companies-for-reckless-and-irresponsible-activity-in-cyberspace",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "UK prosperity and security: Asia, Latin America and Africa",
+      "base_path": "/international/uk-prosperity-and-security-asia-latin-america-and-africa"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

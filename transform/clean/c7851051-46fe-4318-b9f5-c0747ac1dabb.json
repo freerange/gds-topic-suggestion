@@ -1,0 +1,11 @@
+{
+  "title": "UK armed forces biannual diversity statistics: April 2025",
+  "body": "\"This is a biannual publication containing statistics on diversity declaration and representation of protected characteristics for military personnel employed by the Ministry of Defence.  Diversity statistics replaces a number of previous MOD tri-service publications including the Diversity Dashboard (Military), Annual and Quarterly Personnel Reports, Service Personnel Bulletin 2.01, Annual maternity report and the UK Reserve Forces and Cadets report, which can now be found in this publication. \"",
+  "base_path": "/government/statistics/uk-armed-forces-biannual-diversity-statistics-april-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

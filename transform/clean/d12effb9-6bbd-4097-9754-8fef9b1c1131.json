@@ -1,0 +1,11 @@
+{
+  "title": "Vote for your most iconic UK trade mark",
+  "body": "\"To celebrate this landmark anniversary, we want to know which UK trade mark from the past or present is the most iconic. What is special about that trade mark, and what is it that makes an iconic trade mark stand out from the rest?    There are currently more than 2.5 million trade marks protected in the UK, although the very first UK trade mark was registered on New Years Day in 1876 by brewers Bass & Co.    Vote for your most iconic trade mark. \"",
+  "base_path": "/government/news/vote-for-your-most-iconic-uk-trade-mark",
+  "taxons": [
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

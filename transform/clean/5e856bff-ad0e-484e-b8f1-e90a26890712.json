@@ -1,0 +1,11 @@
+{
+  "title": "OSCAR guidance for Budgeting (Plans and Outturn)",
+  "body": "\"The Online System for Central Accounting and Reporting (OSCAR) is critical in supporting government to manage spending allowable by government departments, devolved administrations and other government financed public bodies.  HMT use OSCAR to:   collect multiple cross government datasets; consolidate these datasets; and report (and publish) data for Parliament and other stakeholders to support them to make informed decisions.   This page covers guidance for the budgeting system on OSCAR, where departments will load any changes to Plans (e.g. AME or disaggregating centrally allocated control totals), and Final Outturn (to align to departments Annual Reports and Accounts).  More information and additional guidance on how to use the budgeting system is available on OneFinance. \"",
+  "base_path": "/government/publications/oscar-guidance-for-budgeting-plans-and-outturn",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "About us",
+  "body": "\"We are a joint unit at the heart of government, reporting to both HM Treasury and Cabinet Office.  Our role  NISTA will ensure the government’s strategies for infrastructure and service transformation deliver the growth and opportunity the country needs, bringing key decision making closer to spending decisions in HM Treasury (HMT) and giving Ministers the levers they need to push improvements in infrastructure and service transformation to drive growth.  NISTA assists departments in overcoming challenges and obstacles to achieve their delivery objectives by advising on top-priority projects, financing options, and maintaining a strategic focus.  Our evidence-led approach will also ensure rigour in government’s infrastructure strategy and policy making and help ensure HM Treasury’s investment decisions are well targeted. Its support and challenge to infrastructure delivery bodies will improve delivery across government and address long-standing challenges to ensure the strategy is implemented effectively right across the country.  We also spearhead central government’s engagement with key industry sectors and play a crucial role in facilitating infrastructure and major capital investments.  NISTA’s creation is part of a three-pronged strategy to tackle underinvestment and instability in the UK’s infrastructure systems. It will strengthen the institutional framework for infrastructure strategy and delivery and sits alongside the development of a 10-year infrastructure strategy to set a long-term vision, and the introduction of the Planning and Infrastructure Bill to overcome planning obstacles.  NISTA’s work is supported by a Council of Expert Advisers, which brings the impartial and expert advice of experienced practitioners into the infrastructure and policy delivery framework. The Council members also provide the Chief Secretary to the Treasury and relevant ministers with advice and assurance on individual major projects.  NISTA’s functions, operations and governance are managed through a Memorandum of Understanding between HM Treasury and the Cabinet Office.  Who we are  Our core teams include experts in all elements of strategic infrastructure planning and project delivery, including long-term policy development, investment, economic analysis. NISTA’s project finance and project management profession capability works with government departments and industry on major projects across areas like defence, IT, transport and social infrastructure.  NISTA was formed on 1 April 2025 when it brought together the functions of the National Infrastructure Commission and the Infrastructure and the Infrastructure and Projects Authority.  Accessing legacy information The National Infrastructure Commission’s website, containing all of its reports since 2016, is now archived on the National Archives. You can also access the Infrastructure and Projects Authority’s page on gov.uk. \"",
+  "base_path": "/government/organisations/national-infrastructure-and-service-transformation-authority/about",
+  "taxons": [
+    {
+      "title": "Rail infrastructure",
+      "base_path": "/transport/rail-infrastructure"
+    },
+    {
+      "title": "Road infrastructure",
+      "base_path": "/transport/road-infrastructure"
+    },
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    },
+    {
+      "title": "Waste and recycling",
+      "base_path": "/environment/waste-and-recycling"
+    },
+    {
+      "title": "Major project management",
+      "base_path": "/government/major-project-management"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

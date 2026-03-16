@@ -1,0 +1,23 @@
+{
+  "title": "When someone dies in Central African Republic",
+  "body": "\"The bereavement pack includes information about:   what to do when someone dies in the CAR burial and cremation returning a body to the UK (repatriation)   Read the Foreign, Commonwealth and Development Office’s general guide for bereaved families. \"",
+  "base_path": "/government/publications/car-bereavement-information-pack",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Birth, death and marriage abroad in Central African Republic",
+      "base_path": "/world/birth-death-and-marriage-abroad-central-african-republic"
+    }
+  ]
+}

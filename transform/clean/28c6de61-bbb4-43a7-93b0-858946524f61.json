@@ -1,0 +1,19 @@
+{
+  "title": "Northern Ireland Good Relations Indicators 2024 Report",
+  "body": "\"The Good Relations Indicators report is an annual publication monitoring progress against the four key priorities of the Together: Building a United Community Strategy. Using a number of data sources, this official statistic provides an overview of relations between communities in Northern Ireland. \"",
+  "base_path": "/government/statistics/northern-ireland-good-relations-indicators-2024-report",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Community and society",
+      "base_path": "/society-and-culture/community-and-society"
+    },
+    {
+      "title": "Young people",
+      "base_path": "/society-and-culture/young-people"
+    }
+  ]
+}

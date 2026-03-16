@@ -1,0 +1,15 @@
+{
+  "title": "Older car driver Killed or Seriously Injured (KSI) casualties in Northern Ireland, 2020-2024",
+  "body": "\"The report analyses official data sources and reports on trend information for KSI casualties from 2004 examining older car driver KSI casualties and KSI casualties caused by older car drivers. The profile then focuses on the five-year period 2020-2024 examining the principal causation factor for KSI collisions, responsibility (who causes collisions and who is responsible for the own injuries), when casualties occur (day of the week and time of day), the severity of car driver casualties, where casualties occur (road type, junction details, speed limit of the road and Local Government District). \"",
+  "base_path": "/government/statistics/older-car-driver-killed-or-seriously-injured-ksi-casualties-in-northern-ireland-2020-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

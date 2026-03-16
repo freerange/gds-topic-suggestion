@@ -1,0 +1,15 @@
+{
+  "title": "Statistical Review of Northern Ireland Agriculture: 2024",
+  "body": "\"This publication contains a wide range of statistics on the agricultural economy (including TIFF), crop areas and livestock numbers, farm structure, incomes at farm level as well as agri-food sector performance, the rural economy, animal health and welfare and the agri-environment. \"",
+  "base_path": "/government/statistics/statistical-review-of-northern-ireland-agriculture-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

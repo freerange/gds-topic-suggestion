@@ -1,0 +1,11 @@
+{
+  "title": "Farming evidence pack: A high-level overview of the UK agricultural industry",
+  "body": "",
+  "base_path": "/government/statistics/announcements/farming-evidence-pack-a-high-level-overview-of-the-uk-agricultural-industry",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

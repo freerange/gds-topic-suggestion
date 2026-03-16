@@ -1,0 +1,11 @@
+{
+  "title": "Decentralised Manufacture: Decentralised Manufacturing Master File template",
+  "body": "\"DMMFs are required to support applications to the MHRA for Clinical Trial and Manufacturing Authorisation Applications, and for submission with an applicable application for, or variation to, a Manufacturing licence to add Point of Care (POC) or Modular Manufacturing (MM) functions. \"",
+  "base_path": "/government/publications/decentralised-manufacture-decentralised-manufacturing-master-file-template",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

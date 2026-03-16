@@ -1,0 +1,11 @@
+{
+  "title": "Updated Accident Report Form issued",
+  "body": "\"We have released an updated version of our Accident Report Form (ARF), reflecting our ongoing commitment to improving the accuracy and completeness of maritime incident reporting.  Effective immediately, the ARF now includes two additional fields:   Rank – located in the affected person section Port of Registry – located in the vessel information section   These enhancements are designed to support more detailed data collection and analysis, enabling us to better understand the circumstances surrounding marine accidents and incidents.   We ask all maritime industry stakeholders to discard any previously saved versions of the ARF that might be stored locally on devices. Please ensure that this updated version of the form is downloaded and used for future submissions.  The updated ARF is available on our website and can be accessed directly.   For any queries about or assistance with the new ARF, please contact us via iso@maib.gov.uk  Thank you for your continued cooperation in promoting maritime safety. \"",
+  "base_path": "/government/news/updated-accident-reporting-form-issued",
+  "taxons": [
+    {
+      "title": "Maritime accidents and serious incidents",
+      "base_path": "/transport/maritime-accidents-and-serious-incidents"
+    }
+  ]
+}

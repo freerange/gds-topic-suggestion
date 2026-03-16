@@ -1,0 +1,15 @@
+{
+  "title": "Income Tax: reporting and payment in the sharing and gig economy",
+  "body": "\"HM Revenue and Customs commissioned Kantar in July 2019 to carry out qualitative research exploring the impact of income tax reporting and payment within the Online Sharing and Gig Economy.  Fieldwork was conducted in September and October 2019.  The aims of the research were to:    build an in-depth understanding of current payment and tax arrangements for online platform users   uncover the complexities of this form of working    \"",
+  "base_path": "/government/publications/income-tax-reporting-and-payment-in-the-sharing-and-gig-economy",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

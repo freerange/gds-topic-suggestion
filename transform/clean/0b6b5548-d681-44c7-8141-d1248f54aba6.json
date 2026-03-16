@@ -1,0 +1,19 @@
+{
+  "title": "Sheep carcase classification",
+  "body": "\"The Sheep Carcase (Classification and Price Reporting) (England) Regulations 2025 were signed into law on 9 July 2025. The Sheep Carcass (Classification and Price Reporting) (Wales) Regulations 2025 were signed into law on 21 October 2025.  Similar regulation for slaughterhouses in Scotland and Northern Ireland is expected to come into force in early 2026. Guidance for operators in those countries will be available in due course.  Who the regulations apply to  You must follow the regulatory requirements and register with the Rural Payments Agency (RPA) if:   your business is in England or Wales and you slaughter 2,000 or more sheep per week, on a rolling annual average   If you slaughter fewer than 2,000 sheep per week  You can volunteer for the regulations to apply to your slaughterhouse if you slaughter between 1,000 and 1,999 sheep per week, on a rolling annual average. To do this, you will need to register with RPA. Once registered, you must meet all the regulatory requirements for at least 12 months.  If you slaughter fewer than 1,000 sheep per week, you cannot volunteer to register with RPA.  When the regulations apply from  Businesses in England will be required to classify sheep carcases and report prices from 12 January 2026.  Businesses in Wales will be required to classify sheep carcases and report prices from 28 January 2026.  Approved slaughterhouses that meet the mandatory throughput requirements on 28 January 2026 must be registered with RPA by 25 February 2026.  If your slaughterhouse meets these requirements after 28 January 2026, you must then register it with RPA within 28 days.  The Department for Environment, Food & Rural Affairs (Defra) can start to consider applications for the use of automated grading methods from 12 February 2027.  What the regulations mean for you  If your slaughterhouse is in the scope of the regulations, you must follow the rules on:   registering with RPA employing licenced classifiers  licencing for the use of automated classification methods (from 2027) identifying, hanging, dressing, categorising, classifying, weighing and labelling carcases communicating classification results to suppliers record keeping inspections, enforcement and penalties price reporting   \"",
+  "base_path": "/government/publications/sheep-carcase-classification",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Meat production",
+      "base_path": "/environment/producing-distributing-food-meat-production"
+    },
+    {
+      "title": "Farming",
+      "base_path": "/environment/environmental-management-land-management-farming"
+    }
+  ]
+}

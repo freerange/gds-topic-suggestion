@@ -1,0 +1,23 @@
+{
+  "title": "Voluntary monitoring, reporting and verification (MRV) period for waste incineration",
+  "body": "\"The UK ETS will be expanding to include EfW and waste incineration facilities. Before this expansion, a voluntary MRV-only period will be active from 1 January 2026.  This guidance explains:   the initial voluntary MRV-only period what installations are in scope how operators can participate   \"",
+  "base_path": "/government/publications/voluntary-monitoring-reporting-and-verification-mrv-period-for-waste-incineration",
+  "taxons": [
+    {
+      "title": "Emissions and emissions trading",
+      "base_path": "/environment/climate-change-energy-emissions"
+    },
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    },
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    }
+  ]
+}

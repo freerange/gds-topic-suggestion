@@ -1,0 +1,15 @@
+{
+  "title": "Salmonid and freshwater fisheries statistics for 2024",
+  "body": "\"Fisheries statistics report and data tables for commercial net and trap fisheries capturing salmon, sea trout, eel, smelt and lamprey. Also includes recreational salmon and sea trout fisheries.  Includes declared catches for salmon, sea trout, eels, smelt and lamprey by rods, nets and other instruments.  See data.gov.uk for the salmonid and freshwater fisheries statistics data tables.  See previous reports in the collection Salmonid and freshwater fisheries statistics: reports. \"",
+  "base_path": "/government/publications/salmonid-and-freshwater-fisheries-statistics-for-2024",
+  "taxons": [
+    {
+      "title": "Freshwater fisheries",
+      "base_path": "/environment/freshwater-fisheries"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

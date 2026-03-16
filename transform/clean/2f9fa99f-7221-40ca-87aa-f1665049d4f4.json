@@ -1,0 +1,15 @@
+{
+  "title": "Mining Remediation Authority: public task statement",
+  "body": "\"The public task statement is published to provide clarity to re-users and potential re-users of the Mining Remediation Authority’s information. \"",
+  "base_path": "/government/publications/mining-remediation-authority-public-task-statement",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Mining reports and data",
+      "base_path": "/environment/coal-reports-data"
+    }
+  ]
+}

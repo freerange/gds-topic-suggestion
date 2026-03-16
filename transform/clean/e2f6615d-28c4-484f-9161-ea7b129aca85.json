@@ -1,0 +1,15 @@
+{
+  "title": "Greater Anglia services transferred to public ownership",
+  "body": "\"From today (12 October 2025), the operation of all Greater Anglia services has transferred into public ownership and is being managed by DfT Operator Ltd (DFTO).   DFTO is the government’s public sector owning group that will manage train companies as they move into public ownership ahead of the creation of Great British Railways (GBR). Great British Railways will build a simpler, more unified railway that delivers reliable, safe and more affordable journeys.  Publicly owned operators under DFTO are now responsible for 33% of all GB passenger rail journeys.  Please see Department for Transport’s press release for more information.  \"",
+  "base_path": "/government/news/greater-anglia-services-transferred-to-public-ownership",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    },
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    }
+  ]
+}

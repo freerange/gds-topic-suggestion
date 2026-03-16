@@ -1,0 +1,23 @@
+{
+  "title": "Letter to registered providers: Data requirements for 2025-26",
+  "body": "\"In March 2025 we wrote to all chief executives to confirm data requirements for the 2025/26 period. These letters detailed the requirements for private providers with 1,000 or more units (large providers), those with fewer than 1,000 units (small providers) and local authority registered providers.  Further details can also be found on our Information required from registered providers page. \"",
+  "base_path": "/government/publications/letter-to-registered-providers-data-requirements-for-2025-26",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

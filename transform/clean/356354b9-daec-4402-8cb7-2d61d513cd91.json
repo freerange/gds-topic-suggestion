@@ -1,0 +1,23 @@
+{
+  "title": "Convention on Social Security Coordination between Iceland, Liechtenstein, Norway and the United Kingdom of Great Britain and Northern Ireland [TS No.47/2025]",
+  "body": "\"Published title: Convention on Social Security Coordination between Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland. \"",
+  "base_path": "/government/publications/convention-on-social-security-coordination-between-iceland-liechtenstein-norway-and-the-united-kingdom-of-great-britain-and-northern-ireland-ts-no",
+  "taxons": [
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Health and social care integration",
+      "base_path": "/health-and-social-care/health-and-social-care-integration"
+    }
+  ]
+}

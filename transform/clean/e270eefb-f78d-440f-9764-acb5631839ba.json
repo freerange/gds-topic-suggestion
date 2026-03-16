@@ -1,0 +1,11 @@
+{
+  "title": "Clean air zone service: annual reports",
+  "body": "\"The reports focus on the operational performance of the CAZ service, known as the ‘drive in a clean air zone’ service. They provide a detailed overview of:   the service its components live zones key performance statistics   \"",
+  "base_path": "/government/collections/clean-air-zone-service-annual-reports",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    }
+  ]
+}

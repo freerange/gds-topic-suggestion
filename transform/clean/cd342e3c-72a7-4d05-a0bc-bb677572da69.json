@@ -1,0 +1,11 @@
+{
+  "title": "UK Armed Forces operational deaths post World War 2: 2025",
+  "body": "\"This Official Statistic provides summary information on the number of in-service deaths among UK armed forces personnel which occurred as a result of a British, United Nations (UN) or North Atlantic Treaty Organisation (NATO) medal earning operation since World War II. This report is updated annually at the end of March and six weeks after the end of each medal earning operation. \"",
+  "base_path": "/government/statistics/uk-armed-forces-operational-deaths-post-world-war-2-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

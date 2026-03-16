@@ -1,0 +1,11 @@
+{
+  "title": "Welsh Income Tax Outturn Statistics: 2023 to 2024",
+  "body": "\" Contact details  Enquiries about these statistics should be directed to the statistician who is responsible for this publication:  Statistical contact: N Duncan and L Green  personaltax.statistics@hmrc.gov.uk  Knowledge, Analysis and Intelligence HM Revenue and Customs 100 Parliament Street LONDON SW1A 2BQ  Any media enquiries should be directed to the HMRC Press Office contacts listed on the front page of this release.  Media contact: HMRC Press Office, news.desk@hmrc.gov.uk  The aim of these statistics is to provide users with information of interest in relation to non-savings non-dividends (NSND) Income Tax for Welsh taxpayers. Information is also provided on Welsh Rates of Income Tax (WRIT) specifically.  The WRIT outturn in HMRC’s Annual Report and Accounts determines the Welsh Government’s Income Tax revenues while the equivalent outturn for Income Tax on NSND for Rest of UK (rUK) taxpayers in these statistics is used by HM Treasury to determine the Welsh Government’s Block Grant. \"",
+  "base_path": "/government/statistics/welsh-income-tax-outturn-statistics-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Welsh rate of Income Tax",
+      "base_path": "/money/personal-tax-income-tax-welsh-rate-of-income-tax"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Net zero: Hydrogen monitoring review",
+  "body": "\"This project assessed the need for, and availability of, methods for monitoring molecular hydrogen in air.  The Environment Agency and site operators can use this information to inform any monitoring needed at hydrogen production and storage locations, including stack and fugitive emissions, and leaks during repair and maintenance. \"",
+  "base_path": "/government/publications/net-zero-hydrogen-monitoring-review",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

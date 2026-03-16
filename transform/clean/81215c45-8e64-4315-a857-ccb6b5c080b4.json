@@ -1,0 +1,39 @@
+{
+  "title": "MMO confirms I-VMS legislation schedule for 2025",
+  "body": "\"In a variation notice issued this week, Marine Management Organisation (MMO), introduces a new licence condition that will come into force on 12 May 2025, requiring the use of a type-approved I-VMS device on any English under-12m vessel undertaking a trip to sea.   This early notice of the incoming requirements is the next stage of MMO’s preparations to support English fishers ahead of statutory legislation, expected to be laid by government later this year.  This announcement follows the roll-out of I-VMS devices which saw over 80% of industry purchase and install an I-VMS device, with more than £1.57million in European Maritime and Fisheries Fund (EMFF) grant funding paid out to fishers.  The main requirement of this licence condition is for fishers to have installed a functioning type-approved I-VMS device that shares positional data during a trip to sea.  Sean Douglas, MMO’s Head of Regulatory Assurance, said:  “Good data is essential for sensible decision-making to protect fishing for the future. We’ve worked closely with the new government, DEFRA and suppliers to move forward with I-VMS for the benefit of both fishers and fisheries management.  “This announcement should assure industry that I-VMS legislation is just around the corner. We urge those in the under-12m fleet who are actively fishing to make use of the coming weeks to ensure they have a device, switch it on and check things are working as they should.  Mike Cohen, Chief Exec of the National Federation of Fishermen’s Organisations (NFFO) shared, in support of I-VMS:  “Today, many different people want to use the sea for many different purposes. Whether it is building a seaweed farm, installing wind turbines, declaring a conservation area, or something else. All of these things carry a risk that fishermen will get pushed out.  “We have to defend our access to the traditional grounds that our industry depends on. The best way to do that is with data that proves how important those areas are to us. Larger vessels in the national fleet have been able to do that for some time now, thanks to the VMS devices they carry. In every map of fishing effort in UK waters, however, there is always a stark gap where the inshore fleet works.  “I-VMS is the tool that we need to close that gap and defend the inshore fleet. With the data it provides, we can prove how important the inshore grounds are to fishing businesses and fishing communities. The better the coverage we have, the stronger our argument”.  A marine future with I-VMS  Sean Douglas, continued: “The data from I-VMS will, for the first time, provide a true understanding of what is happening across England’s marine environment. It will allow for smarter, evidence-based, decisions when it comes to marine developments, marine and fisheries management planning, regulatory displacement, niche and seasonal fisheries, as well as conservation and stock protection.  “The licence condition is very much an introductory stage to support industry ahead of the statutory instrument, due this year. During this time, we will take...",
+  "base_path": "/government/news/mmo-confirms-i-vms-legislation-schedule-for-2025",
+  "taxons": [
+    {
+      "title": "Fishing regulations, monitoring and enforcement",
+      "base_path": "/environment/fishing-regulations-monitoring-enforcement"
+    },
+    {
+      "title": "Vessel licensing",
+      "base_path": "/environment/vessel-licensing"
+    },
+    {
+      "title": "Vessel monitoring systems",
+      "base_path": "/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-vessel-monitoring-systems"
+    },
+    {
+      "title": "Marine fisheries",
+      "base_path": "/environment/marine-fisheries"
+    },
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine planning",
+      "base_path": "/environment/marine-planning"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

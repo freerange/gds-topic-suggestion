@@ -1,0 +1,11 @@
+{
+  "title": "Dementia profile: March 2025 update",
+  "body": "\"Routine monthly update of the 5 indicators in the surveillance factsheet. These interactive factsheets give data for England and integrated care board (ICB) areas.  Three indicators in the prevalence topic of the dementia profile have been updated with data for 2021, 2023 and 2024. The indicators use the primary care dementia data published by NHS England and data is presented for England ICB areas and sub areas.  Three indicators in the supporting well topic of the profile have been updated with data for 2021, 2022 and 2023. The indicators use the care directory data sheet from the Care Quality Commission and relate to care homes for people with dementia. The data is presented for England, health geographies (health regions, ICB and sub ICB), and administrative geographies (regions and local authority).  \"",
+  "base_path": "/government/statistics/dementia-profile-march-2025-update",
+  "taxons": [
+    {
+      "title": "Dementia",
+      "base_path": "/health-and-social-care/dementia"
+    }
+  ]
+}

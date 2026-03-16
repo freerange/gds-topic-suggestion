@@ -1,0 +1,19 @@
+{
+  "title": "Estimating the impact of sanctions on Russia’s war efforts",
+  "body": "\"The document presents the Foreign, Commonwealth & Development Office’s (FCDO’s) estimate for the financial impact of international sanctions on the Russian state from February 2022 to June 2025.  It concludes that sanctions have deprived Russia of at least $450 billion in war funds. This figure includes $154 billion in lost oil tax revenues, primarily due to the widening discount between Urals crude oil (Russia’s benchmark) and Brent crude oil (the global benchmark), which reduced the taxable value of Russian oil exports.  The estimate also includes approximately $285 billion in immobilised Central Bank of Russia foreign currency reserves held in EU and G7 institutions.  Limitations of the analysis are clearly stated. These include the exclusion of private Russian assets frozen abroad ($58 billion in the US), the inability to measure reductions in total oil export revenues, and the challenge of isolating the effect of sanctions from other global market dynamics. \"",
+  "base_path": "/government/publications/estimating-the-impact-of-sanctions-on-russias-war-efforts",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    }
+  ]
+}

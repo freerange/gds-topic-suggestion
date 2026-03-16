@@ -1,0 +1,19 @@
+{
+  "title": "Tuberculosis (TB) information sheet",
+  "body": "\"This factsheet has been developed to provide easier-to-read plain language information for groups that face health inequalities, such as ethnic minority communities and the socially excluded. \"",
+  "base_path": "/government/publications/tuberculosis-tb-information-sheet",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    },
+    {
+      "title": "Migrant health",
+      "base_path": "/health-and-social-care/health-protection-migrant-health-guide"
+    }
+  ]
+}

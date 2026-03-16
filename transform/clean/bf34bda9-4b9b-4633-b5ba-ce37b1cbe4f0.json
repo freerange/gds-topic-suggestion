@@ -1,0 +1,15 @@
+{
+  "title": "Consumer price inflation, UK: October 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/consumer-price-inflation-uk-october-2025",
+  "taxons": [
+    {
+      "title": "Money",
+      "base_path": "/money"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

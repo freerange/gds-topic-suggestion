@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Abortion Statistics 2024/25",
+  "body": "\"Presents information on the number of medical and surgical abortions at health and social care (HSC) trusts in Northern Ireland during 2020/21 to 2024/25. It details information by HSC trust, age, weeks gestation and grounds for abortion. \"",
+  "base_path": "/government/statistics/northern-ireland-abortion-statistics-202425",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

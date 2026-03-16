@@ -1,0 +1,19 @@
+{
+  "title": "FCDO senior officials’ business expenses, hospitality and meetings, April to June 2025",
+  "body": "\"The Foreign, Commonwealth & Development Office (FCDO) publishes details of the Permanent Secretaries’ external meetings and senior officials’ business expenses and hospitality every 3 months.   This data is also on data.gov.uk: Foreign, Commonwealth & Development Office: senior officials’ business expenses and hospitality.  \"",
+  "base_path": "/government/publications/fcdo-senior-officials-business-expenses-hospitality-and-meetings-april-to-june-2025",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "International aid and development",
+      "base_path": "/international/international-aid-and-development"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

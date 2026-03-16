@@ -1,0 +1,19 @@
+{
+  "title": "Consumer trends, UK: April to June 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/consumer-trends-uk-april-to-june-2025",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

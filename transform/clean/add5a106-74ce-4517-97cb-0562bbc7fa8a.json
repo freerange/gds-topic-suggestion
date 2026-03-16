@@ -1,0 +1,11 @@
+{
+  "title": "Children's social care in England 2025",
+  "body": "\"These statistics covering children’s social care in England are made up of:   main findings tables, charts and individual provider-level data in ODS format quality and methodology report pre-release access list   Data on inspecting local authority children’s services inspections and regulatory activity in children’s homes are not included within this release. Please see the ‘Latest data’ section of the children’s social care collection page for the most recent publications on these topics.  Accredited official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/childrens-social-care-in-england-2025",
+  "taxons": [
+    {
+      "title": "Children's social care providers",
+      "base_path": "/childcare-parenting/childrens-social-care-providers"
+    }
+  ]
+}

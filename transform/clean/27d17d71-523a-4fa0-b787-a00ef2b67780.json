@@ -1,0 +1,15 @@
+{
+  "title": "New guide helps UK ports share data to support safer navigation",
+  "body": "\"The UK Hydrographic Office (UKHO), in collaboration with the UK Harbour Masters’ Association (UKHMA), has published an updated guide to help harbour masters share hydrographic data more effectively.  The guide supports harbour masters in providing accurate, high-quality information on surveys, port developments, and Aids to Navigation. This helps the UKHO keep its portfolio of ADMIRALTY navigational charts and publications up to date and supports safer navigation in UK waters.  As a maritime nation, the UK relies on its ports and harbours as a key gateway to facilitate trade, energy and economic growth. This guide has been updated with the aim of improving data sharing, which in turn will support safety, operational efficiency and compliance for ships and other port users.  The guide supports Section 10.4 (Conservancy) of the Port and Marine Facilities Safety Code and is referenced in the Guide to Good Practice, where it is recommended as a useful resource for ports and harbour authorities (Section 10.8.1).  Download the guide  A Harbour Master’s Guide to Hydrographic and Maritime Information Exchange  (PDF, 4.14 MB, 42 pages)  More information on how the UKHO collaborates with UK ports and harbours can be found on the ADMIRALTY website. \"",
+  "base_path": "/government/news/new-guide-helps-uk-ports-share-data-to-support-safer-navigation",
+  "taxons": [
+    {
+      "title": "Harbours",
+      "base_path": "/environment/environmental-management-marine-harbours"
+    },
+    {
+      "title": "Hydrography",
+      "base_path": "/environment/hydrography"
+    }
+  ]
+}

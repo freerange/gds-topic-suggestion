@@ -1,0 +1,11 @@
+{
+  "title": "AHWBE activity report 2023",
+  "body": "\"This report highlights the work of the Animal Health and Welfare Board for England during 2023. It explains the role of the board and how it has worked with Defra policy teams and industry across the year.  You can read more about the work of the Animal Health and Welfare Board for England. \"",
+  "base_path": "/government/publications/ahwbe-activity-report-2023",
+  "taxons": [
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Design a Driver CPC course that meets DVSA earned recognition extra module training requirements",
+  "body": "\"When you set up a Driver Certificate of Professional Competence (CPC) course, you can get it acknowledged by DVSA to show it counts as training for the Transport for London (TfL) Contractual Requirements module of the Driver and Vehicle Standards Agency (DVSA) earned recognition scheme.  This means that drivers and their employers can prove that the drivers have done training needed for the TfL Contractual Requirements module. They will need this if they want to bid for some contracts, such as:   TfL Fleet Operator Recognition Scheme (FORS) Construction and Logistics and Community Safety (CLOCS) Work Related Road Risk (WRRR) Direct Vision Standard (DVS)   \"",
+  "base_path": "/government/publications/design-a-driver-cpc-course-that-meets-dvsa-earned-recognition-extra-module-training-requirements",
+  "taxons": [
+    {
+      "title": "Driver CPC training",
+      "base_path": "/transport/driver-cpc-training"
+    },
+    {
+      "title": "HGV and goods carriage vehicle licensing",
+      "base_path": "/transport/hgv-and-goods-carriage-vehicle-licensing"
+    },
+    {
+      "title": "Public service vehicles licensing",
+      "base_path": "/transport/public-service-vehicles-licensing"
+    }
+  ]
+}

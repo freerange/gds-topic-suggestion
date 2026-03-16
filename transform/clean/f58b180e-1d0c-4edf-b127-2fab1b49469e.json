@@ -1,0 +1,15 @@
+{
+  "title": "Building Digital UK Annual Report and Accounts 2024 to 2025",
+  "body": "\"Building Digital UK plays a pivotal role in leading two of the government’s most transformative infrastructure programmes. Every connection we deliver unlocks opportunity, drives innovation, and ensures that people can benefit from the digital age, regardless of where they live or work.  \"",
+  "base_path": "/government/publications/building-digital-uk-annual-report-and-accounts-2024-2025",
+  "taxons": [
+    {
+      "title": "Broadband investment",
+      "base_path": "/business/broadband-investment"
+    },
+    {
+      "title": "Communications and telecomms",
+      "base_path": "/business/communications-and-telecomms"
+    }
+  ]
+}

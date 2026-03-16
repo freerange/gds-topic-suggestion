@@ -1,0 +1,11 @@
+{
+  "title": "Anniversary Statement: Boeing 747-433, G-ONEE",
+  "body": "\"This statement provides an update on the ongoing investigation into a serious incident involving a Boeing 747-433 aircraft which suffered electrical system failures during departure from London Heathrow Airport.  The aircraft departed in weather of rain, thick cloud, and icing conditions.  Electrical failures resulted from water having leaked onto the aircraft’s avionic equipment – the effects of which included all pitot probe heaters becoming inoperative, and the cabin altitude increasing.  The crew began descending the aircraft from FL250 and experienced unreliable flight instrument indications.  They diverted the aircraft to Amsterdam Schipol Airport, which had clear weather.  The investigation is ongoing and a final report will be published in due course. \"",
+  "base_path": "/government/news/anniversary-statement-boeing-747-433-g-onee",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

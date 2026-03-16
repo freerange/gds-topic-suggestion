@@ -1,0 +1,11 @@
+{
+  "title": "Pensioners' Incomes: financial years ending 1995 to 2024",
+  "body": "\" Cite this statistical release  Add the following citation to any analysis shared or published:  Department for Work and Pensions (DWP), released 27 March 2025, GOV.UK website, statistical release, Pensioners’ Incomes financial years ending 1995 to 2024.   This report examines how much income pensioners get each week and where they get that income from. It looks at how their incomes have changed over time and variations in income between different types of pensioners.  We’ve also published data tables in open document spreadsheet (ODS) format, a background information and methodology report, and a release strategy.  Data on Stat-Xplore  Pensioners’ incomes data is available from financial years ending 1995 to 2024 on the Stat-Xplore online tool.  You can use Stat-Xplore to create your own pensioners’ incomes analysis. The pensioners’ incomes information is available at family (pensioner unit) level.  Read the user guide to pensioners’ incomes data on Stat-Xplore.  Feedback  We are seeking feedback from users on this release of pensioners’ incomes.  Email pensioners-incomes@dwp.gov.uk with your comments.  Our statistical practice is regulated by the Office for Statistics Regulation (OSR).  \"",
+  "base_path": "/government/statistics/pensioners-incomes-financial-years-ending-1995-to-2024",
+  "taxons": [
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    }
+  ]
+}

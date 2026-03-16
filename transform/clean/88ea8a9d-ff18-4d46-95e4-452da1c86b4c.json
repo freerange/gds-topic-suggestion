@@ -1,0 +1,11 @@
+{
+  "title": "West Nile fever poster",
+  "body": "\"Download and print our poster on how to spot the signs of West Nile fever.  Read our guidance on West Nile fever. \"",
+  "base_path": "/government/publications/west-nile-fever-poster",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    }
+  ]
+}

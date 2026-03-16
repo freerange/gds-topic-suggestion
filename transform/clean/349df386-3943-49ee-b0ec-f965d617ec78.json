@@ -1,0 +1,15 @@
+{
+  "title": "DTEP funding for SCI the CHERI on the cake",
+  "body": "\" Cambridge-based SCI Semiconductors are the latest SME to be awarded a DTEP grant They are collaborating with an experienced higher-tier partner on a project to resolve a number of long standing cyber security challenges The Defence Technology Exploitation Programme (DTEP) boosts security and defence innovation while supporting the technology supply chain   SCI Semiconductors, a leading cyber security company based in Cambridge, are the latest SME to be awarded DTEP funding for their innovative approach to tackling the escalating problem of compromised computer integrity within military systems.  SCI are collaborating with Ultra, a higher-tier supplier who specialise in mission focused technological innovations, who will provide mentoring for the duration of the project. SCI will receive a government grant worth 50% of the project value with the aim of developing innovative new solutions that meet UK defence and security challenges.  The DTEP programme, which seeks to improve the competitiveness of the UK defence supply chain, is sponsored by the MOD’s Directorate of Industrial Strategy and Exports (DISE) and delivered through a number of partners including the Defence and Security Accelerator (DASA) and Innovate UK.  Congratulations to SCI Semiconductors  The UK has invested heavily in Capability Hardware Enhanced RISC Instructions (CHERI) systems to manage cyber defences, however gaps still exist in getting this crucial technology into real world applications (e.g. autonomous drone platforms). Through their DTEP project, SCI are working to resolve these gaps by developing high integrity, isolated hardware and software structures for a broad array of applications. This means that vital military control systems can be much safer from the risk of cyber attack.  Haydn Povey, Chief Executive of SCI Semiconductors said:   The UK government are keen to act on Security by Design and this project will leverage CHERI technology, a key technology to delivering this capability. With over 70% of critical vulnerabilities and exploits (CVE’s) directly linked to software Memory Safety issues, which form the vast majority of cyber-attacks on critical systems, there is a clear need to address this systemic weakness. This project is directly focused on ensuring communication systems and active control systems are more robust, higher integrity, and are inherently secured again broad-based cyber-attacks.   DTEP’s funding for SCI Semiconductors highlights the MOD’s commitment to fostering innovation and strengthening the UK defence and security supply chain through strategic SME partnerships.  Learn more about DASA’s funding opportunities here. \"",
+  "base_path": "/government/news/dtep-funding-for-sci-the-cheri-on-the-cake",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

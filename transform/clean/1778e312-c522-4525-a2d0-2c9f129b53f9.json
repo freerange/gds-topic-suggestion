@@ -1,0 +1,31 @@
+{
+  "title": "Government response to the House of Lords food and health report",
+  "body": "\"On 24 October 2024, the House of Lords Food, Diet and Obesity Committee published its report Recipe for health: a plan to fix our broken food system.  The committee explored ways to improve the food system, to support people have better diets, achieve a healthier weight and live longer healthier lives.  This is the government’s response to the committee’s recommendations. \"",
+  "base_path": "/government/publications/government-response-to-the-house-of-lords-food-and-health-report",
+  "taxons": [
+    {
+      "title": "Health, safety and wellbeing in schools",
+      "base_path": "/education/health-safety-and-wellbeing-in-schools"
+    },
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Food labelling and safety",
+      "base_path": "/environment/producing-distributing-food-food-labelling"
+    },
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    },
+    {
+      "title": "Obesity",
+      "base_path": "/health-and-social-care/obesity"
+    },
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    }
+  ]
+}

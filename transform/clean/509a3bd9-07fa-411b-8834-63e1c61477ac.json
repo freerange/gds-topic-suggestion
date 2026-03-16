@@ -1,0 +1,19 @@
+{
+  "title": "Government to invest over £100m in water company fines to local environmental projects",
+  "body": "\"The Government will invest water company fines into local projects across the country to clean up our rivers, lakes and seas.   Over £100m in fines and penalties levied against water companies since October 2023, as well as future fines and penalties, will be reinvested into projects to clean up our waters which could include local programmes to address pollution and improve water quality.  When water companies breach their environmental permits – for example by releasing excessive pollution into a river – that is a criminal offence. The most serious cases, like illegal sewage spills, see water company fines issued and criminal prosecutions for water bosses.    A record 81 criminal investigations have been launched into water companies under this government as part of a new operation spearheaded by Environment Secretary Steve Reed.  This Government is clear that the current volume of sewage being discharged to our waters is unacceptable. We have launched an independent review, led by Sir Jon Cunliffe, to reset the water sector regulatory system and deliver a fair deal for customers and investors.  The Government is committed to cleaning up our rivers, lakes and seas with increased enforcement against polluting water companies, a record investment to fix broken pipes and a generational review of the sector as part of its Plan for Change.  Secretary of State Steve Reed said:     We inherited a broken water system with record levels of sewage being pumped into waters.    But the era of profiting from failure is over. A record 81 criminal investigations have been launched into water companies under this government and Ofwat recently announced the largest fine ever handed to a water company in history.   This Government will invest money collected through fines into local projects to clean up our rivers, lakes and seas for good.   More detail on the projects and programmes that this funding will go towards will be set out in due course. \"",
+  "base_path": "/government/news/government-to-invest-over-100m-in-water-company-fines-to-local-environmental-projects",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

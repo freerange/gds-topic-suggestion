@@ -1,0 +1,11 @@
+{
+  "title": "Reporting to HMRC if you provide cryptoasset services in the UK",
+  "body": "\"If you provide cryptoasset services in the UK, you must collect data and report it to HMRC.  This is because of rules called the Cryptoasset Reporting Framework (CARF). Find out more about CARF rules (International Exchange of Information Manual: IEIM8000020).  If you use a UK cryptoasset service, you can find out what information users need to provide.   You can subscribe to get email updates about Cryptoasset Reporting Framework guidance.   \"",
+  "base_path": "/government/collections/reporting-to-hmrc-if-you-provide-cryptoasset-services-in-the-uk",
+  "taxons": [
+    {
+      "title": "Tax compliance",
+      "base_path": "/money/tax-compliance"
+    }
+  ]
+}

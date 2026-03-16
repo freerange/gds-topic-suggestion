@@ -1,0 +1,11 @@
+{
+  "title": "Nuclear Waste Services Waste Package Guidance Acronyms",
+  "body": "\"   DNLEU Depleted Natural and Low Enriched Uranium     DSSC Disposal System Safety Case     DSS Disposal System Specification     GDF Geological Disposal Facility     HHGW High Heat Generating Waste     HAW Higher Activity Waste     IAEA International Atomic Energy Agency     LAW Low Activity Waste     LHGW Lower Heat Generating Waste     MBGWS Miscellaneous Beta Gamma Waste Store     NWS Nuclear Waste Services     WAC Waste Acceptance Criteria     WPS Waste Package Specifications      \"",
+  "base_path": "/guidance/nuclear-waste-services-waste-package-guidance-acronyms",
+  "taxons": [
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    }
+  ]
+}

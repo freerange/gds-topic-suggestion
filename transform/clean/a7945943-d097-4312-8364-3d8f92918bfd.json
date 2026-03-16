@@ -1,0 +1,11 @@
+{
+  "title": "Reported road casualties Great Britain, provisional results: 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/reported-road-casualties-great-britain-provisional-results-2025",
+  "taxons": [
+    {
+      "title": "Drink and drug driving",
+      "base_path": "/transport/drink-and-drug-driving"
+    }
+  ]
+}

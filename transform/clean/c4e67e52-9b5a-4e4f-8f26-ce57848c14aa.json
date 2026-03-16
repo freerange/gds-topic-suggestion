@@ -1,0 +1,15 @@
+{
+  "title": "Employer Bulletin: December 2025",
+  "body": "\"HMRC publishes the Employer Bulletin 6 times a year, giving employers and agents the latest information on topics and issues that may affect them.  The December edition of Employer Bulletin includes articles on:   changes take effect 6 April 2026 — prepare for new PAYE responsibilities in labour supply chains clarifying the optional remuneration arrangement rules at section 228A Income Tax Earnings Pension Act (ITEPA) important update regarding tax refunds payrolling of benefits in kind Employment Rights Bill autumn consultations tell ABAB survey report — now live   You can register for HMRC’s employer email alert service to receive emails from HMRC which tell you when the latest issue is available.  You can read the bulletin on screen or print it off. It’s compatible with most screen reading software packages. \"",
+  "base_path": "/government/publications/employer-bulletin-december-2025",
+  "taxons": [
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    }
+  ]
+}

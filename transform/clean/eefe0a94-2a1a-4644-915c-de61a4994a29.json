@@ -1,0 +1,11 @@
+{
+  "title": "Fire safety: Timber cladding",
+  "body": "\"The research examines the fire hazards associated with timber cladding through experimentation and testing at multiple scales.   Researchers reviewed:      how material characteristics, such as thermal modification and fire-retardant treatment affect the fire behaviour of timber cladding systems.    the impact of timber thickness and orientation on the rate of external fire spread.     They also assessed how current guidance in Approved Document B reflects these hazards and identified where further work is needed to inform future technical policy.  Background The government commissioned the research as part of the investigation of real fires project.  OFR Consultants carried out the work, and the findings and recommendations do not represent government policy. \"",
+  "base_path": "/government/publications/fire-safety-timber-cladding",
+  "taxons": [
+    {
+      "title": "Building regulation",
+      "base_path": "/housing-local-and-community/building-regulation"
+    }
+  ]
+}

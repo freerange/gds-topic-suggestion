@@ -1,0 +1,11 @@
+{
+  "title": "National Energy Efficiency Data-Framework (NEED): consumption data tables 2025",
+  "body": "\"Data includes consumption for a range of property characteristics such as age and type, as well as a range of household characteristics such as the number of adults and household income.  The content covers:   headline consumption tables England and Wales: summary statistics on electricity and gas consumption for properties in England and Wales, broken down by various property and household characteristics additional consumption tables England and Wales: detailed statistics on electricity and gas consumption for properties in England and Wales local authority tables: mean and median gas and electricity consumption for each local authority in England and Wales, including number in sample, attributes, and characteristics such as floor area, number of bedrooms and property age multiple attributes table: table giving summary consumption statistics by different combinations of property and household characteristics headline consumption tables Scotland: summary statistics on electricity and gas consumption for properties in Scotland, broken down by various property and household characteristics additional consumption tables Scotland: detailed statistics on electricity and gas consumption for properties in Scotland Scotland only multiple attributes table  \"",
+  "base_path": "/government/statistics/national-energy-efficiency-data-framework-need-consumption-data-tables-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

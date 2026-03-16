@@ -1,0 +1,23 @@
+{
+  "title": "Dangers of fraud",
+  "body": "\"The inquiry examined Ms Froggatt’s involvement in the submission of a falsified Certificate of Professional Competence (CPC) on behalf of another individual, Joanne Louise Hewison. The certificate, purportedly issued by the Chartered Institute of Logistics and Transport (CILT UK), was found to be fraudulent following a detailed investigation by the Driver and Vehicle Standards Agency (DVSA).  Evidence presented revealed that Ms Froggatt had facilitated the appeal of failed CPC exam papers through an unverified third party, allegedly connected to her former partner, Paul Marshall, who was serving a sentence at HMP North Sea Camp. The inquiry heard that Ms Froggatt paid £195 in cash for the appeal, which resulted in the production of a counterfeit certificate. Despite her claims of good faith, the Traffic Commissioner found her actions to be deliberate and misleading.  Commissioner Richard Turfitt said “Traffic Commissioners have to rely on the veracity of documentation provided to them. It is a testament to the professionalism of the caseworkers reviewing the document produced by Ms Hewison that this misleading documentation was identified. It is yet further illustration of the need for adequate gatekeeping, which allowed DVSA and CILT to then work together to identify the extent of the attempted fraud.”  The inquiry also noted that Ms Froggatt had published false employment information on her LinkedIn profile, claiming to have worked as a DVSA auditor, which was an assertion she later admitted was intended to mislead.  Citing the importance of trust and integrity in the transport industry, the Commissioner concluded that Ms Froggatt had lost her good repute and imposed an eight-year disqualification from relying on her CPC qualification. The decision underscores the seriousness with which attempts to deceive regulatory authorities are treated and reaffirms the commitment to maintaining high standards across the sector.  The decision can be found here.  For any further details or enquiries, please contact:  pressoffice@otc.gov.uk \"",
+  "base_path": "/government/news/dangers-of-fraud",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

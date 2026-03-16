@@ -1,0 +1,11 @@
+{
+  "title": "Historical statistics notices on UK milk prices and composition of milk, 2025",
+  "body": "\"This publication gives previously published copies of the monthly Accredited Official Statistics publication on UK milk prices and composition of milk that showed figures for 2025. Each publication gives the figures available at that time. The figures are subject to revision each month as new information becomes available.  The latest publication and accompanying data sets can be found here.  Most milk produced in the UK is bought by dairies (registered ‘milk purchasers’) for processing. Defra runs a monthly survey in England and Wales to collect information on the volume, value and protein content of milk purchased from farms. Similar surveys are run in Scotland and Northern Ireland. Additional information is collected by the Rural Payments Agency (RPA) on the protein and butterfat content of the milk. The UK average farm-gate milk price, protein content and butterfat content is then calculated.   For further information please contact:   julie.rumsey@defra.gov.uk   Twitter: @DefraStats  \"",
+  "base_path": "/government/statistics/historical-statistics-notices-on-uk-milk-prices-and-composition-of-milk-2025",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "NFI report: Estimates of the ownership type and property type of woodlands in Britain 2025",
+  "body": "\"This release contains estimates of the ownership type and property type of woodlands in Great Britain, derived from a survey of woodland owners. \"",
+  "base_path": "/government/statistics/nfi-report-estimates-of-the-ownership-type-and-property-type-of-woodlands-in-britain-2025",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

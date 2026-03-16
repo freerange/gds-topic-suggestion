@@ -1,0 +1,15 @@
+{
+  "title": "GPC spend over £500: September 2025",
+  "body": "\"GPC spend over £500: September 2025 \"",
+  "base_path": "/government/publications/gpc-spend-over-500-september-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

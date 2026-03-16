@@ -1,0 +1,15 @@
+{
+  "title": "Notice to Traders 02/25 - Imports of Garlic from Countries other than China and EU Member States under Statutory Instrument No. 2020/1432",
+  "body": "\"If this is the first application in the quota year you must provide evidence to show that you have imported at least 25 tonnes of fruit and vegetables. \"",
+  "base_path": "/government/publications/notice-to-traders-0225-imports-of-garlic-from-countries-other-than-china-and-eu-member-states-under-statutory-instrument-no-20201432",
+  "taxons": [
+    {
+      "title": "Crops and horticulture ",
+      "base_path": "/environment/producing-distributing-food-crops-horticulture"
+    },
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    }
+  ]
+}

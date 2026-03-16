@@ -1,0 +1,11 @@
+{
+  "title": "Check if you should claim overpayment relief for Corporation Tax",
+  "body": "\"If you believe your company has overpaid Corporation Tax you may claim overpayment relief.  The ‘check if you should make a claim’ tool in this guide is for agents and companies.  The tool:   tells you how to claim explains why your claim for overpayment relief may not be successful   Who can claim  You can only claim if (for the accounting period you’re claiming for) you’ve:   paid Corporation Tax been assessed to pay Corporation Tax   Agents cannot make an overpayment relief claim on behalf of a company.  We will reject your claim if a listed exclusion (HMRC manual SACM12070) applies to you.  When can you claim  The time limit for claiming is 4 years from the end of the relevant accounting period. Find out how to determine the relevant accounting period (HMRC manual SACM12155).  Your accounting period is the time covered by the Company Tax Return.  Read about how HMRC considers late claims (HMRC manual SACM10040).  What you need  To use the tool you’ll need to tell us:   the end date of the accounting period you made the mistake in if you paid Corporation Tax for this period if you’ve been assessed to pay Corporation Tax for this period if you under-declared a loss if you submitted a return if you think any exclusions apply if other accounting periods were impacted — for example, an under-declared loss was carried forward into the next accounting period   Check if you should make a claim  Use the tool to find out if you should make a claim for Corporation Tax overpayment relief.  Check now   If you make a claim  You must submit a claim in this format (HMRC manual SACM12150).   If you do not make a correct claim you risk rejection, delays and missing deadlines for claiming. To avoid errors review the overpayment relief manual SACM1200.   HMRC may open an enquiry into your claim and ask you for evidence to support it such as:   documentary proof of the tax deduction evidence of the tax being suffered in some other way   \"",
+  "base_path": "/guidance/check-if-you-should-claim-overpayment-relief-for-corporation-tax",
+  "taxons": [
+    {
+      "title": "Payments and refunds",
+      "base_path": "/money/business-tax-corporation-tax-payments-and-refunds"
+    }
+  ]
+}

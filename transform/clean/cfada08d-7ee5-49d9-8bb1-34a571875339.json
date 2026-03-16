@@ -1,0 +1,23 @@
+{
+  "title": "Defence Equipment and Support: Corporate Plan (2025 to 2026)",
+  "body": "\"The DE&S Corporate Plan sets out a clear roadmap for the financial year, with a specific focus on what DE&S wants to achieve.  With the ‘Today, Tomorrow, Together’ strategy at its core, this Corporate Plan details the organisation’s strategic priorities:    continuing to support UK operations, Ukraine and the continuous at-sea nuclear deterrent   implementing, embedding and stabilising the new DE&S operating model and supporting wider Defence Reform and the Strategic Defence Review   delivering equipment programme priorities for UK Armed Forces - driving delivery performance by accelerating time to contract and delivering on its commitments   \"",
+  "base_path": "/government/publications/defence-equipment-and-support-corporate-plan-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Armed forces and Ministry of Defence reform",
+      "base_path": "/defence/armed-forces-and-ministry-of-defence-reform"
+    },
+    {
+      "title": "International defence commitments",
+      "base_path": "/defence/international-defence-commitments"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "UK nuclear deterrent",
+      "base_path": "/defence-and-armed-forces/uk-nuclear-deterrent"
+    }
+  ]
+}

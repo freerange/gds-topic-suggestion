@@ -1,0 +1,11 @@
+{
+  "title": "MOD Diversity Dashboard: October 2025",
+  "body": "\" In line with the code of practice, to ensure our statistics provide maximum value, the below changes are being introduced for the next edition of the Diversity Dashboard Official Statistic at 1 April 2026. With the introduction of Defence Reform initiatives, these changes will help ensure the report remains relevant to users and representative of diversity within the MOD Civil Service workforce.    Expand the report to present information for all MOD civil servants. Currently the report only covers civil servants within MOD Main TLBs; this change would add in MOD civil servants within the Executive Agencies as well (DE&S, SDA, UKHO and Dstl). Numbers and rates would be presented for total MOD civil servants without any distinction between MOD Main TLBs (as is currently) or individual Executive Agencies. Some diversity rates may change (both increase and decrease) as a result of the report covering a larger population.   Provide Civil Service grade equivalence for all MOD civil servants, this includes removing the industrial grade category and providing grade equivalence.     Figures on diversity declaration and representation of minority groups of civil servants employed by the Ministry of Defence (MOD).  The creation of the diversity dashboard is to meet the department’s obligations under the Public Sector Equality Duty to provide information on its workforce identified by the Equality Act 2010.  Diversity statistics for military personnel can be found at the UK armed forces biannual diversity statistics: index collection page. \"",
+  "base_path": "/government/statistics/mod-diversity-dashboard-october-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

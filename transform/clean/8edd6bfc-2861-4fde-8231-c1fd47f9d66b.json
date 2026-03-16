@@ -1,0 +1,11 @@
+{
+  "title": "Quality assurance of administrative data used in the Price Index of Private Rents",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/quality-assurance-of-administrative-data-used-in-the-price-index-of-private-rents",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    }
+  ]
+}

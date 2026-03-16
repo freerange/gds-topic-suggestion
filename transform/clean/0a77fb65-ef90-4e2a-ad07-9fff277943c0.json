@@ -1,0 +1,11 @@
+{
+  "title": "GDP deflators at market prices, and money GDP September 2025 (Quarterly National Accounts)",
+  "body": "\"A series for the GDP deflator in index form is produced by the Treasury from data provided by the Office for National Statistics (ONS) and the Office for Budget Responsibility (OBR). GDP deflator outturn are based on the ONS Quarterly National Accounts release (at the end of each quarter). However, a more recent version of ONS GDP outturn may be used depending on when the OBR updates its GDP deflator forecasts (usually at Budget and Autumn Statement).  Outturn data covering the years 1955-56 to 2024-25 (1955 to 2024) are based on the Quarterly National Accounts, 30 September 2025.  Forecasts covering periods 2025-26 to 2029-30 (2025 to 2029) are from the OBR as at the Spring Statement 26 March 2025.  GDP deflators for financial years 1955-56 to 2024-25 have been taken directly from ONS series L8GG. GDP deflators for calendar years 1955 to 2024 have been taken from ONS series MNF2. Non-seasonally adjusted money GDP for calendar and financial years are taken from ONS series BKTL. For financial years only, seasonally adjusted money GDP series YBHA has also been included.  The next GDP deflator update will be shortly after the Budget of 26 November 2025. \"",
+  "base_path": "/government/statistics/gdp-deflators-at-market-prices-and-money-gdp-september-2025-quarterly-national-accounts",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

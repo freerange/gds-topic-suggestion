@@ -1,0 +1,15 @@
+{
+  "title": "Functioning of the UK carbon market, 2024",
+  "body": "\"This report provides a high-level summary of the 2024 scheme year of operation, with data showing the performance of the UK ETS for the fourth year of the scheme, covering:   UK ETS infrastructure UK ETS participants (installations and aviation) functioning of the carbon market (supply of allowances, free allocation and auctions) the Cost Containment Mechanism market oversight high-level compliance data   \"",
+  "base_path": "/government/publications/functioning-of-the-uk-carbon-market-2024",
+  "taxons": [
+    {
+      "title": "UK energy security",
+      "base_path": "/business/uk-energy-security"
+    },
+    {
+      "title": "Energy industry and infrastructure licensing and regulation",
+      "base_path": "/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation"
+    }
+  ]
+}

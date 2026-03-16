@@ -1,0 +1,11 @@
+{
+  "title": "Create a digital platform report",
+  "body": "\"As a digital platform operator, you must use this guidance for your software developer to build and fill in reports in XML format for submission to HMRC.   Check that you have added your business as a platform operator on your digital platform reporting account before creating your files.   You can also use a third-party software provider to build your XML files.  How to build the XML file  To build the XML file, and correct or delete any data in the file, you must:   use the  XML schema  (ZIP, 25.2 KB) — technical details that explain how your XML file must be structured and formatted follow the  Business rules and error messages  (ODS, 14.7 KB) — rules that your content and data need to follow to build the XML file   To help build the XML file, and correct or delete any data in the file, use:   the Model Rules for Reporting by Digital Platform Operators: XML Schema and User Guide for Tax Administrations, on the Organisation for Economic Co-operation and Development website — it contains detailed information on the XML schema and each field of the XML file examples of  XML files with a valid schema and compliant with business rules  (ZIP, 41.6 KB), which also show you how reportable sellers can be consolidated   What to check when creating the XML file  Your XML file must:   present the information as quarterly reports within the file present all monetary values in whole numbers, for example, £20, not £20.30 match the schema and business rules to prevent a failed submission include the platform operator ID in the ‘SendingEntityIN’ field, not the registration ID have all comments removed to pass business rules   Your XML file must not be:   bigger than 100MB a compressed zip file   You do not need to encrypt a file before submitting it. The system will encrypt the file after we’ve completed our checks.  If you have questions about the schema email aeoi.enquiries@hmrc.gov.uk.  After creating the XML file  Submit the report to HMRC. \"",
+  "base_path": "/guidance/create-a-digital-platform-report",
+  "taxons": [
+    {
+      "title": "International tax",
+      "base_path": "/money/international-tax"
+    }
+  ]
+}

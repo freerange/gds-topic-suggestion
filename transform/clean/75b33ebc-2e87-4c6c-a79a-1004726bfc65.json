@@ -1,0 +1,15 @@
+{
+  "title": "Further Education Sector Activity Northern Ireland: 20/21 - 24/25",
+  "body": "\"This statistical bulletin presents a range of analysis regarding enrolments and students (both regulated and non-regulated) in the Northern Ireland further education sector covering academic years 2020/21 to 2024/25. The statistics presented cover the characteristics of those enrolling in FE colleges along with analysis of areas of deprivation, funding streams and performance (retention, achievement and success rates). \"",
+  "base_path": "/government/statistics/further-education-sector-activity-northern-ireland-2021-2425",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    }
+  ]
+}

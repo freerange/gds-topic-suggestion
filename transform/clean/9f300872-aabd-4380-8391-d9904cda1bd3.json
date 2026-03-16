@@ -1,0 +1,15 @@
+{
+  "title": "Poultry Health Scheme: handbook for members",
+  "body": "\"This handbook is for members of the PHS (known as approved poultry establishments).  The handbook includes information on:   what happens after you apply (including the initial inspection visit, testing and the 6 week wait period before you can export) annual inspection requirements requirements you have to follow as a member of the PHS (including biosecurity, facilities, medicines and vaccinations) tests and samples you must take and how often   Find out how to join and pay fees for the poultry health scheme.  \"",
+  "base_path": "/government/publications/poultry-health-scheme-handbook-for-members",
+  "taxons": [
+    {
+      "title": "Poultry registration",
+      "base_path": "/environment/keeping-farmed-animals-poultry-registration"
+    },
+    {
+      "title": "Producing and distributing food",
+      "base_path": "/environment/producing-distributing-food"
+    }
+  ]
+}

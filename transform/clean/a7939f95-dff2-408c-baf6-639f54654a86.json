@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland House Condition Survey 2023: preliminary report",
+  "body": "",
+  "base_path": "/government/statistics/announcements/northern-ireland-house-condition-survey-2023-preliminary-report",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

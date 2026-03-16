@@ -1,0 +1,19 @@
+{
+  "title": "Vietnam: mental health support abroad",
+  "body": "\"Includes information on:   how to get help medical help renewing prescriptions compulsory hospitalisation   See also foreign travel advice for people with mental health needs and mental health and travelling abroad. \"",
+  "base_path": "/government/publications/vietnam-mental-health-support-abroad",
+  "taxons": [
+    {
+      "title": "UK help and services in Vietnam",
+      "base_path": "/world/vietnam"
+    },
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    }
+  ]
+}

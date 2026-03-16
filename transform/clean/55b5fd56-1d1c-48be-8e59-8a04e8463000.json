@@ -1,0 +1,15 @@
+{
+  "title": "Agency worker survey report",
+  "body": "\"The report includes information on:   employment history and activities pay and charges terms and conditions awareness of rights problems at work changing to a permanent contract satisfaction and wellbeing  \"",
+  "base_path": "/government/publications/agency-worker-survey-report",
+  "taxons": [
+    {
+      "title": "Labour market reform",
+      "base_path": "/employment/labour-market-reform"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

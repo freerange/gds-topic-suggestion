@@ -1,0 +1,19 @@
+{
+  "title": "Get intellectual property rights: step-by-step",
+  "body": "\"Use this guide to understand what intellectual property rights you may need and the process you’ll need to follow. \"",
+  "base_path": "/government/publications/get-intellectual-property-right-step-by-step",
+  "taxons": [
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

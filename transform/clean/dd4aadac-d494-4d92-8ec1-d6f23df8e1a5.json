@@ -1,0 +1,15 @@
+{
+  "title": "Public health advice from UK CMOs during a national power outage",
+  "body": "\" The 4 UK Chief Medical Officers (CMOs) as independent advisers provide public health advice in emergencies. To help preparations for the very unlikely event of a national power outage (a total power outage affecting the whole of Great Britain), they have developed scripts containing health advice that would be given to the public in this scenario.  In a national power outage, sharing accurate advice with the public would be challenging because phone, internet and television services would be disrupted. For this reason, these emergency communications would be limited to radio broadcasts.  We have published the scripts here in the interests of transparency. The following important health topics are covered:   water and sanitation food and nutrition keeping warm or cool in extreme weather   These are not government policy - they been developed by the 4 UK CMOs as independent health advisers, with valuable input from the UK Health Security Agency (UKHSA) and collaboration across the 4 nations and their respective public health agencies. \"",
+  "base_path": "/government/publications/public-health-advice-from-uk-cmos-during-a-national-power-outage",
+  "taxons": [
+    {
+      "title": "Emergency response",
+      "base_path": "/health-and-social-care/health-protection-emergency-response"
+    },
+    {
+      "title": "Health emergency planning",
+      "base_path": "/health-and-social-care/health-emergency-planning"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "OFSI General Licence INT/2025/7323088",
+  "body": "\" OFSI General Licence INT/2025/7323088 OFSI General Licence INT/2025/7323088 Publication notice Reporting form   OFSI has issued a new Legal Services General Licence INT/2025/7323088 under most UK Autonomous Sanctions Regimes (see Annex 1 of the General Licence for the list of regimes covered) which will take effect following the expiry of Legal Services General Licence INT/2024/6160920 on 28 October 2025.  This General Licence permits a UK legal firm or UK counsel who has provided legal advice to a person designated under the UK Autonomous Sanctions Regimes listed in Annex 1 to receive payment from that designated person without an OFSI specific licence, provided that the terms of the General Licence INT/2025/7323088 are met.  Any persons intending to use General Licence INT/2025/7323088 should consult the copy of the Licence for full details of the definitions, permissions, and usage requirements as these do not mirror those of General Licences INT/2022/2252300, INT/2023/2954852, INT/2023/3744968, INT/2024/4671884, INT/2024/5334756 or INT/2025/6160920. \"",
+  "base_path": "/government/publications/ofsi-general-licence-int20257323088",
+  "taxons": [
+    {
+      "title": "Money",
+      "base_path": "/money"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    }
+  ]
+}

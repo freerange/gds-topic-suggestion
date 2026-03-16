@@ -1,0 +1,27 @@
+{
+  "title": "Northern Ireland Gambling Licensing and Industry Data 2024",
+  "body": "\"This is the third publication of official statistics in relation to gambling licences and gambling industry economic data for Northern Ireland. It is published annually. Future bulletins will consider trends in licencing and the economic impact of gambling to Northern Ireland in terms of jobs, businesses and turnover. \"",
+  "base_path": "/government/statistics/northern-ireland-gambling-licensing-and-industry-data-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    },
+    {
+      "title": "Gambling regulation",
+      "base_path": "/business-and-industry/gambling-regulation"
+    },
+    {
+      "title": "Gambling duties",
+      "base_path": "/money/gambling-duties"
+    },
+    {
+      "title": "Gambling duties",
+      "base_path": "/money/dealing-with-hmrc-paying-hmrc-gambling-duties"
+    }
+  ]
+}

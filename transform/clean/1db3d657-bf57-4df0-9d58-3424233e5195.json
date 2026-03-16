@@ -1,0 +1,23 @@
+{
+  "title": "Intellectual Property Office: One day workshop",
+  "body": "\"This specialist intellectual property (IP) training course is a one day workshop for anyone wanting to develop their knowledge and skills in identifying and managing IP such as trade marks, copyright, designs and patents. \"",
+  "base_path": "/government/publications/intellectual-property-office-one-day-workshop",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    },
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

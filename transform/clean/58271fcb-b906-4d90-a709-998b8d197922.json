@@ -1,0 +1,11 @@
+{
+  "title": "VAT: Refunds of VAT for Combined County Authorities",
+  "body": "\"This measure will add Combined County Authorities to the list of bodies eligible for refunds, under section 33 of the Value Added Tax Act 1994.  Local government bodies can claim a refund of VAT incurred on purchases of goods and services made to support their statutory non-business activities, if either:   they’re on the list of eligible bodies they have been added by individual Treasury Orders once they’ve been established   By adding Combined County Authorities to the list, they’ll no longer need individual Treasury Orders to be eligible for VAT refunds under section 33. \"",
+  "base_path": "/government/publications/vat-refunds-of-vat-for-combined-county-authorities",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    }
+  ]
+}

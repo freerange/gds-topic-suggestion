@@ -1,0 +1,15 @@
+{
+  "title": "NI Analytical Input-Output tables 2021",
+  "body": "\"The Supply-Use Tables are the starting point for the production of the Input-Output Analytical Tables. For the analysis of industry linkages and economic impacts, it is more meaningful to represent the Use Table in Industry by Industry (IxI) form. These symmetric tables form a basis from which a wide range of macroeconomic models and impact analyses can be constructed. The fundamental purpose of the Input-Output framework is to analyse the interdependence of industries in an economy. A key output from this analysis is the production of multipliers. \"",
+  "base_path": "/government/statistics/ni-analytical-input-output-tables-2021",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

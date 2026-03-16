@@ -1,0 +1,11 @@
+{
+  "title": "Fairness assessment including statistical analysis of the Universal Credit advances machine learning model: 1 April 2024 to 31 March 2025",
+  "body": "\"The UC Advances machine learning model is used to identify advance payment requests at higher risk of fraud. This fairness assessment on the UC Advances model considers the results of statistical fairness analysis alongside other factors such as model performance, fraud risk and operational safeguards,  and reviews the extent to which any measured statistical disparity may impact claimants. It is the Department for Work and Pensions’ (DWP’s) assessment that there are minimal concerns of discrimination, unfair treatment or detrimental impact on legitimate claimants arising from the Advances model. Therefore, it remains reasonable and proportionate to continue operating the Advances model as a fraud prevention control.  \"",
+  "base_path": "/government/publications/fairness-assessment-including-statistical-analysis-of-the-universal-credit-advances-machine-learning-model-1-april-2024-to-31-march-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

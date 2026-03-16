@@ -1,0 +1,19 @@
+{
+  "title": "Beaver reintroduction and management in England",
+  "body": "\" \"",
+  "base_path": "/government/collections/beaver-reintroduction-and-management-in-england",
+  "taxons": [
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    },
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    },
+    {
+      "title": "Mammals",
+      "base_path": "/environment/environmental-management-wildlife-habitat-conservation-mammals"
+    }
+  ]
+}

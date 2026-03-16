@@ -1,0 +1,11 @@
+{
+  "title": "Scottish Income Tax outturn reconciliation for 2023-24",
+  "body": "\"Under the Fiscal Framework agreed between the UK and Scottish Governments in 2016 and reviewed in 2023, the Scottish Government’s funding is initially based on forecasts of Income Tax and updated once actual Income Tax revenues are available.   Actual Income Tax data for 2023-24 replaces forecasts of Scottish Income Tax (made by the Scottish Fiscal Commission) and forecasts of the associated Block Grant Adjustment (based on forecasts of UK Government Income Tax made by the Office for Budget Responsibility).      This reconciliation process for 2023-24 can now be undertaken as HMRC have published 2023-24 Income Tax outturn data and the Office for National Statistics (ONS) and National Records of Scotland have published revised population estimates that affect the calculation of the Block Grant Adjustment:     Scottish Income Tax receipts are higher than forecast at the time of the 2023-24 Scottish Budget so this will increase Scottish Government self-funding by £1283 million in 2026-27.   The associated Block Grant Adjustment is also higher than forecast at the time of the 2023-24 Scottish Budget so this will reduce Scottish Government’s block grant funding by £877 million in 2026-27.   The net effect is a £406 million increase in the Scottish Government’s overall funding for 2026-27.   \"",
+  "base_path": "/government/publications/scottish-income-tax-outturn-reconciliation-for-2023-24",
+  "taxons": [
+    {
+      "title": "Welsh rate of Income Tax",
+      "base_path": "/money/personal-tax-income-tax-welsh-rate-of-income-tax"
+    }
+  ]
+}

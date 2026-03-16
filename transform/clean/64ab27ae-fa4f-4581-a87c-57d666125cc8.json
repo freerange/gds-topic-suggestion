@@ -1,0 +1,11 @@
+{
+  "title": "Pathfinder Programme Ad Hoc Management Information",
+  "body": "\"This page holds ad hoc releases of management information data published in support of announcements of updates on the Pathfinder programme. We are publishing this data to show the reductions in average case timeliness and open caseloads in the Pathfinder court areas.  The last release was published in February 2025 covering the Pathfinder courts in North Wales and Dorset which started the model in February 2022. This release in November 2025 covers the courts in South East Wales and Birmingham, where the model started in April and May 2024 respectively. \"",
+  "base_path": "/government/publications/pathfinder-pilot-ad-hoc-management-information",
+  "taxons": [
+    {
+      "title": "Family justice system",
+      "base_path": "/crime-justice-and-law/family-justice-system"
+    }
+  ]
+}

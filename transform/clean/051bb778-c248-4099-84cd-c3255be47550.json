@@ -1,0 +1,19 @@
+{
+  "title": "Nature Restoration Fund: Implementation plan",
+  "body": "\"The Nature Restoration Fund (NRF) establishes an alternative approach for developers to meet environmental responsibilities relating to certain protected sites and species.  Under the NRF, Natural England will submit draft Environmental Delivery Plans (EDPs) to the Secretary of State. If the Secretary of State then decides to make the EDP, this will allow developers to discharge their relevant responsibilities by paying a levy.  Where an EDP is in place, developers who use it will not be required to offset their impact on the relevant environmental feature of a protected site or a protected species on a development-by-development basis, as required in current legislation. These obligations will be fulfilled by Natural England on a strategic level funded by the levy.  This implementation plan explains:   how Natural England will develop EDPs  how developers can use the NRF once it is in place the government’s target implementation timeline for the NRF    \"",
+  "base_path": "/government/publications/nature-restoration-fund-implementation-plan",
+  "taxons": [
+    {
+      "title": "Environmental planning",
+      "base_path": "/housing-local-and-community/environmental-planning"
+    },
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    },
+    {
+      "title": "Wildlife and habitat conservation",
+      "base_path": "/environment/wildlife-habitat-conservation"
+    }
+  ]
+}

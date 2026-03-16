@@ -1,0 +1,11 @@
+{
+  "title": "Incident scene examination (FSR-GUI-0006)",
+  "body": "\"This guidance covers activities at incident scenes where the primary purpose is managing, searching, recording, or obtaining forensic science evidence, physical material or contact traces, such that any further testing or examination, either at the scene or subsequently, would be subject of another FSA specified by the Code.  \"",
+  "base_path": "/government/publications/incident-scene-examination-fsr-gui-0006",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

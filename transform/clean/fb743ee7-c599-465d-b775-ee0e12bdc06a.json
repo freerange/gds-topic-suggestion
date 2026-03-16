@@ -1,0 +1,11 @@
+{
+  "title": "Currency hedging analysis for the UK Space Agency",
+  "body": "\"We helped the UK Space Agency (UKSA) with its understanding of financial risk – helping protect public funds while enabling the UK’s space ambitions.  The Government Actuary’s Department (GAD) undertook an analysis to help the UKSA understand the impact of currency values on payments it has to make in euros. This analysis was used to inform UKSA’s exposure to risk of currency fluctuations, and how it can manage those risks.  Hedging strategies  UKSA invests and makes regular payments in euros to the European Space Agency (ESA). Meanwhile, funding for the UKSA from its sponsor department the Department for Science, Innovation and Technology is in pounds sterling.  We used historical currency exchange rate data to help illustrate risks when needing to make payments in another currency. We considered the impact that different currency hedging strategies can have, by locking in exchange rates in advance, as a tool to manage risk.  Support policy decisions  The government is used to transacting in overseas currencies and our analysis will be used to support policy decisions in how UKSA makes payments to the ESA.  Investment Consultant Timea Varga said: “This analysis was a great example of applying actuarial techniques to help understanding of financial risks. My background is in investment management; I was proud to be able to apply that experience to help inform policy and drive value for the public sector.” \"",
+  "base_path": "/government/news/currency-hedging-analysis-for-the-uk-space-agency",
+  "taxons": [
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Civil Service statistics: 2025",
+  "body": "\"Civil Service Statistics presents detailed information on the UK Civil Service workforce as at 31 March 2025, including on pay, diversity and location.  The Civil Service Statistics data browser is an interactive tool from Cabinet Office which provides access to more detailed data on the Civil Service workforce. \"",
+  "base_path": "/government/statistics/civil-service-statistics-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

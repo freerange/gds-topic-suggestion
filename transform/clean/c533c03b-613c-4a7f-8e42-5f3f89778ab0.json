@@ -1,0 +1,11 @@
+{
+  "title": "GOV.UK app testing privacy notice: how we use your data",
+  "body": "\"The privacy note for signing up to test the GOV.UK app. \"",
+  "base_path": "/government/publications/govuk-app-testing-privacy-notice-how-we-use-your-data",
+  "taxons": [
+    {
+      "title": "GOV.UK services",
+      "base_path": "/government/govuk-services"
+    }
+  ]
+}

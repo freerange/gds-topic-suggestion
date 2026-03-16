@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Sea Fisheries Statistics December 2024",
+  "body": "\"Highlights   Total landings by UK vessels decreased by 12% in December 2024 compared to 2023. The value of landings in December 2024 (£43 million) also decreased, down by 18% compared to 2023. Landings in December 2024 comprised mostly of Demersal species (40%) however, Shellfish species comprised the largest proportion of value landed.  This is because Shellfish species typically fetch a high price.  \"",
+  "base_path": "/government/statistics/monthly-sea-fisheries-statistics-december-2024",
+  "taxons": [
+    {
+      "title": "Fisheries statistics",
+      "base_path": "/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-fisheries-statistics"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

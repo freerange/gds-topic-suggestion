@@ -1,0 +1,11 @@
+{
+  "title": "MOD: spending over £25,000, January to December 2025",
+  "body": "\"The Ministry of Defence (MOD) publishes details of all departmental spending over £25,000 on a monthly basis. \"",
+  "base_path": "/government/publications/mod-spending-over-25000-january-to-december-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

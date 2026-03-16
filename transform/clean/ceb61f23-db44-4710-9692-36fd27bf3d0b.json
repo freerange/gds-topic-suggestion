@@ -1,0 +1,11 @@
+{
+  "title": "Agent Update: Issue 135",
+  "body": "\"Agent updates give guidance and news for tax agents and advisers.  If you would like to know when all future editions of the agent update are published, sign up to receive email reminders.  Older updates are on the National Archive website. \"",
+  "base_path": "/government/publications/agent-update-issue-135",
+  "taxons": [
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    }
+  ]
+}

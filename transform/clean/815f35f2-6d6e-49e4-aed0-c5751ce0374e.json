@@ -1,0 +1,27 @@
+{
+  "title": "Stage 4 Marine Protected Areas Interactive Maps",
+  "body": "\"MMO have developed interactive WebApps to support its assessment of Stage 4 MPAs, help stakeholders understand potential management options and share their views.   Stage 4 UK Fishing Effort under 12m, Static Gear (2016 to 2022) Stage 4 UK Fishing Effort under 12m, Bottom Towed Gear (2016 to 2022) Stage 4 UK Fishing Effort under 12m, Midwater Gear (2016 to 2022) Stage 4 VMS Fishing Density, Static Gear (2016 to 2022) Stage 4 VMS Fishing Density, Bottom Towed Gear (2016 to 2022) Stage 4 VMS Fishing Density, Midwater Gear (2016 to 2022)  \"",
+  "base_path": "/government/publications/stage-4-marine-protected-areas-interactive-maps",
+  "taxons": [
+    {
+      "title": "Fishing vessels",
+      "base_path": "/environment/fishing-vessels"
+    },
+    {
+      "title": "Marine fisheries",
+      "base_path": "/environment/marine-fisheries"
+    },
+    {
+      "title": "Marine",
+      "base_path": "/environment/marine"
+    },
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    },
+    {
+      "title": "Mammals",
+      "base_path": "/environment/environmental-management-wildlife-habitat-conservation-mammals"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Control Shares explanatory note",
+  "body": "\"An explanatory note, which sets out the methodology used to calculate the control shares. \"",
+  "base_path": "/government/publications/control-shares-explanatory-note",
+  "taxons": [
+    {
+      "title": "Local government spending",
+      "base_path": "/regional-and-local-government/local-government-spending"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Primary school performance tables: 2025",
+  "body": "\"The 2025 tables show:   results from the key stage 2 test in:  reading grammar, punctuation and spelling mathematics   key stage 2 teacher assessment results in writing   Additional school-level data includes:   pupil absence pupil population school information  \"",
+  "base_path": "/government/statistics/primary-school-performance-tables-2025",
+  "taxons": [
+    {
+      "title": "Pupil performance in schools",
+      "base_path": "/education/pupil-performance-in-schools"
+    }
+  ]
+}

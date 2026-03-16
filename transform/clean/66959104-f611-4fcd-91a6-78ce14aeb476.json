@@ -1,0 +1,15 @@
+{
+  "title": "Imports and exports of services by country, by modes of supply, UK: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/imports-and-exports-of-services-by-country-by-modes-of-supply-uk-2023",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

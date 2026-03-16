@@ -1,0 +1,11 @@
+{
+  "title": "Sam guidance for Official Veterinarians and practice staff",
+  "body": "\"You can submit TB test results to the Animal and Plant Health Agency (APHA), using the agency’s internal system, Sam.  This allows Official Veterinarians (OVs), Approved Tuberculin Testers (ATTs) and OV Practice admin staff to electronically create, enter and submit TB test results, giving a quick and efficient process.  This service allows you to:   view TB testing instructions online create private tests for your clients continue to use TB Master functionality work offline if the internet is unavailable   You access Sam using Government Gateway.  You will have already registered with APHA for access to Sam. To enable you to access Sam you will need to also set up a Government Gateway account. This guide gives you easy step by step instructions to help you do this.  \"",
+  "base_path": "/government/publications/sam-guidance-for-official-veterinarians-and-practice-staff",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

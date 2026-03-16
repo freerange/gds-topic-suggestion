@@ -1,0 +1,15 @@
+{
+  "title": "General Pharmaceutical Services Statistics for NI, Q2 2025/26",
+  "body": "\"Northern Ireland pharmaceutical services statistics for quarter 2 2025/26. Tables include breakdowns of the number of items, forms and ingredient cost of items prescribed and dispensed in primary care in Northern Ireland. Further breakdowns by area, age, gender and BNF chapter are included, as well as a summary key facts html. \"",
+  "base_path": "/government/statistics/general-pharmaceutical-services-statistics-for-ni-q2-202526",
+  "taxons": [
+    {
+      "title": "Pharmacy",
+      "base_path": "/health-and-social-care/pharmacy"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

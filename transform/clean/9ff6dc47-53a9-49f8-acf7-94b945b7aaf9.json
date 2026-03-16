@@ -1,0 +1,19 @@
+{
+  "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending June 2025",
+  "body": "\"Reports on performance against commitments in the Energy Strategy and the Climate Change Act target to “ensure that at least 80% of electricity consumption is from renewable sources by 2030”. The report is currently published quarterly - in March, June, September and December. \"",
+  "base_path": "/government/statistics/electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-june-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    }
+  ]
+}

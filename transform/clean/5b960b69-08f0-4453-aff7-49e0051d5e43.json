@@ -1,0 +1,27 @@
+{
+  "title": "Methodology to calculate net zero job growth potential",
+  "body": "\"This research describes the methodology the Department for Transport (DfT) has used to develop job growth potential calculators.  These calculators will equip DfT with a standardised way for estimating the expected employment and gross value added opportunities that a transport decarbonisation policy or policy scenario will support.   Ricardo was commissioned by DfT to carry out this research.  \"",
+  "base_path": "/government/publications/methodology-to-calculate-net-zero-job-growth-potential",
+  "taxons": [
+    {
+      "title": "Aviation and the environment",
+      "base_path": "/transport/aviation-and-the-environment"
+    },
+    {
+      "title": "Road transport and the environment",
+      "base_path": "/transport/road-transport-and-the-environment"
+    },
+    {
+      "title": "Maritime and the environment",
+      "base_path": "/transport/maritime-and-the-environment"
+    },
+    {
+      "title": "Transport modelling and appraisal",
+      "base_path": "/transport/transport-modelling-and-appraisal"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

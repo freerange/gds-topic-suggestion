@@ -1,0 +1,15 @@
+{
+  "title": "Medical devices: post-market surveillance requirements",
+  "body": "\"The new set of regulations The Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024 amends the UK Medical Devices Regulations 2002 (MDR 2002) by inserting a new Part 4A on post-market surveillance (PMS) requirements for medical devices, including in vitro diagnostic (IVD) devices and active implantable medical devices which apply within Great Britain (GB). It includes notification requirements for incidents, and preventive and corrective actions taking place after the device is first approved for the GB market. \"",
+  "base_path": "/government/publications/medical-devices-post-market-surveillance-requirements",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Vigilance, safety alerts and guidance",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts"
+    }
+  ]
+}

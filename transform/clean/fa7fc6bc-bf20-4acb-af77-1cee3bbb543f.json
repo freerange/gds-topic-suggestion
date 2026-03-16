@@ -1,0 +1,11 @@
+{
+  "title": "DBT non-consolidated performance related pay",
+  "body": "\"Non-consolidated performance related payments are one-off, non-pensionable awards made to staff for their performance each year.  The performance year in the Department for Business and Trade (DBT) runs from 1 April to 31 March.  \"",
+  "base_path": "/government/collections/dbt-non-consolidated-performance-related-pay",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

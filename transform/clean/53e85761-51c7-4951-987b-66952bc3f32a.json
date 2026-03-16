@@ -1,0 +1,23 @@
+{
+  "title": "Local authority registered provider social housing stock and rents in England 2024/25",
+  "body": "",
+  "base_path": "/government/statistics/announcements/local-authority-registered-provider-social-housing-stock-and-rents-in-england-202425",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

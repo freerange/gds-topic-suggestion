@@ -1,0 +1,15 @@
+{
+  "title": "Business data use and productivity study (wave 2)",
+  "body": "\"The business data use and productivity study explores data use in individual UK businesses and at the economy-wide level, to better understand the data-related activities and attitudes towards data that promote higher productivity and growth.  The study is based on a longitudinal survey that asks businesses about the amount of money and time they invest in data assets, in addition to their data-related skills and activities. \"",
+  "base_path": "/government/publications/business-data-use-and-productivity-study-wave-2",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

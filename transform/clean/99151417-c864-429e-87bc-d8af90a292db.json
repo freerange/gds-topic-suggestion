@@ -1,0 +1,11 @@
+{
+  "title": "Government response on the code of practice for software vendors",
+  "body": "\"Software is the backbone of the digital economy. It has become a vital part of our everyday lives and is relied upon by businesses, citizens and governments. When software is compromised or faulty, it can bring organisations to a halt, and reliance on such technology makes it an appealing target for malicious actors. The government is therefore taking action to improve software security and resilience.  Last year, to address this issue, the government published a draft Code of Practice for Software Vendors and sought views on it from the public and industry.  The draft code sets out minimum software security measures for organisations selling software to businesses. It aims to protect UK businesses and strengthen digital supply chains against harm and disruption from software supply chain attacks and poor software resilience.  This government response report details the feedback received. It also explains how the government will use this input to finalise the code of practice and develop additional policy to incentivise uptake of these voluntary measures.  \"",
+  "base_path": "/government/publications/government-response-on-the-code-of-practice-for-software-vendors",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

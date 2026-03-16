@@ -1,0 +1,11 @@
+{
+  "title": "Data for Theme F: Resilience",
+  "body": "\"This document contains data corresponding to the ‘Theme F: Resilience’ indicators of the Environmental Indicator Framework. \"",
+  "base_path": "/government/publications/data-for-theme-f-resilience",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

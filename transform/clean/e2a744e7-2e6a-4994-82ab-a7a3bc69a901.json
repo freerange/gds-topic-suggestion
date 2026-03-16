@@ -1,0 +1,11 @@
+{
+  "title": "Employer skills surveys 2022 to 2024: UK technical documentation",
+  "body": "\"Technical documentation for the employer skills surveys 2022 to 2024.  Data tables by nation are on employer skills survey 2022 and employer skills survey 2024.  Underlying data sets will soon be available through the UK Data Service. \"",
+  "base_path": "/government/publications/employer-skills-surveys-2022-to-2024-uk-technical-documentation",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    }
+  ]
+}

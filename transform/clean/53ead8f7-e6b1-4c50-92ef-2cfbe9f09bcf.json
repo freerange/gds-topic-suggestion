@@ -1,0 +1,11 @@
+{
+  "title": "Additional support for DWP customers",
+  "body": "\" \"",
+  "base_path": "/government/collections/additional-support-for-dwp-customers",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    }
+  ]
+}

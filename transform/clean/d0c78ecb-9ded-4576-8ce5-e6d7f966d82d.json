@@ -1,0 +1,11 @@
+{
+  "title": "Indicators of house building, UK (Jan to Mar 2025): permanent dwellings started and completed by country",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/indicators-of-house-building-uk-jan-to-mar-2025-permanent-dwellings-started-and-completed-by-country",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    }
+  ]
+}

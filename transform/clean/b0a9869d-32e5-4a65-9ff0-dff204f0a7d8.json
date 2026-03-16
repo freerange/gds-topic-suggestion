@@ -1,0 +1,11 @@
+{
+  "title": "National non-domestic rates collected by councils in England: forecast 2025 to 2026",
+  "body": "\"This release provides information on national non-domestic rates and associated information for the financial year 2025 to 2026.  This information is derived from the national non-domestic rates (NNDR1) returns submitted by billing authorities in England. \"",
+  "base_path": "/government/statistics/national-non-domestic-rates-collected-by-councils-in-england-forecast-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Local government",
+      "base_path": "/regional-and-local-government/local-government"
+    }
+  ]
+}

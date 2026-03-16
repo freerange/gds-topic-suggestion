@@ -1,0 +1,11 @@
+{
+  "title": "Anniversary Statement: EC175 B, G-MCSH",
+  "body": "\"This statement provides an update on the AAIB investigation into a serious incident involving an EC175 B on the Elgin Platform in the North Sea on 17 February 2023.  The helicopter had shut down on the platform due to a technical fault, but a problem with the rotor brake meant the rotor blades continued to rotate slowly, preventing the application of the rotor blade tie downs.  The platform was in the path of Storm Otto, with associated high winds resulting in four of the five main rotor blades breaking off the helicopter.  No one was injured.  The AAIB investigation has focused on the cause of the rotor brake failure and the breaking of the rotor blades.  It has also looked into operational factors, including weather reporting.  The investigation has identified issues with the flight recorder on the helicopter and is working with the helicopter and recorder manufacturers to rectify this.   The investigation is nearing completion and the final report will be published by the AAIB as soon as this is possible. \"",
+  "base_path": "/government/news/anniversary-statement-ec175-b-g-mcsh--2",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

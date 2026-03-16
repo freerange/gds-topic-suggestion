@@ -1,0 +1,15 @@
+{
+  "title": "Smoking profile: November 2025 update",
+  "body": "\" The smoking profile has been designed to help local government and health services to assess the effect of smoking on their local populations. The data is presented in an interactive tool that allows users to view it in a user-friendly format.  New data has been added to the smoking profile tool on the Fingertips platform for:   smoking prevalence indicators from the Annual Population Survey (APS) updated with 2024 data smoking prevalence indicators from the GP Patient Survey (GPPS) updated with 2024 to 2025 data stop smoking services indicators updated with 2024 to 2025 data   Updated indicators are available at local authority level, integrated care board (ICB) level, as well as for England, the regions and various inequality groups. Updated indicators are listed in the updated indicators section.  \"",
+  "base_path": "/government/statistics/smoking-profile-november-2025-update",
+  "taxons": [
+    {
+      "title": "Smoking",
+      "base_path": "/health-and-social-care/smoking"
+    },
+    {
+      "title": "Vaping",
+      "base_path": "/health-and-social-care/vaping"
+    }
+  ]
+}

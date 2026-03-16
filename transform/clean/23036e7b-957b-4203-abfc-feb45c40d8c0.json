@@ -1,0 +1,15 @@
+{
+  "title": "Clean Energy Industries Sector Plan",
+  "body": "\"The Clean Energy Industries Sector Plan doubles down on the UK’s existing strengths in frontier clean energy industries with the biggest growth opportunities.   The Plan’s ambition is to make us a global leader by 2035, doubling investment levels across our frontier clean energy industries to over £30 billion per year and creating good jobs across the country. \"",
+  "base_path": "/government/publications/clean-energy-industries-sector-plan",
+  "taxons": [
+    {
+      "title": "Clean energy",
+      "base_path": "/government/clean-energy"
+    },
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    }
+  ]
+}

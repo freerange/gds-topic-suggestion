@@ -1,0 +1,11 @@
+{
+  "title": "Obesity profile: February 2025 update",
+  "body": "\"New indicators have been added to the obesity profile displaying data on average (mean) height and prevalence of short stature using data from the National Child Measurement Programme (NCMP) for children in reception (aged 4 to 5 years) and year 6 (aged 10 to 11 years). Data for academic year ending 2010 to academic year ending 2024 is displayed at local authority, integrated care board, statistical region and England level.  Details of this release can be found in ‘Obesity profile: statistical commentary on patterns and trends in child height, February 2025’.  \"",
+  "base_path": "/government/statistics/obesity-profile-february-2025-update",
+  "taxons": [
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    }
+  ]
+}

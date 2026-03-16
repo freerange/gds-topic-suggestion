@@ -1,0 +1,11 @@
+{
+  "title": "Statistics: school funding",
+  "body": "\"These statistics show data for:   school revenue funding for 5 to 16 year olds between the 2010 to 2011 and the relevant financial year school funding allocations by financial year  \"",
+  "base_path": "/government/collections/statistics-school-funding",
+  "taxons": [
+    {
+      "title": "School and academy funding",
+      "base_path": "/education/school-and-academy-funding"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "How we protected the UK and space in July 2025",
+  "body": "\"July saw reduced levels of space activity with both uncontrolled re-entry and collision alerts at levels below the 12-month rolling average.  All NSpOC warning and protection services functioned as expected throughout the period.  Re-entry Analysis  July saw a 5% decrease in the number of objects re-entering Earth’s atmosphere, tracked by NSpOC, when compared with the previous month.  Of the 52 objects that re-entered, 39 were satellites, 11 were rocket bodies and 2 were likely pieces of debris.   August: 89, September: 50, October: 35, November: 47, December: 83, January: 115, February: 129, March: 85, April: 92, May: 64, June: 55, July: 52  In-Space Collision Avoidance  Collision risks to UK-licensed satellites were lower in July with a 18% decline when compared with June, caused by fewer interactions between UK-licensed objects and other spacecraft or debris over the previous 30 days.   August: 2,137, September: 3,041, October: 3,181, November: 2,722, December: 2,142, January: 2,694, February: 2,567, March: 2,588, April: 2,620, May: 1,546, June: 1,259, July: 1,038  Number of Objects in Space  The in-orbit population increased in July, with a net addition of 158 objects to the US Satellite Catalogue.   August: 29,669, September: 29,649, October: 29,657, November: 29,816, December: 29,867, January: 29,996, February: 30,027, March: 30,124, April: 30,253, May: 30,504, June: 30,739, July: 31,038  The number of Resident Space Objects (RSOs) reported may be subject to small adjustments over time as the way objects are tracked is refined. Figures in this report reflect the most current available data and may differ slightly from those published in previous months.  Fragmentation Analysis  There have been no new fragmentation (break-up) incidents this month.  Space weather  July saw a significant reduction space weather activity compared to the previous month. \"",
+  "base_path": "/government/news/how-we-protected-the-uk-and-space-in-july-2025",
+  "taxons": [
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

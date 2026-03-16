@@ -1,0 +1,11 @@
+{
+  "title": "Methodology for the scientific derivation of environmental assessment levels",
+  "body": "\"This project updates the Environment Agency’s method for the scientific derivation of environmental assessment levels for air (EALs).  It provides clarifications from the experience gained following the publication of new and revised EALs in recent years and illustrates its application with worked examples \"",
+  "base_path": "/government/publications/methodology-for-the-scientific-derivation-of-environmental-assessment-levels",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

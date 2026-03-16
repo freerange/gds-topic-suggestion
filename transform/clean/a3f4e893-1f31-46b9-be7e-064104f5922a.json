@@ -1,0 +1,11 @@
+{
+  "title": "Training and exercise deaths in the UK Armed Forces: 2025",
+  "body": "\"This Official Statistic provides summary information on deaths among UK regular armed forces personnel and ‘on duty’ reservists which occurred whilst on training or exercise from 1 January 2000 to 31 August 2025. \"",
+  "base_path": "/government/statistics/training-and-exercise-deaths-in-the-uk-armed-forces-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

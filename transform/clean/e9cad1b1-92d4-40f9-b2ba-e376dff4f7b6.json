@@ -1,0 +1,11 @@
+{
+  "title": "Greater Cambridge: Growth Scenarios",
+  "body": "\"The report provides an assessment of Oxford Economics’ baseline forecast for growth in Greater Cambridge. It then highlights Greater Cambridge’s role as a global innovator and presents the results of 3 illustrative and non-spatial growth scenarios. \"",
+  "base_path": "/government/publications/greater-cambridge-growth-scenarios",
+  "taxons": [
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

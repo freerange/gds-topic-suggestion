@@ -1,0 +1,11 @@
+{
+  "title": "Children looked after in England including adoption: 2024 to 2025",
+  "body": "\"This statistical release provides information about looked-after children in England for the year ending 31 March 2025.  The figures are based on data from the children looked after return (also known as SSDA903) collected from all local authorities. \"",
+  "base_path": "/government/statistics/children-looked-after-in-england-including-adoption-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Adoption",
+      "base_path": "/childcare-parenting/adoption"
+    }
+  ]
+}

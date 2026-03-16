@@ -1,0 +1,11 @@
+{
+  "title": "DfT: spending over £500, November 2024",
+  "body": "\"Department for Transport (DfT) publishes details of all spending over £500 using a government procurement card (GPC) every month.  This data is also available on data.gov.uk.  \"",
+  "base_path": "/government/publications/dft-spending-over-500-november-2024",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

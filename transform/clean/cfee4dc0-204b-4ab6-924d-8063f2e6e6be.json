@@ -1,0 +1,11 @@
+{
+  "title": "UK trade in Food, Feed and Drink Collection",
+  "body": "\"This series shows the latest statistics on the value of United Kingdom trade value of Food, Feed and Drink in the United Kingdom, presented in current prices and real terms, after adjusting for trade price inflation.  Next update: see the statistics release calendar  For further information please contact: Trade statistics team  Email: trade-stats@defra.gov.uk \"",
+  "base_path": "/government/collections/uk-trade-in-food-feed-and-drink-collection",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

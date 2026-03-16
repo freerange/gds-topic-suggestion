@@ -1,0 +1,11 @@
+{
+  "title": "National Tick Survey",
+  "body": "\"  CCHS navigation menu:  CCHS homepageTopic: health impacts Vector-borne disease: ticksPart of: tick surveys    Key resources for tick surveys:   National Tick Survey   More content:   Tick surveillance scheme Tick species profiles    About the survey  The UK Health Security Agency (UKHSA) works with park rangers and wardens from National Parks, National Landscapes and Forestry England to monitor ticks across England and Wales. Together, we carry out vegetation surveys to look for ticks in the environment. Ticks are then tested for a range of pathogens to help assess the potential public health risk. Our annual survey provides a snapshot of current tick activity and pathogen circulation in the UK tick population and informs our risk assessments.  How we collect the data  Ticks are collected from the vegetation every May or June in over 40 different locations. We collect ticks by using a cotton cloth, brushing it over vegetation and collecting any ticks that latch on. We repeat our survey over several transects, to produce estimates of the density of ticks. Ticks are then screened for pathogens using molecular methods, to estimate the prevalence of pathogens.  What the data currently shows  On average, approximately 4 to 6% of ticks tested as part of this project are infected with the bacteria that can cause Lyme disease. Infection rates of another pathogen called Anaplasma phagocytophilum are similar, but rates of Babesia are much lower (less than 1%).  How to take part  If your organisation is interested in working with us on our survey, please contact tick@ukhsa.gov.uk to find out more.  \"",
+  "base_path": "/guidance/national-tick-survey",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    }
+  ]
+}

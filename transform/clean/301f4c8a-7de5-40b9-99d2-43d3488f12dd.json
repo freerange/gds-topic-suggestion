@@ -1,0 +1,19 @@
+{
+  "title": "Beavers: applying for a licence to release beavers into the wild",
+  "body": "\"You need an A69 licence to release beavers into the wild in England.  You can request a form from Natural England to express your interest in getting a licence to release beavers into the wild.  Expressions of interest will be open between 3 March and 2 May 2025. \"",
+  "base_path": "/government/publications/beavers-applying-for-a-licence-to-release-beavers-into-the-wild",
+  "taxons": [
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    },
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    },
+    {
+      "title": "Mammals",
+      "base_path": "/environment/environmental-management-wildlife-habitat-conservation-mammals"
+    }
+  ]
+}

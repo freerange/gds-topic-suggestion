@@ -1,0 +1,11 @@
+{
+  "title": "Monthly Sea Fisheries Statistics September 2025",
+  "body": "\"Highlights   The total quantity of landings by UK vessels (tonnes) decreased in September 2025 compared to 2024, down 36%. The value of landings in September 2025 (£63.7m) decreased compared to 2024 down by 28%. Landings in September 2025 were comprised of more Pelagic species (49%). Demersal species comprised the majority of the value landed (39%), with Shellfish species also high at 37%.  \"",
+  "base_path": "/government/statistics/monthly-sea-fisheries-statistics-september-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

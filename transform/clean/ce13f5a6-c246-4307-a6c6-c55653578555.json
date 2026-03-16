@@ -1,0 +1,11 @@
+{
+  "title": "PHIA Common Analytical Standards",
+  "body": "\"This details the elements within the standards which are used by the intelligence analysis profession to ensure a consistent standard of rigour, integrity, language and best practice across the UK intelligence assessment community. \"",
+  "base_path": "/government/publications/phia-common-analytical-standards",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

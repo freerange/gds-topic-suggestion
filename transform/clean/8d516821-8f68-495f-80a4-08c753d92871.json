@@ -1,0 +1,11 @@
+{
+  "title": "HMPPS annual reporting",
+  "body": "\"Collection of HMPPS (and NOMS) annual reports.  On 1 April 2017, HM Prison and Probation Service (HMPPS) replaced the National Offender Management Service (NOMS). \"",
+  "base_path": "/government/collections/hmpps-annual-reporting",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

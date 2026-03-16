@@ -1,0 +1,19 @@
+{
+  "title": "Scottish defence skills and jobs boost as welding facility secured through new Government funding",
+  "body": "\"Scottish defence skills and jobs will be boosted, as the UK Government commits £2.5 million in funding for a specialist welding skills centre in Glasgow.    The new funding will safeguard a crucial pipeline of defence jobs in Scotland, helping to make defence an engine for growth. A skilled welding workforce will be trained at the facility, supporting the delivery of nuclear reactors that power the Royal Navy’s fleet of submarines.    The funding will be delivered through the Government’s Unity contract with Rolls Royce, an eight-year agreement worth approximately £9 billion to bolster support to the Royal Navy’s fleet of nuclear submarines.   The centre will initially be operated by Rolls Royce Submarines in partnership with Malin Group and Strathclyde University, with potential future capacity for other organisations.    This investment delivers on the ambitions of the recently launched Defence Industrial Strategy, which puts skills at the heart of the Government’s plans to make the country safer and boost jobs across the UK.   Rolls Royce designs, builds and maintains nuclear reactors that power Royal Navy submarines. The Unity contract, which runs until December 2032, brings together current and future work between Rolls Royce and the Ministry of Defence into a single portfolio, including skills development programmes that support good, productive jobs and economic growth.   This announcement follows the recent £10 billion Type 26 Frigate contract with Norway, which will see the vessels built in Scotland, further cementing the UK’s position as a global leader in defence manufacturing. \"",
+  "base_path": "/government/news/scottish-defence-skills-and-jobs-boost-as-welding-facility-secured-through-new-government-funding",
+  "taxons": [
+    {
+      "title": "Armed forces",
+      "base_path": "/defence/working-armed-forces"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "UK nuclear deterrent",
+      "base_path": "/defence-and-armed-forces/uk-nuclear-deterrent"
+    }
+  ]
+}

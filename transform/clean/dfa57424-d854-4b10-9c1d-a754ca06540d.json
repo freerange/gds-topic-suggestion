@@ -1,0 +1,19 @@
+{
+  "title": "Ministry of Justice AI and Data Science Ethics Framework",
+  "body": "\"The Ministry of Justice AI and Data Science Ethics Framework is a comprehensive collection of tools and guidance aimed at fostering a responsible ecosystem for data-driven technologies. It promotes ethical reflection and deliberation throughout all stages of a project’s lifecycle, helping teams integrate ethical considerations into their work.  This framework seeks to maximise the benefits of a project while minimising risks and harms. These materials were produced in collaboration with The Alan Turing Institute through an extended engagement with personnel at the UK Ministry of Justice.  The framework was initially designed to support ethical creation of data technologies in a criminal justice context, but we will continue to iterate it to support data ethics across the justice system. \"",
+  "base_path": "/government/publications/ministry-of-justice-ai-and-data-science-ethics-framework",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Government technology and digital services",
+      "base_path": "/government/government-technology-and-digital-services"
+    }
+  ]
+}

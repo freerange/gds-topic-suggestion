@@ -1,0 +1,19 @@
+{
+  "title": "STI quarterly surveillance reports: provisional data",
+  "body": "\"These quarterly reports present provisional data on syphilis and gonorrhoea to show the scale and trend of diagnoses of these bacterial sexually transmitted infections on an interim basis between the annual official statistics publications, which provide more detailed breakdowns.  Interpretation notes are available for the provisional data on diagnoses of syphilis and gonorrhoea data in England. These notes place the recent data in the context of long-term trends in these infections. \"",
+  "base_path": "/government/publications/sti-quarterly-surveillance-reports-provisional-data",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    },
+    {
+      "title": "Sexual and reproductive health",
+      "base_path": "/health-and-social-care/sexual-and-reproductive-health"
+    }
+  ]
+}

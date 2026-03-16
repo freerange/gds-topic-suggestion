@@ -1,0 +1,23 @@
+{
+  "title": "MGN 577 (M) Amendment 2 maintenance of lists of crew ashore",
+  "body": "\"This notice should be read with the Merchant Shipping (Crew Agreements, Lists of Crew and Discharge of Seamen) Regulations 1991 (S.I 1991/2144) as amended by the Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I 2014/1614)etc.  Amendment 2 updates reference information only.  Notice to   shipowners employers masters of merchant vessels  \"",
+  "base_path": "/government/publications/mgn-577-m-amendment-2-maintenance-of-lists-of-crew-ashore",
+  "taxons": [
+    {
+      "title": "Safe and compliant operation of vessels",
+      "base_path": "/transport/safe-and-compliant-operation-of-vessels"
+    },
+    {
+      "title": "Employment of seafarers",
+      "base_path": "/transport/employment-of-seafarers"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    },
+    {
+      "title": "Vessel surveys and inspection",
+      "base_path": "/transport/maritime-surveying"
+    }
+  ]
+}

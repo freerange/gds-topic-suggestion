@@ -1,0 +1,11 @@
+{
+  "title": "Analysis of the drivers of trust in HMRC",
+  "body": "\"HM Revenue and Customs (HMRC) commissioned Verian (previously Kantar Public) to conduct a survey with over 3000 individual and small business taxpayers between April and May 2022.  The purpose of this survey was to fill a quantitative evidence gap identified following two previous qualitative research pieces in this area. This research aimed to identify which factors are most important in building trust and whether this varies by demographic or firmographic variables.   Factor analysis and statistical models were then run on the survey data to robustly and quantitively identify the drivers and influencers of trust perceptions. The analysis following the survey is what is presented in the report.  \"",
+  "base_path": "/government/publications/analysis-of-the-drivers-of-trust-in-hmrc",
+  "taxons": [
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    }
+  ]
+}

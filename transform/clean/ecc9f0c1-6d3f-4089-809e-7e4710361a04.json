@@ -1,0 +1,11 @@
+{
+  "title": "Cyber security vulnerabilities of operational technologies",
+  "body": "\"As part of work to improve cyber resilience across the UK economy, the government is developing policy to better improve the cyber security of operational technologies (OT).  OT systems can be found in industrial settings such as manufacturing, power generation, or water treatment and differ from traditional information technology devices. OT consists of programmable hardware and software designed to monitor, control and manage industrial operations sectors such as manufacturing, transportation and utilities. OT is increasingly a target for cyber attackers and criminals seeking to disrupt their operation for political or financial gain. The research explores the cyber security risks to OT in both critical and non-critical national infrastructure.  This research informs the government’s ongoing work to improve UK cyber resilience and the cyber security of technologies used across the economy.  \"",
+  "base_path": "/government/publications/cyber-security-vulnerabilities-of-operational-technologies",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

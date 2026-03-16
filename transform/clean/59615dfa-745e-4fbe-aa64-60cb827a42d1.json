@@ -1,0 +1,23 @@
+{
+  "title": "Registering / de-registering as a social housing provider: contact details and enquiries",
+  "body": "\"For general queries on registering or de-registering (but not applications) please contact the Referrals and Regulatory Enquiries team on 0300 124 5225 or enquiries@rsh.gov.uk.  Notifications of restructures, constitutional changes and disposals - and registering a restructured body  See the Restructures and constitutional changes page for guidance and notification forms, including registration of a restructured body.  See the Notification of disposals page for guidance and notification forms.  List of registered providers and the information required by RSH   See the Current registered providers of social housing page for a list of registrations and de-registrations.  See the Information required from registered providers page for guidance on RSH requirements.  \"",
+  "base_path": "/guidance/contact-details-and-general-enquiries",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing funding programmes",
+      "base_path": "/housing-local-and-community/funding-programmes"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

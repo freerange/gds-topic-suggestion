@@ -1,0 +1,11 @@
+{
+  "title": "Single Data List - local sites in positive conservation management",
+  "body": "",
+  "base_path": "/government/statistics/announcements/single-data-list-local-sites-in-positive-conservation-management--5",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

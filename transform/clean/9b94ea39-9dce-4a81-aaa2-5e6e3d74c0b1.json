@@ -1,0 +1,31 @@
+{
+  "title": "OFSI General licence INT/2025/7345264",
+  "body": "\" OFSI General licence INT/2025/7345264 OFSI General licence INT/2025/7345264 Publication notice   On 29 September 2025, OFSI issued General Licence INT/2025/7345264 under regulation 40 of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019 (the “Iran Nuclear Regulations”) which allows for Persons to wind down from any transactions involving the DP to which that Person is a party. \"",
+  "base_path": "/government/publications/ofsi-general-licence-int20257345264",
+  "taxons": [
+    {
+      "title": "International",
+      "base_path": "/international"
+    },
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

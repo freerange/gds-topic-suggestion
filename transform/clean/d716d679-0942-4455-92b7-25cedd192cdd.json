@@ -1,0 +1,11 @@
+{
+  "title": "Local authority greenhouse gas emissions: 2024 estimates",
+  "body": "",
+  "base_path": "/government/statistics/announcements/local-authority-greenhouse-gas-emissions-2024-estimates",
+  "taxons": [
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    }
+  ]
+}

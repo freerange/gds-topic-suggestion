@@ -1,0 +1,23 @@
+{
+  "title": "Substance misuse and mental health issues: September 2025 update",
+  "body": "\"The ‘Co-occurring substance misuse and mental health issues profile’ on the Fingertips tool includes a range of indicators on people receiving treatment for drug and alcohol treatment and treatment for co-occurring mental health conditions.  This update includes routine updates to several existing indicators, as well as adding 3 new indicators. These new indicators were previously published by NHS England and are:   hospital admissions for drug-related mental and behavioural disorders hospital admissions for poisoning by drug misuse hospital admissions where drug-related mental and behavioural disorders were a factor   You can find information on the other updated indicators in the September 2025 update at the ‘Co-occurring substance misuse and mental health issues profile’.  The data in this profile supports planners, service providers and stakeholders to:   understand substance misuse and co-occurring mental health issues at their local level profile their area and benchmark against similar populations   You can find more information on a range of public health topics, including other profiles and their indicators, on the Fingertips tool. \"",
+  "base_path": "/government/statistics/substance-misuse-and-mental-health-issues-september-2025-update",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Drug misuse and dependency",
+      "base_path": "/health-and-social-care/drug-misuse-and-dependency"
+    },
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    },
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Exposure of UK building stock to 5 climate-related hazards",
+  "body": "\"This commissioned study provides an overview of the sensitivity of building types and fabrics to climate-related hazards, and maps exposure to the identified climate-related hazards. \"",
+  "base_path": "/government/publications/exposure-of-uk-building-stock-to-5-climate-related-hazards",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

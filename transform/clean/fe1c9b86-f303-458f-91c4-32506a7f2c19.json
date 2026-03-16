@@ -1,0 +1,11 @@
+{
+  "title": "Paraguay: Knowledge Base profile",
+  "body": "\"This document includes information about:   names nationality adoption surrogacy gender recognition civil partnerships and marriage documents from Paraguay  \"",
+  "base_path": "/government/publications/paraguay-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

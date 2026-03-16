@@ -1,0 +1,19 @@
+{
+  "title": "Ceased or suspended Authorised Corporate Service Providers (ACSPs)",
+  "body": "\"We suspend the status of an ACSP if we are investigating, or have asked them to provide more information about their:     business or Anti-Money Laundering (AML) supervision  filings with Companies House  identity verification process (if they have verified someone’s identity for Companies House)    We cease (remove) the status of an ACSP if they:     tell us they no longer want to be registered  do not comply with legal requirements    This list is updated with any changes every 2 weeks. If an ACSP has been ceased or suspended recently, it could take up to 2 weeks to be added to the list. If there have been no changes to the list, we will not publish an update. \"",
+  "base_path": "/government/publications/ceased-or-suspended-authorised-corporate-service-providers-acsps",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    },
+    {
+      "title": "Business auditing, accounting and reporting",
+      "base_path": "/business-and-industry/business-auditing-accounting-reporting"
+    }
+  ]
+}

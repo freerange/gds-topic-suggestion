@@ -1,0 +1,11 @@
+{
+  "title": "Female Genital Mutilation, Annual Report - April 2024 to March 2025",
+  "body": "\"The Female Genital Mutilation (FGM) Enhanced Dataset (SCCI 2026) is a repository for individual level data collected by healthcare providers in England, including acute hospital providers, mental health providers and GP practices. \"",
+  "base_path": "/government/statistics/female-genital-mutilation-annual-report-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

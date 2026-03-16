@@ -1,0 +1,11 @@
+{
+  "title": "AAIB Report: Cessna T210M, N761JU",
+  "body": "\"An undetected pitch trim setting resulted in the pilot attempting to takeoff with close to full nose down elevator trim. The pilot rejected the takeoff, whereupon the aircraft briefly became airborne, but the pilot was unable to effectively control the aircraft in pitch. The aircraft bounced several times causing the aircraft’s nosewheel to fail and the aircraft to slew off the runway. The remains of the aircraft’s nose landing gear dug into the soft ground and N761JU came to rest inverted. The pilot suffered only minor injuries while his more securely restrained passenger sustained major injuries which he succumbed to several days later.  The investigation detected an intermittent fault with the autopilot system which might have contributed to the elevator trim moving towards the nose down position. This would have likely been undetectable by the pilot unless he was looking at the trim wheel as it moved. The investigation could not determine why the autopilot might have been engaged for the takeoff roll. The Pilot’s Operating Handbook and Quick Reference Handbook did not contain supplementary instructions for the autopilot system, nor did they contain autopilot related checklists or abnormal procedures.  The CAA has taken safety action to promote best practice for pilots in the operation of the autopilot systems fitted to the aircraft they fly. This includes updates to differences training to include autopilot systems. A Safety Recommendation has been made to the CAA to publish guidance and best practice for pilots, covering the use of autopilots in General Aviation.  Read the report \"",
+  "base_path": "/government/news/aaib-report-cessna-t210m-n761ju",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

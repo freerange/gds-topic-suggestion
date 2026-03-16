@@ -1,0 +1,27 @@
+{
+  "title": "Cael help os yw CThEF yn cysylltu â chi ynghylch gwiriad cydymffurfio",
+  "body": "\"‘Gwiriad cydymffurfio’ yw’r hyn mae CThEF yn ei wneud i wirio’ch sefyllfa dreth i wneud yn siŵr eich bod chi wedi gwneud y canlynol:   rydych chi wedi talu’r swm cywir o dreth ar yr adeg gywir rydych chi wedi hawlio’r lwfansau a’r rhyddhadau treth cywir   Yn ogystal, mae gwiriadau cydymffurfio yn sicrhau bod y system dreth yn gweithredu’n deg ac yn effeithiol.  Fel rhan o wiriad, bydd CThEF yn gwneud y canlynol:   anfon llythyr atoch chi gan ofyn am wybodaeth neu ddogfennau trafod materion â chi i ddeall eich sefyllfa dreth pennu’ch sefyllfa dreth chi’n gywir a dod â’r gwiriad i ben   Defnyddio’r offeryn ar-lein  Mae’r offeryn yn eich cyfeirio chi at arweiniad a fideos sy’n rhoi cymorth ar hyd cyfnod y gwiriad.  Dechrau nawr  \"",
+  "base_path": "/guidance/get-help-if-hmrc-contacts-you-about-a-compliance-check.cy",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Compliance checks",
+      "base_path": "/money/dealing-with-hmrc-tax-compliance-compliance-checks"
+    },
+    {
+      "title": "Capital Gains Tax",
+      "base_path": "/money/capital-gains-tax"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

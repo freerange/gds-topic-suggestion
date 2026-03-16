@@ -1,0 +1,11 @@
+{
+  "title": "Fuel poverty factsheet 2025",
+  "body": "\"The 2025 fuel poverty factsheet summarises the 2024 headline fuel poverty figures and the key characteristics of fuel poor households in 2024 under the Low Income Low Energy Efficiency (LILEE) indicator.  Contact us   If you have questions about these statistics, please email: fuelpoverty@energysecurity.gov.uk.  \"",
+  "base_path": "/government/statistics/fuel-poverty-factsheet-2025",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    }
+  ]
+}

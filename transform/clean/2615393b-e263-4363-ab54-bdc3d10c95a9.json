@@ -1,0 +1,11 @@
+{
+  "title": "Lumpy skin disease in Europe",
+  "body": "\"Preliminary and updated outbreak assessments for lumpy skin disease in Europe.  We monitor any major, notifiable or new and emerging animal disease outbreaks worldwide. When we become aware of a new animal disease outbreak in the UK or another country, we may carry out a preliminary outbreak assessment.  Read our lumpy skin disease guidance for information about how to spot the disease, what to do if you suspect it and measures to prevent it. \"",
+  "base_path": "/government/publications/lumpy-skin-disease-in-europe",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

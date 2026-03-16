@@ -1,0 +1,11 @@
+{
+  "title": "Winter Fuel Payment statistics for winter 2024 to 2025",
+  "body": "\"The latest release contains data on individual and household level statistics for winter 2024 to 2025 by:   recipients beneficiaries proportion of pensioner population geography age gender payment amount   \"",
+  "base_path": "/government/statistics/winter-fuel-payment-statistics-for-winter-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Heating and housing benefits",
+      "base_path": "/welfare/heating"
+    }
+  ]
+}

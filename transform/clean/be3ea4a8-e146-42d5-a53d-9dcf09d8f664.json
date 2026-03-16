@@ -1,0 +1,11 @@
+{
+  "title": "Cold Weather Payments: 1 November 2025 to 6 February 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/cold-weather-payments-1-november-2025-to-6-february-2026",
+  "taxons": [
+    {
+      "title": "Heating and housing benefits",
+      "base_path": "/welfare/heating"
+    }
+  ]
+}

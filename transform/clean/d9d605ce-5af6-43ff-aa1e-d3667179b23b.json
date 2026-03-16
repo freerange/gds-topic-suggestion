@@ -1,0 +1,15 @@
+{
+  "title": "Alcohol-Specific Deaths 2014-2024 (Northern Ireland)",
+  "body": "",
+  "base_path": "/government/statistics/announcements/alcohol-specific-deaths-2014-2024-northern-ireland",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

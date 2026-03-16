@@ -1,0 +1,19 @@
+{
+  "title": "Subnational population projections: 2022-based",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/subnational-population-projections-2022-based",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    },
+    {
+      "title": "Regional and local government",
+      "base_path": "/regional-and-local-government"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

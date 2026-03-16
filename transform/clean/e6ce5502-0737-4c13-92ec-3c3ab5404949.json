@@ -1,0 +1,11 @@
+{
+  "title": "Agricultural land use in England at 1 June 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/agricultural-land-use-in-england-at-1-june-2026",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

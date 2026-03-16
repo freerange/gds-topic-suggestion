@@ -1,0 +1,27 @@
+{
+  "title": "AI Energy Council to ensure UK’s energy infrastructure ready for AI revolution",
+  "body": "\"  New AI Energy Council holds first round of talks on delivering the power which will drive the UK’s AI ambitions. Technology and Energy Secretaries chair first round of talks on driving forward power and AI goals – central to delivering growth, jobs and opportunity through government’s Plan for Change.  Energy representatives such as NESO, EDF, Scottish Power, Ofgem, and National Grid to join tech heavyweights Microsoft, ARM, Google and Amazon in sharing expert insights.     Co-chaired by the Technology and Energy Secretaries, today’s inaugural meeting will see members agree the council’s objectives with a key aim focused on how the government’s clean energy superpower mission, and its commitment to advancing AI and compute infrastructure, can work together to deliver economic growth.  It’s expected the Council will also look at clean energy, like renewables and nuclear - advising on improving energy efficiency and sustainability in AI and data centre infrastructure, such as the use of water. The council will also take steps to ensure the secure adoption of AI across the UK’s energy network itself.  Unveiled in January as part of the government’s response to the AI Opportunities Action Plan, the Council will bring together expert insights on the energy demands of AI, as the UK puts the technology front and centre of its plans to drive economic growth and deliver its Plan for Change.   Concerns over the energy demands needed to power AI data centres is an issue faced by countries the world over. One of the ways the UK is already rising to meet this challenge is by focussing its new AI Growth Zones - dedicated hotbeds of AI development - in areas which can access at least 500MW of power. Representing the equivalent of enough energy to power roughly two million homes, this will help to spark significant private investment from companies looking to set up shop in Britain - creating local jobs which will put more money in people’s pockets.  Secretary of State for Science, Innovation, and Technology, Peter Kyle said:    The work of the AI Energy Council will ensure we aren’t just powering our AI needs to deliver new waves of opportunity in all parts of the country, but can do so in a way which is responsible and sustainable.   This requires a broad range of expertise from industry and regulators as we fire up the UK’s economic engine to make it fit for the age of AI - meaning we can deliver the growth which is the beating heart of our Plan for Change.   Secretary of State for Energy Security and Net Zero, Ed Miliband said:   We are making the UK a clean energy superpower, building the homegrown energy this country needs to protect consumers and businesses, and drive economic growth, as part of our Plan for Change.  AI can play an important role in building a new era of clean electricity for our country and as we unlock AI’s potential, this Council will help secure a sustainable scale up to benefit businesses and communities across...",
+  "base_path": "/government/news/ai-energy-council-to-ensure-uks-energy-infrastructure-ready-for-ai-revolution",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    },
+    {
+      "title": "Clean energy",
+      "base_path": "/government/clean-energy"
+    },
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

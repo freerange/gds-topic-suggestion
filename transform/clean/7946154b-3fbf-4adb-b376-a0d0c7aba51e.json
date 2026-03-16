@@ -1,0 +1,19 @@
+{
+  "title": "Helping the Department for Transport increase data resilience",
+  "body": "\"The Department for Transport (DfT) needed to understand data flows within cargo shipments so that it could identify potential supply chain risks and how to mitigate them, increasing resilience.   The Accelerated Capability Environment (ACE) was asked to develop a reusable methodology that could map the types of data that flow through cargo systems, including third-party integrations, and identify potential vulnerabilities.    While this methodology would initially be focused on airports, it also needed to be reusable at road, rail and maritime hubs handling cargo. A second requirement was creating guidance that would enable other transport operators to map supply chain flows and data in their own systems.   A call out to ACE’s Vivace supplier community resulted in 12 submissions of interest, with four shortlisted to give presentations at an accelerator day.   From these, Arup was chosen to be the supplier because of its strong team and varied experience and a medium-sized airport was identified as a suitable pilot site.   Data discovery   This commission came from the DfT’s cyber arm, which had not worked with ACE before, and so the first step was working together to fully scope the problem.    This involved identifying exactly what data is captured around cargo planes flying in and out of an airport, including where data came in and left airport systems, where cargo is going next, the suppliers and systems involved at every stage, and defining the processes data goes through.   This phase also involved interviews with key stakeholders in the cargo handling process and exploring whether learning from other industries and government departments about how cybersecurity risks are captured and mitigated could be applied here.   Work for the remainder of the eight-week commission then shifted to consolidating the data model, mapping the data flows and the cybersecurity risk assessment.   Ultimately, a standardised methodology approach was created, covering three key steps of understanding data flows, reviewing threats and vulnerabilities, and identifying risks and implementing cost-effective security controls.  Guidance that could be used by other teams to easily create their own processes was created, and cybersecurity risks outlined at a high level. Four potential next steps for this work were also suggested.   A show-and-tell explaining the findings in greater detail, and how these were repeatable elsewhere, was held for DfT stakeholders in maritime policy, aircraft security, aviation strategy and rail resilience and the methodology shared. Next steps are now being considered.  \"",
+  "base_path": "/government/case-studies/helping-the-department-for-transport-increase-data-resilience",
+  "taxons": [
+    {
+      "title": "Transport security",
+      "base_path": "/transport/transport-security"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    }
+  ]
+}

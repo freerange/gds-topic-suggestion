@@ -1,0 +1,23 @@
+{
+  "title": "Human Fertilisation and Embryology Authority annual report and accounts: 2024 to 2025",
+  "body": "\"The report includes information about the HFEA’s:   performance corporate governance financial statements   \"",
+  "base_path": "/government/publications/human-fertilisation-and-embryology-authority-annual-report-and-accounts-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Human fertilisation and embryology",
+      "base_path": "/health-and-social-care/human-fertilisation-and-embryology"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    }
+  ]
+}

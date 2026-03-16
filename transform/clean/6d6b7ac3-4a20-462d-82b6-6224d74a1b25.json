@@ -1,0 +1,15 @@
+{
+  "title": "Understanding experiences of dealing with Corporation Tax",
+  "body": "\"Corporation Tax is charged on the taxable profits and gains of companies and other entities such as unincorporated associations. It requires organisations in scope to meet a number of obligations including accurate record keeping, filing company tax returns, and paying any resulting Corporation Tax liability.  HM Revenue and Customs (HMRC) commissioned Verian, formerly Kantar Public, to conduct qualitative and quantitative research, undertaken in two stages. The overarching aim of this research was to identify improvements to Corporation Tax that could reduce costs and administrative burdens and improve the customer journey for small and medium-sized enterprises (SMEs).  Ten deliberative group discussions involving 40 SMEs and 9 agents, and 6 in-depth interviews with SMEs, were conducted between September and November 2022. Findings from the qualitative phase informed development of a quantitative survey, conducted with 1,000 SMEs by telephone between August and September 2023.  \"",
+  "base_path": "/government/publications/understanding-experiences-of-dealing-with-corporation-tax",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    }
+  ]
+}

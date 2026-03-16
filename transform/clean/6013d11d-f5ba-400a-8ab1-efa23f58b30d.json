@@ -1,0 +1,15 @@
+{
+  "title": "Asylum and returns policy statement",
+  "body": "\"The statement outlines the current challenges and the government’s objectives in asylum and returns policy.  It sets out a comprehensive package of measures designed to restore order, control, fairness, and public confidence in the system. \"",
+  "base_path": "/government/publications/asylum-and-returns-policy-statement",
+  "taxons": [
+    {
+      "title": "Border control",
+      "base_path": "/entering-staying-uk/border-control"
+    },
+    {
+      "title": "Refugees, asylum and human rights",
+      "base_path": "/entering-staying-uk/refugees-asylum-human-rights"
+    }
+  ]
+}

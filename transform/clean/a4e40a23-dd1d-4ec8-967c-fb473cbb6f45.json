@@ -1,0 +1,11 @@
+{
+  "title": "UK Geothermal Platform ",
+  "body": "\"The UK Geothermal Platform is a geothermal energy information hub which is freely available. The platform was funded by the Department for Energy Security and Net Zero and delivered by the British Geological Survey.     The platform consists of summary layers covering Great Britain which provide a map overview of geothermal energy potential for 4 technologies, as well as a map explorer and a data access page covering the UK, where data is available, to enable users to view more detailed geoscientific datasets from several organisations.  The UK Geothermal Platform summary layer methodology report captures the core methodology, technologies, data handling, limitations, and cost assessments presented in the UK Geothermal Platform summary layers. The summary layers provide a foundational resource for geothermal energy pre-feasibility planning and can be viewed on the UK Geothermal Platform.    The data sharing report outlines existing data deposit workflows, legislative frameworks, and future opportunities to enhance geothermal data sharing and accessibility to support sector growth. \"",
+  "base_path": "/government/publications/uk-geothermal-platform",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

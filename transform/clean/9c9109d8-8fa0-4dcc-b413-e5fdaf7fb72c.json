@@ -1,0 +1,19 @@
+{
+  "title": "Bangladesh: hospitalised abroad",
+  "body": "\"This guide includes information on:   standards of healthcare in Bangladesh how to contact British High Commission Dhaka for hospitalisation what the Consular team can do to help  \"",
+  "base_path": "/government/publications/bangladesh-hospitalised-abroad",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    }
+  ]
+}

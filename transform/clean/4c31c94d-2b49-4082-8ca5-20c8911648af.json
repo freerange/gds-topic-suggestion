@@ -1,0 +1,11 @@
+{
+  "title": "Housing supply: net additional dwellings, England: 2024 to 2025",
+  "body": "\"This statistical release presents Accredited Official Statistics on net additional dwellings in England up to 2024-25. The figures use the Census as a baseline and show the net change in the dwelling stock in England between the 1 April and the 31 March the following year.  Our interactive dashboard illustrates results and historical trends. \"",
+  "base_path": "/government/statistics/housing-supply-net-additional-dwellings-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "House building",
+      "base_path": "/housing-local-and-community/house-building"
+    }
+  ]
+}

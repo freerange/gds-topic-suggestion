@@ -1,0 +1,19 @@
+{
+  "title": "Family Resources Survey: quality assessment report",
+  "body": "\"Statistics produced from administrative data can use the Quality Assurance of Administrative Data (QAAD) toolkit to provide assurance of data quality to users.  This report provides users of the FRS dataset with a similar framework of assurance for survey data. As such, FRS data has been assessed against the 4 specific areas for assurance included in the QAAD toolkit. These have been adapted to apply to survey data.  The report also recognises the development of the FRS to make use of administrative data to improve quality.  \"",
+  "base_path": "/government/publications/family-resources-survey-quality-assessment-report",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

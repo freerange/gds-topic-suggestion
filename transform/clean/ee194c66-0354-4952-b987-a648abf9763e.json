@@ -1,0 +1,19 @@
+{
+  "title": "FCDO open access policy",
+  "body": "\"This policy replaces the FCDO’s open and enhanced access policy 2013 (published under the former Department for International Development).  It aims to maximise the impact of FCDO’s research and development (R&D) funding by ensuring in-scope publications are accessible, shareable, and reusable. It applies to all FCDO R&D grants, agreements, and contracts where research outputs are intended to be published in the public domain.  This policy sets out the:   full scope of the publications and research outputs covered responsibilities for those receiving FCDO funding requirements for compliance   Data sets  Until further notice, the following provisions for data or data sets (both derived and raw), outlined in the FCDO open and enhanced access policy 2013, continue to apply to FCDO R&D funding.     data sets should be placed in an open access repository within 12 months of final data collection or on publication of outputs underpinned by that data, whichever is sooner (unless exempted by FCDO) data sets should be deposited in an established discipline or institutional repository, where possible raw data sets are required to be retained for a minimum of 5 years after the end of the programme. Researchers or institutions should make them available on request, for free, any time after 12 months from final data collection (unless exempted by FCDO). This applies to all data, whether published or not  \"",
+  "base_path": "/government/publications/fcdo-open-access-policy",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "International aid and development",
+      "base_path": "/international/international-aid-and-development"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

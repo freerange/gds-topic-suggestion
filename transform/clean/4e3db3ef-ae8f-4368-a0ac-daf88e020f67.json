@@ -1,0 +1,11 @@
+{
+  "title": "Commercial offensive cyber capabilities",
+  "body": "\"The commercial offensive cyber sector consists of companies offering legal and ethical security testing (commercial red teams), developers who produce tools and capabilities for the industry, and groups which conduct offensive cyber operations on behalf of third parties as a service.  This research looks at how the commercial offensive cyber sector is integrating emerging technologies into their commercial offerings and what the implications of this integration are.  Prism Infosec identified and approached suitable entities to achieve this, interviewing 18 companies between December 2024 and March 2025. The key findings are set out in this report.  This research informs the government’s wider work to understand the threats and opportunities in cyber security, and to improve cyber resilience across the UK economy.  Please note this publication presents independent research commissioned by the Department for Science, Innovation and Technology. The views expressed do not represent HM Government policy. The research addresses how the commercial offensive cyber sector is integrating emerging technologies into its commercial offerings, and the implications. \"",
+  "base_path": "/government/publications/commercial-offensive-cyber-capabilities",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

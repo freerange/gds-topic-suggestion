@@ -1,0 +1,35 @@
+{
+  "title": "Environmental permit reforms to empower regulators to slash business red tape",
+  "body": "\"Streamlined environmental permitting will drive economic growth and help tackle crime while continuing to safeguard the environment, under reforms unveiled by Environment Minister Emma Hardy today (Tuesday 8 April).   The UK and Welsh Governments have today launched an eight-week consultation on reforming environmental permitting for England and Wales to speed up the work of regulators and the industries they support, demonstrating rapid delivery of a commitment in the UK Government’s Regulatory Action Plan to consult on reforms to permitting legislation before Easter.   Reforming the process for exemptions could empower regulators – the Environment Agency and Natural Resources Wales – to use the proposed powers in the following ways, among others:     Taking speedy action: simplifying processes such as for bringing suitable land back into beneficial use for new housing or infrastructure, strongly supporting regional growth.     New permitting exemptions for certain flood risk activities: which could make it easier to install survey equipment for monitoring river flow and water quality.    Potential greater flexibility around the use of scaffolding in or alongside rivers: supporting the UK Government’s key mission of growing the economy for communities across the country.     Changes to exemptions abused by rogue waste operators: the proposals could enable regulators to clamp down on illegal activity that blights communities and causes environmental harm.   Stringent safeguards: the proposals look to ensure effective controls apply where there is a high risk of environmental harm and to keep the regulatory system open and accountable.    The proposals cover a wide variety of activities undertaken by businesses or individuals operating within guardrails that protect the environment, such as managing flood risk, handling waste, and the discharging of water – ensuring that exempt activities relating to the latter do not pollute inland freshwaters, coastal waters, or relevant territorial waters.   Making environmental permitting more agile and responsive through the UK Government’s Plan for Change will empower regulators to slash red tape for businesses, putting an end to delays that can slow down the decisions needed to get spades in the ground.    The proposed changes would also allow a quicker and more flexible response to new technologies and emerging risks, benefitting businesses while protecting the environment.     The consultation has been recommended by economist and former charity leader Dan Corry in his landmark review into the regulators and regulation at the Department for Environment, Food and Rural Affairs.   Environment Minister Emma Hardy said:   This Government is committed to delivering streamlined, hassle-free regulation that protects the environment while also driving economic growth.   As part of the Plan for Change, we are rewiring Defra and its arms-length bodies to boost economic growth and unleash an era of building, while also supporting stringent environmental safeguards.   I encourage all interested parties to take part in the consultation and help shape the future of the environmental permitting regime.   Jo Nettleton, Chief Regulator at the Environment Agency, said:   The Environment Agency firmly believes protecting the environment and sustainable development go hand-in-hand and we support the Government’s aim to get the economy growing.   We welcome the proposed reforms...",
+  "base_path": "/government/news/environmental-permit-reforms-to-empower-regulators-to-slash-business-red-tape",
+  "taxons": [
+    {
+      "title": "Waste exemptions",
+      "base_path": "/environment/waste-exemptions"
+    },
+    {
+      "title": "River maintenance, flooding and coastal erosion",
+      "base_path": "/environment/river-maintenance-flooding-coastal-erosion"
+    },
+    {
+      "title": "Waste and recycling",
+      "base_path": "/environment/waste-and-recycling"
+    },
+    {
+      "title": "Water management",
+      "base_path": "/environment/water-management"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    },
+    {
+      "title": "Regulation reform",
+      "base_path": "/business-and-industry/regulation-reform"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

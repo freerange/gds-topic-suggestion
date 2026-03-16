@@ -1,0 +1,15 @@
+{
+  "title": "Child Maintenance Service: data insights",
+  "body": "\"The Department for Work and Pensions (DWP) is responsible for the child maintenance system in Great Britain. It funds information and support for separating parents and runs the statutory child maintenance schemes, currently operated through the Child Maintenance Service (CMS).   This publication includes internal analysis on the performance of the Child Maintenance Service, building on information provided in the Official Statistics and on Stat-Xplore. It also includes analysis and management information on how customers are interacting with the Child Maintenance Service.  \"",
+  "base_path": "/government/publications/child-maintenance-service-data-insights",
+  "taxons": [
+    {
+      "title": "Child maintenance reform",
+      "base_path": "/welfare/child-maintenance-reform"
+    },
+    {
+      "title": "Child maintenance",
+      "base_path": "/life-circumstances/births-deaths-marriages-marriage-divorce-child-maintenance"
+    }
+  ]
+}

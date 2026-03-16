@@ -1,0 +1,11 @@
+{
+  "title": "Advanced Connectivity Technologies: Market Scoping Analysis 2025",
+  "body": "\"In May 2025, the Department for Science, Innovation and Technology (DSIT) commissioned Perspective Economics to undertake a short mapping exercise exploring the size and scale of the UK Telecoms ecosystem. This exercise included a review of the overall telecoms ecosystem, and identification of firms aligned to the field that government has identified as one of its critical technologies - ‘Advanced Connectivity Technologies’ (previously known as Future Telecoms).    This analysis employs a tiered approach, capturing both established telecommunications (typically aligned to SIC 61, with identification of other relevant firms) and firms identified as actively involved in the provision or development of Advanced Connectivity Technologies (ACT). The latter typically encompasses novel evolutions of infrastructure that carry digitised data, such as, photonics, satellite communications technologies, the most advanced 5G wireless systems and other developments bridging towards 6G.  However, there is no clear line that can be drawn for ACT alone so a ‘hybrid’ classification is also applied to identify established firms that also appear to overlap both categories i.e. they develop or utilise Advanced Connectivity Technologies as a proportion of their wider established telecoms activities.     \"",
+  "base_path": "/government/publications/advanced-connectivity-technologies-market-scoping-analysis-2025",
+  "taxons": [
+    {
+      "title": "Communications and telecomms",
+      "base_path": "/business/communications-and-telecomms"
+    }
+  ]
+}

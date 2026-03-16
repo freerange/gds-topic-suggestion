@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Benefit Statistics Summary: May 2025",
+  "body": "\"The benefits covered by this publication are: Attendance Allowance, Carer’s Allowance, Disability Living Allowance, Employment & Support Allowance, Income Support, Jobseeker’s Allowance, Pension Credit, Personal Independence Payment and State Pension. Universal Credit figures are also included as Experimental Statistics. \"",
+  "base_path": "/government/statistics/northern-ireland-benefit-statistics-summary-may-2025",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

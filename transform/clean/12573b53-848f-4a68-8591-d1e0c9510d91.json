@@ -1,0 +1,19 @@
+{
+  "title": "Extend medicines responsibilities for allied health professions",
+  "body": "\"This consultation seeks views on the following proposed changes affecting 4 professional groups:   extending the list of medicines that paramedics can administer in emergency situations using exemptions within medicines legislation extending the list of controlled drugs that physiotherapist independent prescribers are legally able to prescribe enabling operating department practitioners to supply and administer medicines using patient group directions enabling diagnostic radiographer practitioners working at an enhanced, advanced or consultant practitioner level to become independent prescribers of medicines   These proposals aim to make it easier for patients to get the medicines they need when they need them, while maintaining patient safety.  This public consultation is intended to give interested parties and stakeholders the opportunity to inform our final decision.  Individual respondents must live or work in the UK to take part in this survey. Organisations must operate or provide services in the UK. \"",
+  "base_path": "/government/consultations/extend-medicines-responsibilities-for-allied-health-professions",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "NHS efficiency",
+      "base_path": "/health-and-social-care/nhs-efficiency"
+    },
+    {
+      "title": "Patient safety",
+      "base_path": "/health-and-social-care/patient-safety"
+    }
+  ]
+}

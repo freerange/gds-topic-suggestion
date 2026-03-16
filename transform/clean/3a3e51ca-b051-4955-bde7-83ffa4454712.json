@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland  Annual Tourism Statistics 2024",
+  "body": "\"This report presents an overall picture of Northern Ireland tourism in 2024 and includes some comparisons with 2023 where appropriate. \"",
+  "base_path": "/government/statistics/northern-ireland-annual-tourism-statistics-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    }
+  ]
+}

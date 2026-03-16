@@ -1,0 +1,27 @@
+{
+  "title": "Finance Bill 2025-26 — draft legislation and technical tax documents",
+  "body": "\"Draft legislation published for Finance Bill 2025-26   The government is committed, where possible, to publishing most tax legislation in draft for technical consultation before the relevant Finance Bill is introduced in Parliament.   The consultation on draft clauses is designed to make sure that the legislation works as intended.   The final contents of the next Finance Bill will be a decision for the Chancellor.   Most measures comprise:    a tax information and impact note (TIIN), which sets out what the policy seeks to achieve, and a summary of the expected impacts  draft legislation  an explanatory note which provides a more detailed guide to the legislation.    Also included are the impacting definitions for the tax information and impact notes and the Exchequer Secretary to the Treasury’s declaration about the tax information and impact notes.   The consultation closed on 15 September 2025. \"",
+  "base_path": "/government/collections/finance-bill-2025-26",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    },
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    },
+    {
+      "title": "Tax evasion and avoidance",
+      "base_path": "/money/tax-evasion-and-avoidance"
+    }
+  ]
+}

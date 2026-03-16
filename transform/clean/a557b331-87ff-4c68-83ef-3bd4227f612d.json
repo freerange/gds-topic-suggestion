@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Housing Bulletin October - December 2024",
+  "body": "\"This bulletin is a National Statistics publication produced each quarter by the Professional Services Unit of the Department for Communities. The Bulletin contains information on: new social housing starts and completions; social renting demand, the number of households presenting as homeless by reason and household type, and the number accepted as full duty applicants; and new dwelling sales and prices for each Local Government District. \"",
+  "base_path": "/government/statistics/northern-ireland-housing-bulletin-october-december-2024",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

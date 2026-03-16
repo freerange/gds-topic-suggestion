@@ -1,0 +1,19 @@
+{
+  "title": "Working and workless households in Northern Ireland: July to September 2025",
+  "body": "\"These tables contains statistics on the economic status of households in Northern Ireland and the people living in them. Taken from the Labour Force Survey, covering only households where at least one person is aged 16 to 64 years. The household tables are published on a quarterly basis. \"",
+  "base_path": "/government/statistics/working-and-workless-households-in-northern-ireland-july-to-september-2025",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

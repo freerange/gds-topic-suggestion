@@ -1,0 +1,23 @@
+{
+  "title": "I-VMS licence condition in effect",
+  "body": "\"On 12 May 2025, a new licence condition came into force requiring that English licensed under-12m vessels must now have installed a functioning type-approved I-VMS device that transmits data during a trip to sea.  I-VMS devices capture and transmit positional data (latitude, longitude, speed, and course) and report device ID, date, time and changes in events such as battery status and data stored.   Sean Douglas, MMO’s Head of Regulatory Assurance said:   This data will provide valuable insights to the activities of the inshore fleet which, when combined with other data such as that collected by VMS for the over-12m fleet, will give a more complete picture of all activity in our marine environment.  This will allow us, and others, to make smarter, evidence-based, decisions when it comes to marine development assessments, conservation initiatives such Marine Protected Areas (MPAs) and stock protection, regulatory displacement, as well as marine and fisheries management planning, particularly for niche and seasonal fisheries.   The data will also allow fishers to track their own activity through an app or web portal, allowing them to refine their efforts and business plans, as well as provide evidence to challenge developments or closed areas and use it as evidence in any compliance or conflict resolution.  More than 80% of industry has purchased and installed a device. Since announcing the new licence condition requirement in March of this year, there has been a continued increase in orders from the small group of fishers still without devices, while more vessels are also submitting data reports.  Sean added:   There’s been a really encouraging response from industry and our support team has been working to help them ensure devices are operational and answering general enquiries.  The licence condition is an introductory stage to support industry ahead of the Statutory Instrument (SI), due later this year, to support English vessel owners be as prepared as possible for when the legislation comes into force.  Our intention is to ensure vessels have a type-approved device installed and active, and also so we can work with owners and suppliers to address any technical or logistical issues, ahead of the SI being laid.  I’d like to assure industry that during this period, where we have evidence fishers are taking steps to be compliant, we will take a pragmatic approach to enforcement while arrangements are being made. However, we will take action where necessary to ensure a level playing field.  Our team is on hand and will continue to support industry with this change.    The I-VMS hotline remains open for enquiries on 01900 508618, Monday to Friday (9am to 5pm) and emails can be sent to ivms@marinemanagement.org.uk.  Updated guidance can be found online at: gov.uk/mmo/i-vms-england.  \"",
+  "base_path": "/government/news/i-vms-licence-condition-in-effect",
+  "taxons": [
+    {
+      "title": "Fishing regulations, monitoring and enforcement",
+      "base_path": "/environment/fishing-regulations-monitoring-enforcement"
+    },
+    {
+      "title": "Fishing vessels",
+      "base_path": "/environment/fishing-vessels"
+    },
+    {
+      "title": "Marine fisheries",
+      "base_path": "/environment/marine-fisheries"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

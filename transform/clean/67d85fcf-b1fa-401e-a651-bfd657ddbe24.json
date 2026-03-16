@@ -1,0 +1,19 @@
+{
+  "title": "Planning Inspectorate publishes June official statistics",
+  "body": "\"We have today published our latest official statistics on appeals performance which represents the greatest volume (in terms of number of cases) of the work of the Planning Inspectorate.  The quarterly statistics also include our current appeals handling times to let customers know the average time it takes to receive a decision. \"",
+  "base_path": "/government/news/planning-inspectorate-publishes-june-official-statistic",
+  "taxons": [
+    {
+      "title": "Planning permission and appeals",
+      "base_path": "/housing-local-and-community/planning-permission-appeals"
+    },
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

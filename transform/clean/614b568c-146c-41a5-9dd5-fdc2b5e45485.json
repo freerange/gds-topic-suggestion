@@ -1,0 +1,11 @@
+{
+  "title": "Foot and mouth disease in Hungary and Slovakia",
+  "body": "\"Preliminary and updated outbreak assessments for foot and mouth disease (FMD) in Hungary and Slovakia.  \"",
+  "base_path": "/government/publications/foot-and-mouth-disease-in-hungary",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Inheritance Tax: unused pension funds and death benefits",
+  "body": "\"As announced at Autumn Budget 2024, the government will bring most unused pension funds and death benefits into scope of Inheritance Tax from 6 April 2027.  All death in service benefits payable from a registered pension scheme will be excluded from the value of an individual’s estate for Inheritance Tax purposes from 6 April 2027.  Personal representatives will be liable for reporting and paying any Inheritance Tax due on unused pension funds and pension death benefits. If they reasonably expect Inheritance Tax to be due, they can direct pension scheme administrators to:   withhold 50% of the taxable benefits for up to 15 months from the date of death pay the Inheritance Tax due to HMRC before releasing the rest of those benefits to pension beneficiaries   If the instruction is withdrawn or the period ends, the remaining funds can be paid out.  This will not apply to:   exempt benefits funds under £1,000 continuing annuities   Personal representatives will also be discharged from liability for pensions discovered after they have received clearance from HMRC. \"",
+  "base_path": "/government/publications/inheritance-tax-unused-pension-funds-and-death-benefits",
+  "taxons": [
+    {
+      "title": "Inheritance Tax",
+      "base_path": "/money/personal-tax-inheritance-tax"
+    }
+  ]
+}

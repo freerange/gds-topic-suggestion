@@ -1,0 +1,15 @@
+{
+  "title": "Domestic energy efficiency retrofit supply chain",
+  "body": "\"This research provides an in-depth overview of the capacity and capabilities of the energy efficiency (EE) retrofit supply chain. It captured evidence on:   the size and nature of the supply chain the business models utilised existing skills and qualifications of installers   It also explored the role of the government in business-related decisions in the domestic retrofit market.   The Department for Energy Security and Net Zero commissioned Eunomia Research and Consulting Ltd to conduct this research. It was completed prior to the recent general election in the United Kingdom in July 2024. As such, any references to government policies, commitments, or initiatives may reflect the stance of the previous administration and were accurate at the time of fieldwork and writing.  \"",
+  "base_path": "/government/publications/domestic-energy-efficiency-retrofit-supply-chain",
+  "taxons": [
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    },
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    }
+  ]
+}

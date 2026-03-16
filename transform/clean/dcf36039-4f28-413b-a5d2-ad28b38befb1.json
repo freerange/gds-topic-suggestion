@@ -1,0 +1,11 @@
+{
+  "title": "National Energy Efficiency Data-Framework (NEED): impact of measures data tables 2025",
+  "body": "\"Data tables for impact of measures analysis which assess the impact of installing home efficiency measures such as loft insulation on household energy consumption. \"",
+  "base_path": "/government/statistics/national-energy-efficiency-data-framework-need-impact-of-measures-data-tables-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

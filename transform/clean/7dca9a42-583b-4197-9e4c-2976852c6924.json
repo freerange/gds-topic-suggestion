@@ -1,0 +1,11 @@
+{
+  "title": "Gwneud newidiadau i gerbyd a chofrestru cerbydau wedi’u hadeiladu o git, cerbydau wedi’u trosi o git a cherbydau clasurol wedi’u hailadeiladu (INF318W)",
+  "body": "\"Cyngor ar:   atgyweiriadau ac adferiadau addasiadau strwythurol cofrestru cerbydau wedi’u hadeiladu o git, cerbydau wedi’u trosi o git a cherbydau clasurol wedi’u hailadeiladu  \"",
+  "base_path": "/government/publications/making-changes-to-a-vehicle-and-registering-kit-built-kit-converted-and-reconstructed-classic-vehicles-inf318.cy",
+  "taxons": [
+    {
+      "title": "Vehicle manufacturing and modification",
+      "base_path": "/transport/vehicle-manufacturing-and-modification"
+    }
+  ]
+}

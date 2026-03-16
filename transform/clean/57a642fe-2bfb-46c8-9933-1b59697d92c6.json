@@ -1,0 +1,19 @@
+{
+  "title": "UK sanctions guidance for non-UK businesses operating outside the UK",
+  "body": "\" \"",
+  "base_path": "/government/collections/uk-sanctions-guidance-for-non-uk-businesses-operating-outside-the-uk",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    },
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    }
+  ]
+}

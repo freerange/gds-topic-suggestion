@@ -1,0 +1,11 @@
+{
+  "title": "Tax Treatment of Remote Gambling",
+  "body": "\"This consultation invites views on a new single remote gambling duty. The consultation will run for 12 weeks and will close at midnight on 21 July 2025 Responses can be submitted on the online form.    This email address can be used to submit responses if you have accessibility requirements: remotegambling.consultation@hmrc.gov.uk. \"",
+  "base_path": "/government/consultations/tax-treatment-of-remote-gambling",
+  "taxons": [
+    {
+      "title": "Gambling duties",
+      "base_path": "/money/gambling-duties"
+    }
+  ]
+}

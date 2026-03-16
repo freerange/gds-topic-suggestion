@@ -1,0 +1,11 @@
+{
+  "title": "Nepal: Knowledge Base profile",
+  "body": "\"Nepal which will assist HM Passport Office staff process passport applications. This document includes information about:   names nationality legitimacy adoption surrogacy gender recognition civil partnerships and marriage documents from Nepal  \"",
+  "base_path": "/government/publications/nepal-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

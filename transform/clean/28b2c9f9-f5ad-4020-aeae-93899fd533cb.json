@@ -1,0 +1,11 @@
+{
+  "title": "Energy consumption in the UK 2025",
+  "body": "\" Revision notice: 18 December 2025  End Uses data tables U5 and U6 have been revised to incorporate updated Services end use estimates for oil.   If you require any assistance with interpretation or explanation of the tables, or if you would like to give us feedback, please email energy.stats@energysecurity.gov.uk. \"",
+  "base_path": "/government/statistics/energy-consumption-in-the-uk-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "The Planning Inspectorate Strategic Plan 2024-27",
+  "body": "\"The Strategic Plan for the Planning Inspectorate for 2024-2027 \"",
+  "base_path": "/government/publications/the-planning-inspectorate-strategic-plan-2024-27",
+  "taxons": [
+    {
+      "title": "Local Plans",
+      "base_path": "/housing-local-and-community/local-plans"
+    },
+    {
+      "title": "Planning permission and appeals",
+      "base_path": "/housing-local-and-community/planning-permission-appeals"
+    },
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Rural and countryside",
+      "base_path": "/environment/rural-and-countryside"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Household income inequality, UK: financial year ending 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/household-income-inequality-uk-financial-year-ending-2024",
+  "taxons": [
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

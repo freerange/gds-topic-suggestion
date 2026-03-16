@@ -1,0 +1,11 @@
+{
+  "title": "UK HIV Genomics Database",
+  "body": "\"UKHSA’s Antiviral Unit coordinates the UK’s HIV Genomics Database in support of monitoring progress towards ending HIV transmission. An HIV sequence database was maintained at University College London from 2001 to 2020, when funding from the Medical Research Council ceased, and restarted by UKHSA in 2024. The database contains HIV gene sequences linked at patient-level to demographic, clinical and treatment outcome data.  The HIV gene sequences are generated in standard NHS care for people living with HIV to identify mutations conferring resistance to antiviral drugs, and thereby inform treatment decision-making, both at diagnosis and in cases of treatment failure. These HIV gene sequences are regularly transferred to UKHSA where they are linked to the HIV and AIDS Reporting System (HARS), the national HIV surveillance database.  The HIV Genomics Database supports the tracking of trends in HIV drug resistance. It also   generates evidence to inform clinical treatment guidelines provides a mechanism for early identification of HIV outbreaks helps understand patterns of HIV transmission in main groups such as gay, bisexual and other men who have sex with men, and black and other minority ethnic groups   Summaries of the data will be published in annual reports or on the UKHSA data dashboard, beginning in 2026.  All information is collected in accordance with data protection law and with strict controls to protect confidentiality.  You can submit requests to access anonymised data from the HIV Genomics Database. These are reviewed in the first instance by the Database’s Steering Committee.   First, fill out the request form.  Email completed forms to: avuqueries@ukhsa.gov.uk   \"",
+  "base_path": "/guidance/uk-hiv-genomics-database",
+  "taxons": [
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Good Jobs in Northern Ireland 2025",
+  "body": "\"This paper provides an overview of the proportion of good jobs in Northern Ireland and broken out in more detail, and is sourced from the Northern Ireland ASHE. A good job is defined as a job that has a permanent contract, a non zero-hour contract and earns at least the Real Living Wage. \"",
+  "base_path": "/government/statistics/good-jobs-in-northern-ireland-2025",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "More than £400m paid out for sustainable food production",
+  "body": "\"Three quarters of eligible farmers have already received their Countryside Stewardship and Environmental Stewardship payments since the 2025 payment window opened on 1 December, the Rural Payments Agency (RPA) confirmed today (Friday 12 December).  So far, more than 28,351 payments have been made, bringing the total amount paid to farmers to £435.6 million. Payments will continue to be made throughout December and beyond.  The Countryside Stewardship and Environmental Stewardship schemes support farmers to deliver environmental benefits while maintaining sustainable food production.  The schemes help protect and restore habitats and species, improve water quality, reduce flooding risks, enhance carbon capture, and conserve important historical and archaeological features.  By managing land in sustainable ways, the schemes boost farm resilience and help future-proof rural businesses, aligning with government targets for nature recovery, carbon storage, and sustainable food production.  RPA Chief Executive Neil Hornby said:   The RPA has been working hard to ensure farmers receive their Countryside Stewardship and Environmental Stewardship payments as quickly as possible.  We’ve made a strong start to the 2025 payment window and increased the number of payments made in the first few weeks compared with last year.  I’m grateful for the commitment of the RPA teams, who have been focused on delivering the best possible service for our customers.   The government is backing British farmers to create a productive, profitable, and sustainable future for farming. Through new technology, streamlined regulation and nature-friendly farming schemes, it is helping farmers produce food for the nation.   More than half of farmers are in farming schemes, helping them to adopt nature-friendly methods which are good for their bottom lines. \"",
+  "base_path": "/government/news/more-than-400m-paid-out-for-sustainable-food-production",
+  "taxons": [
+    {
+      "title": "Countryside stewardship",
+      "base_path": "/environment/countryside-stewardship"
+    },
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

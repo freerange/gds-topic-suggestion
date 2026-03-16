@@ -1,0 +1,11 @@
+{
+  "title": "School workforce in England: November 2024",
+  "body": "\"This publication includes:   headcount and full time equivalent (FTE) numbers of teachers and support staff in service characteristics of teachers and support staff, including sex, age and ethnic group pupil-to-teacher ratios number of entrants to, and leavers from, teaching teacher retention teacher retirements teachers’ pay teachers’ qualifications curriculum taught by secondary school teachers teacher vacancies teacher sickness absence teachers’ pension scheme first awards   The release includes information at national, regional and local authority levels and associated data files at school level.  \"",
+  "base_path": "/government/statistics/school-workforce-in-england-november-2024",
+  "taxons": [
+    {
+      "title": "School workforce censuses",
+      "base_path": "/education/school-workforce-censuses"
+    }
+  ]
+}

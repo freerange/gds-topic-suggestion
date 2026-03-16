@@ -1,0 +1,11 @@
+{
+  "title": "Alcohol profile: December 2025 update",
+  "body": "\" The Office for Health Improvement and Disparities (OHID) has published an update to the alcohol profile.  The alcohol profile interactive tool presents a range of alcohol-related indicators and allows users to view and analyse data in a user-friendly format.  The aim of the profile is to provide information for local government, health organisations, commissioners and other agencies to monitor the impact of alcohol on local communities, and to monitor the services and initiatives that have been put in place to prevent and reduce the harmful impact of alcohol.  In this update, new data is available for:   alcohol-specific mortality alcohol-related mortality under 75 mortality rate from alcoholic liver disease mortality from chronic liver disease potential working years of life lost (PWYLL) due to alcohol-related conditions   For queries about this publication, email pha-ohid@dhsc.gov.uk.  \"",
+  "base_path": "/government/statistics/alcohol-profile-december-2025-update",
+  "taxons": [
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    }
+  ]
+}

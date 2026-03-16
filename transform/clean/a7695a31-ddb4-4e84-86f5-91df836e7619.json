@@ -1,0 +1,11 @@
+{
+  "title": "Non-domestic rating: change in rateable value of rating lists, England and Wales, 2026 Revaluation (draft list)",
+  "body": "\"Released: 26 November 2025   Next Release: TBC    Frequency of release: Every three years (with the publication of a new list)   Coverage: England and Wales   This statistical release provides estimates of the change in the rateable value of non-domestic properties, as a result of the 2026 revaluation to reflect changes in the property market since the previous revaluation in 2023.   The rateable values determined by the Valuation Office Agency (VOA) provide the basis for national non-domestic (business) rates bills.   This release compares changes between the 2023 rating lists and 2026 draft rating lists by sector and geography as well as the distribution of rateable value of properties. These statistics are released alongside the publication of the 2026 draft list.   The revaluation will take effect from 1 April 2026, updated statistics based on the live 2026 rating lists will be published in April 2026.   If you would like any further information on this release or any other statistical release, please contact:   The VOA statistics team   Email statistics@voa.gov.uk   For more details on upcoming statistical releases planned by the Agency please visit the recent and upcoming publications. \"",
+  "base_path": "/government/statistics/non-domestic-rating-change-in-rateable-value-of-rating-lists-england-and-wales-2026-revaluation-draft-list",
+  "taxons": [
+    {
+      "title": "Business rates",
+      "base_path": "/regional-and-local-government/local-government-business-rates"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Outbreaks under monitoring: background and methodology",
+  "body": "\"Between December 2016 and March 2025, the UK Health Security Agency (UKHSA)’s Emerging Infections and Zoonoses team published 2 monthly reports: Emerging infections monthly summaries and High consequence infectious diseases (HCID) monthly summaries.  These reports aimed to raise awareness amongst healthcare professionals involved in HCID identification, treatment and management, as well as individuals who had a broad interest in emerging infections about incidents and outbreaks occurring globally.  The production of these reports ceased in March 2025 and they have been replaced with a new Outbreaks under monitoring report. This aims to provide timelier and more succinct summaries of specific disease events in almost real-time for active incident monitoring.  This paper provides a detailed background to the ‘Outbreaks under monitoring’ report. It also provides information on UKHSA’s epidemic intelligence process, definition of parameters and the inclusion criteria for infectious disease outbreaks included in the report.  \"",
+  "base_path": "/government/publications/outbreaks-under-monitoring-background-and-methodology",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

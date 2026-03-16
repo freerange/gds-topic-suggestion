@@ -1,0 +1,15 @@
+{
+  "title": "HS2 route-wide injunction proceedings (2025)",
+  "body": "\"The HS2 Land that is subject to the injunction is shown coloured pink and green on the mapping hosted on the following website: HS2 Route-wide Injunction Mapping (arcgis.com). Information about the basis of the Claimants’ right to possession of the HS2 Land can also be accessed by clicking on individual plots of land on that website. \"",
+  "base_path": "/government/publications/hs2-route-wide-injunction-proceedings-2025",
+  "taxons": [
+    {
+      "title": "HS2 Phase One",
+      "base_path": "/transport/hs2-phase-one"
+    },
+    {
+      "title": "HS2 Phase Two",
+      "base_path": "/transport/hs2-phase-two"
+    }
+  ]
+}

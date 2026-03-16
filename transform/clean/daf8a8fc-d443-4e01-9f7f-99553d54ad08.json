@@ -1,0 +1,15 @@
+{
+  "title": "Provisional Agricultural Income News Release 2024",
+  "body": "\"The provisional estimates for agricultural incomes in Northern Ireland for 2023, including historical estimates from 2014, at both industry aggregate and farm level. Total income from farming (TIFF) measures the return to farmers, partners and directors, their spouses and other family workers for their labour, management input and own capital invested.  It therefore represents the total income of all those with an entrepreneurial involvement in farming. Farm Business Income is the return to all unpaid labour (farmer, spouses and others with an entrepreneurial interest in the farm business) and to their capital invested in the farm business which includes land and buildings. \"",
+  "base_path": "/government/statistics/provisional-agricultural-income-news-release-2024",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

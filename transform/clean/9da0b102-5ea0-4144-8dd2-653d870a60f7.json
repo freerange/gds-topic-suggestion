@@ -1,0 +1,11 @@
+{
+  "title": "RSV maternal vaccination coverage in England",
+  "body": "\"The maternal  respiratory syncytial virus (RSV) vaccination programme was introduced in England in 2024, part of a wider immunisation programme to protect vulnerable populations and to prevent RSV infection in infants.  Previous reports are available at:  RSV immunisation for older adults and pregnant women: vaccine coverage in England  \"",
+  "base_path": "/government/publications/rsv-maternal-vaccination-coverage-in-england",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    }
+  ]
+}

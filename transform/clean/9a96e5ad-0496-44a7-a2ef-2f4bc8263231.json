@@ -1,0 +1,11 @@
+{
+  "title": "Antibody licences",
+  "body": "\"The Animals in Science Committee was commissioned by the regulator to conduct research on antibody licences. You will find a collection of its documents here. \"",
+  "base_path": "/government/collections/antibody-licences",
+  "taxons": [
+    {
+      "title": "Animal research and testing",
+      "base_path": "/business-and-industry/animal-research-and-testing"
+    }
+  ]
+}

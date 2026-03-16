@@ -1,0 +1,27 @@
+{
+  "title": "Infant formula: government response to CMA market study",
+  "body": "\"On 14 February 2025, the Competition and Markets Authority (CMA) published the final report of its market study into the UK infant and follow-on formula market.  This response, on behalf of all 4 UK governments, commits to:   support parents and carers to make better-informed decisions if they need or choose to buy infant formula by providing more comprehensive and accessible information, including in healthcare settings encourage retailers to voluntarily implement the recommendations aimed at them to better enable product comparison and stimulate competition between brands reinforce existing enforcement processes by reviewing current practices update and clarify guidance, where needed, to strengthen adherence  \"",
+  "base_path": "/government/publications/infant-formula-government-response-to-cma-market-study",
+  "taxons": [
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    },
+    {
+      "title": "Food labelling and safety",
+      "base_path": "/environment/producing-distributing-food-food-labelling"
+    },
+    {
+      "title": "Consumer protection",
+      "base_path": "/business/consumer-protection"
+    },
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    },
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    }
+  ]
+}

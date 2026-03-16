@@ -1,0 +1,11 @@
+{
+  "title": "Regulatory considerations for therapeutic use of bacteriophages in the UK",
+  "body": "\"The MHRA has compiled a document containing all the relevant regulatory guidance pertinent to the development of phage therapeutic products. Regulatory agencies and organisations have produced documentation to help outline the regulatory framework, but regulatory guidance is not always easy for product developers to find and/or understand; this publication brings all the pertinent regulatory information into one place. The MHRA document includes guidance for licensed and unlicensed medicines, from preclinical development to pharmacovigilance activities post-licensure.  We hope that this publication will help the community navigate the regulatory frameworks and support the development of products that will ultimately help patients. \"",
+  "base_path": "/government/publications/regulatory-considerations-for-therapeutic-use-of-bacteriophages-in-the-uk",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

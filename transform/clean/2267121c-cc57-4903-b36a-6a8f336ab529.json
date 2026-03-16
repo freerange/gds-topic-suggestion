@@ -1,0 +1,11 @@
+{
+  "title": "Company expenses you can deduct before paying Corporation Tax",
+  "body": "\"You can deduct some of the costs of running your company to work out its taxable profit before paying Corporation Tax.  These costs are called revenue expenses (also known as business expenses) and must be included in your accounts.  Revenue expenses are costs that do not result in buying, selling or changing a capital asset or any other capital expenses. For information on how to claim capital expenses, read guidance on capital allowances.  You need to understand the difference between revenue and capital expenses, to correctly deduct these costs.  Deducting a revenue expense  A revenue expense (also known as a business expense) can be fully deducted from your company’s profit if it both:   is not specifically disallowed ― for example, entertaining clients only has a business purpose ― this is called the ‘wholly and exclusively’ principle   Read technical guidance to find information on the ‘wholly and exclusively’ principle and how it affects what expenses you can deduct.  If an expense has a non-business and business purpose  You may be able to deduct part of a revenue expense if you can clearly separate the business part from the non-business part. Read technical guidance on splitting an expense.  Groups of companies  All the information in this guide applies to groups of companies and must be followed along with additional guidance for specific groups of companies.  Investment companies  If your company has a business of making or holding investments, read guidance on management expenses and investment companies. \"",
+  "base_path": "/guidance/company-expenses-you-can-deduct-before-paying-corporation-tax",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    }
+  ]
+}

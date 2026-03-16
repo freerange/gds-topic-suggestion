@@ -1,0 +1,15 @@
+{
+  "title": "Nursery survey: 2025 edition",
+  "body": "\"This release contains estimates of sales of improved nursery stock by forest nurseries in Great Britain, reporting on sales to Scotland and on all sales of Sitka spruce and Scots pine. \"",
+  "base_path": "/government/statistics/nursery-survey-2025-edition",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

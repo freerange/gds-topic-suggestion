@@ -1,0 +1,11 @@
+{
+  "title": "Prison Population Projections: 2025 to 2030",
+  "body": "\"The latest Official Accredited Statistic on prison population projections in England and Wales.  This annual release presents prison population projections for England and Wales from October 2025 to March 2030. It is produced to aid policy development, capacity planning and resource allocation within the Ministry of Justice (MoJ) and His Majesty’s Prison and Probation Service (HMPPS). Sub-population estimates are presented alongside the effects of legislation, sentencing activity, and other factors relevant to the prison population.  The publication is released by the Ministry of Justice (MoJ) and produced in accordance with arrangements approved by the UK Statistics Authority.  If you have any comments on the methods used for prison projections, please contact us: PrisonProjection.Statistics@justice.gov.uk. \"",
+  "base_path": "/government/statistics/prison-population-projections-2025-to-2030",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    }
+  ]
+}

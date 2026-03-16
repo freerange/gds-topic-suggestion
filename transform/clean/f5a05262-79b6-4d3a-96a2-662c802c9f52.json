@@ -1,0 +1,11 @@
+{
+  "title": "Child Benefit Statistics: annual release, August 2024",
+  "body": "\"Details This National Statistics publication includes details of the number of families claiming Child Benefit at 31 August 2024, the number and ages of children within those families and their geographical location.  Population counts at country and English region level are shown, as well as by local authority and parliamentary constituency (Westminster and Scottish) in the United Kingdom.  This publication also includes Child Benefit small area statistics, published separately prior to 2022 in the Child Benefit small area statistics collection. These include annual geographical estimates at Lower Super Output Area, Super Data Zone and Data Zone in the United Kingdom. \"",
+  "base_path": "/government/statistics/child-benefit-statistics-annual-release-august-2024",
+  "taxons": [
+    {
+      "title": "High Income Tax Charge",
+      "base_path": "/welfare/benefits-credits-child-benefit-high-income-tax-charge"
+    }
+  ]
+}

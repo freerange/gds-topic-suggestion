@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Deaths (Northern Ireland): October 2025",
+  "body": "\"Monthly Deaths (Northern Ireland): October 2025 \"",
+  "base_path": "/government/statistics/monthly-deaths-northern-ireland-october-2025",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

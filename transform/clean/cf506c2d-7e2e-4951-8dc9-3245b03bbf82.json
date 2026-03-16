@@ -1,0 +1,15 @@
+{
+  "title": "Brawddeg i grynhoi",
+  "body": "\"Mae gan Ddeallusrwydd Artiffisial (AI) y potensial i wneud y system gyfiawnder yng Nghymru a Lloegr yn gyflymach, yn decach ac yn fwy hygyrch.  O leihau ôl-groniadau llys i gefnogi dioddefwyr ac i wella adsefydlu, gall AI helpu i gyflwyno gwelliannau arwyddocaol a mesuradwy.  Mae Cynllun Gweithredu AI ar gyfer Cyfiawnder y Weinyddiaeth Gyfiawnder yn nodi sut y byddwn yn mabwysiadu AI yn gyfrifol ar draws llysoedd, tribiwnlysoedd, carchardai, y gwasanaeth prawf a gwasanaethau cymorth – gan weithio’n agos gyda’r farnwriaeth, rheoleiddwyr, undebau llafur a phartneriaid cyfiawnder troseddol.  Mae’r cynllun yn canolbwyntio ar dair blaenoriaeth: cryfhau ein sylfeini gyda llywodraethu, moeseg ac isadeiledd gwell; gan ymgorffori AI ar draws y system gyfiawnder drwy achosion sydd wedi’u targedu ac sy’n cael llawer o effaith; a buddsoddi yn ein pobl a’n partneriaid i ddatblygu arloesedd ac adeiladu gallu.  Mae’r gwaith o weithredu eisoes ar y gweill, gyda chanlyniadau addawol cynnar.  Wrth i ni raddio, byddwn yn dysgu ac yn addasu – gan sicrhau bod mabwysiadu AI yn gwella canlyniadau tra’n cynnal ymddiriedaeth y cyhoedd, hawliau dynol a rheolaeth y gyfraith. \"",
+  "base_path": "/government/publications/ai-action-plan-for-justice.cy",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

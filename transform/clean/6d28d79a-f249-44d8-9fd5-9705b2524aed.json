@@ -1,0 +1,19 @@
+{
+  "title": "Deaths of Homeless People in Northern Ireland, 2024",
+  "body": "\"Tables detailing the number of deaths of homeless people in Northern Ireland in 2024 \"",
+  "base_path": "/government/statistics/homeless-deaths-in-northern-ireland-2024",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Homelessness and rough sleeping",
+      "base_path": "/housing-local-and-community/homelessness-rough-sleeping"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

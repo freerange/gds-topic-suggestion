@@ -1,0 +1,11 @@
+{
+  "title": "Capping Inheritance Tax trust charges for excluded property in trusts",
+  "body": "\"This measure introduces a cap on relevant property inheritance tax charges for trusts which held excluded property at 30 October 2024. The relevant property charges are capped at £5 million over each 10 year cycle. \"",
+  "base_path": "/government/publications/capping-inheritance-tax-trust-charges-for-former-non-uk-domicile-residents",
+  "taxons": [
+    {
+      "title": "Inheritance Tax",
+      "base_path": "/money/personal-tax-inheritance-tax"
+    }
+  ]
+}

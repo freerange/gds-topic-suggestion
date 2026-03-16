@@ -1,0 +1,19 @@
+{
+  "title": "Previous releases of Quarterly and Annual Volume Statistics",
+  "body": "\"This page provides tables that accompanied previous statistical releases, in Microsoft Excel format.  Please note that these are not current and do not give the latest picture.  They are provided for full transparency, including enabling users to see what, if anything, has changed in the tables. The latest version is available here.  The data tables and charts provide quarterly and annual volume information (such as number of decisions, and what the decisions were) for a range of casework.  The casework covers: Nationally Significant Infrastructure Projects; Development Plans; Community Infrastructure Levy; Called in Planning Applications; Planning Appeals; Householder Appeals; Commercial Appeals; Listed Building Appeals and Listed Building Enforcement notices; Enforcement Notice Appeals; and specialist casework.  Additional tables give decision information by Local Planning authority and by Decision Maker. \"",
+  "base_path": "/government/statistics/previous-releases-of-quarterly-and-annual-volume-statistics",
+  "taxons": [
+    {
+      "title": "Planning permission and appeals",
+      "base_path": "/housing-local-and-community/planning-permission-appeals"
+    },
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

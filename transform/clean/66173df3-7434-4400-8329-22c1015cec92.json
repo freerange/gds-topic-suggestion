@@ -1,0 +1,11 @@
+{
+  "title": "Create or update a local plan using the legacy system",
+  "body": "\"About this collection   This collection gathers guidance and resources for local planning authorities (LPAs) to use when preparing a local plan.     These resources reflect the legacy planning policy framework for local plans. The legacy plan-making system covers plans to be adopted under the Planning and Compulsory Purchase Act 2004, excluding the amendments made by the Levelling-up and Regeneration Act 2023, and The Town and Country Planning (Local Planning) (England) Regulations 2012.    You should also continue to use the version of the National Planning Policy Framework relevant to you. See annex 1 of the Dec 2024 version for more details.   For plans under the new plan-making system If you are submitting your plan under the new system, use the create or update a local plan new system guidance.   The new plan-making system covers plans that will be prepared and amended under the Planning and Compulsory Purchase Act 2004, as modified by the Levelling-Up and Regeneration Act 2023.   Other resources to use alongside this collection  Get support with different aspects of plan-making    Get support with local plans from the Planning Advisory Service.  Read case studies on how local planning authorities have used digital technology for various aspects of plan-making.  Provide data about your plan  We are collecting local plan data to create a national picture of local plans.   You can use the planning data platform to provide data about your plan, including adoption dates, local plan boundary areas and a link to the plan.   Providing data makes your plan available on the national map and the national list of local plans.  Providing data is currently optional, but we plan to introduce legislation in future making it mandatory to provide specific local plan data. \"",
+  "base_path": "/government/collections/create-or-update-a-local-plan-using-the-legacy-system",
+  "taxons": [
+    {
+      "title": "Local Plans",
+      "base_path": "/housing-local-and-community/local-plans"
+    }
+  ]
+}

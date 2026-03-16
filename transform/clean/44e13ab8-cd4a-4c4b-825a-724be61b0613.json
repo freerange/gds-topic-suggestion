@@ -1,0 +1,11 @@
+{
+  "title": "Electronic Common Technical Document (eCTD) submissions update",
+  "body": "\" Stricter validation criteria  To improve the quality of submissions, the MHRA now requires stricter adherence to eCTD specifications.  In accordance with the ICH (International Conference on Harmonisation of Technical Requirements of Pharmaceuticals for Human Use) specification, historical sequences are required when you include a change to a document in your dossier, which is not held in our historic database.  When this occurs the MHRA will receive an error message. The move to the new system has already identified some existing sequences with this issue. This problem may also occur with current submissions. In either case, we will contact you.  Rectifying historical sequences issues  To resolve this, companies must send us their historical sequences, and/or the additional sequences missing from our records as indicated in the error message. The MHRA will proactively contact companies facing this issue.  The MHRA does not have the capability to rectify this situation. Companies must update the affected eCTD dossier to meet ICH standards.    This effort will lay the foundation for future RegulatoryConnect features, including instant automated technical validation, auto-approval and self-notification.  Validation phase  Submissions with issues will remain in validation phase until resolved. The MHRA will suggest a timescale for fixing the issue, but companies can contact us if you feel the proposed timescale is unrealistic. \"",
+  "base_path": "/guidance/electronic-common-technical-document-ectd-submissions-update",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

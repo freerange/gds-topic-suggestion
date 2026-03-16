@@ -1,0 +1,11 @@
+{
+  "title": "DWP: prompt payment data 1 April 2025 to 31 March 2026",
+  "body": "\"The percentage of invoices paid by DWP within 5 days and within 30 days of receipt.  \"",
+  "base_path": "/government/publications/dwp-prompt-payment-data-1-april-2025-to-31-march-2026",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

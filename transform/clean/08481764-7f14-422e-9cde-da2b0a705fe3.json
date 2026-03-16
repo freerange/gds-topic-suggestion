@@ -1,0 +1,11 @@
+{
+  "title": "Loss of cargo from Baltic Klipper",
+  "body": "\"Following the deployment of a team of investigators to the scene, the Marine Accident Investigation Branch (MAIB) has started an investigation into an accident involving the cargo vessel Baltic Klipper that occurred on 6 December 2025 in the Solent, England.  At approximately 1800 on 6 December 2025, 16 refrigerated shipping containers fell from the Liberia registered cargo vessel Baltic Klipper as it was preparing to embark a pilot 3 nautical miles east of the Isle of Wight in preparation for entry into Portsmouth. At the time there were rough seas with a significant swell, and strong south-westerly winds.  Subsequent to the incident the Solent deep-water channel was closed for a short period, causing disruption to local ports due to the potential risk to shipping of collision with semi-submerged containers.  Thirteen of the shipping containers have now washed ashore on the south coast at Selsey, Bognor Regis and Pagham Harbour, which has resulted in foodstuffs and plastic insulation being deposited on the beach. Three shipping containers remain unaccounted for, and a clean-up operation is underway.  Initial findings indicate that some containers were not properly secured for the vessel’s arrival in port, and they were lost overboard when Baltic Klipper rolled heavily as it manoeuvred to pick up a pilot for entry into Portsmouth.  The purpose of the MAIB’s safety investigation will be to establish the cause of events that led to this accident, understand why it happened, and make recommendations to prevent similar accidents reoccurring. The investigation will focus on the practice of removing cargo securing arrangements while vessels are underway before entering port and the impact of the pollution. \"",
+  "base_path": "/government/news/loss-of-cargo-from-baltic-klipper",
+  "taxons": [
+    {
+      "title": "Maritime accidents and serious incidents",
+      "base_path": "/transport/maritime-accidents-and-serious-incidents"
+    }
+  ]
+}

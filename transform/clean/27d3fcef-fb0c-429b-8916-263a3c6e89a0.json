@@ -1,0 +1,15 @@
+{
+  "title": "Security Industry Federation: annual returns (PDF format)",
+  "body": "\"This document contains Annual returns for Security Industry Federation, as submitted to the Certification Office. \"",
+  "base_path": "/government/publications/security-industry-federation-annual-returns-pdf-format",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    },
+    {
+      "title": "Trade unions",
+      "base_path": "/work/trade-unions"
+    }
+  ]
+}

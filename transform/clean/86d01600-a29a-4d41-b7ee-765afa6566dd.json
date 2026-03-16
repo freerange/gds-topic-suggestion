@@ -1,0 +1,15 @@
+{
+  "title": "Association between time spent in emergency care and 30-day post-discharge mortality: England, March 2021 to April 2022",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/association-between-time-spent-in-emergency-care-and-30-day-post-discharge-mortality-england-march-2021-to-april-2022",
+  "taxons": [
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    },
+    {
+      "title": "COVID-19",
+      "base_path": "/health-and-social-care/covid-19"
+    }
+  ]
+}

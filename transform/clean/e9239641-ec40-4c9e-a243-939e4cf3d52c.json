@@ -1,0 +1,19 @@
+{
+  "title": "OFSI-MoU",
+  "body": "\" OFAC-OFSI Memorandum of Understanding   A memorandum of understanding between the Office of Financial Sanctions Implementation (OFSI) and the Office of Foreign Assets Control (OFAC). The memorandum facilitates the exchange of information between the organisations on implementing and enforcing sanctions. \"",
+  "base_path": "/government/publications/ofsi-mou",
+  "taxons": [
+    {
+      "title": "International",
+      "base_path": "/international"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

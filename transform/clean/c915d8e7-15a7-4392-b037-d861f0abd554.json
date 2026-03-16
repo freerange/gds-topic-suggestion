@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Benefit Statistics Summary: May 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/northern-ireland-benefit-statistics-summary-may-2026",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    }
+  ]
+}

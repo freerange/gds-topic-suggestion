@@ -1,0 +1,15 @@
+{
+  "title": "Work-related violence statistics from the Crime Survey for England and Wales 2023 to 2024",
+  "body": "\"These statistics are published on the Health and Safety Executive (HSE) website.  \"",
+  "base_path": "/government/statistics/work-related-violence-statistics-from-the-crime-survey-for-england-and-wales-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Health and safety at work",
+      "base_path": "/work/health-safety-at-work"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

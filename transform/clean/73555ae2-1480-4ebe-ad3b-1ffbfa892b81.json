@@ -1,0 +1,11 @@
+{
+  "title": "Agri-climate report 2024",
+  "body": "\"The Agri-climate report is an annual publication which presents the latest available statistics on the impact of farming on climate change. The report is split into three sections focused on agricultural emissions, emissions intensity and farmer attitudes.  There are no further planned updates to the Agri-Climate Report. Please see the following publications for relevant updates concerning Agri-Climate topics:   The United Nations Climate Change National Inventory Submissions – UK animal emissions data The Defra slaughter statistics – Monthly UK meat production data The Defra milk statistics - Monthly UK milk price and production data The Farm Practices Survey (FPS) - Key summary statistics on farmer attitudes and views on GHGs and their uptake of a range of mitigation measures    For further information please contact:  Agri.EnvironmentStatistics@defra.gov.uk  X: @DefraStats  \"",
+  "base_path": "/government/statistics/agri-climate-report-2024",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

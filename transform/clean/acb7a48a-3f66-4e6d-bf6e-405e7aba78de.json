@@ -1,0 +1,15 @@
+{
+  "title": "Nuclear Decommissioning Authority: Nature recovery plan",
+  "body": "\"We take our responsibilities for biodiversity conservation and enhancement seriously, integrating these efforts into our core mission of nuclear clean-up and decommissioning. Our Nature Recovery Plan (NRP) aims to address biodiversity decline by conserving and restoring natural habitats and species, supporting government objectives for nature recovery. Through stakeholder engagement, baseline assessments, and clear goal setting, our NRP seeks to enhance ecosystem resilience and contribute to broader conservation efforts. Our NRP will be a living document, periodically reviewed to incorporate new research and policy guidance.  Why We Need a Nature Recovery Plan  The UK’s nature is unique and forms part of our common heritage, including significant habitats like blanket bogs, chalk rivers, and ancient woodlands. However, dramatic habitat changes have led to a decline in many species. The 2023 State of Nature Report highlights that nearly one in six species assessed are threatened with extinction, and species abundance has declined by 19% since 1970.  In response to this biodiversity crisis, global commitments such as the Leaders’ Pledge for Nature and the 30by30 initiative aim to protect 30% of land and seas by 2030. The Greening Government Commitments (GGCs) require UK Government departments to develop Nature Recovery Plans to reduce environmental impacts. Our NRP aligns with the Environment Act 2021, the Environment Improvement Plan 2023, and the Net Zero Strategy, ensuring compliance with biodiversity duties and supporting nature recovery. \"",
+  "base_path": "/government/publications/nuclear-decommissioning-authority-nature-recovery-plan",
+  "taxons": [
+    {
+      "title": "Radioactive and nuclear substances and waste",
+      "base_path": "/environment/radioactive-and-nuclear-substances-and-waste"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

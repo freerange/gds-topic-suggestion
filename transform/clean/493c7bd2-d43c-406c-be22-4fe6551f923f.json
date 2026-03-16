@@ -1,0 +1,19 @@
+{
+  "title": "Excise goods held in duty suspension",
+  "body": "\"This collection brings together guidance on requirements for duty-suspended excise goods held in UK excise warehouses. This includes guidance for:   authorised warehousekeepers registered owners duty representatives registered consignors   \"",
+  "base_path": "/government/collections/excise-goods-held-in-duty-suspension",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

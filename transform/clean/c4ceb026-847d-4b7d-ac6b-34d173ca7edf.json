@@ -1,0 +1,15 @@
+{
+  "title": "Statistics on International Development: provisional UK ODA spend 2024",
+  "body": "\" Update 11 April 2025: a revision has been made which has changed the total for the ‘Pacific’ region. This has also had a small impact on totals for some other regions. The revision corrects a geographical coding error. The overall trends included in the publication, including total ODA and the ODA:GNI ratio are not affected.   The UK provides Official Development Assistance (ODA) to developing countries or through international organisations.  This publication presents provisional spending statistics on UK ODA for the calendar year 2024, and UK ODA as a proportion of gross national income (the ODA:GNI ratio).  The information presents ODA spending by main delivery channel (bilateral or multilateral delivery), by government departments and other official sources. It also provides Foreign, Commonwealth & Development Office (FCDO) bilateral ODA spend by region. \"",
+  "base_path": "/government/statistics/statistics-on-international-development-provisional-uk-oda-spend-2024",
+  "taxons": [
+    {
+      "title": "Overseas aid transparency",
+      "base_path": "/international/overseas-aid-transparency"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Changes to the air navigation directions and air navigation guidance",
+  "body": "\"We are seeking views on proposed policy changes to the air navigation directions (AND) and air navigation guidance (ANG).  The AND and ANG are statutory documents issued to the Civil Aviation Authority (CAA) to inform them how to carry out their air navigation function. They were last updated in 2023 and 2017 respectively.  We are consulting on several proposed policy changes, with the aim of:   outlining our priorities and policies for designing new airspace streamlining processes to improve the implementation of the airspace modernisation programme    The proposed changes include:   providing clear priorities for the design of airspace, including the altitude at which noise and carbon are prioritised implementing new time limits on the call-in process updating guidance on the engagement and consultation process removing the need for environmental assessments for unmanned aerial systems trials improving the overall usability of the information   \"",
+  "base_path": "/government/consultations/changes-to-the-air-navigation-directions-and-air-navigation-guidance",
+  "taxons": [
+    {
+      "title": "Air navigation",
+      "base_path": "/transport/air-navigation"
+    },
+    {
+      "title": "Airport capacity and expansion",
+      "base_path": "/transport/airport-capacity-and-expansion"
+    },
+    {
+      "title": "New aviation technology",
+      "base_path": "/transport/new-aviation-technology"
+    }
+  ]
+}

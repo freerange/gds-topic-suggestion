@@ -1,0 +1,11 @@
+{
+  "title": "Detailed analysis of non-fire incidents, year ending March 2025",
+  "body": "\"Contains statistics on overall trends, fatalities and non-fatal casualties in non-fire incidents, and further detailed analysis of different categories of non-fire incidents. \"",
+  "base_path": "/government/statistics/detailed-analysis-of-non-fire-incidents-year-ending-march-2025",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

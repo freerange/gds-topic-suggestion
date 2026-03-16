@@ -1,0 +1,11 @@
+{
+  "title": "Warm Home Discount statistics, 2024 to 2025",
+  "body": "\"The Warm Home Discount scheme requires large domestic energy suppliers to provide an annual discount of £150 to eligible households.  These statistics report the number and type of households receiving rebates. This includes analysis of the share of households by:   region dwelling type type of household  \"",
+  "base_path": "/government/statistics/warm-home-discount-statistics-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Update of indicators in the respiratory disease profile: June 2025",
+  "body": "\"The respiratory disease profile shows data on a range of respiratory diseases in adults and children. The profiles are designed to support integrated care boards by providing data in a user-friendly format to allow them to assess the effect of respiratory disease in their areas and take action to prevent it. Data is mostly presented for integrated care board (ICB) level and other geographies where available.  \"",
+  "base_path": "/government/statistics/update-of-indicators-in-the-respiratory-disease-profile-june-2025",
+  "taxons": [
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    }
+  ]
+}

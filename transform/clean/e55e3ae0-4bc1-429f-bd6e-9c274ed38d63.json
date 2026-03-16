@@ -1,0 +1,23 @@
+{
+  "title": "FCDO workforce management information: July 2024",
+  "body": "\"Information on Foreign, Commonwealth & Development Office (FCDO) staff numbers and costs, for March 2024. \"",
+  "base_path": "/government/publications/fcdo-workforce-management-information-july-2024",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "International aid and development",
+      "base_path": "/international/international-aid-and-development"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

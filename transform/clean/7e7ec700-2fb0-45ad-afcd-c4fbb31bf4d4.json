@@ -1,0 +1,19 @@
+{
+  "title": "Employer immigration checks",
+  "body": "\"This research, by IFF Research, interviewed businesses using self-employed contractors, ‘gig economy’ employers and employment intermediaries to explore the rationale for using specific employment models, knowledge of immigration status and use of employment checks. It also looked at risks of illegal working as businesses are not required to undertake checks on the self-employed.  Businesses used varied employment models. These related to sector norms, recruitment issues or fluctuating staff needs, rather than business strategy. However, self-employed workers were important to gig economy business models.  Employment intermediaries and gig economy businesses understood and used a variety of pre-employment checks which went beyond their obligations, while practices varied in other businesses employing self-employed contractors.  The research found that illegal working risks may occur where responsibility for checks were unclear or where upfront checks were insufficient due to use of practices such as substitution. \"",
+  "base_path": "/government/publications/employer-immigration-checks",
+  "taxons": [
+    {
+      "title": "Entering and staying in the UK",
+      "base_path": "/entering-staying-uk"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

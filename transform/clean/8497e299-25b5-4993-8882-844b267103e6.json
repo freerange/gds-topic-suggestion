@@ -1,0 +1,11 @@
+{
+  "title": "Energy Trends and Prices statistical release: 31 July 2025",
+  "body": "\"Energy production, trade, electricity generation and consumption statistics are provided in total and by fuel (coal, oil, gas and electricity). Energy price statistics cover domestic price indices, prices of road fuels and petroleum products and comparisons of international road fuel prices.   Note: Quarterly Energy Trends tables 1.3, 2.1, 2.2, 3.1, 3.2, 3.4, 3.5, 4.1, 5.1, 5.2 and 6.1 have been re-published this month so that they are consistent with data in The Digest of UK Energy Statistics.   For enquiries about these statistics, contact:   energy production, trade and consumption - energy.stats@energysecurity.gov.uk  energy prices - energyprices.stats@energysecurity.gov.uk   \"",
+  "base_path": "/government/statistics/energy-trends-and-prices-statistical-release-31-july-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

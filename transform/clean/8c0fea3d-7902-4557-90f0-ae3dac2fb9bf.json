@@ -1,0 +1,19 @@
+{
+  "title": "Labour Force Survey quality update: May 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/labour-force-survey-quality-update-may-2025",
+  "taxons": [
+    {
+      "title": "Payroll",
+      "base_path": "/employment/payroll"
+    },
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

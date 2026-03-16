@@ -1,0 +1,11 @@
+{
+  "title": "Standard Determinate Sentence (SDS40) release data",
+  "body": "\"This transparency data publication presents the number of SDS40 releases at selected time points, broken down by prisoner demographics and sentence characteristics \"",
+  "base_path": "/government/collections/standard-determinate-sentence-sds40-release-data",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    }
+  ]
+}

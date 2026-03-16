@@ -1,0 +1,11 @@
+{
+  "title": "Science and Technology Framework",
+  "body": "\"The Science and Technology (S&T) Framework provides a holistic set of 10 critical levers that government can use to embed a full range of considerations into decision-making:   Developing and deploying critical technologies Signalling UK strengths and ambitions Investment in research and development Talent and skills Financing innovative science and technology companies Procurement International opportunities Research and innovation infrastructure (physical and digital) Regulation and standards Innovative public sector   The government is committed to applying these levers to ensure that S&T is at the centre of delivering our core priorities including the National Missions and Plan for Change and the Industrial Strategy.  \"",
+  "base_path": "/government/publications/science-and-technology-framework",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

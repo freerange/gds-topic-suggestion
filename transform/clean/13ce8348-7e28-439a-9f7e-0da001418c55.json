@@ -1,0 +1,15 @@
+{
+  "title": "General Medical Services Statistics for NI, Quarter 1 2025/26",
+  "body": "\"This quarterly report is a subset of the annual information and presents information on Patients, General Practitioners and GP Practices in NI for Q1 of 25/26. \"",
+  "base_path": "/government/statistics/general-medical-services-statistics-for-ni-quarter-1-202526",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

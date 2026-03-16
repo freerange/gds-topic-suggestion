@@ -1,0 +1,23 @@
+{
+  "title": "Relationship between mental ill health and absence in students aged 13 to 16",
+  "body": "\"The report found that:   mental ill health is one of the causal factors of absence in Year 11 students poorer mental health strongly predicts authorised absences unauthorised absences are not predicted well by poor mental health, with other factors such as socioeconomic variables better predicting these rates students being eligible for free school meals and those having special educational needs or a long-standing illness or disability predicted high levels of absence children from single-parent households were also absent more than those from two-parent households   The report uses data from the longitudinal study of young people in England (LSYPE2): cohort 2. \"",
+  "base_path": "/government/publications/relationship-between-mental-ill-health-and-absence-in-students-aged-13-to-16",
+  "taxons": [
+    {
+      "title": "Education of disadvantaged children",
+      "base_path": "/education/education-of-disadvantaged-children"
+    },
+    {
+      "title": "Health, safety and wellbeing in schools",
+      "base_path": "/education/health-safety-and-wellbeing-in-schools"
+    },
+    {
+      "title": "School attendance and absence",
+      "base_path": "/education/school-attendance-and-absence"
+    },
+    {
+      "title": "Special educational needs and disability (SEND) and high needs",
+      "base_path": "/education/special-educational-needs-and-disability-send-and-high-needs"
+    }
+  ]
+}

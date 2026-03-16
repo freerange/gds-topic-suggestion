@@ -1,0 +1,15 @@
+{
+  "title": "Water situation: national monthly reports for England 2025",
+  "body": "\"These reports collect information from the Environment Agency, the Met Office and water companies that measure and monitor:   the amount of rain that falls how dry the soils are and how much rain they can soak up the amount of water flowing in rivers the amount of water stored below ground in aquifers and above ground in reservoirs   They also present the outlook for river flow and groundwater. \"",
+  "base_path": "/government/publications/water-situation-national-monthly-reports-for-england-2025",
+  "taxons": [
+    {
+      "title": "River maintenance, flooding and coastal erosion",
+      "base_path": "/environment/river-maintenance-flooding-coastal-erosion"
+    },
+    {
+      "title": "Drought and water availability",
+      "base_path": "/business/environmental-management-water-drought-and-water-availability"
+    }
+  ]
+}

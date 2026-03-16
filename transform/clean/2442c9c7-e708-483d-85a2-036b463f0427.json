@@ -1,0 +1,11 @@
+{
+  "title": "Globally mobile employees",
+  "body": "\"This page provides links to guidance which may be helpful for employees and employers.  An employee’s liability to UK Income Tax can be affected during the tax year if they:   come to the UK to work go outside of the UK to work in another country work in more than one country   For the purposes of this guidance where an employee comes to, or goes outside, the UK to work they are referred to as a ‘globally mobile employee’.  How much employment income is affected by UK Income Tax depends on an employee’s residence in the tax year that the employment income is earned.  From 6 April 2025, the new residence-based regime, known as the Foreign Income and Gains regime, provides relief on certain types of foreign employment income and gains for individuals who are newly UK resident.  For tax years ending before 6 April 2025, employees may have elected to be taxed on the remittance basis. If an employee received employment income after 5 April 2025 which was earned in an earlier tax year, it may be necessary to read RDR4 Overseas Workday Relief. This provides information about Overseas Workday Relief under the remittance basis.  When an employer makes a payment of employment income to an employee on which the employee is liable to UK Income Tax, the employer is required to operate PAYE on this payment in accordance with the PAYE Regulations. Where the employer is based outside the UK, or the employee performs their employment duties wholly or partly outside the UK, this can affect the operation of PAYE.  Read the guidance on ‘Globally mobile employees and PAYE’. It provides a high-level overview.  You’ll find more detailed guidance available in the PAYE Manual as well as PAYE and National Insurance Contributions in CWG2. \"",
+  "base_path": "/government/publications/globally-mobile-employees",
+  "taxons": [
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    }
+  ]
+}

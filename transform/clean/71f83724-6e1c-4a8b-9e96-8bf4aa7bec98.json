@@ -1,0 +1,11 @@
+{
+  "title": "Modified vehicle statement (V627/3)",
+  "body": "\"This form must be used when notifying DVLA of a structural modification, such as cutting into a vehicle’s chassis, monocoque bodyshell or frame and changing a vehicle’s appearance or dimensions from its original manufacturer’s specification. \"",
+  "base_path": "/government/publications/modified-vehicle-statement-v6273",
+  "taxons": [
+    {
+      "title": "Vehicle manufacturing and modification",
+      "base_path": "/transport/vehicle-manufacturing-and-modification"
+    }
+  ]
+}

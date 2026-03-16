@@ -1,0 +1,19 @@
+{
+  "title": "Ten British AI breakthroughs set to cut bills and heat homes more efficiently",
+  "body": "\"  Ten AI pioneers are being supported to develop AI solutions which slash energy bills and accelerate the UK’s clean energy superpower ambitions.    Technologies include AI-powered heat mapping drones and smart panels that warm homes from the outside.   Winners will compete for £1 million Manchester Prize, helping to unlock AI innovation and growth to deliver the government’s Plan for Change.    Millions of families could see warmer homes and lower energy bills, as ministers back ten new AI innovations which will help make the UK a clean energy superpower through the government’s Plan for Change.  The ten finalists for the second round of the Manchester Prize include revolutionary technologies that could transform how Britain tackles climate change, while cutting costs for working families.    Among them is a system using AI to design bespoke panels, turning bricks into radiators to warm homes from the outside in, keeping a comfortable inside temperature all year round and simplifying the installation of heat pumps in older homes while reducing costs.     Another team uses AI-enabled drones to map heat loss across entire neighbourhoods, helping councils identify exactly which homes need urgent insulation upgrades – which could save households hundreds on their annual energy bill.     The Manchester Prize, funded by the Department of Science, Innovation and Technology and delivered by Challenge Works (part of the Nesta group), is rewarding UK-led AI breakthroughs that support the public good, including growing the economy, improving public services and helping to create a just transition to Net Zero for everyone.      Secretary of State for Science, Innovation and Technology, Peter Kyle said:      AI is opening up transformative new ways to tackle climate change and support the UK’s ambition to become a clean energy superpower.     That includes using the technology to keep our homes warm, while also supporting projects which will use AI to slash carbon emissions in our cement and steel industries - sectors which account for 16% of global emissions.     This is how we deliver our Plan for Change - harnessing innovation to solve major challenges, cut energy bills, and improve lives across Britain.   Energy Secretary Ed Miliband said:    Clean power is the economic opportunity of the 21st century and these projects will help households and businesses take advantage of lower bills, in a smarter and faster way than ever before.   From specially designed radiator walls to a smart power grid that flicks on and off as we need, AI has the potential to help every home in Britain to feel the benefits of warmer homes and homegrown clean energy.   Julia King, Baroness Brown of Cambridge, chair of the Manchester Prize judging panel said:      We are at a critical juncture in the journey to net zero, the next decade is make or break if the world is to keep global temperatures from exceeding 1.5C by 2050. Global emissions need to halve by 2030 compared to 1990 levels if we are to stay on track, while electricity production will need to double by 2050 to meet the demands...",
+  "base_path": "/government/news/ten-british-ai-breakthroughs-set-to-cut-bills-and-heat-homes-more-efficiently",
+  "taxons": [
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    },
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

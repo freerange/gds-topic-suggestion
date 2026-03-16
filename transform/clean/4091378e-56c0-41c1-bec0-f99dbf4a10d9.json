@@ -1,0 +1,11 @@
+{
+  "title": "Diverse seas: status of threatened and declining features",
+  "body": "\"This statistic is being developed to quantify the status of vulnerable marine features flagged for protection in the UK. It will provide a high-level summary for listed marine and coastal features by summarising published status assessment results. Trends will be presented where appropriate. The published assessments utilised in this statistic are derived from the OSPAR List of Threatened and/or Declining Species and Habitats (T&D list), and Annex I habitats and Annex II, IV and V species reported under Article 17 of the Habitats Directive (marine and coastal features only). \"",
+  "base_path": "/government/statistics/diverse-seas-status-of-threatened-and-declining-features",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

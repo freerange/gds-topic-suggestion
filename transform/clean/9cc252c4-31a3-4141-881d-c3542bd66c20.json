@@ -1,0 +1,11 @@
+{
+  "title": "Landfill tax rates for 2026 to 2027",
+  "body": "\"This measure increases the Landfill Tax:   standard rate in line with the Retail Price Index (RPI), rounded to the nearest 5 pence lower rate by the cash amount of the increase to the standard rate   \"",
+  "base_path": "/government/publications/landfill-tax-rates-for-2026-to-2027",
+  "taxons": [
+    {
+      "title": "Landfill Tax",
+      "base_path": "/money/landfill-tax"
+    }
+  ]
+}

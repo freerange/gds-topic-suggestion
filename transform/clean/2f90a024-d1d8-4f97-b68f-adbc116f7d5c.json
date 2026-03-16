@@ -1,0 +1,11 @@
+{
+  "title": "UK Government Resilience Action Plan",
+  "body": "\"The UK Government Resilience Action Plan sets out this government’s strategic approach to increasing the UK’s resilience against the risks we face. \"",
+  "base_path": "/government/publications/uk-government-resilience-action-plan",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

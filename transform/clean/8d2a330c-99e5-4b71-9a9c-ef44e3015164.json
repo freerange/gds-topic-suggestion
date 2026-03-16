@@ -1,0 +1,11 @@
+{
+  "title": "Rail fares freeze: passenger savings estimate",
+  "body": "\"The government has frozen rail fares to help commuters with living costs and boost the economy.  Department for Transport analysis shows that the fares freeze is expected to save existing rail passengers £600 million in 2026 to 2027.   This analysis is based on data for the 14 train operating companies (TOCs) managed by the Department for Transport (DfT).   \"",
+  "base_path": "/government/publications/rail-fares-freeze-passenger-savings-estimate",
+  "taxons": [
+    {
+      "title": "Rail ticketing and fares",
+      "base_path": "/transport/rail-ticketing-and-fares"
+    }
+  ]
+}

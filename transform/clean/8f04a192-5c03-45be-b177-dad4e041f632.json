@@ -1,0 +1,15 @@
+{
+  "title": "Enrolments at UK Higher Education Institutions: Northern Ireland analysis 2023/24",
+  "body": "",
+  "base_path": "/government/statistics/announcements/enrolments-at-uk-higher-education-institutions-northern-ireland-analysis-202324",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    }
+  ]
+}

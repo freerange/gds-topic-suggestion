@@ -1,0 +1,11 @@
+{
+  "title": "East Anglia EA11 Hemsby Hole Checklines 2024",
+  "body": "\"An assessment of the 2024 hydrographic survey of the area EA11: to monitor recent seabed movement; to identify any implications for shipping; and to make recommendations for future surveys. \"",
+  "base_path": "/government/publications/east-anglia-ea11-hemsby-hole-checklines-2024",
+  "taxons": [
+    {
+      "title": "Hydrography",
+      "base_path": "/environment/hydrography"
+    }
+  ]
+}

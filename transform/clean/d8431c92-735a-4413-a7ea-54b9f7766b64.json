@@ -1,0 +1,11 @@
+{
+  "title": "Household projections: 2022-based",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/household-projections-2022-based--2",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    }
+  ]
+}

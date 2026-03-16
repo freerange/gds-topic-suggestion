@@ -1,0 +1,11 @@
+{
+  "title": "Housing Benefit Debt Recoveries statistics: April 2024 to September 2024",
+  "body": "\"This publication includes data on the amount of Housing Benefit that is overpaid to claimants, the overpayments recovered and amounts written off.  Housing Benefit is an income related benefit that is intended to help meet housing costs for rented accommodation.  The statistics in this release capture information on:   the amount of Housing Benefit that is overpaid to claimants the overpayments recovered the amounts written off   Find previous releases of Housing Benefit recoveries data. \"",
+  "base_path": "/government/statistics/housing-benefit-debt-recoveries-statistics-april-2024-to-september-2024",
+  "taxons": [
+    {
+      "title": "Heating and housing benefits",
+      "base_path": "/welfare/heating"
+    }
+  ]
+}

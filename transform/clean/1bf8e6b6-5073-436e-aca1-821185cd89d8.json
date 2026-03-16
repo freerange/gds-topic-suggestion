@@ -1,0 +1,23 @@
+{
+  "title": "NI Topiramate Monitoring Report, April 2023 to September 2025",
+  "body": "\"This report presents the number of patients, including females of child bearing age, prescribed Topiramate. Broken down by age, gender and HSC Trust of residence, this report monitors prescribing and helps support decision making for patient safety. This report contains a revision, following identification of an error contained in indicator 3 (rate per 1,000 population). Any tables and charts affected by this revision are denoted by (R). Users should therefore not use previous editions of this report. For more information, please see the introductory notes within the current report. \"",
+  "base_path": "/government/statistics/ni-topiramate-monitoring-report-april-2023-to-september-2025",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Pharmacy",
+      "base_path": "/health-and-social-care/pharmacy"
+    },
+    {
+      "title": "Vigilance, safety alerts and guidance",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts"
+    },
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    }
+  ]
+}

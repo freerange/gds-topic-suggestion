@@ -1,0 +1,19 @@
+{
+  "title": "OFSI General Licence - INT/2025/7628424",
+  "body": "\" OFSI General Licence - INT/2025/7628424 Publication notice of General Licence INT/2025/7628424  \"",
+  "base_path": "/government/publications/ofsi-general-licence-int20257628424",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Financial services",
+      "base_path": "/business-and-industry/financial-services"
+    }
+  ]
+}

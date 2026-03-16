@@ -1,0 +1,11 @@
+{
+  "title": "Decentralised Manufacture: Labelling",
+  "body": "\"The labelling requirements pertinent to the type of medicinal product and its supply status (unlicensed, investigative medicinal product, medicinal product) as defined in UK legislation should be met. The sole exception are medicinal products manufactured at Point of Care (POC) which require to be administered immediately and for which no portion of the medicinal product will be retained for subsequent administration.  Immediate administration is considered to represent administration immediately (for example within 2 minutes of completion of manufacture) and entirely after its manufacture. The manufacturer is encouraged to pre-label all applicable final product and/or transfer containers with a medicinal product and patient identifier.  \"",
+  "base_path": "/guidance/decentralised-manufacture-labelling",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

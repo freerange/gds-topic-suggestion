@@ -1,0 +1,11 @@
+{
+  "title": "Cardiovascular disease profiles: December 2025 update",
+  "body": "\" The cardiovascular disease profiles have been updated by the Office for Health Improvement and Disparities (OHID). Data will be available for England, integrated care boards and upper tier local authorities where available.  The profiles provide an overview of data on cardiovascular and cardiovascular related conditions of heart disease, stroke, diabetes and kidney disease. They are intended to help commissioners and health professionals assess the impact of cardiovascular disease (CVD) on their local population, make decisions about services and improve outcomes for patients.  The cardiovascular disease profiles are one of a range of data and analysis resources produced by the CVD Intelligence Team.  \"",
+  "base_path": "/government/statistics/cardiovascular-disease-profiles-december-2025-update",
+  "taxons": [
+    {
+      "title": "Heart disease",
+      "base_path": "/health-and-social-care/heart-disease"
+    }
+  ]
+}

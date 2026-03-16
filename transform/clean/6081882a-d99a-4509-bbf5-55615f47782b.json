@@ -1,0 +1,19 @@
+{
+  "title": "UK-India Free Trade Agreement: technical notes",
+  "body": "\"These technical notes outline the methodology used in estimating headline impacts for the UK-India Free Trade Agreement and present preliminary estimates for the impact on gross domestic product (GDP), bilateral trade, and wages. Additionally, they provide an illustrative assessment of the potential additional fiscal revenue as a result of the agreement.  \"",
+  "base_path": "/government/publications/uk-india-free-trade-agreement-technical-note",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

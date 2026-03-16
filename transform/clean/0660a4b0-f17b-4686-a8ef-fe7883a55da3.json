@@ -1,0 +1,11 @@
+{
+  "title": "Livestock populations at 1 December 2025 (England)",
+  "body": "",
+  "base_path": "/government/statistics/announcements/livestock-populations-at-1-december-2025-england",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Reforming domestic CITES implementation",
+  "body": "\"The Department for Environment, Food and Rural Affairs (Defra) is seeking views on proposed reforms to the domestic implementation of CITES.  The proposed reforms will support the government’s delivery of Corry Review recommendations on reviewing environmental regulations to ensure they deliver both economic growth and positive conservation outcomes.  The consultation includes sections on:   proposals for amendments to the UK CITES domestic legislation proposed amendments to the CITES fees and charges framework draft statutory guidance on the use of civil sanctions to enforce certain breaches of CITES legislation   Defra will use your feedback to this consultation to develop a final package of reforms.  \"",
+  "base_path": "/government/consultations/reforming-domestic-cites-implementation",
+  "taxons": [
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    },
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    }
+  ]
+}

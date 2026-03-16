@@ -1,0 +1,15 @@
+{
+  "title": "HyNet Cluster CCUS: full business case",
+  "body": "\"This full business case supports the case for investment in the HyNet Cluster for the deployment of carbon capture, usage and storage (CCUS).  \"",
+  "base_path": "/government/publications/hynet-cluster-ccus-full-business-case",
+  "taxons": [
+    {
+      "title": "Carbon capture and storage",
+      "base_path": "/environment/oil-and-gas-carbon-capture-and-storage"
+    },
+    {
+      "title": "Energy industry and infrastructure licensing and regulation",
+      "base_path": "/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation"
+    }
+  ]
+}

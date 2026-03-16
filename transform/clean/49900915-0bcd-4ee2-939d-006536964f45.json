@@ -1,0 +1,23 @@
+{
+  "title": "Hawdd ei ddarllen: Ymweliadau cefnogol os oes angen help arnoch i hawlio budd-daliadau",
+  "body": "\"Mae’r canllaw hawdd ei ddarllen hwn yn dweud wrthych:   pryd y gall yr Adran Gwaith a Phensiynau (DWP) drefnu i ymweld â chi sut y bydd DWP yn dweud wrthych am yr ymweliad sut i wirio bod y swyddog ymweld yn dod o DWP mewn gwirionedd am faint o amser gall yr ymweliad bara sut i newid dyddiad neu amser yr ymweliad    Mae dogfennau hawdd eu darllen wedi’u cynllunio i wneud gwybodaeth yn hygyrch i bobl ag anableddau dysgu. Os nad oes angen fformat hawdd ei ddarllen arnoch, darllenwch y canllaw Ymweliadau cefnogol os oes angen help arnoch i hawlio budd-daliadau.   \"",
+  "base_path": "/government/publications/easy-read-support-visits-if-you-need-help-to-claim-benefits.cy",
+  "taxons": [
+    {
+      "title": "Benefits for families",
+      "base_path": "/welfare/families"
+    },
+    {
+      "title": "Carers and disability benefits",
+      "base_path": "/welfare/disability"
+    },
+    {
+      "title": "Jobseeker's Allowance and low income benefits",
+      "base_path": "/welfare/jobseekers-allowance"
+    },
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    }
+  ]
+}

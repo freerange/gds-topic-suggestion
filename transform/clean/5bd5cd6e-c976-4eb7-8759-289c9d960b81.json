@@ -1,0 +1,19 @@
+{
+  "title": "NI Topiramate Monitoring Report, April 2023 to June 2025",
+  "body": "\"This report, published for the first time, details the number of patients, including females of child bearing age, prescribed and dispensed Topiramate in Northern Ireland. Figures are broken down by gender, various age groups and further by HSC Trust. Five indicators are presented to aid this monitoring including total patients, the proportion of patients prescribed Topiramate, the rate, per 1,000 population prescribed Topiramate, patients starting on Topiramate and patients resuming Topiramate. \"",
+  "base_path": "/government/statistics/ni-topiramate-monitoring-report-april-2023-to-june-2025",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Pharmacy",
+      "base_path": "/health-and-social-care/pharmacy"
+    },
+    {
+      "title": "Vigilance, safety alerts and guidance",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts"
+    }
+  ]
+}

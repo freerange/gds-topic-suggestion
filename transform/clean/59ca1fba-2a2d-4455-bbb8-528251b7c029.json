@@ -1,0 +1,15 @@
+{
+  "title": "Operation of police powers under TACT 2000, to December 2024",
+  "body": "\"This release brings together statistical material relating to the Terrorism Act 2000 (TACT), including arrests and their outcomes, as well as breakdowns of stops and searches made under the powers of the act. Data presented here cover the period up to 31 December 2024.  Further information on TACT, categories and terminology used in this release and information about the data providers is available in the user guide. \"",
+  "base_path": "/government/statistics/operation-of-police-powers-under-tact-2000-to-december-2024",
+  "taxons": [
+    {
+      "title": "Counter-terrorism",
+      "base_path": "/crime-justice-and-law/counter-terrorism"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Linking STATS19 fatalities and ONS death registration data",
+  "body": "\"This report links STATS19 police-reported road fatalities with Office for National Statistics (ONS) death registrations data for England and Wales, primarily to validate the STATS19 data on those killed in road collisions, that is to assess how well STATS19 captures fatal road incidents.  This represents the first stage of what is planned to be further work to compare reported road deaths in STATS19 with death registrations data, and should be treated as an initial feasibility study which it is hoped will be developed further.  We welcome any comments or suggestions for further development of this initial work, which can be provided via the contact details below.  Contact details   Road safety statistics     Email roadacc.stats@dft.gov.uk        \"",
+  "base_path": "/government/statistics/linking-stats19-fatalities-and-ons-death-registration-data",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

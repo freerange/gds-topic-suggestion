@@ -1,0 +1,15 @@
+{
+  "title": "AI cyber security",
+  "body": "\"Artificial intelligence (AI) is having a transformative impact on organisations and public services, but it is vital efforts are taken to protect AI systems from growing cyber security threats. The government is therefore taking steps to address the cyber security risks to AI.  Following the National Cyber Security Centre’s (NCSC) Guidelines for secure AI system development, a Call for Views and the publication of various research, the government is now publishing a world leading voluntary Code of Practice which will be used as the basis for a new global standard.   From securing AI systems against hacking and sabotage, to ensuring they are developed and deployed in a secure way, the Code and future standard will help developers and system operators to build secure, innovative AI products that drive growth and support the Plan for Change. This will help give confidence to organisations in adopting the technology which will enhance public services and productivity and increase growth across the economy.    An overarching theme that arose from responses to the Call for Views was that organisations would benefit from additional guidance that explained how to implement the Code of Practice. The Government has therefore published an implementation guide to support organisations.    DSIT, in close collaboration with NCSC, will be working within the European Telecommunications Standards Institute (ETSI) to develop a global standard and accompanying guide. We will also be engaging with organisations across different sectors of the economy to support their adoption of the security requirements and to encourage participation in the standards development process. This work forms part of DSIT’s wider technology security programme and its secure by design approach across all digital technologies. Further information on how this work links with DSIT’s other cyber security codes can be found here.  \"",
+  "base_path": "/government/collections/ai-cyber-security",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

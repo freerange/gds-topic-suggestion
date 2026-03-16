@@ -1,0 +1,11 @@
+{
+  "title": "Artificial Intelligence sector study",
+  "body": "\"This research allows Department for Science, Innovation and Technology (DSIT) to deepen its understanding of the AI sector, monitor developments over time, and evaluate interventions to best support sector growth.  \"",
+  "base_path": "/government/collections/artificial-intelligence-sector-study",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

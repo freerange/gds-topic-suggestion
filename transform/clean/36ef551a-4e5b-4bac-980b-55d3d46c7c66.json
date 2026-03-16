@@ -1,0 +1,11 @@
+{
+  "title": "Local health: August 2025 update",
+  "body": "\"Local health contains indicators related to:   population and demographic factors, including age, sex and deprivation health outcomes wider determinants of health, including housing and living environment   The release updates indicators for:   mortality life expectancy childhood obesity general fertility rate and low birth weight babies fuel poverty unemployment and long-term unemployment   Data has been updated for middle layer super output areas (MSOA), lower tier and upper tier local authorities, regions and England. Data for wards and clinical commissioning groups (CCGs) has been removed from the tool.  We are exploring ways to produce small geographical area data which can be built up into larger areas to make recent data available more quickly. This may mean that it is possible to reinstate indicators for wards at a later date. We also aim to include data for NHS geographies in future releases.  We have removed some indicators in this release where the data is very old and cannot be updated with a new time point. Further details are given in the Fingertips tool.  For queries about this publication email pha-ohid@dhsc.gov.uk. \"",
+  "base_path": "/government/statistics/local-health-august-2025-update",
+  "taxons": [
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    }
+  ]
+}

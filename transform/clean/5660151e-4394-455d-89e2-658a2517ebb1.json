@@ -1,0 +1,11 @@
+{
+  "title": "Notifications for veterinary professionals: small animal risks and threats (SmART) comms system",
+  "body": "\"Small animal risks and threats (SmART) alerts are for veterinary professionals working with small animals and contain information about potential risks and threats.  Vets can sign up to receive these alerts by email or text.  They are published by the APHA species expert groups and are independent of the notifiable disease alerts.  \"",
+  "base_path": "/government/publications/notifications-for-veterinary-professionals-small-animal-risks-and-threats-smart-comms-system",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

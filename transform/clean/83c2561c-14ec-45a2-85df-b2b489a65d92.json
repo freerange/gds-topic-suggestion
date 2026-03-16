@@ -1,0 +1,11 @@
+{
+  "title": "Health inequalities in health protection report",
+  "body": "\"This report shares the latest data on health inequalities in the UK. \"",
+  "base_path": "/government/publications/health-inequalities-in-health-protection-report",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    }
+  ]
+}

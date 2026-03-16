@@ -1,0 +1,19 @@
+{
+  "title": "UKHO supports UK resilience in positioning, navigation and timing",
+  "body": "\"In October, the UKHO hosted the UK’s first cross-government geodesy, positioning, navigation and timing working group. Representatives from 19 government bodies came together to share insight on the risks, opportunities and interdependencies linked to PNT systems, including Global Navigation Satellite Systems (GNSS). The group will continue to support collaboration and exchange knowledge as further resilience actions progress.  There has since been an announcement from the Department for Science, Innovation and Technology (DSIT) at the Royal Institute of Navigation, where details were shared on new measures to reinforce the UK’s resilience in GNSS, as well as alternatives such eLoran (electronic long range navigation) and the National Timing Centre. These measures are designed to protect the essential PNT services that support national security, transport, energy and everyday digital services.  GNSS supports critical activities across the UK economy. It provides accurate location and timing for communications, maritime and aviation safety, and the smooth running of power and financial networks. As threats to space-based systems grow, improving national resilience is increasingly important.  The UKHO’s expertise in geodesy, the science of measuring and mapping the shape of the Earth, plays a key role in helping the UK understand and protect PNT services. Our specialists provide trusted positioning and timing advice across defence and civil programmes, including supporting the safety of navigation in UK waters.   It has been a privilege to organise and chair the first UK cross-government geodesy, positioning, navigation and timing working group. Bringing together experts from across government demonstrates the strength of our shared commitment to improving the UK’s resilience in satellite-based positioning and timing.  Geodesy and PNT infrastructure underpin everyday services and critical national systems. As threats and pressures increase, maintaining the UK’s capability in this area is vital for public safety and economic security.  It is fantastic to hear that the work with eLoran, GNSS Interference Monitoring Programme, Space Based Time Transfer and the National Timing Centre have received ongoing funding. This funding will assist both our data collection and the mariner. It will protect and assist future geodesy and PNT, improving resilience as these systems come increasingly under threat.  I look forward to integrating the outcomes of this investment into our work and hearing more on these developments at future Geodesy and PNT working groups.   Joe Pearce, Senior Geodesy and PNT Specialist, UKHO  For full details of the announcement, please see the official statement published by DSIT.  The UKHO also has more information on how to protect against GNSS and AIS jamming and spoofing. \"",
+  "base_path": "/government/news/ukho-supports-uk-resilience-in-positioning-navigation-and-timing",
+  "taxons": [
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    }
+  ]
+}

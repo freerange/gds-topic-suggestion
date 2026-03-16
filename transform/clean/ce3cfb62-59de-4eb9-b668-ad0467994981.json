@@ -1,0 +1,19 @@
+{
+  "title": "Businesses showcase tough justice tech to Government ministers",
+  "body": "\"  Businesses pitch new technology to Ministers that will deliver safer streets, contributing to the Government’s Plan for Change   Strict 24/7 surveillance and enhanced AI could monitor criminals in the community more closely than ever before  New “smell-detector” AI device could detect substance abuse inside and outside prison    On Tuesday 01 July, seven top tech companies pitched their ideas to the Prisons and Probation’s Minister, James Timpson, as part of a Dragon’s Den style pitch, after being whittled down from over 90 submissions.    The finalists included companies developing AI home monitoring which will toughen up punishment outside of prison. Cameras would be installed inside offenders’ homes, with artificial intelligence used to analyse offenders’ behaviours ensuring they comply with licence conditions.    Other radical tech ideas included ‘smell detector’ devices which use synthetic brain cells and AI to replicate the behaviour of a human nose. The tech will help deliver enhanced surveillance and detect the use of drugs, such as Spice or Fentanyl, offering prison and probation a swift way to detect drugs and boost staff safety.    Additional proposals included software to standardise how staff input information on offenders, alongside transcription tools to cut the administrative burden and cost to taxpayers, while allowing staff to focus more of their time on cutting crime.   The successful businesses will have their proposals considered for pilot rollouts, helping staff on the front line to tackle violence in prison and monitor offenders.   This follows the Government’s response to the Independent Sentencing Review, which recommended the greater use of technology and community sentencing in a bid to tackle the inherited crisis in our prisons system.   Prisons, Probation and Reducing Reoffending Minister, James Timpson, said:     We inherited a justice system in crisis and in need of reform. Prisons and probation are working in analogue while tech drives forward a new digital age.  That’s why we have invited companies to present bold new ideas to help us deliver tough punishment and enhanced surveillance. Embracing new technologies will help us to protect victims, reduce reoffending and cut crime as part of our Plan for Change.   In the Spending Review, the Government announced that the Probation Service will receive up to £700 million, an almost 45% increase in funding. This new funding will mean tens of thousands more offenders can be tagged and monitored in the community.    These technological solutions follow the publication of recent research that confirms curfew tags, which keep offenders at home and off the streets during certain times, can reduce reoffending by 20 per cent. This demonstrates how even older technology is supporting punishment in the community and cutting crime. \"",
+  "base_path": "/government/news/businesses-showcase-tough-justice-tech-to-government-ministers",
+  "taxons": [
+    {
+      "title": "Criminal justice reform",
+      "base_path": "/crime-justice-and-law/criminal-justice-reform"
+    },
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    }
+  ]
+}

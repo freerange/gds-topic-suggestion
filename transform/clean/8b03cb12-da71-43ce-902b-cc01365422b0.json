@@ -1,0 +1,15 @@
+{
+  "title": "Ministerial letter on cyber security to small businesses",
+  "body": "\"Hostile cyber activity in the UK is growing more intense, frequent and sophisticated. In light of recent cyber incidents, the government has written an open letter to industry trade bodies and business representative organisations with advice to help ensure small businesses are best protected against cyber threats.   The letter sets out two key actions small business owners and entrepreneurs can take to improve their cyber resilience:    Use the new Cyber Action Toolkit, a free, personalised cyber security solution from experts at the National Cyber Security Centre (NCSC) which sets out simple, achievable steps for small businesses.   Adopt Cyber Essentials, the government’s highly effective scheme to protect against common cyber attacks. It includes free cyber insurance, access to a 24/7 emergency helpline and opens doors to government contracts and enhanced business opportunities. Organisations with Cyber Essentials are 92% less likely to make a claim on their cyber insurance.    If businesses do face an incident, help is available round the clock. Fraud and cyber crime can be reported to Action Fraud, or by calling 101 in Scotland.  This open letter has been sent to a wide range of industry trade bodies and business representative organisations, who are encouraged to share this information with their members and networks.  \"",
+  "base_path": "/government/publications/ministerial-letter-on-cyber-security-to-small-businesses",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Running a business",
+      "base_path": "/business-and-industry/running-a-business"
+    }
+  ]
+}

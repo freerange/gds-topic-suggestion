@@ -1,0 +1,23 @@
+{
+  "title": "COVID-19 vaccination in autumn 2026 and spring 2027: JCVI advice, 16 July 2025",
+  "body": "\"This statement provides JCVI advice for the COVID-19 vaccination programme for:   autumn 2026 spring 2027  \"",
+  "base_path": "/government/publications/covid-19-vaccination-in-autumn-2026-and-spring-2027-jcvi-advice-16-july-2025",
+  "taxons": [
+    {
+      "title": "Vaccinations for COVID-19",
+      "base_path": "/health-and-social-care/vaccinations-for-covid-19"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

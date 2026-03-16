@@ -1,0 +1,11 @@
+{
+  "title": "Wildfowling strategy template",
+  "body": "\"You must make sure wildfowling does not cause significant disturbance to wintering birds if:   you plan to carry out wildfowling on your land your land is in Countryside Stewardship Higher Tier (CSHT) action  CGS19: Manage wet grassland for wintering waders and wildfowl or  CGS20: Manage wet grassland for breeding waders    Use the wildfowling strategy template to plan your sustainable wildfowling strategy.   Keep a separate record of your bag returns.  You must provide these if Natural England ask for them.  \"",
+  "base_path": "/government/publications/wildfowling-strategy-template",
+  "taxons": [
+    {
+      "title": "Countryside stewardship",
+      "base_path": "/environment/countryside-stewardship"
+    }
+  ]
+}

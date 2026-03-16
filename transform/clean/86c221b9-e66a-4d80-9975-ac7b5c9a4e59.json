@@ -1,0 +1,11 @@
+{
+  "title": "UK Sea Fisheries Statistics: Catch Recording Data Statistical Quality Assessment",
+  "body": "\"This report provides a summary of the statistical quality assessment of the data collected via the Catch Recording Service in 2024. \"",
+  "base_path": "/government/publications/uk-sea-fisheries-statistics-catch-recording-data-statistical-quality-assessment",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

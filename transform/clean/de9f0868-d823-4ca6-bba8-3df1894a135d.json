@@ -1,0 +1,11 @@
+{
+  "title": "UK-AWaRe antibiotic classification",
+  "body": "\"This resource provides the list of UK-AWaRe classifications for antibiotics as well as a summary of the evidence-based approach used to assign classifications and members of the core working group. The list has been ratified by all 4 UK nations.  This list will support national Antimicrobial Stewardship (AMS) and antibiotic usage targets within the 2024 to 2029 national action plan to confront antimicrobial resistance (AMR).  See further details on the development of the UK-AWaRe list, as published in JAC-AMR. \"",
+  "base_path": "/government/publications/uk-aware-antibiotic-classification",
+  "taxons": [
+    {
+      "title": "Antimicrobial resistance (AMR)",
+      "base_path": "/health-and-social-care/antimicrobial-resistance"
+    }
+  ]
+}

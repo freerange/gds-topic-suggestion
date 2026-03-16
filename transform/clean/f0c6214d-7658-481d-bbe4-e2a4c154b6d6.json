@@ -1,0 +1,15 @@
+{
+  "title": "Employer Bulletin: February 2025",
+  "body": "\"HMRC publishes the Employer Bulletin 6 times a year, giving employers and agents the latest information on topics and issues that may affect them.  The February edition of Employer Bulletin includes articles on:   payrolling employees’ benefits and expenses reporting expenses and benefits for the tax year ending 5 April 2025 update on employee hours data requirements company cars — classification of double cab pickups Guidelines for Compliance — Help with labour supply chain assurance statutory Neonatal Care Leave and Pay   You can register for HMRC’s employer email alert service to receive emails from HMRC which tell you when the latest issue is available.  You can read the bulletin on screen or print it off. It’s compatible with most screen reading software packages. \"",
+  "base_path": "/government/publications/employer-bulletin-february-2025",
+  "taxons": [
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Qualifications and destinations of Northern Ireland school leavers: 2023 to 2024 (academic year)",
+  "body": "\"The purpose of this statistical release is to present an analysis of GCSE and A level examination performance and destinations for pupils leaving post-primary schools in 2023 to 24 (academic year). The data are at individual pupil level and also contain pupil characteristics such as their ethnicity, religion or free school meal entitlement. With the dataset being at pupil level and the home postcode of each pupil recorded, spatial analysis can be undertaken on the qualifications and destinations of NI school leavers. \"",
+  "base_path": "/government/statistics/qualifications-and-destinations-of-northern-ireland-school-leavers-2023-to-2024-academic-year",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

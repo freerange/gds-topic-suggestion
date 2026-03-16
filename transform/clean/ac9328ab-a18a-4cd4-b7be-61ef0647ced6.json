@@ -1,0 +1,15 @@
+{
+  "title": "Benefit Cap Report Northern Ireland: May 2025",
+  "body": "\"The report includes further information on the characteristics of households on the Benefit Cap in Northern Ireland over time. \"",
+  "base_path": "/government/statistics/benefit-cap-report-northern-ireland-may-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    }
+  ]
+}

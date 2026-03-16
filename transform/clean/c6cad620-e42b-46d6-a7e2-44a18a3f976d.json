@@ -1,0 +1,15 @@
+{
+  "title": "Check how much tax you pay on dividends and interest from savings",
+  "body": "\"Most people can earn some dividend income and interest from their savings without having to pay tax.   You can find out:    how tax on savings interest works how tax on dividends works   Use this tool if you want to check if you have to pay tax on your dividend income or savings interest, and to find out how the tax is worked out.  Before you start  You cannot use this tool if you:    file a Self Assessment tax return  get any foreign income  get Marriage Allowance  get Blind Person’s Allowance   To check your tax using this service you will need to have tax code 1257L.  You will also need to know details of any income from employment or a pension for the tax year you’re checking, as well as if you receive any taxable state benefits.  Check how much tax you may have to pay  Check now   \"",
+  "base_path": "/guidance/check-how-much-tax-you-pay-on-dividends-and-interest-from-savings",
+  "taxons": [
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    },
+    {
+      "title": "Tax on savings and investments",
+      "base_path": "/money/savings-investment-tax"
+    }
+  ]
+}

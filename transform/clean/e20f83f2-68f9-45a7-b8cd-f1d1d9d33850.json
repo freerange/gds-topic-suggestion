@@ -1,0 +1,15 @@
+{
+  "title": "Milk Price and Production Statistics NI, December 2024",
+  "body": "\"This release shows the latest monthly information on the average Northern Ireland farm gate milk prices and the volume of raw milk produced. \"",
+  "base_path": "/government/statistics/milk-price-and-production-statistics-ni-december-2024",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

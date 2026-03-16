@@ -1,0 +1,15 @@
+{
+  "title": "General Ophthalmic Services Statistics for NI, Quarter 2 2025/26",
+  "body": "\"This report contains high level summary information on activity and payments in relation to General Ophthalmic Services in Northern Ireland for quarter 2 of 2025/26.  Information is provided at Northern Ireland level with further breakdowns presented at both Local Commissioning Group (LCG) and Local Government District (LGD) level. \"",
+  "base_path": "/government/statistics/general-ophthalmic-services-statistics-for-ni-quarter-2-202526",
+  "taxons": [
+    {
+      "title": "Ophthalmology",
+      "base_path": "/health-and-social-care/ophthalmology"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

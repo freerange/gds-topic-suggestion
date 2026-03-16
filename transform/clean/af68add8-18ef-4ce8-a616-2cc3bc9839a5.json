@@ -1,0 +1,15 @@
+{
+  "title": "National Energy Efficiency Data-Framework (NEED): anonymised data 2025",
+  "body": "\"These documents present updated record level data created from the National Energy Efficiency Data-Framework (NEED):   the 50,000 row dataset is small enough to use in spreadsheet software the 4 million row dataset is a larger sample of the same NEED dataset the metadata spreadsheet describes the fields included in both tables   Please forward any feedback to energyefficiency.stats@energysecurity.gov.uk.  \"",
+  "base_path": "/government/statistics/national-energy-efficiency-data-framework-need-anonymised-data-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    },
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "AAIB Report: ATR 42-500, G-LMSA",
+  "body": "\"Whilst in the cruise, the aircraft suffered a contained failure of the No 1 engine and a subsequent fire inside its cowlings due to a leak from the fuel return line which had become sufficiently loose following the engine failure to result in fuel leakage.  The flight crew correctly followed the checklist procedures to shut down the engine, and the fire was extinguished.  The aircraft landed without further incident.  Although this is the only known instance of this fuel line becoming loose, the aircraft manufacturer has commenced a safety review to identify any possible safety actions which would further reduce the likelihood of leakage from the fuel return line.  Read the report. \"",
+  "base_path": "/government/news/aaib-report-atr-42-500-g-lmsa",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

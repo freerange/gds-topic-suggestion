@@ -1,0 +1,11 @@
+{
+  "title": "Impact of Making Tax Digital for below threshold VAT customers",
+  "body": "\"HMRC commissioned Verian (previously Kantar Public) to undertake this research to quantitatively measure the impact of Making Tax Digital for VAT on businesses below the VAT threshold (£85,000 at the time of the research).  This was a quantitative study comprising of 2,042 interviews with randomly sampled businesses below the VAT threshold that had submitted at least one return via Making Tax Digital. Fieldwork took place between 1 November 2023 and 12 January 2024.   The views in this report are the authors’ own and do not necessarily reflect those of HM Revenue and Customs. \"",
+  "base_path": "/government/publications/impact-of-making-tax-digital-for-below-threshold-vat-customers",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    }
+  ]
+}

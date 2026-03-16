@@ -1,0 +1,27 @@
+{
+  "title": "Registrar General Quarterly Report (Northern Ireland) - July to September 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/registrar-general-quarterly-report-northern-ireland-july-to-september-2025",
+  "taxons": [
+    {
+      "title": "COVID-19",
+      "base_path": "/health-and-social-care/covid-19"
+    },
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Having a child, parenting and adoption",
+      "base_path": "/life-circumstances/child-adoption"
+    },
+    {
+      "title": "Marriage, civil partnership and divorce",
+      "base_path": "/life-circumstances/marriage-divorce"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

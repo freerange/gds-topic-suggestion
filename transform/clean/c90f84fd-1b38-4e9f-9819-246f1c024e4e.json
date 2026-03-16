@@ -1,0 +1,15 @@
+{
+  "title": "Rail vehicle dispensation: Great Western Railway Class 230 fast charge unit",
+  "body": "\"Seeks views on Great Western Railway’s dispensation request for its fast-charge, Class 230 battery-electric multiple unit, 230001.  The dispensation relates to 3 on-board features that do not fully comply with the Accessibility National Technical Specification Notice (ACC NTSN). \"",
+  "base_path": "/government/consultations/rail-vehicle-dispensation-great-western-railway-class-230-fast-charge-unit",
+  "taxons": [
+    {
+      "title": "Rail accessibility",
+      "base_path": "/transport/rail-accessibility"
+    },
+    {
+      "title": "Rail interoperability",
+      "base_path": "/transport/rail-interoperability"
+    }
+  ]
+}

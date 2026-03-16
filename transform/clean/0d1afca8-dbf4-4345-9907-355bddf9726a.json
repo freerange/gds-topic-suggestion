@@ -1,0 +1,15 @@
+{
+  "title": "Research into data standards for Smart Data",
+  "body": "\"The Department for Business and Trade (DBT) commissioned the Public Service Consultants (PSC) to complete research to:   understand the current state of data standards in key sectors of interest (finance, energy, property, retail) understand the suitability of the current state to facilitate the development of new Smart Data schemes outline a set of design principles to guide the development of data standards for Smart Data   The report includes the findings from a literature review and stakeholder interviews, and outlines 9 principles for:   why a data standard should be created who should be involved in creating and maintaining them how they should be created what a fit-for-purpose standard should contain   \"",
+  "base_path": "/government/publications/research-into-data-standards-for-smart-data",
+  "taxons": [
+    {
+      "title": "Sale of goods and services and data protection",
+      "base_path": "/business-and-industry/sale-goods-services-data"
+    },
+    {
+      "title": "Science and innovation",
+      "base_path": "/business-and-industry/science-and-innovation"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Business population estimates 2025",
+  "body": "\"The business population estimates for the UK and regions (BPE) provides the only official estimate of the total number of private sector businesses in the UK at the start of each year.  Business population estimates 2025 is the latest in the annual publication of business population estimates.  The status of the 2025 publication remains as official statistics in development.  This publication differs from other official statistics outputs produced by the Office for National Statistics (ONS) on Value Added Tax (VAT) traders and Pay As You Earn (PAYE) employers. The ‘Guide to Business Statistics’ sets out the differences. The business population estimates provide further information broken down by number of employees, legal status, industry and geography.  The department’s Pre-release Access to Official Statistics Order 2008: statement of compliance sets out the Department for Business and Trade (DBT)’s operational arrangements for giving ministers and officials pre-release access to official statistics once they have attained their final form prior to publication.  Future release dates will be announced on the GOV.UK release calendar.   Get in touch Send comments or feedback about the report to business.statistics@businessandtrade.gov.uk.   \"",
+  "base_path": "/government/statistics/business-population-estimates-2025",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

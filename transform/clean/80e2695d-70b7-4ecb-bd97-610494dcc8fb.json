@@ -1,0 +1,19 @@
+{
+  "title": "FCDO prompt payment data 2024 to 2025",
+  "body": "\"This page provides data on invoices paid by Foreign, Commonwealth & Development Office within 5 days and within 30 days of receipt.  The data covers 3-month periods (quarters) for financial year 2024 to 2025.   Data for April 2022 to June 2023 is not yet available. This is because the FCDO is still bringing together the payment systems for the Department for International Development and the Foreign & Commonwealth Office. Data will be published as soon as it is available.  \"",
+  "base_path": "/government/publications/fcdo-prompt-payment-data-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "International aid and development",
+      "base_path": "/international/international-aid-and-development"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

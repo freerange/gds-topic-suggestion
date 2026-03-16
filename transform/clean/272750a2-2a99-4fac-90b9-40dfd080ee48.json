@@ -1,0 +1,15 @@
+{
+  "title": "Services and support, responses from family members of UK armed forces veterans: Veterans’ Survey 2022, UK",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/services-and-support-responses-from-family-members-of-uk-armed-forces-veterans-veterans-survey-2022-uk",
+  "taxons": [
+    {
+      "title": "Armed forces",
+      "base_path": "/defence/working-armed-forces"
+    },
+    {
+      "title": "Veterans and family support",
+      "base_path": "/defence-and-armed-forces/veterans-family-support"
+    }
+  ]
+}

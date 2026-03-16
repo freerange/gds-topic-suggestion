@@ -1,0 +1,11 @@
+{
+  "title": "Environmental Indicator Framework: Assessments",
+  "body": "\"This document contains summary information for all Environmental Indicator Framework indicator assessments relevant to the goals of the Environmental Improvement Plan. Assessment outcomes are summarised, as well as network diagrams provided which indicate how different indicators impact each other in different ways. \"",
+  "base_path": "/government/publications/environmental-indicator-framework-assessments",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

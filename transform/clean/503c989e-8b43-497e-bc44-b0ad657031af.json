@@ -1,0 +1,23 @@
+{
+  "title": "Technical Regression Report 2024",
+  "body": "\"Contents    Introduction   VFM metrics data and explanatory tables   Regression analysis - headline results   Regression analysis - additional testing   Explanatory variables excluded from the final model   Annex A: VFM metrics definitions   Annex B: Explanatory variables definition   Annex C: Sample sizes in the final streamlined model   Annex D: Methodology   Annex E: Details of diagnostic testing   Annex F: Quality assurance   Annex G: Glossary of terms      Introduction                                                                     This technical report sets out the methodology and statistical process undertaken by the Regulator of Social Housing (RSH) to examine the factors influencing Value for Money (VFM) metrics of private registered providers (PRPs) in England. Key messages drawn from the analysis are set out in the accompanying VFM metrics summary report which expands upon the observations published in 2018.  Since 2018, the sector’s value for money metrics have radically changed. Challenges with rising essential expenditure on maintenance and major repairs, especially on levels of spending directed towards high rise buildings and compounded by high inflation and interest rates and below forecast rent increases have had a profound influence on sector performance. Moreover, in recent years, the regulator has begun to collect more detailed information on stock characteristics. The availability of this new data means that the impact of a wider range of factors can now be examined in a new regression model to enhance understanding of the differences in performance across the sector on the value for money metrics that landlords are required to publish.  Value for Money performance is driven by a range of factors, and without controlling for a sufficient range of these factors, simple comparisons around performance across groups of providers are unlikely to be meaningful. Regression analysis is a statistical method which overcomes this: it allows one to isolate the effects of a particular variable, holding all other explanatory variablefootnote 1 constant. Regression analysis estimates how the value of the dependent variablefootnote 2 changes given a unit change in the explanatory variable, while the other explanatory variables are held fixed. This models the relationship between the explanatory and dependent variable by determining a best-fit line to a dataset.  While it is a powerful tool for uncovering the relationships between variables observed in data, regression analysis on its own does not identify a specific cause of variation, which means that any inferences from the analysis must come with a degree of caution. The analysis however does provide valuable insights into factors which impact VFM performance and can help providers and other stakeholders understand some of the factors shaping differential performance on the metrics themselves.  This report presents detail of data definitions of the explanatory variables assessed and the diagnostic testing performed to assess the robustness of the analysis. The technical report is split into three main sections:  a. VFM metric data and explanatory variables – sources, definitions and descriptive statistics for key variables.  b. Regression analysis: headline results of the final model and interpretations between the explanatory variables and the VFM metrics.  c. Regression analysis: Additional testing – Economies of scale and explanatory...",
+  "base_path": "/government/publications/technical-regression-report-2024",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

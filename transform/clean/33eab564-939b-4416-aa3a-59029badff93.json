@@ -1,0 +1,11 @@
+{
+  "title": "Musculoskeletal health profile: April 2025 update",
+  "body": "\" The musculoskeletal (MSK) health profile has been updated.  For the March update, 3 new indicators, for people aged 16 and over, have been added based on the 2024 GP Patient Survey (GPPS):   percentage self-reporting a long-term MSK problem (2024 version) percentage reporting a long-term MSK problem and at least one other long-term condition (2024 version) odds of self-reported mental health conditions in people with an MSK condition compared with those without an MSK condition (odds ratio) (2024 version)   See the statistical commentary for more details on the latest release.  The MSK health profile has been designed to bring together meaningful data on a single platform, to enable the commissioning of high-value musculoskeletal services. Data is provided in a user-friendly format to help local government and health services:   understand the health needs of their populations see how many people are accessing services in their areas find out the cost and outcomes of services   View previous MSK health profile updates.  \"",
+  "base_path": "/government/statistics/musculoskeletal-health-profile-april-2025-update",
+  "taxons": [
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    }
+  ]
+}

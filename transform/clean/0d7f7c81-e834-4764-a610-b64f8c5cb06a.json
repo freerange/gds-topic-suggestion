@@ -1,0 +1,11 @@
+{
+  "title": "Historical editions of the farming evidence pack",
+  "body": "\"Previously published editions of the farming evidence pack. The latest edition of this evidence pack can be found on the farming evidence pack main page.  This evidence pack compiles key statistics to provide an overview of the agricultural industry. It covers topics such as industry structure, farm economics and accounts, and the environmental challenges faced by agriculture. The research and analysis in this pack are taken from published statistics, and further detailed analysis based on data from the Farm Business Survey.   For further information please contact: AUK_stats_team@defra.gov.uk   Twitter: @DefraStats  \"",
+  "base_path": "/government/publications/historical-editions-of-the-farming-evidence-pack",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

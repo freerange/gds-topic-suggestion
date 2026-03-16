@@ -1,0 +1,11 @@
+{
+  "title": "Accredited Programme Sentences and Starts Ad Hoc",
+  "body": "\"These data cover the total number of Accredited Programmes supervised by the Probation Service in the community, sentenced or starting between 1 April 2022 and 30 June 2024. \"",
+  "base_path": "/government/statistics/accredited-programme-sentences-and-starts-ad-hoc",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    }
+  ]
+}

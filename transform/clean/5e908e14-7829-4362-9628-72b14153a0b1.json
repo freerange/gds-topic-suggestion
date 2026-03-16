@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: reservoir dam collapse",
+  "body": "\"This summary explains some of the main risks to transport in the unlikely event of a reservoir dam collapse, including sudden flooding and destruction of transport infrastructure. It also provides advice to help mitigate and plan for these risks.  Direct impacts from reservoir dam collapse include:   sudden, life-threatening flooding from a reservoir that can destroy transport infrastructure power outages and disruption to communications infrastructure, affecting electric trains, signalling systems and emergency services   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-reservoir-dam-collapse",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

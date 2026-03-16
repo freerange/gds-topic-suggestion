@@ -1,0 +1,11 @@
+{
+  "title": "Home Office spending over £25,000: 2025",
+  "body": "\" For Home Office and UK Visas and Immigration data only   Transaction date  Grant data uses the accounting date - this may vary from payment date by no more than 3 days.  The invoice date is shown, instead of payment date, for most payments to other government departments.  Credit notes  Credit notes relating to goods and services are included from February 2011 onward.  Expense type  With the exception of grants, the description of expense type for this data has been drawn from ‘purchasing category’, instead of account code. The purchasing category gives a more detailed description of the type of expense. Where an invoice is paid centrally, and is subsequently re-allocated to individual business areas, and the system does not allocate a purchasing category, we have added a purchasing description.  Spend within performance and finance directorate  This directorate in particular has several items of spending that are allocated to it in the first instance, prior to subsequent re-allocation. These are marked as PFD*.  Office for Security and Counter-Terrorism  The nature of the spending within this directorate is sensitive, which has resulted in much of the information being exempt from publication under the same exemptions as would apply for freedom of information requests. \"",
+  "base_path": "/government/publications/home-office-spending-over-25000-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

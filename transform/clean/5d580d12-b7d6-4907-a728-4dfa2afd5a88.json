@@ -1,0 +1,23 @@
+{
+  "title": "Down syndrome needs profile paper",
+  "body": "\"The aim of this paper is to categorise evidence on the potential needs of people with Down syndrome reported during the Down Syndrome Act 2022 guidance: call for evidence, in order to support the production of the Down Syndrome Act 2022 guidance.  This paper is for anyone interested in learning more about:   the potential needs of people with Down syndrome, and where these needs may overlap with the needs of people with other chromosomal conditions, genetic conditions and/or a learning disability what evidence was collected during the call for evidence   It has been published alongside a further Down Syndrome Act 2022 statutory guidance consultation. \"",
+  "base_path": "/government/publications/down-syndrome-needs-profile-paper",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    },
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    },
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    }
+  ]
+}

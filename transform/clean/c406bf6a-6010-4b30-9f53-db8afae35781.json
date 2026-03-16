@@ -1,0 +1,15 @@
+{
+  "title": "Public sector finances, UK: April 2025 time series",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/public-sector-finances-uk-april-2025-time-series",
+  "taxons": [
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

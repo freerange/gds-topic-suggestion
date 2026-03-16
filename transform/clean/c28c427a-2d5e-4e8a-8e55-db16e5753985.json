@@ -1,0 +1,11 @@
+{
+  "title": "Respiratory disease profile",
+  "body": "\"The respiratory disease profile (previously known as INHALE (the INteractive Health Atlas of Lung conditions in England)) gives local areas comparable indicators of risk factors, healthcare provision and mortality for respiratory diseases to support commissioning and planning, and to identify unwarranted geographical variation.  The profile compiles respiratory disease data from a range of sources and provides indicators on:   all respiratory disease chronic obstructive pulmonary disease (COPD) asthma pneumonia other respiratory diseases including bronchiolitis risk factors   The profile contains, where available, data for sub-integrated care boards (sub-ICBs), integrated care boards (ICBs), NHS England regions, upper tier local authorities, lower tier local authorities, statistical regions and England.  The profile follows indicators developed for the 2nd Atlas of variation in risk factors and healthcare for respiratory disease in England.  For enquiries or feedback relating to the respiratory disease profile please contact: healthcare.variation@dhsc.gov.uk.  \"",
+  "base_path": "/government/collections/respiratory-disease-profile",
+  "taxons": [
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    }
+  ]
+}

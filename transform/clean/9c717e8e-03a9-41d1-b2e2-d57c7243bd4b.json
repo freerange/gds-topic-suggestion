@@ -1,0 +1,15 @@
+{
+  "title": "Management plans for Protected Landscapes in England",
+  "body": "\"This guidance sets out how management plans for Protected Landscapes should be prepared or reviewed. \"",
+  "base_path": "/government/publications/management-plans-for-protected-landscapes-in-england",
+  "taxons": [
+    {
+      "title": "Parks, trails and nature reserves",
+      "base_path": "/environment/parks-trails-nature-reserves"
+    },
+    {
+      "title": "Land sites",
+      "base_path": "/environment/planning-development-protected-sites-species-land-sites"
+    }
+  ]
+}

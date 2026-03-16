@@ -1,0 +1,11 @@
+{
+  "title": "DSIT Supplementary Estimates",
+  "body": "\"Supplementary Estimates are used to seek additional resources, capital and/or cash or to reallocate existing resources and capital to new activities.  Supplementary Estimates are normally presented in February each year. Prior to 2011-12, they were presented, as necessary, in June (Summer Supplementaries), November (Winter Supplementaries) and February (Spring Supplementaries).  New Estimates may also be presented, as necessary, during the Supplementary Estimates round.  You can find DSIT Main Estimates here. \"",
+  "base_path": "/government/collections/dsit-supplementary-estimates",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

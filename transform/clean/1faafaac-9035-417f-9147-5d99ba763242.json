@@ -1,0 +1,19 @@
+{
+  "title": "LAA SILAS Help and Information",
+  "body": "\"SILAS provides single sign-on access to LAA’s core applications for providers and LAA staff.  This page provides information on the Services currently available through SILAS, the Terms and Conditions for use of SILAS and information, guidance and FAQs when using SILAS.  SILAS FAQs  Registration and sign-in  Manage your users  SILAS Data security FAQs  SILAS user guides  SILAS user guide  LAA User Privacy Notice   LAA User Privacy Notice  (PDF, 97.7 KB, 4 pages)  SILAS Terms and Conditions   LAA SILAS Terms and Conditions  (PDF, 189 KB, 7 pages) \"",
+  "base_path": "/guidance/laa-silas-help-and-information",
+  "taxons": [
+    {
+      "title": "Civil and crime contracts",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-contracts"
+    },
+    {
+      "title": "Crime",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-crime"
+    },
+    {
+      "title": "Electronic working",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-electronic-working"
+    }
+  ]
+}

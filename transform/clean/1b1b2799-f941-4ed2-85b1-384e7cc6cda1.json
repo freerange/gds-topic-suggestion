@@ -1,0 +1,43 @@
+{
+  "title": "Education and outcomes pathways studies (EOPS)",
+  "body": "\"The education and outcomes pathways studies (EOPS) are a suite of longitudinal studies commissioned by the Department for Education to build high-quality evidence on children’s development, learning and wellbeing.  EOPS includes 3 studies:   early years, also known as Children of the 2020s  primary, also known as Five to Twelve  secondary, also known as Growing up in the 2020s    The EOPS team also manages the longitudinal study of young people in England II (LSYPE2), also known as Our Future.   These studies follow children and young people over time, enabling researchers to explore how early experiences and education shape outcomes.    Data from EOPS early years is available to approved researchers through the Office for National Statistics Secure Research Service (ONS SRS).  Data from LSYPE2 is available through the ONS SRS and UK Data Service.    For any queries, contact: team.longitudinal@education.gov.uk.  \"",
+  "base_path": "/government/collections/education-and-outcomes-pathways-studies-eops",
+  "taxons": [
+    {
+      "title": "Education of disadvantaged children",
+      "base_path": "/education/education-of-disadvantaged-children"
+    },
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    },
+    {
+      "title": "Health, safety and wellbeing in schools",
+      "base_path": "/education/health-safety-and-wellbeing-in-schools"
+    },
+    {
+      "title": "School attendance and absence",
+      "base_path": "/education/school-attendance-and-absence"
+    },
+    {
+      "title": "School bullying",
+      "base_path": "/education/school-bullying"
+    },
+    {
+      "title": "Key stage 5 (AS and A Levels)",
+      "base_path": "/education/key-stage-5-as-and-a-levels"
+    },
+    {
+      "title": "Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",
+      "base_path": "/education/secondary-curriculum-key-stage-3-and-key-stage-4-gcses"
+    },
+    {
+      "title": "Special educational needs and disability (SEND) and high needs",
+      "base_path": "/education/special-educational-needs-and-disability-send-and-high-needs"
+    },
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    }
+  ]
+}

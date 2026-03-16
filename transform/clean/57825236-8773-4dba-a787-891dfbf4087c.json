@@ -1,0 +1,15 @@
+{
+  "title": "National Space Innovation Programme: Evaluation",
+  "body": "\"The National Space Innovation Programme (NSIP) is a flagship programme of the UK Space Agency, designed to support the research and development of innovative products, services, and technologies with space sector applications.  The core aims of NSIP are to:    catalyse investment: supporting projects that multiply the value of non-government contracts and capital secured by the UK space sector by five to eight times the value of NSIP investment by 2030   drive innovation: supporting an average improvement in Technology Readiness Level of 2 or more for supported projects, as measured over the lifetime of each project   capture market share: generating new products and services that are sold to the fastest growing and potential space markets by 2030    NSIP supports the delivery of the UK’s Modern Industrial Strategy 2025 developing the technologies and capabilities that will meet the priorities of the Department of Science Innovation and Technology ( DSIT) and the wider ambitions of government.  These evaluations were commissioned by the UK Space Agency and conducted by know.space and RAND Europe. \"",
+  "base_path": "/government/publications/national-space-innovation-programme-evaluation",
+  "taxons": [
+    {
+      "title": "Government evaluation",
+      "base_path": "/government/government-evaluation"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

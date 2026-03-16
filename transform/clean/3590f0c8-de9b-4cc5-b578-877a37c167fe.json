@@ -1,0 +1,27 @@
+{
+  "title": "Notification of Uncertain Tax Treatment policy evaluation report",
+  "body": "\"HMRC carried out an evaluation of the notification of Uncertain Tax Treatment policy covering its first three years of implementation (April 2022 to March 2025). This policy aims to increase transparency and speed discovery of cases of Uncertain Tax Treatment, thereby reducing the legal interpretation tax gap and meeting HMRC’s strategic objectives to collect the right tax and to make it easier to follow the rules. The evaluation was undertake from April 2022 to March 2025 inclusive.  The evaluation found that Uncertain Tax Treatment policy is meeting its objectives of changing companies’ behaviour by increasing tax position transparency and the cost of complying with the policy was not found to be unreasonable by most.  This evaluation draws on the results of the Large Business Survey, and a commissioned social research study delivered by National Centre for Social Research on HMRC’s behalf. We also draw on Uncertain Tax Treatment notifications submitted between and including April 2022 and March 2025.  \"",
+  "base_path": "/government/publications/notification-of-uncertain-tax-treatment-policy-evaluation-report",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Tax agent and adviser guidance",
+      "base_path": "/money/tax-agent-guidance"
+    },
+    {
+      "title": "Tax compliance",
+      "base_path": "/money/tax-compliance"
+    }
+  ]
+}

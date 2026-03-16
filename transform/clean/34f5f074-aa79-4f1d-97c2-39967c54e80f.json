@@ -1,0 +1,11 @@
+{
+  "title": "SIA licence applications by type",
+  "body": "\"SIA response to a Freedom of Information (FOI) request for a monthly breakdown of the licence applications we receive split by new, renewal, and total. \"",
+  "base_path": "/government/publications/sia-licence-applications-by-type",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

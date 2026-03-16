@@ -1,0 +1,11 @@
+{
+  "title": "Northern Ireland Hospital Statistics: Emergency Care 2025/26",
+  "body": "",
+  "base_path": "/government/statistics/announcements/northern-ireland-hospital-statistics-urgent-and-emergency-care-202526",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

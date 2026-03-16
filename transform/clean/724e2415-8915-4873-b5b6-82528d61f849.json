@@ -1,0 +1,11 @@
+{
+  "title": "Year-on-year change in pupil attendance",
+  "body": "\"This report examines the relationship between pupils’ attendance in 2 academic years – 2021 to 2022 and 2022 to 2023. This is broken down by pupil year groups.  It applies stochastic matrices to census data to show the likelihood that a pupil will be in a particular 5% band of absence in 2022 to 2023, based on their absence band in 2021 to 2022. \"",
+  "base_path": "/government/publications/year-on-year-change-in-pupil-attendance",
+  "taxons": [
+    {
+      "title": "School attendance and absence",
+      "base_path": "/education/school-attendance-and-absence"
+    }
+  ]
+}

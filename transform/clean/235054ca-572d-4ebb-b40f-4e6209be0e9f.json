@@ -1,0 +1,15 @@
+{
+  "title": "Area under agri-environment schemes in England 2024",
+  "body": "\"Statistics on the total area of land managed under the Sustainable Farming Incentive, Countryside Stewardship and Environmental Stewardship schemes in England on 31st December 2024. Area is given as hectares per ITL3 area, and a range of estimates of the total area are also given. \"",
+  "base_path": "/government/statistics/area-under-agri-environment-schemes-in-england-2024",
+  "taxons": [
+    {
+      "title": "Common Agricultural Policy (CAP) reform",
+      "base_path": "/environment/farming-food-grants-payments-rural-grants-payments-common-agricultural-policy-cap-reform"
+    },
+    {
+      "title": "Countryside stewardship",
+      "base_path": "/environment/countryside-stewardship"
+    }
+  ]
+}

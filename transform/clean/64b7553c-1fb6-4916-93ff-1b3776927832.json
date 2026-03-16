@@ -1,0 +1,19 @@
+{
+  "title": "List of Russia sanctions targets, 9 May 2025",
+  "body": "\"For additional detail on today’s sanctions:   Prime Minister to announce largest ever sanctions package targeting shadow fleet as UK ramps up pressure on Russia UK and international partners confirm support for Special Tribunal on Crime of Aggression as Foreign Secretary visits Lviv    View the full UK Sanctions List and more information on UK sanctions relating to Russia.  \"",
+  "base_path": "/government/publications/list-of-russia-sanctions-targets-9-may-2025",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    }
+  ]
+}

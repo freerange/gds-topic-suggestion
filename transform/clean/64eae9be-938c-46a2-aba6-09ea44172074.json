@@ -1,0 +1,11 @@
+{
+  "title": "UKEF purchase order conditions of contract",
+  "body": "\"Details the department’s current standard conditions of contract used when placing a purchase order (typically for goods and services valued at less than £10,000). \"",
+  "base_path": "/government/publications/ukef-purchase-order-conditions-of-contract",
+  "taxons": [
+    {
+      "title": "Export finance",
+      "base_path": "/business-and-industry/export-finance"
+    }
+  ]
+}

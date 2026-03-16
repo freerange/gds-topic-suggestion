@@ -1,0 +1,11 @@
+{
+  "title": "Children in need census 2026 to 2027: specification",
+  "body": "\"This is technical information about submitting data for the children in need census for the period 1 April 2026 to 31 March 2027.  It is for:   suppliers of software for local authority management information systems (MIS) users of local authority MIS software   It explains:   changes to the previous year’s census collection what data local authorities should supply at child level how to structure the data in XML how to check the data against the validation rules   \"",
+  "base_path": "/government/publications/children-in-need-census-2026-to-2027-specification",
+  "taxons": [
+    {
+      "title": "Data collection for looked-after children",
+      "base_path": "/childcare-parenting/data-collection-for-looked-after-children"
+    }
+  ]
+}

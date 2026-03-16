@@ -1,0 +1,23 @@
+{
+  "title": "Licence Application Refused for Scaffolder",
+  "body": "\"The application, which sought authorisation for one vehicle, was refused under Section 13(5) of the Goods Vehicles (Licensing of Operators) Act 1995 after the commissioner found that XSS failed to meet the statutory requirements of Sections 13B (fitness), 13C (compliance with undertakings), and 13D (financial resources).  The inquiry was convened due to concerns over the company’s links to previously revoked licences and its failure to comply with regulatory obligations. Despite being called to attend, XSS did not appear at the hearing and failed to submit required documentation.  The commissioner highlighted that the company had previously been linked to XP Scaffolding Ltd, which entered liquidation in 2023 owing over £120,000, including debts to HMRC. He described the current application as a “phoenix” attempt to continue operations while avoiding liabilities.  In assessing the application, Mr. Mullan said “The burden lies with the applicant to satisfy me that it meets the relevant statutory requirements, and it has failed to do so…This is not a business that is actively pursuing its application, and I have no reason to believe that adjourning would result in positive engagement.”  While both directors had attended Operator Licence Awareness Training (OLAT) in May 2025, the Commissioner concluded this did not outweigh the negative features of the case.  The refusal underscores the importance of transparency, regulatory compliance, and financial integrity in the operator licensing system. The Commissioner reiterated that any future application must be supported by evidence of proper systems, financial standing, and professional competence.  Find full details of the decision on the Traffic Commissioner Regulatory Decisions page  For any further details or enquiries, please contact:  Email : pressoffice@otc.gov.uk \"",
+  "base_path": "/government/news/licence-application-refused-for-scaffolder",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    },
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    }
+  ]
+}

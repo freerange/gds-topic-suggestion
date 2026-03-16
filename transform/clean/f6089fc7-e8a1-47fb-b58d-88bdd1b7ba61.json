@@ -1,0 +1,27 @@
+{
+  "title": "Marine protected areas Stage 3 interactive maps",
+  "body": "\"To support the formal consultation on management measures for Stage 3 marine protected areas (MPAs), MMO have developed interactive WebApps.   Overview   Stage 3 Overview Webmap   UK U12 Fishing Effort WebApps   Stage 3 Fishing Effort UK under 12m, Bottom Towed Gear (2016 to 2021) Stage 3 Fishing Effort UK under 12m, Midwater Gear (2016 to 2021) Stage 3 Fishing Effort UK under 12m, Static Gear (2016 to 2021)   Designated Features WebApp   Stage 3 Designated Features   VMS Density 2021 WebApps   Stage 3 VMS Report Density - Bottom Towed Gear (2016 to 2021) Stage 3 VMS Report Density - Midwater Gear (2016 to 2021) Stage 3 VMS Report Density - Static Gear (2016 to 2021)   Offshore Wind and Byelaws WebApp   Stage 3 Offshore Wind and Byelaws    Swept Area Ratio WebApps     Stage 3 SAR All Bottom Towed Gears (2016 to 2020) Dashboard   Stage 3 SAR Demersal Seine (2016 to 2020) Dashboard   Stage 3 SAR Demersal Trawl (2016 to 2020) Dashboard   Stage 3 SAR Dredge (2016 to 2020) Dashboard    You will also find guidance on how to access and make the most of each WebApp, which we have provided to help users provide informed consultation responses.  Proposed and Current MPA Management Areas Shapefiles  In response to requests from stakeholders, shapefiles (.shp) are now available to download and includes both the proposed and live English offshore MPA management areas, including the type of management (for example, a prohibition of bottom towed gear). The areas included are the Stage 3 areas proposed in the formal consultation, as well as the pre-Stage 1, Stage 1 and Stage 2 live management areas.  MMO Proposed and Current MPA Management Areas Shapefiles  \"",
+  "base_path": "/government/publications/marine-protected-areas-stage-3-interactive-map",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    },
+    {
+      "title": "Species protection and marine conservation",
+      "base_path": "/environment/species-protection-and-marine-conservation"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

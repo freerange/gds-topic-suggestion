@@ -1,0 +1,11 @@
+{
+  "title": "Transport hazard summary: cold weather",
+  "body": "\"This summary identifies some of the main risks caused by cold weather, such as blizzards and ice, and how they can impact transport. It also helps organisations mitigate and plan for these risks.  Direct impacts on transport from cold weather hazards include:   stranded vehicles and passengers reduced vehicle performance damaged transport infrastructure impacts on health and safety   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport.  \"",
+  "base_path": "/government/publications/transport-hazard-summary-cold-weather",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

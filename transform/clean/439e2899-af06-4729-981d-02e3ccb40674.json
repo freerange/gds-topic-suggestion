@@ -1,0 +1,15 @@
+{
+  "title": "The cost of working age ill-health and disability that prevents work",
+  "body": "\"This publication provides ad hoc statistics on the cost of working age ill-health and disability that prevents work.   The areas considered are:     Lost production because of economic inactivity due to long-term or temporary sickness     Lost production due to sickness absence     Lost production due to informal care giving which removes people from the workforce    Additional costs to the NHS when someone’s health condition causes them to move from economically active to economically inactive     Lost Tax and forgone National Insurance returns to the Exchequer due to health conditions preventing or limiting employment    Cost of social security benefits related to health conditions that prevent people from working   \"",
+  "base_path": "/government/statistics/the-cost-of-working-age-ill-health-and-disability-that-prevents-work",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Work and disabled people",
+      "base_path": "/employment/work"
+    }
+  ]
+}

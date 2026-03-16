@@ -1,0 +1,11 @@
+{
+  "title": "MIN 718 (M+F) The ship captains medical guide 24th edition",
+  "body": "\"Notice to all shipowners, fishing vessel owners, managers, masters and skippers, seafarers and training providers  This notice replaces MIN 600 (M+F) amendment 1  This MIN expires 1 January 2030. \"",
+  "base_path": "/government/publications/min-718-mf-the-ship-captains-medical-guide-24th-edition",
+  "taxons": [
+    {
+      "title": "Maritime safety",
+      "base_path": "/transport/maritime-safety"
+    }
+  ]
+}

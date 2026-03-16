@@ -1,0 +1,11 @@
+{
+  "title": "MOT special notice 03-25: testing vehicles affected by the Citroën stop drive recall",
+  "body": "\"This special notice tells you what to do if you are asked to test a vehicle affected by the Citroën stop drive recall. \"",
+  "base_path": "/government/publications/mot-special-notice-03-25-testing-vehicles-affected-by-the-citroen-stop-drive-recall",
+  "taxons": [
+    {
+      "title": "Car, motorcycle and van MOT tests",
+      "base_path": "/transport/car-motorcycle-and-van-mot-tests"
+    }
+  ]
+}

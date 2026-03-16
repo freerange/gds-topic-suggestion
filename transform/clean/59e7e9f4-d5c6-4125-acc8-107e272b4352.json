@@ -1,0 +1,11 @@
+{
+  "title": "2026-27 Business Rates Baseline calculator",
+  "body": "\"Individual local authority calculations to show how their business rates baseline has been calculated at the reset. i.e. business rates each authority expects to collect locally from 1 April 2026. \"",
+  "base_path": "/government/publications/2026-27-business-rates-baseline-calculator",
+  "taxons": [
+    {
+      "title": "Local government spending",
+      "base_path": "/regional-and-local-government/local-government-spending"
+    }
+  ]
+}

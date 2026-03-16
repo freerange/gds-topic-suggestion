@@ -1,0 +1,15 @@
+{
+  "title": "Targeted Case Review Management Information",
+  "body": "\"Targeted Case Review (TCR) was established in 2022 to identify and address incorrectness across Universal Credit (UC) claims, providing vital insight on new and emerging ways to identify fraud and error entering the social security system.  \"",
+  "base_path": "/government/publications/targeted-case-review-management-information",
+  "taxons": [
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

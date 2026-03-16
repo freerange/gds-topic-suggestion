@@ -1,0 +1,15 @@
+{
+  "title": "Funded occupational pension schemes in the UK: April to September 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/funded-occupational-pension-schemes-in-the-uk-april-to-september-2024",
+  "taxons": [
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

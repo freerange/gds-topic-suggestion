@@ -1,0 +1,15 @@
+{
+  "title": "Higher Level Apprenticeships at HE Institutions NI, 2022/23",
+  "body": "\"To monitor information relating to Higher Level Apprenticeships in Northern Ireland, including the number of starts, participants and qualifications achieved. \"",
+  "base_path": "/government/statistics/higher-level-apprenticeships-at-he-institutions-ni-202223",
+  "taxons": [
+    {
+      "title": "Types of apprenticeships",
+      "base_path": "/education/types-of-apprenticeships"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

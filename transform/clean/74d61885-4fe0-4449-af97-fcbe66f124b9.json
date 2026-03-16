@@ -1,0 +1,11 @@
+{
+  "title": "The pattern of military low flying across the UK: 2024/2025",
+  "body": "\"This is the ninth annual publication of official statistics detailing the spread of military low flying across the UK from 1 April 2024 to 31 March 2025. Tables show fixed wing and rotary wing routine and operational military low flying for each day and night low flying area in the UK, together with the number of complaints received by low flying area in total and per flying hour.  Charts are included that show the hours flown, day and night, ranked by low flying area. Maps are included that identify the location of each day and night low flying area. \"",
+  "base_path": "/government/statistics/the-pattern-of-military-low-flying-across-the-uk-20242025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

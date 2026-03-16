@@ -1,0 +1,11 @@
+{
+  "title": "Environmental Improvement Plan",
+  "body": "\"The Environmental Improvement Plan (EIP) is the UK government’s long-term plan to improve the natural environment in England. It builds on the 25 Year Environment Plan and EIP 2023. The plan is structured around 10 goals and is supported by statutory targets, delivery plans, progress reports and an evaluation framework. \"",
+  "base_path": "/government/collections/environmental-improvement-plan",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

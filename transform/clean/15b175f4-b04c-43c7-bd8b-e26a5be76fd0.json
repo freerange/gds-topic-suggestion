@@ -1,0 +1,11 @@
+{
+  "title": "Rough sleeping snapshot in England: autumn 2024",
+  "body": "\"The annual rough sleeping snapshot provides information about the estimated number of people sleeping rough on a single night between 1 October and 30 November each year and some basic demographics details (age, gender, nationality). These statistics provide a way of estimating the number of people sleeping rough across England on a single night and assessing change over time.  Local authorities across England take an annual autumn snapshot of rough sleeping using either a count-based estimate of visible rough sleeping, an evidence-based estimate meeting with local partners, or an evidence-based estimate meeting including a spotlight count in specific areas. This methodology has been in place since 2010. The snapshot is collated by outreach workers, local charities and community groups and is independently verified by Homeless Link.  Alongside these statistics, we are also publishing the Rough Sleeping Data Framework which uses more frequent and more detailed management information about people sleeping rough to help us better understand how far rough sleeping is prevented wherever possible, and where it does occur it is rare, brief, and non-recurring. \"",
+  "base_path": "/government/statistics/rough-sleeping-snapshot-in-england-autumn-2024",
+  "taxons": [
+    {
+      "title": "Homelessness and rough sleeping",
+      "base_path": "/housing-local-and-community/homelessness-rough-sleeping"
+    }
+  ]
+}

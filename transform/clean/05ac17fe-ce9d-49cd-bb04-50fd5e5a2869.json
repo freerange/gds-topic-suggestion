@@ -1,0 +1,19 @@
+{
+  "title": "Family Resources Survey: financial year 2023 to 2024",
+  "body": "\" Cite this statistical release  Add the following citation to any analysis shared or published:  Department for Work and Pensions (DWP), released 27 March 2025, GOV.UK website, statistical release, Family Resources Survey: financial year 2023 to 2024.   The FRS is a continuous household survey which collects information on a representative sample of private households in the United Kingdom.  Detailed information is recorded on each respondent:   their incomes, from all sources including self-employment housing tenure caring needs and responsibilities disability expenditure on housing education pension participation childcare family circumstances child maintenance household food security and food bank usage   We have also published a background information and methodology report, and accompanying data tables in Excel (XLS)  and open document spreadsheet (ODS) formats.  \"",
+  "base_path": "/government/statistics/family-resources-survey-financial-year-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

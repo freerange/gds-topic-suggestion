@@ -1,0 +1,11 @@
+{
+  "title": "FUSION project: multimodal transport user data",
+  "body": "\"The FUSION project combines surveys and mobile phone data to analyse transport usage across demographics over time.  Approximately 3,500 participants completed online surveys and downloaded a mobile app that tracked their transport use within the UK over 6 months. These surveys collected information about participants, including:   demographics, including transport user persona types travel use and preferences time-use diaries   The FUSION project will support analysis, transport modelling, policy evaluation and strategy development. It is funded by HMT’s Economic Data Innovation Fund (EDIF).  Anonymised and aggregated versions of this dataset, alongside survey questionnaires and the code for an analysis dashboard, are available through the EPSRC Geographic Data Service.  This research has been commissioned by SYSTRA, Yonder Data Solutions and TravelAI on behalf of the Department for Transport.  \"",
+  "base_path": "/government/publications/fusion-project-multimodal-transport-user-data",
+  "taxons": [
+    {
+      "title": "Transport modelling and appraisal",
+      "base_path": "/transport/transport-modelling-and-appraisal"
+    }
+  ]
+}

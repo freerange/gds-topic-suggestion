@@ -1,0 +1,11 @@
+{
+  "title": "Tree Supply Report 2025",
+  "body": "\"This report illustrates the overall production of saplings for woodland and forestry planting in the 2024-25 season in Great Britain. \"",
+  "base_path": "/government/publications/tree-supply-report-2025",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    }
+  ]
+}

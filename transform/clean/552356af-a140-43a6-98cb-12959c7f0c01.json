@@ -1,0 +1,19 @@
+{
+  "title": "Estuaries and coasts: challenges for the water environment",
+  "body": "\"This narrative supports the development of river basin management plans (RBMPs) and aims to inform strategic planning, investment, and collaborative action across catchments. \"",
+  "base_path": "/government/publications/estuaries-and-coasts-challenges-for-the-water-environment",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Water management",
+      "base_path": "/environment/water-management"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

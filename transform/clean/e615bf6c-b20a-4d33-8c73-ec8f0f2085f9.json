@@ -1,0 +1,15 @@
+{
+  "title": "Government response to the JNCC review of protected species under the Wildlife and Countryside Act 1981",
+  "body": "\"In April 2022 the Joint Nature Conservation Committee (JNCC) submitted advice and a statement of reasons to the Department for Environment, Food and Rural Affairs (Defra), Scottish Government and Welsh Government on behalf of Natural England, Natural Resources Wales and NatureScot.  This followed the latest review of Schedule 5 (animals which are protected) and Schedule 8 (plants which are protected) of the Wildlife and Countryside Act 1981. The review takes place every 5 years.  This statutory advice from JNCC made a series of recommendations to either add, remove or regrade protection for species under those schedules. This is the government’s response to that advice.  \"",
+  "base_path": "/government/publications/government-response-to-the-jncc-review-of-protected-species-under-the-wildlife-and-countryside-act-1981",
+  "taxons": [
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    },
+    {
+      "title": "Wildlife and habitat conservation",
+      "base_path": "/environment/wildlife-habitat-conservation"
+    }
+  ]
+}

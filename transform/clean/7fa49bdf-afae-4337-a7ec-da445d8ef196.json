@@ -1,0 +1,19 @@
+{
+  "title": "UN Human Rights Council 58: UK Statement on the regulation of neurotech and data and the right to privacy",
+  "body": "\"Thank you, Mr Vice President,   The United Kingdom welcomes the Special Rapporteur’s report. The use of neurotechnology poses both opportunities and risks to the protection and promotion of human rights. It is essential we focus efforts on strengthening the application of existing human rights frameworks to the design, development, and use of neurotechnology.    The UK has data protection regulations which ensure that personal data is processed fairly, lawfully and transparently, with stronger legal protection for the most sensitive information. The UK’s data protection regulator, the Information Commissioner’s Office, has published a report considering the implications of neurotechnology on data protection. This highlighted possible discrimination risks and the importance of ensuring transparency and consent. We will work with the Information Commissioner’s Office to consider whether further protections are required for neurodata under the UK’s data protection regulations.   Special Rapporteur,    How can we increase global cooperation and coordination efforts to ensure both neurotechnology and the rules governing its use are developed in a way that safeguards human rights? \"",
+  "base_path": "/government/news/un-human-rights-council-58-uk-statement-on-the-regulation-of-neurotech-and-data-and-the-right-to-privacy",
+  "taxons": [
+    {
+      "title": "Human rights internationally",
+      "base_path": "/international/human-rights-internationally"
+    },
+    {
+      "title": "Data protection",
+      "base_path": "/crime-justice-and-law/data-protection"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

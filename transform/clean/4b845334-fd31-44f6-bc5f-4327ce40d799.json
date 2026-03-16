@@ -1,0 +1,15 @@
+{
+  "title": "Alcohol-specific deaths in the UK: registered in 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/alcohol-specific-deaths-in-the-uk-registered-in-2023",
+  "taxons": [
+    {
+      "title": "Death registration disclosure",
+      "base_path": "/life-circumstances/death-registration-disclosure"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Additional guidance and services",
+  "body": "\"  This collection is also available in Welsh (Cymraeg).  \"",
+  "base_path": "/government/collections/additional-guidance-and-services",
+  "taxons": [
+    {
+      "title": "Land registration",
+      "base_path": "/housing-local-and-community/land-registration"
+    }
+  ]
+}

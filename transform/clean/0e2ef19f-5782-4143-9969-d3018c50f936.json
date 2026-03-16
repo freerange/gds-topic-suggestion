@@ -1,0 +1,27 @@
+{
+  "title": "Get help if HMRC contacts you about a compliance check",
+  "body": "\"A compliance check is when HMRC checks your tax position to make sure you have:   paid the right amount of tax at the right time claimed the right allowances and tax reliefs   It is also to make sure that the tax system is operating fairly and effectively.  In a check, HMRC will:   send you a letter and request information or documents discuss matters with you to understand your tax position establish the correct tax position for you and close the check   Use the online tool  The tool signposts you to guidance and videos which provide support throughout your check.  Start now  \"",
+  "base_path": "/guidance/get-help-if-hmrc-contacts-you-about-a-compliance-check",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Compliance checks",
+      "base_path": "/money/dealing-with-hmrc-tax-compliance-compliance-checks"
+    },
+    {
+      "title": "Capital Gains Tax",
+      "base_path": "/money/capital-gains-tax"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

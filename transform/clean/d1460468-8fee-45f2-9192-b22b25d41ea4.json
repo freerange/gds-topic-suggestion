@@ -1,0 +1,15 @@
+{
+  "title": "Brazil: mental health abroad",
+  "body": "\"Includes information on:   how to get help medical help renewing prescriptions compulsory hospitalisation   See also mental health and travelling abroad. \"",
+  "base_path": "/government/publications/brazil-mental-health-abroad",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Emergency help for British nationals in Brazil",
+      "base_path": "/world/emergency-help-for-british-nationals-brazil"
+    }
+  ]
+}

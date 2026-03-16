@@ -1,0 +1,15 @@
+{
+  "title": "Impact of health conditions requiring hospitalisation on earnings, employment and benefits receipt",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/impact-of-health-conditions-requiring-hospitalisation-on-earnings-employment-and-benefits-receipt",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    },
+    {
+      "title": "Health conditions",
+      "base_path": "/health-and-social-care/health-conditions"
+    }
+  ]
+}

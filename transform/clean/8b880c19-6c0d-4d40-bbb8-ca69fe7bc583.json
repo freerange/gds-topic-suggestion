@@ -1,0 +1,23 @@
+{
+  "title": "Government-backed technologies support those living with dementia",
+  "body": "\"People living with dementia are set to benefit from government-backed research designed to help them live more independently in their own homes.  Four new research networks led by the UK’s top researchers, developers, and health and social care professionals will focus on creating technologies to help dementia patients manage memory loss, communication difficulties and cope better with everyday tasks, in the hope of slowing the progress of the disease and maximising the time they can spend safely and happily at home.     The teams will work alongside people living with dementia and carers to ensure lived experience and changing needs are at the heart of innovation, delivering the government’s Plan for Change to shift healthcare from hospitals into the community, with better results for patients while also reducing pressure on the NHS.   The 4 successful networks are:     the University of Sheffield - to develop technologies to help dementia patients communicate as their disease progresses, supporting speech and memory challenges     Heriot-Watt University - to develop technology to anticipate, and where possible slow, progression of dementia patients’ symptoms     Northumbria University - to develop local hubs in rural and remote areas, where dementia patients can access technology to help them with everyday tasks     Imperial College London - to develop easily used tools to support independent living and using artificial intelligence (AI) to support data analytics      The networks will also collaborate with a range of key partners including the NHS, Age UK, Alzheimer’s Society, Alzheimer’s Research UK and local authorities and councils, to deliver the projects, ensuring expertise at all levels is consulted on and helping to develop the best outcome.    The projects are being backed by government, with the Minister of State for Health set to unveil £6.7 million in funding later this week at the World Dementia Council Summit on 25 March.    The networks are funded by £6.7 million from the UK Research and Innovation Engineering and Physical Sciences Research Council and the National Institute for Health and Care Research (NIHR), in partnership with Alzheimer’s Society.    Minister of State for Health Karin Smyth said:     Dementia is a cruel and heartbreaking disease, not only for those living with it, but for the families and friends who often watch their loved one become a shadow of the person they once were.     Backing these ground-breaking technologies won’t just help people with dementia - it’ll transform their lives, giving people the freedom to stay in their own homes, around the people they love.     Moving care out of hospitals and into communities isn’t just smart healthcare - it’s about giving people independence. Britain will be at the forefront of dementia innovation, backing cutting-edge research and rolling out life-changing technologies that deliver real results for patients and families. This is exactly the bold thinking we need at the heart of our Plan for Change.   Science Minister Lord Vallance said:   Dementia is one of the biggest challenges to health and social care of our time. These 4 networks will take on that challenge, harnessing technology to improve the...",
+  "base_path": "/government/news/government-backed-technologies-support-those-living-with-dementia",
+  "taxons": [
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    },
+    {
+      "title": "Dementia",
+      "base_path": "/health-and-social-care/dementia"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

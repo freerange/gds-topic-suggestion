@@ -1,0 +1,11 @@
+{
+  "title": "Regional Gross Disposable Household Income: UK, 1997 to 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/regional-gross-disposable-household-income-uk-1997-to-2023",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

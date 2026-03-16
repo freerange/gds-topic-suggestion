@@ -1,0 +1,11 @@
+{
+  "title": "GIAA Senior Staff pay",
+  "body": "\"The list covers GIAA senior officials at Senior Civil Service 2 (SCS2) (or equivalent) and above. \"",
+  "base_path": "/government/collections/giaa-senior-staff-pay",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

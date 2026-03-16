@@ -1,0 +1,11 @@
+{
+  "title": "Avian influenza statistical releases",
+  "body": "\"Statistical releases published here accompany the UKHSA news story on avian influenza, in line with the Office for Statistics Regulations’ guidance on intelligent transparency. \"",
+  "base_path": "/government/publications/avian-influenza-statistical-releases",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

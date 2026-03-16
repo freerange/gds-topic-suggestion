@@ -1,0 +1,15 @@
+{
+  "title": "Polio Reference Service: laboratory services",
+  "body": "\"About the Polio Reference Service  The UK is committed to the Global Polio Eradication Initiative and has to conform to the poliovirus testing requirements set by the World Health organization (WHO) Global Action Plan in compliance with WHO polio surveillance requirements. As such, it is essential that the correct sample types be submitted from all cases of suspected poliomyelitis and any case of acute flaccid paralysis or myelitis. Further information can be found in the A-Z list of tests available, or by contacting the PRS.  Under Schedule 1 of the Health Protection (Notification) Regulations 2010, suspected cases of acute poliomyelitis are notifiable. In addition, from 6 April 2025, acute flaccid paralysis or acute flaccid myelitis (AFP or AFM) not explained by a non-infectious cause is also notifiable. Appropriate testing of AFP or AFM cases not explained by a non-infectious cause, to exclude polio as a causative agent, is an integral component of polio surveillance.  Services available    Poliovirus detection   AFP and AFM investigation    Guidance and forms   Polio AFP and AFM surveillance: laboratory sample submission Polio: guidance, vaccination, data and analysis Acute flaccid paralysis syndrome Poliomyelitis: Indications for serological testing Virus Reference Department (VRD): user manual   Contact   Polio Reference Service   UKHSA61 Colindale Avenue LondonNW9 5EQ     Email mailto:vrdqueries@ukhsa.gov.uk     Telephone: 0208 327 7887    UKHSA Colindale VRD: DX 6530006    \"",
+  "base_path": "/guidance/polio-reference-service-laboratory-services",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    },
+    {
+      "title": "Laboratories and reference facilities",
+      "base_path": "/health-and-social-care/health-protection-services-laboratories-and-reference-facilities"
+    }
+  ]
+}

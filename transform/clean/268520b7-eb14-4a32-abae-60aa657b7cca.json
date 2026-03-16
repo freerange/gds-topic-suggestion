@@ -1,0 +1,23 @@
+{
+  "title": "MHRA welcomes Professor Jonathan Benger CBE as new CEO of NICE",
+  "body": "\"The Medicines and Healthcare products Regulatory Agency (MHRA) congratulates Professor Jonathan Benger CBE on his appointment as Chief Executive Officer of the National Institute for Health and Care Excellence (NICE).  Professor Benger’s leadership comes at a pivotal time as the MHRA and NICE deepen collaboration to deliver faster, more streamlined access to innovative medicines and technologies. Joint work on the aligned pathway is already transforming how regulatory approval and health technology assessment operate together – ensuring patients benefit sooner from safe, effective treatments.  MHRA Chief Executive Lawrence Tallon said:  “I want to extend a huge welcome to Professor Jonathan Benger and congratulate him on his new role.  “Collaboration between the MHRA and NICE has never been more important as we work to accelerate innovation while maintaining the highest standards of safety and effectiveness. His experience and clinical insight will help us deliver on this together.”  The MHRA looks forward to working closely with Professor Benger and NICE to deliver on shared priorities for patients and the health system, including speed, transparency and trust in health innovation. \"",
+  "base_path": "/government/news/mhra-welcomes-professor-jonathanbenger-cbe-as-new-ceo-of-nice",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

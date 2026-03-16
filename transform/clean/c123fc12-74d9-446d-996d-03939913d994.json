@@ -1,0 +1,15 @@
+{
+  "title": "DBT: gender pay gap information",
+  "body": "\"Gender Pay Gap legislation introduced in April 2017 requires all employers of 250 or more employees to publish their gender pay gap data annually. \"",
+  "base_path": "/government/collections/dbt-gender-pay-gap-information",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

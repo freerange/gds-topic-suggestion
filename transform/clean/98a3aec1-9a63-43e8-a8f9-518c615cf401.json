@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: changing climate",
+  "body": "\"This summary introduces common climate concepts to help decision makers assess the risks posed to transport from climate-related hazards.  It includes guidance on:   understanding climate data and terminology, such as global warming levels estimating future changes to climate and its impact on UK transport   The concepts explained in this summary are used throughout the Transport hazard summaries series.  \"",
+  "base_path": "/government/publications/transport-hazard-summary-changing-climate",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

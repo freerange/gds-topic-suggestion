@@ -1,0 +1,19 @@
+{
+  "title": "DWP annual statement on research integrity: 2024 to 2025",
+  "body": "\"This statement describes how the Department for Work and Pensions (DWP) research complies with the Concordat to Support Research Integrity (the Concordat), and the activities undertaken during the period 2024 to 2025 relevant to the Concordat.  \"",
+  "base_path": "/government/publications/dwp-annual-statement-on-research-integrity-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    }
+  ]
+}

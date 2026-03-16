@@ -1,0 +1,11 @@
+{
+  "title": "UK Business Data Survey 2024 - qualitative research reports",
+  "body": "\"To complement quantitative research from the UK Business Data Survey 2024 follow up in-depth interviews were conducted with respondents from 112 businesses from across the UK.  Interviews were divided between three broad topics, each reported on separately:   Data protection International transfers of data Potentially high-risk processing of personal data   Findings of in-depth interviews are not representative of the UK business population, but do reflect the range of experiences of UK businesses.  Overarching findings  Data Protection   Business size and sector had a major impact on approach to complying with data protection laws Businesses were generally reactive in their approach to data protection, except for those in technical, legal, or financial sectors Drivers of greater engagement with data protection issues included data breaches, perceived reputational damage, business opportunities and received advice Smaller businesses tended to delegate responsibility for data protection to external providers, or rely on trade bodies, rather than on the Information Commissioner’s Office   International transfers of data   Businesses used international data transfer tools, often due to contractual obligations, but knowledge of them varied International data transfer was crucial for businesses and client driven Businesses, generally, lacked awareness of data localisation but identified commercial advantages and disadvantages after it had been explained   Potentially high-risk processing of personal data   There was variation in how formalised processes for handling and storing personal data were between businesses, but all businesses undertaking potentially high-risk processing of personal data were aware of the need for high standards of data protection Awareness of existing guidance varied, but all businesses potentially engaging in high-risk processing of personal data were aware of it Businesses requested more guidance relating to AI and that future guidance should be clear, concise, relevant and tailored   \"",
+  "base_path": "/government/publications/uk-business-data-survey-2024-qualitative-research-reports",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    }
+  ]
+}

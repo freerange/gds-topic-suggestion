@@ -1,0 +1,11 @@
+{
+  "title": "Radiotherapy Dose and Fractionation, Radiotherapy Dose and Fractionation dashboard October 2025 update",
+  "body": "\"The Radiotherapy dose and fractionation dashboard reports radiotherapy data from all NHS radiotherapy centres. The dashboard presents a count of radiotherapy activity from January 2019 and can be viewed at England, Cancer Alliance, and Integrated Care Board level. \"",
+  "base_path": "/government/statistics/radiotherapy-dose-and-fractionation-radiotherapy-dose-and-fractionation-dashboard-october-2025-update",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Student support for higher education in Northern Ireland 2025",
+  "body": "\"Statistics on student support paid to students in the form of loans and grants, or to their university or college in the form of tuition fees.  The students are Northern Ireland domiciles studying anywhere in the UK, ROI or EU students studying in Northern Ireland. \"",
+  "base_path": "/government/statistics/student-support-for-higher-education-in-northern-ireland-2025",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

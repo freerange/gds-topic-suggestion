@@ -1,0 +1,15 @@
+{
+  "title": "Using postponed VAT accounting",
+  "body": "\"If your business, or a business you represent, is registered for VAT in the UK, you may be able to account for import VAT on your VAT Return rather than paying it when the goods are imported.  This guide brings together the postponed VAT accounting guidance, giving you detailed information about:   checking when you can account for import VAT on your VAT Return how to complete your VAT Return to account for import VAT getting your postponed import VAT statement understanding your monthly postponed import VAT statements managing your import duties and VAT accounts  \"",
+  "base_path": "/government/collections/using-postponed-vat-accounting",
+  "taxons": [
+    {
+      "title": "Accounting for VAT",
+      "base_path": "/money/business-tax-vat-accounting-for-vat"
+    },
+    {
+      "title": "Importing goods and services",
+      "base_path": "/money/business-tax-vat-importing-goods-and-services"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "HMCTS events",
+  "body": "\"Upcoming events  We host a series of face-to-face and online events, providing a range of opportunities to get involved.    Open day events  We’ll update this page with upcoming events and their details as and when they become available. \"",
+  "base_path": "/guidance/hmcts-events",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    }
+  ]
+}

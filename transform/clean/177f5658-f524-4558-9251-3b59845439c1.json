@@ -1,0 +1,11 @@
+{
+  "title": "Animal feed prices: Straights feed prices September 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/animal-feed-prices-straights-feed-prices-september-2025",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

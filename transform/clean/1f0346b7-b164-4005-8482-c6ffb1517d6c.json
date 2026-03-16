@@ -1,0 +1,15 @@
+{
+  "title": "Industrial Strategy Sector Plans",
+  "body": "\"In the Industrial Strategy, we identified the 8 sectors that have the greatest growth potential over the next decade and have a critical role to play in supporting economic security and resilience, net zero and regional growth.  Each has a bespoke Sector Plan, developed with industry, setting out a vision of the sector’s transformation by 2035.  We have now published all 8 of the Industrial Strategy Sector Plans. \"",
+  "base_path": "/government/publications/industrial-strategy-sector-plans",
+  "taxons": [
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

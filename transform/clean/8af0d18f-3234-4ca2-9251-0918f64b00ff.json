@@ -1,0 +1,11 @@
+{
+  "title": "UK House Price Index for February 2025",
+  "body": "\"These reports contain the:   headline statistics price changes sales volumes property status buyer status funding status repossession volumes   For Northern Ireland UK HPI reports, see Northern Ireland House Price Index: January to March 2024. \"",
+  "base_path": "/government/statistics/uk-house-price-index-for-february-2025",
+  "taxons": [
+    {
+      "title": "Land registration",
+      "base_path": "/housing-local-and-community/land-registration"
+    }
+  ]
+}

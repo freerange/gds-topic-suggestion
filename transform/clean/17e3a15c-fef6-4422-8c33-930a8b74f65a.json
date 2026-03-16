@@ -1,0 +1,55 @@
+{
+  "title": "NHS population screening programmes: KPI reports 2025 to 2026",
+  "body": "\"The key performance indicators (KPIs) are used to measure how the NHS screening programmes are performing and aim to give a high-level overview of programme quality.  The files published each quarter are:   the antenatal and newborn (ANNB) KPI data tables the young person and adult (YPA) KPI data tables   These high-level reports present the KPI data for all 11 national screening programmes. The NHS screening programmes selected the KPIs to define consistent performance measures for a selection of public health priorities. They give a high-level overview of the quality of screening programmes at important points on the screening pathway.  KPIs contribute to the quality assurance of screening programmes but are not, in themselves, enough to quality assure or performance manage screening services.  Screening KPIs are contained within the section 7a agreements between the Department of Health and Social Care (DHSC) and NHS England and in the Public Health Outcomes Frameworks (PHOF).  These reports focus on the most recent data collected with the national comparisons to quarterly performance over the past 3 to 4 years.  \"",
+  "base_path": "/government/collections/nhs-population-screening-programmes-kpi-reports-2025-to-2026",
+  "taxons": [
+    {
+      "title": "NHS abdominal aortic aneurysm (AAA) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-abdominal-aortic-aneurysm"
+    },
+    {
+      "title": "NHS bowel cancer screening (BCSP) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-bowel"
+    },
+    {
+      "title": "NHS breast screening (BSP) programme ",
+      "base_path": "/health-and-social-care/population-screening-programmes-breast"
+    },
+    {
+      "title": "NHS cervical screening (CSP) programme ",
+      "base_path": "/health-and-social-care/population-screening-programmes-cervical"
+    },
+    {
+      "title": "NHS diabetic eye screening (DES) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-diabetic-eye"
+    },
+    {
+      "title": "NHS fetal anomaly screening programme (FASP)",
+      "base_path": "/health-and-social-care/population-screening-programmes-fetal-anomaly"
+    },
+    {
+      "title": "NHS infectious diseases in pregnancy screening (IDPS) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-infectious-diseases-in-pregnancy"
+    },
+    {
+      "title": "NHS newborn and infant physical examination (NIPE) screening programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-newborn-infant-physical-examination"
+    },
+    {
+      "title": "NHS newborn blood spot (NBS) screening programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-newborn-blood-spot"
+    },
+    {
+      "title": "NHS newborn hearing screening programme (NHSP)",
+      "base_path": "/health-and-social-care/population-screening-programmes-newborn-hearing"
+    },
+    {
+      "title": "NHS sickle cell and thalassaemia (SCT) screening programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-sickle-cell-thalassaemia"
+    },
+    {
+      "title": "Quality assurance in population screening",
+      "base_path": "/health-and-social-care/screening-quality-assurance"
+    }
+  ]
+}

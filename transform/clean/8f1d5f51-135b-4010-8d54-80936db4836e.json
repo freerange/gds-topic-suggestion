@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: storms",
+  "body": "\"This summary identifies some of the main risks caused by storms, such as strong winds, heavy rainfall and lightning and how they can impact transport. It also provides advice to help mitigate and plan for these risks.  Direct impacts on transport from storms include:   impacts to safety due to falling trees, reduced visibility and overturning vehicles disruption to transport services due to closures and speed restrictions   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-storms",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

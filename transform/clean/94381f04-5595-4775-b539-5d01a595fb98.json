@@ -1,0 +1,11 @@
+{
+  "title": "Ambulance Quality Indicators Systems Indicators for December 2024",
+  "body": "\"For the eleven Ambulance Services in England: Monthly incident count and response times for Categories C1 to C4; incidents with conveyance to ED or elsewhere, or resolved on scene or on the telephone; clinical validation and assessment; resources allocated to incidents; time to handover to ED / non-ED; calls to 999 and average answer times.  Accredited official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/ambulance-quality-indicators-systems-indicators-for-december-2024",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

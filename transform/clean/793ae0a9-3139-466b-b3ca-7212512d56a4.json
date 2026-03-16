@@ -1,0 +1,11 @@
+{
+  "title": "Local transport resource funding",
+  "body": "\"Local transport resource funding is a one-year grant that enables local transport authorities (LTAs) to build capacity and capability.  It is allocated to LTAs that are located in England outside London and in areas that receive City Region Sustainable Transport Scheme (CRSTS) funding.  \"",
+  "base_path": "/government/publications/local-transport-resource-funding",
+  "taxons": [
+    {
+      "title": "Local transport",
+      "base_path": "/transport/local-transport"
+    }
+  ]
+}

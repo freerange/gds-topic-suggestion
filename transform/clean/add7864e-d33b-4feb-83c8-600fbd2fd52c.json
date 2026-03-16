@@ -1,0 +1,19 @@
+{
+  "title": "Electricity Consumption and Renewable Generation in Northern Ireland: Year Ending December 2024",
+  "body": "\"Reports on performance against the commitments in the new Northern Ireland Energy Strategy ‘Path to Net Zero Energy’ which includes a target to meet 70% of electricity consumption from a diverse mix of renewable sources by 2030. The report is currently published quarterly - in March, June, September and December.” \"",
+  "base_path": "/government/statistics/electricity-consumption-and-renewable-generation-in-northern-ireland-year-ending-december-2024",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

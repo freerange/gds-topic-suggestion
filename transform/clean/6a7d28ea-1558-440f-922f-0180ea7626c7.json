@@ -1,0 +1,11 @@
+{
+  "title": "UK comparisons - to academic year 2024/25",
+  "body": "\"Figures showing average Tuition Fee Loan paid in England, Wales and Northern Ireland and average Maintenance Loan paid for students in England, Wales, Northern Ireland and Scotland. \"",
+  "base_path": "/government/statistics/uk-comparisons-to-academic-year-202425",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

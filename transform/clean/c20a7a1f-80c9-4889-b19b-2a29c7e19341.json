@@ -1,0 +1,15 @@
+{
+  "title": "Maps of Flintshire and Wrexham Investment Zone tax sites",
+  "body": "\"These maps show the Investment Zone tax sites within the Flintshire and Wrexham Investment Zone. These sites are designated and recognised in law as geographical areas where businesses can benefit from tax reliefs to bring investment, trade and jobs.  The tax sites for Flintshire and Wrexham Investment Zone have been designated with effect from 21 November 2025.  Tax site locations  The 3 tax sites within the Flintshire and Wrexham Investment Zone are:   Deeside Warren Hall Wrexham   Deeside has various locations, the north section is adjacent to Deeside Industrial Park. The southern section is located north of River Dee, adjacent to Shotton Clocktower. The M56 provides access from the East and A494 from the Southwest with the A550 providing local access to the multiple locations.  Warren Hall is located in Broughton, Flintshire immediately adjacent to the junction of A5104 and Lesters Lane (Warren interchange).  Wrexham has various sites in the vicinity of Wrexham Industrial estate. \"",
+  "base_path": "/government/publications/maps-of-flintshire-and-wrexham-investment-zone-tax-sites",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "The Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 - Prosecutions at courts and case processing time for domestic abuse related cases dealt with in 2022/23 - 2023/24",
+  "body": "\"The bulletin presents prosecutions, convictions and out of court disposals for domestic abuse related cases, for offences under the Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021, for the financial years 2022/23 and 2023/24, disaggregated by age, gender and offence classification.  Also included are case processing times for such cases. \"",
+  "base_path": "/government/statistics/the-domestic-abuse-and-civil-proceedings-act-northern-ireland-2021-prosecutions-at-courts-and-case-processing-time-for-domestic-abuse-related-case",
+  "taxons": [
+    {
+      "title": "Domestic abuse",
+      "base_path": "/crime-justice-and-law/domestic-abuse"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "PAYE and corporate tax receipts from the banking sector: 2025",
+  "body": "\"This publication provides outturn statistics for Pay As You Earn Income Tax and National Insurance contributions (PAYE) and Corporation Tax receipts from the banking sector in the UK, and receipts of the Bank Payroll Tax, Bank Levy and Bank Surcharge.  The receipts table shows annual figures for financial year 2005 to 2006 to financial year 2024 to 2025 on PAYE and Corporation Tax receipts from the banking sector, receipts of Bank Payroll Tax in financial year 2010 to 2011, the Bank Levy from financial year 2011 to 2012 onwards, and the Bank Surcharge from financial year 2016 to 2017 onwards.  \"",
+  "base_path": "/government/statistics/paye-and-corporate-tax-receipts-from-the-banking-sector-2025",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    }
+  ]
+}

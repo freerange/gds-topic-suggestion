@@ -1,0 +1,23 @@
+{
+  "title": "Changes to tax rates for property, savings and dividend income",
+  "body": "\"The government is creating separate tax rates for property income. From 2027 to 2028, the property basic rate will be 22%, the property higher rate will be 42%, and the property additional rate will be 47%, from April 2027.     The government is increasing the rates of income tax applicable to savings income by 2 percentage points across all bands from April 2027 and increasing the rates of Income Tax applicable to dividend income at the ordinary and the upper rate by 2 percentage points from April 2026. The dividend additional rate will remain unchanged.  Also, the government is changing Income Tax rules so that reliefs and allowances deductible at steps 2 and 3 of the Income Tax calculation will only be applied to property, savings and dividend income after they have been applied to other sources of income. \"",
+  "base_path": "/government/publications/changes-to-tax-rates-for-property-savings-and-dividend-income",
+  "taxons": [
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    },
+    {
+      "title": "Non-resident landlord scheme",
+      "base_path": "/money/non-resident-landlord-scheme"
+    },
+    {
+      "title": "Tax on savings and investments",
+      "base_path": "/money/savings-investment-tax"
+    },
+    {
+      "title": "Trusts",
+      "base_path": "/money/trusts"
+    }
+  ]
+}

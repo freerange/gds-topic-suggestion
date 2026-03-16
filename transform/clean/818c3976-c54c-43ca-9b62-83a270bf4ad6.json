@@ -1,0 +1,15 @@
+{
+  "title": "Department for Business and Trade annual reports and accounts",
+  "body": "\"DBT’s annual reports and accounts set out the main activities undertaken by the department and how it has delivered against its core objectives.  Reports include detailed information about the department’s governance arrangements and a full set of audited financial statements that have been prepared in line with HM Treasury’s government financial reporting manual (FReM).  \"",
+  "base_path": "/government/collections/department-for-business-and-trade-annual-reports-and-accounts",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

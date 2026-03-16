@@ -1,0 +1,11 @@
+{
+  "title": "Pupil absence in schools in England: autumn term 2024",
+  "body": "\"This presents absence statistics relating to the 2024 to 2025 autumn term.  It provides information on the levels of overall, authorised and unauthorised absence in:   state-funded primary schools state-funded secondary schools state-funded special schools   It includes:   reasons for absence absence by pupil characteristic rates of persistent and severe absence absence information for state-funded alternative provision (including PRU)   The release uses pupil-level absence data that we collect in the school census. \"",
+  "base_path": "/government/statistics/pupil-absence-in-schools-in-england-autumn-term-2024",
+  "taxons": [
+    {
+      "title": "School attendance and absence",
+      "base_path": "/education/school-attendance-and-absence"
+    }
+  ]
+}

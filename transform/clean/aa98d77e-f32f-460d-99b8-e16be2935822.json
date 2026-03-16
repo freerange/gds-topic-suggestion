@@ -1,0 +1,11 @@
+{
+  "title": "Cyber Improvement Plan (CIP)",
+  "body": "\"If a defence supplier does not meet the requirements as per Def Stan 05-138 (answered through the Supplier Assurance Questionnaire on the online service), then they must submit a CIP.  The Cyber Improvement Plan template for CSM v4 is published on this page, and guidance for completing a Cyber Improvement Plan under CSM v4 is published here: Cyber Security Model. \"",
+  "base_path": "/government/publications/cyber-improvement-plan-cip",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

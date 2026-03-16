@@ -1,0 +1,11 @@
+{
+  "title": "Northern Ireland Abortion Statistics, 2023/24",
+  "body": "\"Presents information derived from notification forms submitted to the Chief Medical Officer for Northern Ireland following each abortion procedure as required under regulation 10 of the 2020 Regulations. The information contained within the notification is set out in the Schedule to the 2020 Regulations.  Data is presented by year, health and social care trust, age, gestation, and statutory grounds for abortion. \"",
+  "base_path": "/government/statistics/northern-ireland-abortion-statistics-202324",
+  "taxons": [
+    {
+      "title": "Abortion",
+      "base_path": "/health-and-social-care/abortion"
+    }
+  ]
+}

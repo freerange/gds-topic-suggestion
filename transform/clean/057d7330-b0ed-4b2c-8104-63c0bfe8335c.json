@@ -1,0 +1,11 @@
+{
+  "title": "Water abstraction statistics: England, 2000 to 2019",
+  "body": "",
+  "base_path": "/government/statistics/announcements/water-abstraction-statistics-england-2000-to-2019",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

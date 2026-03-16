@@ -1,0 +1,11 @@
+{
+  "title": "Concessionary travel statistics: year ending, March 2025",
+  "body": "\"Concessionary bus travel statistics in England about the number of passes, bus journeys, reimbursement and expenditure.   Financial data for local authorities are produced by Ministry of Housing, Communities and Local Government (MHCLG). However, only provisional data on revenue outturn has been published as of 26 November 2025 with a second release scheduled for 4 December 2025. Due to this, estimates for net current expenditure using MHCLG data have not been produced. Estimates from the Concessionary Travel survey are available in table BUS08d as they are collected directly from Transport Combined Authorities (TCAs).  We plan to update the published tables in early 2026, once the second release of revenue outturn data has been published by MHCLG.   In England, comparing the year ending March 2025 with the year ending March 2024, there were:    8.9 million older and disabled concessionary travel passes, up 1%   624 million concessionary bus journeys, up 4%   £795 million reimbursed to bus operators by Travel Concession Authorities, up 8% (constant prices)   £995 million in net current expenditure on concessionary travel, up 8% (constant prices)    Contact us   Bus statistics     Email bus.statistics@dft.gov.uk     Media enquiries 0300 7777 878       To hear more about DfT statistical publications as they are released, follow us on X at DfTstats. \"",
+  "base_path": "/government/statistics/concessionary-travel-statistics-year-ending-march-2025",
+  "taxons": [
+    {
+      "title": "Travel passes and concessions",
+      "base_path": "/transport/travel-passes-and-concessions"
+    }
+  ]
+}

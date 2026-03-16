@@ -1,0 +1,11 @@
+{
+  "title": "GLD Spend FOI releases",
+  "body": "\"GLD Spend FOI releases \"",
+  "base_path": "/government/publications/gld-spend-foi-releases",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

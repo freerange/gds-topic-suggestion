@@ -1,0 +1,23 @@
+{
+  "title": "Fire safety remediation in social housing in England 2024-25: Quarter 3",
+  "body": "\"The Fire Safety Remediation Survey for 11 metre plus buildings opened to all landlords (both private registered providers and local authority registered providers) on 13 December 2024 and closed on 22 January 2025, with data reported as at 31 December 2024.  All landlords were asked to report to the Regulator of Social Housing whether or not they are responsible for any residential buildings measuring 11 metres plus or that have 5 storeys or more.  This report is the findings from the survey.   These statistics are drawn from our FRS data collection and are being published as Official Statistics in Development.   \"",
+  "base_path": "/government/statistics/fire-safety-remediation-in-social-housing-in-england-2024-25-quarter-3",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

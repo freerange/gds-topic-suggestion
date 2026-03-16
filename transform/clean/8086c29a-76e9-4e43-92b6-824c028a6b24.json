@@ -1,0 +1,19 @@
+{
+  "title": "Help shape the Maritime and Coastguard Agency’s digital services",
+  "body": "\"The Maritime and Coastguard Agency (MCA) is developing two new online services to make maritime processes faster and easier for cadets, seafarers, and vessel operators.  We’re looking for participants to provide feedback on these services and help shape the development of more user-friendly experiences.  Maritime Certification Portal  This service will allow users to:    apply for a Notice of Eligibility (NOE)   book and manage oral examinations (available from October 2025)   apply for a Certificate of Competency (CoC)    Vessel Surveys Portal  This service will allow vessel owners and operators to request and manage vessel surveys online.  How you can help  We want these services to work for you. By joining our early access and feedback group, you can help share your feedback on early designs, test new features as they are released and access the services early when they launch in private beta.  Oral examination research will take place in October and November 2025, and Certificate of Competency (CoC) and vessel owner research will take place from January to March 2026.   Interested in getting involved?  Please complete our short user research recruitment form to register your interest in taking part.   Important notes:    participation is completely voluntary and you can withdraw your consent at any time   registering interest does not commit you to taking part   if selected for early access, we will provide clear instructions and support    What does private beta mean?  A private beta is when a new service is made available to a limited number of real users before it is fully launched. It helps us test the service in real-world conditions and improve it based on feedback.  Access to the private beta is by invitation only for those who register interest.  We’re working with our research partners, Kerv Digital to carry out research on our behalf.  For more information on how your data will be handled, please read the Maritime and Coastguard Agency’s Personal Information Charter and Kerv’s Privacy Notice.  If you have any questions or would like more information, please contact us by emailing user.research@mcga.gov.uk. \"",
+  "base_path": "/government/news/help-shape-the-maritime-and-coastguard-agencys-digital-services",
+  "taxons": [
+    {
+      "title": "User research",
+      "base_path": "/government/technology-guidance-technology-guidance-user-research"
+    },
+    {
+      "title": "Ship crew training and certification",
+      "base_path": "/transport/ship-crew-training-and-certification"
+    },
+    {
+      "title": "Vessel surveys and inspection",
+      "base_path": "/transport/maritime-surveying"
+    }
+  ]
+}

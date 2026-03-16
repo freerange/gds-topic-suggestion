@@ -1,0 +1,19 @@
+{
+  "title": "Major NHS AI trial delivers unprecedented time and cost savings",
+  "body": "\"The largest artificial intelligence (AI) trial of its kind globally in healthcare, involving more than 30,000 NHS workers, has shown how new technology could generate unprecedented time savings for NHS staff and lead to better care for patients, in a major productivity drive.  A groundbreaking pilot of Microsoft 365 Copilot across 90 NHS organisations found that AI-powered administrative support could save NHS staff on average 43 minutes per staff member per day or more - that’s 5 weeks of time per person annually. Results from the trial show that a full roll-out could save up to 400,000 hours of staff time per month, equating to millions of hours every year, enabling staff to focus more effectively on frontline care.  The NHS estimates that the technology could save it millions of pounds every month based on 100,000 users, which could reach hundreds of millions of pounds in cost savings every  year - cost savings that would be spent on directly improving patient care and frontline services.  The government is creating a more efficient NHS by harnessing technology while cutting waste and duplication. NHS productivity for acute trusts increased by 2.7% between April 2024 and March 2025, exceeding the government’s 2% year-on-year target set in the 10 Year Health Plan.  Better use of tech and AI is a key part of this productivity boost, along with a focus on efficiencies in elective care, outpatient reform, and urgent and emergency care.  Health Innovation Minister, Dr Zubir Ahmed, said:   As an NHS surgeon and clinician, I know how frustrating it can be to be held up by archaic technology that makes day-to-day tasks painstakingly long.  This partnership with Microsoft will help free up staff from spending time on admin so they can focus on what they want to be doing - treating patients.  Innovations like this will help drive NHS productivity so patients can get the treatment they need sooner and there is better value for taxpayers. We’re making sure every pound is spent on cutting waiting times and boosting care through our Plan for Change.   Currently, over one million online Teams meetings take place across the NHS each month. With Microsoft 365 Copilot, 83,333 hours in note-taking time could be saved every month. Another 13,200 hours per month could be saved.  The AI personal assistant could also save the health service 271,000 hours a month by summarising complex and long email chains for clinicians and staff. More than 10.3 million emails are sent in the NHS each month.  Reducing the administrative burden on NHS staff frees up valuable time that can be redirected towards patient care and clinical activities as the health service undergoes the largest digital transformation in its history.  As part of the government’s commitment to shift the NHS from analogue to digital through the 10 Year Health Plan, the adoption of new technologies, and working with partners like Microsoft, are key to making the NHS more efficient.  Darren Hardman, CEO, Microsoft UK and Ireland, said:   This major trial proves the...",
+  "base_path": "/government/news/major-nhs-ai-trial-delivers-unprecedented-time-and-cost-savings",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    },
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    }
+  ]
+}

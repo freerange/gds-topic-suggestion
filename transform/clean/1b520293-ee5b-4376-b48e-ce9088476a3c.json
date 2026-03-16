@@ -1,0 +1,11 @@
+{
+  "title": "SIA: Get Approved",
+  "body": "\"Use ‘Get Approved’ to understand what is involved in becoming an approved contractor.  Use ‘Get Approved Clarifications’ to get a deeper understanding of certain points covered in ‘Get Approved’. \"",
+  "base_path": "/government/publications/sia-get-approved",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Private (non-NHS) prescribing",
+  "body": "\" In the UK, prescription medicines are held to the highest standards of regulation, prescribing and use. To ensure this continues, the prescribing environment must continuously support patients to safely access high-quality medicines in the UK through all legal routes.   This call for evidence is seeking feedback from individuals and organisations on how the current system operates in relation to patient access to medicines through private (non-NHS) routes. This includes:    prescriptions written by prescribers registered in the European Economic Area (EU member states, Iceland, Liechtenstein and Norway) and Switzerland whose prescriptions are dispensed in the UK private (non-NHS) prescriptions written by UK prescribers prescription-only medicines supplied through other legal mechanisms, such as patient group directions (PGDs) outside of the NHS (‘private PGDs’)     We want to ensure that the current systems remain fit for purpose and enable patients to:     be treated by the most appropriate healthcare professional  safely and quickly access high-quality medicines they need through all legal routes in the UK   Anyone can respond to this consultation. However, we are particularly interested in the views of health and social care:   professionals regulators academics providers employers stakeholder organisations   Rather than a formal consultation, this is a request for ideas and evidence in relation to how the current system is operating, and for suggestions as to how it might be improved.  This call for evidence is being undertaken by the Secretary of State for Health and Social Care. Any action taken following this call for evidence may have UK-wide implications, therefore the devolved governments have been closely engaged in its development. \"",
+  "base_path": "/government/calls-for-evidence/private-non-nhs-prescribing",
+  "taxons": [
+    {
+      "title": "Good practice, inspections and enforcement",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-good-practice"
+    },
+    {
+      "title": "Marketing authorisations, variations and licensing guidance",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-marketing-authorisations-variations-licensing"
+    },
+    {
+      "title": "Pharmacy",
+      "base_path": "/health-and-social-care/pharmacy"
+    }
+  ]
+}

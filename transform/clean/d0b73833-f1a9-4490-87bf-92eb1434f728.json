@@ -1,0 +1,15 @@
+{
+  "title": "Current approaches to product marking",
+  "body": "\"This document outlines the government’s approach to product marking, including the continued recognition of certain EU requirements, such as CE marking, for specific product sectors.  \"",
+  "base_path": "/government/publications/current-approaches-to-product-marking",
+  "taxons": [
+    {
+      "title": "Product safety",
+      "base_path": "/business-and-industry/product-safety"
+    },
+    {
+      "title": "Manufacturing",
+      "base_path": "/business-and-industry/manufacturing"
+    }
+  ]
+}

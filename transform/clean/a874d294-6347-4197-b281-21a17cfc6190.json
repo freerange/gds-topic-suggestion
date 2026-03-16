@@ -1,0 +1,15 @@
+{
+  "title": "Contributions to the 12-month rate of CPI(H) by import intensity: February 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/contributions-to-the-12-month-rate-of-cpih-by-import-intensity-february-2025",
+  "taxons": [
+    {
+      "title": "Money",
+      "base_path": "/money"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

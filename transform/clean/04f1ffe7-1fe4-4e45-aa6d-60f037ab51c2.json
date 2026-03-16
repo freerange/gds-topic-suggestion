@@ -1,0 +1,11 @@
+{
+  "title": "End-point assessment registrations",
+  "body": "\"Guide to the submission process. \"",
+  "base_path": "/government/publications/end-point-assessment-registrations",
+  "taxons": [
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    }
+  ]
+}

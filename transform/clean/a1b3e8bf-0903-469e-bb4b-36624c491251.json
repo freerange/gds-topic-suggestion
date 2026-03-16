@@ -1,0 +1,11 @@
+{
+  "title": "Labour market statistics time series: November 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/labour-market-statistics-time-series-november-2025",
+  "taxons": [
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    }
+  ]
+}

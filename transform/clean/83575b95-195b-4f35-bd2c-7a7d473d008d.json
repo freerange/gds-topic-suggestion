@@ -1,0 +1,11 @@
+{
+  "title": "Decision tree for navigating nanotechnology-based products for medical application",
+  "body": "\"We have received an increase in interest and scientific advice queries on nanomedicines in recent years, particularly on lipid nanoparticles. There appears to be a perception that there is no clear regulatory pathway available for these products and researchers are unclear how to develop their products in accordance with the various guidelines currently in place.   The decision tree above is to help support researchers and developers to understand how different guidelines from the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) and European regulatory agencies can be applied to support the development of nanomedicines, although they are not meant to be exhaustive. The classification, new active substances or ‘nanosimilar’ pathways are highlighted in the flow diagram as well.  This may help support development of medicinal products involving ‘nano’ drug delivery systems liposomes and lipid nanoparticles (LNPs).  It should be noted, however, that the nanomedicine decision tree is not considered as a substitute for a regulatory or scientific advice meeting with the MHRA when specific issues may also need to be considered for your medicinal product or medical devices.  Consideration for medical devices is also outside the scope of this decision tree.  Researchers and companies are encouraged to submit your queries relating to nano-medicines or devices for regulatory or scientific advice, when appropriate. For more information, see our guidance on seeking scientific advice from the MHRA and contacting the MHRA Innovation Office. \"",
+  "base_path": "/government/publications/decision-tree-for-navigating-nanotechnology-based-products-for-medical-application",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

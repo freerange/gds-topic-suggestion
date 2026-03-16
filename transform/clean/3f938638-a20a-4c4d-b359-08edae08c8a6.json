@@ -1,0 +1,23 @@
+{
+  "title": "Data requirements for a Customs Goods Manifest",
+  "body": "\"This guidance is the data requirements you need for a Customs Goods Manifest (CGM or CGMF).  You must keep a record of this information and present it to HMRC when requested.  Union (EU) code and goods item numbers     Data field Description     Declaration type Enter the relevant Union Code   Goods Item Number Enter the relevant Goods Item Number     References and supporting documents     Data field Description     Reference type Enter the customs declaration reference for which the goods were released under for free circulation, using the relevant code and indicate the type of document   Supporting document Include the reference of the issuing authority of the licence or certificate, the validity period of the licence or certificate, the writing off amount or quantity and the measurement unit   Reference number Using the relevant Union Codes, identify or reference the number of Union or international documents or certificates produced in support of the declaration and indicate the type of document   Additional reference Provide additional reference numbers which are not covered by the supporting documentation   Other reference numbers Provide additional reference numbers not provided with supporting documentation, for example, transport documents and enter the relevant code on the document   Local Reference Number (LRN) Enter the LRN      Parties and exporters     Data field Description     Representative If you are using a representative add their information, if it’s the same as the declarant, this information is not needed   Identification Number Enter the EORI number of the person concerned   Status Enter the relevant status code of the representative   Person Lodging the CGM or CGMF  Enter the name of the person lodging the CGM or CGMF    Identification number This information takes the form of the EORI number referred to in Article 1(18) of the person lodging the CGM or CGMF      Dates, times and periods     Data field Description     Estimated date and time of arrival at the port of loading Provide the scheduled estimated date and time of the vessel arrival at the port of unloading   Requested validity of proof Enter the requested validity of proof of the customs status of Union goods expressed in days as the person requesting the proof may request a longer period of validity as laid down in Article 123. The justification of the request shall be provided in Data Element 12 02 000 000 Additional information     Types of packaging, weight, marks and codes     Data field Description     Gross Mass The gross mass is the weight of goods including packaging, but excluding the carrier’s equipment for the declaration   Description of goods A plain language description that is precise enough for customs services to be able to identify the goods. General terms, such as ‘consolidated’, ‘general cargo’, ‘parts’ or ‘freight of all kinds’ are not precise enough descriptions cannot be accepted. A non-exhaustive list of such general terms and descriptions is published by the Commission   Packaging This data element relates to details of the packaging of the goods subject to the declaration or notification   Type of packages The code that specifies the type of package   Number of packages Total number of packages...",
+  "base_path": "/guidance/data-requirements-for-a-customs-goods-manifest",
+  "taxons": [
+    {
+      "title": "Get goods through customs",
+      "base_path": "/business/business-tax-import-export-get-goods-through-customs"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

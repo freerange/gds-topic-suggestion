@@ -1,0 +1,31 @@
+{
+  "title": "Underwater robot could improve pipeline and cable security",
+  "body": "\"An underwater robot could soon be saving lives at sea for the Royal Navy and prevent adversaries from sabotaging undersea cables and pipelines.  A commercially available remotely operated vehicle (ROV) has been adapted by the Defence Science and Technology Laboratory (Dstl) and industry partners to deal with sabotage threats and clear legacy unexploded ordnance. These present hazards to both vessels and divers deployed to deal with them.  Dstl has incorporated or developed a number of systems to enable the ROV to detect unexploded ordnance and remotely place explosive charges to enable safe neutralization.    Dstl explosives engineer John said:  “This technology would be a valuable toolset for keeping our Armed Forces safe whilst providing the public with value for money.      This unique capability with its sensors, tools and cameras will give operators a real time ability to deal with these underwater hazards in a safe, effective and efficient way.”  The robot can operate at depths greater than divers can reach, and it can also work there safely for much longer.  Underwater Robot Deploys Remote Explosive  The new technology and systems developed will work in partnership with other robots to scan the seabed for hazards and will be able to deal with them once one is spotted.  The robot can be launched from a ship or a shoreline and is operated remotely, feeding video and sonar images back to the operators.  They will then be able to remotely deal with underwater hazards in relative safety.  The robot is not normally destroyed, which means it can be used multiple times giving the public better value for money in addition to the economic benefits of partnering with industry. This project supports numerous specialist jobs in industry.  Our specialists work closely with Royal Navy specialists to develop tactics and techniques as well as technology.  Trials have taken place at:   Horsea Island in Portsmouth Portland Harbour South Wales Norway   Alford Technologies, Atlantas Marine, Sonardyne and ECS Special Projects are among the industry partners involved.  This Royal Navy funded project has developed a number of cutting-edge technologies that have been tested in successful trials.  \"",
+  "base_path": "/government/news/underwater-robot-could-improve-pipeline-and-cable-security",
+  "taxons": [
+    {
+      "title": "Armed forces",
+      "base_path": "/defence/working-armed-forces"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Nuclear disarmament",
+      "base_path": "/defence/nuclear-disarmament"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

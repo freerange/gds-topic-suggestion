@@ -1,0 +1,19 @@
+{
+  "title": "Delay compensation claims: 5 January 2025 to 31 March 2025 (Periods 11 to 13)",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/delay-compensation-claims-5-january-2025-to-31-march-2025-periods-11-to-13",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    },
+    {
+      "title": "Rail passenger experience",
+      "base_path": "/transport/rail-passenger-experience"
+    },
+    {
+      "title": "Rail ticketing and fares",
+      "base_path": "/transport/rail-ticketing-and-fares"
+    }
+  ]
+}

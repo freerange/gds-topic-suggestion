@@ -1,0 +1,15 @@
+{
+  "title": "Solar roadmap",
+  "body": "\"The Solar Roadmap, produced through collaboration with industry, presents a comprehensive strategy and clear plan of action to achieve the significant increase in solar deployment needed to support the delivery of clean power by 2030, as set out in the government’s Clean Power Action Plan.  The Roadmap details over 70 actions across a variety of areas including:   streamlining the grid connection process for solar making the solar supply chain resilient, diverse and sustainable demonstrating the government’s commitment to eradicate the abhorrent practices of modern slavery and forced labour proposals for mandatory community benefit funds for local areas provided by developers, to ensure communities enjoy the benefits of hosting new infrastructure  \"",
+  "base_path": "/government/publications/solar-roadmap",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "UK energy security",
+      "base_path": "/business/uk-energy-security"
+    }
+  ]
+}

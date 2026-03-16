@@ -1,0 +1,15 @@
+{
+  "title": "Research on the prevalence and quality of cyber disclosures",
+  "body": "\"The government is working to support effective cyber risk management across the economy and encourage organisations to improve their cyber security. As part of this, the Department for Science, Innovation and Technology (DSIT) wanted to better understand the quality of cyber disclosures via company annual reports. Azets UK was commissioned by DSIT to carry out research into the prevalence and quality of cyber disclosures in the annual reports of large and very large organisations.  One of the drivers for companies enhancing their cyber resilience is the demand from stakeholders for greater transparency on how they manage digital security risk. This is largely down to how fundamental governance of digital security risk is to an organisations’ business continuity, as well as its competitiveness. Investors are one of the key business stakeholders that would benefit from greater transparency provided by companies. Better quality disclosures on how digital risk is governed would enable them to more accurately assess the opportunities and risks originating from the approach each company takes and therefore make more informed investment decisions.  The publication of this research was deferred so that it followed the conclusion and subsequent publication of the non-financial reporting review call for evidence outcome, led by the Department for Business and Trade (DBT) in collaboration with the Financial Reporting Council (FRC).  This research informs the government’s policy on cyber resilience. It is part of the government’s work to improve the UK’s cyber defences and protect and grow our digital economy.  For more information on the government’s work on how cyber risk is managed, please see the recent government response on cyber governance.  \"",
+  "base_path": "/government/publications/research-on-the-prevalence-and-quality-of-cyber-disclosures",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Corporate governance",
+      "base_path": "/business-and-industry/corporate-governance"
+    }
+  ]
+}

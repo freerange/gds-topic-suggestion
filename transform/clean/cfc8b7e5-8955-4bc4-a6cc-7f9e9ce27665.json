@@ -1,0 +1,11 @@
+{
+  "title": "HMCTS management information – modernised services",
+  "body": "\"The information in these tables covers a range of modernised service components in the criminal, civil, family and tribunals jurisdictions. The management information primarily focuses on the digital uptake, number of applications and user satisfaction of services reformed under the HMCTS Reform Programme.  These figures reflect the data held on the relevant case management systems so there are definitional and timing differences from any reference to these services in Ministry of Justice official statistics. Footnotes underneath the tables provide further detail on the services and metric definitions included in the dataset. \"",
+  "base_path": "/government/collections/hmcts-management-information-modernised-services",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    }
+  ]
+}

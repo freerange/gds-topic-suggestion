@@ -1,0 +1,35 @@
+{
+  "title": "Statistics on foreign national offenders and the immigration system",
+  "body": "\"Data on foreign national offenders (FNOs) in the immigration system is going through a transition to improve the quality of information held by the department.  By the end of 2025, if this work progresses as planned, the Home Office proposes to publish additional statistical reporting on FNOs subject to deportation or return and those returned to countries outside of the UK. \"",
+  "base_path": "/government/statistics/statistics-on-foreign-national-offenders-and-the-immigration-system",
+  "taxons": [
+    {
+      "title": "Border control",
+      "base_path": "/entering-staying-uk/border-control"
+    },
+    {
+      "title": "Deportation, removals and curtailment",
+      "base_path": "/entering-staying-uk/deportation-removals-curtailment"
+    },
+    {
+      "title": "Immigration detention",
+      "base_path": "/entering-staying-uk/immigration-detention"
+    },
+    {
+      "title": "Immigration penalties",
+      "base_path": "/entering-staying-uk/immigration-penalties"
+    },
+    {
+      "title": "Immigration rules",
+      "base_path": "/entering-staying-uk/immigration-rules"
+    },
+    {
+      "title": "Foreign nationals working in the UK",
+      "base_path": "/entering-staying-uk/Foreign-nationals-working-in-UK"
+    },
+    {
+      "title": "Right to rent in the UK",
+      "base_path": "/entering-staying-uk/right-to-rent-in-the-UK"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Young people not in education, employment or training (NEET), NI: Oct-Dec 2024",
+  "body": "\"These tables contain estimates from the Labour Force Survey for young people not in education, employment or training (NEET) in Northern Ireland. NEET is defined as those who are not in employment, government supported training, full-time or part-time education. The NEET’s tables are published on a quarterly basis. \"",
+  "base_path": "/government/statistics/young-people-not-in-education-employment-or-training-neet-ni-oct-dec-2024",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

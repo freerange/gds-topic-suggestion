@@ -1,0 +1,23 @@
+{
+  "title": "Nepal: mental health support abroad",
+  "body": "\"Includes information on:   how to get help medical help renewing prescriptions compulsory hospitalisation   See also mental health and wellbeing abroad. \"",
+  "base_path": "/government/publications/nepal-mental-health-support-abroad",
+  "taxons": [
+    {
+      "title": "Emergency help for British nationals in Nepal",
+      "base_path": "/world/emergency-help-for-british-nationals-nepal"
+    },
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    }
+  ]
+}

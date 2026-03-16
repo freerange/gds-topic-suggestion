@@ -1,0 +1,11 @@
+{
+  "title": "Serbia: Knowledge Base profile",
+  "body": "\"Knowledge Base is an information resource to support HM Passport Office staff process passport applications.  This document contains useful information about Serbia which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Serbia  \"",
+  "base_path": "/government/publications/serbia-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

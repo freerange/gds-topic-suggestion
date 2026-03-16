@@ -1,0 +1,15 @@
+{
+  "title": "Notice to Traders 35/25 - Milk Products Import Quota",
+  "body": "\"You may submit your application for a licence between 1 May 2025 and 5pm on 7 May 2025. \"",
+  "base_path": "/government/publications/notice-to-traders-3525-milk-products-import-quota",
+  "taxons": [
+    {
+      "title": "Dairy and milk production",
+      "base_path": "/environment/producing-distributing-food-dairy-milk-production"
+    },
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "UK armed forces equipment and formations 2025",
+  "body": "\"This publication provides annual statistics at 1 April each year on the UK armed forces vessels, land equipment and aircraft, and military formations.  This publication contains provisional data on Army land platforms. \"",
+  "base_path": "/government/statistics/uk-armed-forces-equipment-and-formations-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

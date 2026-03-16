@@ -1,0 +1,11 @@
+{
+  "title": "Data on written complaints in the NHS, 2024-25",
+  "body": "\"This annual collection is a count of written complaints made by (or on behalf of) patients, received between 1 April 2024 and 31 March 2025. Data is published at national, regional, organisational and site/practice levels (where appropriate). \"",
+  "base_path": "/government/statistics/data-on-written-complaints-in-the-nhs-2024-25",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

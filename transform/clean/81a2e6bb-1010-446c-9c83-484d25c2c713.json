@@ -1,0 +1,15 @@
+{
+  "title": "Time Taken to Register Deaths In Northern Ireland, 2024",
+  "body": "",
+  "base_path": "/government/statistics/announcements/impact-of-time-taken-to-register-a-death-on-death-statistics-in-northern-ireland-2024",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Palliative and end of life care profiles: January 2026 update",
+  "body": "\"The January 2026 update includes:   patterns of care factsheet for England updated with a focus on deaths occurring in 2024 place of death factsheets for integrated care boards updated to include monthly place of death data to October 2025 care home factsheets for integrated care boards updated to include trends in care home deaths to October 2025   The palliative and end of life care profiles are presented in an interactive tool which aims to help local government and health services improve care at the end of life. \"",
+  "base_path": "/government/statistics/palliative-and-end-of-life-care-profiles-january-2026-update",
+  "taxons": [
+    {
+      "title": "End of life care",
+      "base_path": "/health-and-social-care/end-of-life-care"
+    }
+  ]
+}

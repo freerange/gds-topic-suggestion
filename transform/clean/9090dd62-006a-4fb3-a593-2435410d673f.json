@@ -1,0 +1,11 @@
+{
+  "title": "Sustainable forestry cycle",
+  "body": "\"Learn about the benefits of sustainable forestry and how timber is a renewable resource for a sustainable future. \"",
+  "base_path": "/government/publications/sustainable-forestry-cycle",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    }
+  ]
+}

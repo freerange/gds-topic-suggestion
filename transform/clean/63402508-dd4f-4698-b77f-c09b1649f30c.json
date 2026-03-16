@@ -1,0 +1,15 @@
+{
+  "title": "Regional information on Corporate Tax reliefs",
+  "body": "\"HM Revenue and Customs (HMRC) commissioned BMG to undertake research into the Research and Development (R&D) tax relief for small and medium-sized enterprises (SME), R&D expenditure credit (RDEC) and Patent Box.    The overarching aim was to understand the regional spread of activities underlying R&D. The core objectives of this research were to:      understand the firmographics of businesses claiming these tax reliefs     understand where research and product development is taking place and how activity is split across multiple locations     understand the level of activity taking place across different regions     understand whether the regions where activity is taking place are different from where the claims are being made or the company is registered      explore companies’ R&D activities in more detail.      The research consisted of 525 interviews with SME claimants, 201 interviews with RDEC claimants and 89 interviews with Patent Box claimants. The same questionnaire was used for SME and RDEC claimants, a separate questionnaire was developed for Patent Box claimants.   \"",
+  "base_path": "/government/publications/regional-information-on-corporate-tax-reliefs",
+  "taxons": [
+    {
+      "title": "Reliefs",
+      "base_path": "/money/business-tax-corporation-tax-reliefs"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

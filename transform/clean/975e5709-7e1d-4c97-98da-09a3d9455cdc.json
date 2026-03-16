@@ -1,0 +1,23 @@
+{
+  "title": "MGN 583 (F) Amendment 2 ILO Work in fishing convention - fishermen's work agreements",
+  "body": "\"This notice should be read with the Merchant Shipping (Work in Fishing Convention) Regulations 2018 and replaces MGN 583 (F) Amendment 1.  Amendment 2 updates references only.  Notice to   fishing vessel owners operators and managers employers of fishermen skippers officers and fishermen on fishing vessels.   Annex’s A and B attached separately provide model formats for a fishermen’s work agreement. \"",
+  "base_path": "/government/publications/mgn-583-f-amendment-2-ilo-work-in-fishing-convention-fishermens-work-agreements",
+  "taxons": [
+    {
+      "title": "Fishing",
+      "base_path": "/transport/fishing"
+    },
+    {
+      "title": "Maritime safety",
+      "base_path": "/transport/maritime-safety"
+    },
+    {
+      "title": "Employment of seafarers",
+      "base_path": "/transport/employment-of-seafarers"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    }
+  ]
+}

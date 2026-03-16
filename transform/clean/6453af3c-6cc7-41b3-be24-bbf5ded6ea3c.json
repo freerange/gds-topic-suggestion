@@ -1,0 +1,11 @@
+{
+  "title": "Better Outcomes through Linked Data: Repeat homelessness report",
+  "body": "\"This report is based on statistical analysis undertaken as part of the Better Outcomes through Linked Data (BOLD) programme. The key findings highlight that linking MHCLG’s data to other data sources, provides further understanding of the situations faced by those who are repeatedly homeless. \"",
+  "base_path": "/government/publications/better-outcomes-through-linked-data-repeat-homelessness-report",
+  "taxons": [
+    {
+      "title": "Homelessness and rough sleeping",
+      "base_path": "/housing-local-and-community/homelessness-rough-sleeping"
+    }
+  ]
+}

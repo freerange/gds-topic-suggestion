@@ -1,0 +1,15 @@
+{
+  "title": "PIP Daily Living Activity Score Statistics - April 2025",
+  "body": "\"   The report includes further information, including age, gender, condtion and gerography of PIP caseload claimants and of PIP new claims awarded in the past three years, relating to the respective daily living activity scores.    \"",
+  "base_path": "/government/statistics/pip-daily-living-activity-score-statistics-april-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "UK sea fisheries annual statistics report 2024",
+  "body": "\"This is an official statistics release.  The aim of this publication is to provide a comprehensive picture of UK Sea Fisheries in 2024, recent trends and long-term historical context, back to 1938 in some instances.  The publication is a summary of:   The UK fishing fleet (Section 1)   Its activity at sea  o Landings – how much fish are caught and landed (Section 2)  o Effort – how long is spent at sea (Section 3) Trade (Section 4)   View the accompanying tables for each section and underlying datasets above  For details on the methodology and revisions policy please refer to the annexes within the PDF document above.  The quantity and value of landings by Scottish vessels in the MMO Sea Fisheries Statistics 2024 (published 2 December 2025) will be different to those published by Scottish Government in the Scottish Sea Fisheries Statistics 2024 (published 27 October 2025).  After the release of Scottish Sea Fisheries Statistics 2024, it was discovered that some landings for a number of Scottish vessels had been double counted.  Manual amendments are made to account for records that are excluded from the shared UK fisheries data system. Some of these records for landings in 2024 were unexpectedly added to the data system, meaning some landings by Scottish vessels were being included twice.  The landings data within the MMO Sea Fisheries Statistics 2024 have been corrected to remove double counting in landings by Scottish vessels. \"",
+  "base_path": "/government/statistics/uk-sea-fisheries-annual-statistics-report-2024",
+  "taxons": [
+    {
+      "title": "Fisheries statistics",
+      "base_path": "/environment/commercial-fishing-fisheries-regulations-monitoring-enforcement-fisheries-statistics"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

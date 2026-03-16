@@ -1,0 +1,11 @@
+{
+  "title": "Electric vehicle (EV) driver behaviours and attitudes tracker",
+  "body": "\"This research draws from a representative sample of electric vehicle (EV) drivers in the UK to provide insights into:   driving patterns charging behaviours and experiences of home and public chargepoints barriers and enablers relating to EV usage levels of confidence and satisfaction with public chargepoint provision and making long-distance journeys in EVs    Data includes:    EV, battery electric vehicle (BEV) and plug-in hybrid electric vehicle (PHEV) tracker data for year 1 of the survey 2-week diary data for travel journeys and charges made by year 1 survey participants   Ipsos conducted this research on behalf of the Department for Transport.  \"",
+  "base_path": "/government/publications/electric-vehicle-ev-driver-behaviours-and-attitudes-tracker",
+  "taxons": [
+    {
+      "title": "Zero emission and electric vehicles",
+      "base_path": "/transport/zero-emission-and-electric-vehicles"
+    }
+  ]
+}

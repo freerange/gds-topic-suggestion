@@ -1,0 +1,11 @@
+{
+  "title": "Other building fires, fatalities and non-fatal casualties, year ending March 2025",
+  "body": "\"These statistics are sourced from the Home Office’s online Incident Recording System (IRS), which fire and rescue services (FRSs) complete for every incident they attend, be it a fire, a false alarm or a non-fire incident. \"",
+  "base_path": "/government/statistics/other-building-fires-fatalities-and-non-fatal-casualties-year-ending-march-2025",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

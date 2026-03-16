@@ -1,0 +1,11 @@
+{
+  "title": "Download the GOV.UK app",
+  "body": "\" A screenshot from the GOV.UK app. The text on the screen reads 'Your GOV.UK app - Government information and services for you'.  Get the app          What the app does  The GOV.UK app gives you time back by making your interactions with government more personalised and proactive.  You can use it to:    save relevant topics to the app home screen, helping you get to the content you need most   keep a record of pages you’ve visited, making it easier to return to content you need to access regularly   quickly find services for your local area, as entering your postcode will add a link to your local council’s website to the app home page   get notifications about things like important dates and deadlines and services you might find useful    search and browse for GOV.UK content    Accessibility of the app  We want as many people as possible to be able to use the GOV.UK app. The accessibility statement for the GOV.UK app describes how it works with assistive technologies.  First release  The first public release of the GOV.UK app is a beta version. This means that the app is being tested and updated regularly as a priority, allowing insights from users to inform design, features and functionality from an early stage of development.  Other UK government apps  The GOV.UK app is separate from the:    GOV.UK One Login app   GOV.UK ID Check app   HMRC app   EU Exit: ID Document Check app   UK Immigration: ID Check app   UK ETA app   \"",
+  "base_path": "/guidance/download-the-govuk-app",
+  "taxons": [
+    {
+      "title": "GOV.UK services",
+      "base_path": "/government/govuk-services"
+    }
+  ]
+}

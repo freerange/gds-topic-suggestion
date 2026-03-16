@@ -1,0 +1,23 @@
+{
+  "title": "Leasehold schemes for the elderly management fee limit",
+  "body": "\"On this page you can find details on annual management fee limits for private registered providers who own or manage retirement leasehold accommodation.   From 1 April 2025 – 31 March 2026:     The basic limit is: £616   The limit when management is contracted out to an agent who charges VAT is: £706     These limits have been agreed with the Ministry of Housing, Communities and Local Government which has policy responsibility in this area. \"",
+  "base_path": "/government/collections/leasehold-schemes-for-the-elderly-management-fee-limit",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

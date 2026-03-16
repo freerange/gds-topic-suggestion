@@ -1,0 +1,11 @@
+{
+  "title": "Liver disease profile, November 2025",
+  "body": "\" From 2 December 2025, the liver disease profile ceased as a standalone profile.  This follows a review and streamlining of profiles to avoid duplication within Fingertips.  Where possible, indicators or equivalent data will continue to be published in other publications. These will be updated following those profile timetables and will also update in the liver disease profile. Details of the update status of its profile indicators can be found on Fingertips.  The profile pages will continue to be available - however, the remaining indicators within the liver disease profile that are not captured in other publications will not be updated in the future.   New mortality data for the calendar year 2024 has been added to the liver disease profile. Trend data back to 2001 is also available.  The following indicators have been updated:   mortality from hepatitis B related end-stage liver disease or hepatocellular carcinoma in persons aged under 75 mortality from hepatitis C related end-stage liver disease or hepatocellular carcinoma in persons aged under 75   Data is presented for England, the regions and by deprivation.  For queries relating to this document, contact: healthcare.variation@dhsc.gov.uk. \"",
+  "base_path": "/government/statistics/liver-disease-profile-november-2025",
+  "taxons": [
+    {
+      "title": "Harmful drinking",
+      "base_path": "/health-and-social-care/harmful-drinking"
+    }
+  ]
+}

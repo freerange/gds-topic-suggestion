@@ -1,0 +1,23 @@
+{
+  "title": "Developing Countries Trading Scheme (DCTS): Goods graduation notice",
+  "body": "\"The UK government is suspending the preferential tariff rates on certain imports from countries in the Standard Preferences tier of the DCTS, currently India and Indonesia, where those goods are deemed competitive without trade preferences. This type of suspension is known as ‘goods graduation’.  This notice explains which goods will be graduated under the DCTS.  \"",
+  "base_path": "/government/publications/developing-countries-trading-scheme-dcts-goods-graduation-notice",
+  "taxons": [
+    {
+      "title": "Economic growth in developing countries",
+      "base_path": "/international/economic-growth-in-developing-countries"
+    },
+    {
+      "title": "UK Trade Tariff and classification of goods",
+      "base_path": "/business/business-tax-import-export-uk-trade-tariff-and-classification-of-goods"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

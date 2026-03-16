@@ -1,0 +1,11 @@
+{
+  "title": "Namibia: Knowledge Base profile",
+  "body": "\"Knowledge Base is an information resource for HM Passport Office staff.  This document contains useful information about Namibia which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Namibia  \"",
+  "base_path": "/government/publications/namibia-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

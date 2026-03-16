@@ -1,0 +1,11 @@
+{
+  "title": "Trinidad and Tobago: Knowledge Base profile",
+  "body": "\"This document contains useful information about Trinidad and Tobago which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Trinidad and Tobago  \"",
+  "base_path": "/government/publications/trinidad-and-tobago-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

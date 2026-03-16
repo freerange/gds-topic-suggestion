@@ -1,0 +1,11 @@
+{
+  "title": "Senegal: Knowledge Base profile",
+  "body": "\"Knowledge Base is an information resource to support HM Passport Office staff process passport applications.  This document contains useful information about Senegal which will assist HM Passport Office staff process passport applications.  This document includes information about:   legitimacy adoption civil partnerships and marriage  \"",
+  "base_path": "/government/publications/senegal-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

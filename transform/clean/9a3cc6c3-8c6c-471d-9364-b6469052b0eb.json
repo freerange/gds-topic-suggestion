@@ -1,0 +1,15 @@
+{
+  "title": "Mpox contacts vaccination resources",
+  "body": "\"Mpox vaccinations are offered to eligible patients who have had contact with a case of mpox.  A consent form for mpox vaccination is available to view and download. \"",
+  "base_path": "/government/publications/mpox-monkeypox-contacts-vaccination-resources",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

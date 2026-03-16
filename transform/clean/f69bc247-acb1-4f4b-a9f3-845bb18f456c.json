@@ -1,0 +1,11 @@
+{
+  "title": "Estimating the octanol-water partition coefficient for chemical substances",
+  "body": "\"This project assessed the feasibility of expanding the range of chemical substances that can be assessed in a standardised test method for an important physico-chemical property. \"",
+  "base_path": "/government/publications/estimating-the-octanol-water-partition-coefficient-for-chemical-substances",
+  "taxons": [
+    {
+      "title": "Chemicals",
+      "base_path": "/environment/chemicals"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "NHS Workforce Statistics, July 2025",
+  "body": "\"This report shows monthly numbers of NHS Hospital and Community Health Service (HCHS) staff groups working in Trusts and ICBs in England (excluding primary care staff). Data is available as headcount and full-time equivalents.  This data is an accurate summary of the validated data extracted from the NHS’s HR and Payroll system. In addition to the regular monthly reports there are a series of quarterly reports which include statistics on staff in Trusts and ICBs and information for NHS Support Organisations and Central Bodies. \"",
+  "base_path": "/government/statistics/nhs-workforce-statistics-july-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

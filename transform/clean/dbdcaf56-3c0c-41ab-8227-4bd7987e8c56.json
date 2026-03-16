@@ -1,0 +1,11 @@
+{
+  "title": "Access to woodland in England",
+  "body": "\"This publication provides statistics on access to woodland in England, revealing the percentage of households that are within different distances of woodlands of different minimum areas in England. This work was published by Forest Research and funded through Defra’s Nature for Climate Fund, and was designed to complement the Access to green space in England official statistic in development. \"",
+  "base_path": "/government/publications/access-to-woodland-in-england",
+  "taxons": [
+    {
+      "title": "Recreation",
+      "base_path": "/society-and-culture/recreation"
+    }
+  ]
+}

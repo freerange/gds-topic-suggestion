@@ -1,0 +1,11 @@
+{
+  "title": "Airborne allergens and syndromic surveillance",
+  "body": "\"  CCHS navigation menu:  CCHS homepageTopic: environmental exposures Air-related exposure: airborne allergensPart of: Monitoring and Modelling of Airborne Allergens    Important resources for airborne allergens and syndromic surveillance::    Summary - airborne allergens and syndromic surveillance    Syndromic Surveillance: Systems and Analyses   Real-Time Syndromic Surveillance Team (RESST)     Summary  Syndromic surveillance is a public health monitoring method that collects and analyses health-related data in near real-time to provide early warnings of potential public health threats. During winter, syndromic surveillance reports are published weekly to support decision-making within the UK Health Security Agency (UKHSA) and other health sectors. This approach enables timely public health actions by identifying unusual patterns or trends in health-seeking behaviour.  UKHSA coordinates several national syndromic surveillance systems through its Real-time Syndromic Surveillance Team (ReSST). These systems gather and analyse anonymised health data from various sources, including:    NHS 111: Monitoring calls to the national health helpline.   general practitioners (GPs): Tracking both in-hours and out-of-hours consultations.   emergency departments (EDs): Observing attendance patterns.   ambulance services: Analysing dispatch call data.    \"",
+  "base_path": "/guidance/airborne-allergens-and-syndromic-surveillance",
+  "taxons": [
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    }
+  ]
+}

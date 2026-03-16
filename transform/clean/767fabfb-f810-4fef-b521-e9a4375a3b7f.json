@@ -1,0 +1,11 @@
+{
+  "title": "Fire prevention and protection, England, year ending March 2025",
+  "body": "\"This release contains administrative statistics about prevention and protection activities carried out by fire and rescue services in England. \"",
+  "base_path": "/government/statistics/fire-prevention-and-protection-england-year-ending-march-2025",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

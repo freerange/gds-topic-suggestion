@@ -1,0 +1,11 @@
+{
+  "title": "UK armed forces mental health annual statistics: financial year 2024/25",
+  "body": "\"These reports provide statistical information on mental health among the UK armed forces. They summarise referrals to the Ministry of Defence Departments of Community Mental Health (DCMHs) for outpatient care and new admissions to the MOD in-patient care contractor. \"",
+  "base_path": "/government/statistics/uk-armed-forces-mental-health-annual-statistics-financial-year-202425",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

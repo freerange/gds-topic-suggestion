@@ -1,0 +1,11 @@
+{
+  "title": "Housing Benefit statistics on speed of processing for 2025 to 2026",
+  "body": "\"Speed of processing is a measure of the average time it takes to process a:   new Housing Benefit claim change of circumstance to an existing Housing Benefit claim   The average time is measured in calendar days, rounded to the nearest day.  The statistics in this release are for:   April to June 2025 (quarter 1, financial year 2025 to 2026)  \"",
+  "base_path": "/government/statistics/housing-benefit-statistics-on-speed-of-processing-for-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Heating and housing benefits",
+      "base_path": "/welfare/heating"
+    }
+  ]
+}

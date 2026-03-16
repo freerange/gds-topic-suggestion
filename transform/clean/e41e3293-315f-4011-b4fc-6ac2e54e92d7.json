@@ -1,0 +1,27 @@
+{
+  "title": "Skilled Worker route evaluation",
+  "body": "\"The research presented throughout the following report provides insight into the experience of international Skilled Worker visa holders studying in the UK, including those on Health and Care visas, and their dependants. Factors covered include motivations for using the route; occupation and economic activity; integration and use of public services; experience of the application process, and future intentions. The research also addresses the experiences and understanding of sponsoring organisations, and looks at motivation for sponsoring via the Skilled Worker visa route; experience of the application process;  experiences of sponsoring visa holders; impact of recent policy changes, and future intentions. \"",
+  "base_path": "/government/publications/skilled-worker-route-evaluation",
+  "taxons": [
+    {
+      "title": "Foreign nationals working in the UK",
+      "base_path": "/entering-staying-uk/Foreign-nationals-working-in-UK"
+    },
+    {
+      "title": "Visa applications",
+      "base_path": "/entering-staying-uk/visa-applications"
+    },
+    {
+      "title": "Visa sponsorship",
+      "base_path": "/entering-staying-uk/visa-sponsorship"
+    },
+    {
+      "title": "Work and investor visas",
+      "base_path": "/entering-staying-uk/work-and-investor-visas"
+    },
+    {
+      "title": "Visas and immigration corporate",
+      "base_path": "/entering-staying-uk/visas-immigration-corporate"
+    }
+  ]
+}

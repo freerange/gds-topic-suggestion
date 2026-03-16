@@ -1,0 +1,19 @@
+{
+  "title": "Working lean and fast: the Coefficient ACE supplier story  ",
+  "body": "\"Coefficient is an AI and data consultancy that brings the fast-paced energy of start-ups into ACE. As CEO John Sandall puts it, by staying “incredibly lean and incredibly fast”, Coefficient aims to elevate the global standard of data science, machine learning and artificial intelligence (AI), one project at a time.   This culture is maintained by a “small but mighty” team of data scientists, software engineers, statisticians and machine-learning specialists, who are passionate about open-source technologies and agile delivery.  They make data work as hard as possible, exploring opportunities for machine learning or AI that can improve processes or enable deeper insights.  However, Coefficient never just applies technology for the sake of it — they start by asking the right questions to get to the root of the problem. From there, research-grade statistical methods are combined with a practical, problem-solving approach. The outcome is that organisations can distil complex patterns from their people, products and performance into actionable intelligence.     “We take what works in one industry and apply it somewhere else — for instance, Coefficient used techniques for hedge fund market prediction models to help forecast election outcomes,” says Sandall. For over a decade, Coefficient has applied these learnings to create innovative solutions across private, public and educational sectors. They also run more than 200 workshops a year, helping major banks and organisations learn more about Python, data science and AI.    Coefficient joined ACE in early 2021 and has since worked on 12 independent projects, growing to a team of 10 people. “Day-to-day life is pretty exciting because we get to change the lives of possibly millions of people across the UK and that drives a high level of motivation within my team,” says Sandall.    Two notable projects illustrate Coefficient’s achievements within ACE. For one law enforcement commission, the team completed a discovery phase and developed a machine-learning model that mimicked the results obtained by existing manual methods in just 12 weeks. The tool was then tested in real-world conditions as well as presented to government ministers.   For a different law enforcement project, Coefficient evaluated a number of commercial redaction tools that use AI to replace faces, text and audio in sensitive media. The team assessed whether each tool met the specific needs of policing while adhering to strict legal and ethical standards. As part of this research, Coefficient also demonstrated cutting-edge techniques and built rapid proof of concepts for sanitising media. This helped stakeholders understand current state-of-the-art technologies to make informed investment decisions and see how current redaction processes could be made more efficient.   Sandall said: “Alongside impact, ACE encourages a modern way of working by building fast and then iterating. ACE’s matchmaking has had Coefficient working alongside other SMEs that we would never meet otherwise, with the complementary skills necessary to tackle each problem.    “We’ve met partners through ACE leading to wider opportunities, such as with Bays for a £100k Innovate UK grant to guide the Department for Science, Innovation and Technology on AI ethics. The killer thing about...",
+  "base_path": "/government/case-studies/working-lean-and-fast-the-coefficient-ace-supplier-story",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

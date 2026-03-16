@@ -1,0 +1,19 @@
+{
+  "title": "Environment Agency annual report and accounts 2024 to 2025",
+  "body": "\"This document contains our:   performance report performance measures (what we’re doing to improve the environment) accountability report financial statements  \"",
+  "base_path": "/government/publications/environment-agency-annual-report-and-accounts-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

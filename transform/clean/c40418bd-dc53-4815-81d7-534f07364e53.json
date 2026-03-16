@@ -1,0 +1,11 @@
+{
+  "title": "Benefit Sanctions statistics to November 2024",
+  "body": "\" The latest release of these statistics can be found in the collection of benefit sanctions statistics.   This release of statistics on Benefit Sanctions includes data up to November 2024.    The next statistics release will be 13 May 2025. \"",
+  "base_path": "/government/statistics/benefit-sanctions-statistics-to-november-2024",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    }
+  ]
+}

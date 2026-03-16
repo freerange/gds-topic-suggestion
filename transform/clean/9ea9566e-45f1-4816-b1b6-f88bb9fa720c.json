@@ -1,0 +1,15 @@
+{
+  "title": "Further Education Sector activity in NI by AA: 19/20 - 23/24",
+  "body": "\"This release presents Further Education Enrolment and Student data in tables broken down by Assembly Area. \"",
+  "base_path": "/government/statistics/further-education-sector-activity-in-ni-by-aa-1920-2324",
+  "taxons": [
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

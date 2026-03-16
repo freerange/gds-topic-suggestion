@@ -1,0 +1,15 @@
+{
+  "title": "Vaccination of birds against high pathogenicity avian influenza (bird flu) joint statement",
+  "body": "\"Statement from the joint industry and cross-government avian influenza vaccination taskforce on the vaccination of birds against high pathogenicity avian influenza (bird flu).  Check the current UK policy. \"",
+  "base_path": "/government/publications/vaccination-of-birds-against-high-pathogenicity-avian-influenza-bird-flu-joint-statement",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    },
+    {
+      "title": "Birds",
+      "base_path": "/environment/environmental-management-wildlife-habitat-conservation-birds"
+    }
+  ]
+}

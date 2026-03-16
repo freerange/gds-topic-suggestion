@@ -1,0 +1,15 @@
+{
+  "title": "Influenza A (H3, H5, H7, H9, H10): routes of transmission",
+  "body": "\"This rapid systematic review aimed to summarise evidence on the routes of transmission of zoonotic influenza A (search up to 15 July 2025). No studies were identified for inclusion. \"",
+  "base_path": "/government/publications/influenza-a-h3-h5-h7-h9-h10-routes-of-transmission",
+  "taxons": [
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

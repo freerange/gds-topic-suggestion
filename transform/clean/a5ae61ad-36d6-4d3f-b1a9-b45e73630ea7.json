@@ -1,0 +1,11 @@
+{
+  "title": "Gathering and analysing market survey results using AI",
+  "body": "\"The Government Actuary’s Department (GAD) has supported the Ministry of Housing, Communities and Local Government (MHCLG) by analysing the results of its survey into high-rise buildings.  Unique design  The survey’s unique design went beyond traditional quantitative data collection. It incorporated free-text responses that captured nuanced information.  GAD leveraged artificial intelligence to transform these unstructured responses into structured data, creating actionable insights for policy development, and helped standardise entries to enable more robust analysis.  Interactive dashboard  We worked with MHCLG to develop an interactive dashboard that allows users to interrogate the data effectively.  This tool uncovers trends and patterns enabling users to:   drill down into specific topics identify geographic variations visualise changes over time   The dashboard makes complex information both accessible and compelling for decision-makers.  Cross-specialist collaboration  GAD’s approach emphasised collaboration with a cross-specialist group of actuaries, policy officials, economists, and delivery specialists. This multidisciplinary partnership ensured the analysis met diverse analytical needs while maintaining technical rigour.  The findings from GAD’s work have directly shaped MHCLG’s policy approach, supporting robust evaluation of policy options and their cost-effectiveness.  The adoption of generative AI and modern data visualisation techniques delivered significant efficiency savings whilst supporting evidence-based policy decisions.  Enhanced understanding  Actuary Jonathan Day led on the project and said: “Through this collaboration, the project team now better understands the dynamics of the market of interest. The project showcased the effectiveness of using multidisciplinary teams from across government to overcome complex problems.”  This enhanced understanding enables future interventions to be targeted more effectively, supporting MHCLG’s objectives. \"",
+  "base_path": "/government/news/gathering-and-analysing-market-survey-results-using-ai",
+  "taxons": [
+    {
+      "title": "Pensions and ageing society",
+      "base_path": "/work/pensions-and-ageing-society"
+    }
+  ]
+}

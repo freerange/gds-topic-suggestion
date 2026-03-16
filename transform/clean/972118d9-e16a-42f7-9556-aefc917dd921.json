@@ -1,0 +1,15 @@
+{
+  "title": "Hearing aids in the UK",
+  "body": "\"This policy statement sets out case studies relating to the sale of hearing aids in the UK under existing regulations considering the Health Professions Order 2001. While only a court can make a binding determination, the Department of Health and Social Care considers that the published scenarios do not constitute an offence under the Health Professions Order 2001.  This statement should be read in conjunction with the:   Health and Care Professions Council (HCPC) guidance on the regulation for hearing aid dispensers   Health Professions Order 2001 as amended by the Health Professions (Hearing Aid Dispensers) Order 2010  relevant medical device regulations, see Medicines and Healthcare products Regulatory Agency (MHRA) guidance on Regulating medical devices in the UK   \"",
+  "base_path": "/government/publications/hearing-aids-in-the-uk",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

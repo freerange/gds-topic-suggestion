@@ -1,0 +1,15 @@
+{
+  "title": "2025 Government Procurement Card spend for transactions over £500",
+  "body": "\"View Forestry Commission spending on the Government Procurement Card.  As of April 2025, there will be zero spend over £500 on the GPC for Forestry Commission and Forestry England. This is because of the reduced single transaction limit of £500 implemented in April.  If any circumstances lead to spending over £500, or the GPC limit increases, the data will be published on this page.  \"",
+  "base_path": "/government/publications/2025-government-procurement-card-spend-for-transactions-over-500",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Environmental Indicator Framework: Voluntary Application of the Code of Practice for Statistics",
+  "body": "\"Statement of voluntary application of the Code of Practice for Statistics. \"",
+  "base_path": "/government/publications/environmental-indicator-framework-voluntary-application-of-the-code-of-practice-for-statistics",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

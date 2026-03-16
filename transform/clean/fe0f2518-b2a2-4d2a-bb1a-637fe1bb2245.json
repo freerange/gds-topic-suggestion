@@ -1,0 +1,11 @@
+{
+  "title": "NHS Chargepoint Accelerator Scheme funding",
+  "body": "\"List of NHS England trusts that have been awarded funding by the Department for Transport to install electric vehicle chargepoints to support their operational fleet transition.  Funding amounts and the number of sites may be subject to change as trusts proceed through to delivery.  The CSV file contains the same list with additional details about trust codes and region. \"",
+  "base_path": "/government/publications/nhs-chargepoint-accelerator-scheme-funding",
+  "taxons": [
+    {
+      "title": "Zero emission and electric vehicles",
+      "base_path": "/transport/zero-emission-and-electric-vehicles"
+    }
+  ]
+}

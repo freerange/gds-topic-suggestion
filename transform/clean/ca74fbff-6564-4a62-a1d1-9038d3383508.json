@@ -1,0 +1,11 @@
+{
+  "title": "Mosquito and tick data storage information",
+  "body": "\"  CCHS navigation menu:  CCHS homepageTopic: health impacts Vector-borne disease: ticks   Information  The data you provide on the TSS recording form will be kept confidential and anonymous in accordance with the Data Protection Act 2018 and the General Data Protection Regulation (UK GDPR).  We will store your name and contact details (section 3) in case we need to follow up with a specific query relating to your tick record. Processing your personal data and information provided in the form is necessary for the performance of a task carried out in the public interest by the UKHSA under the UK GDPR. Your contact information will not be made available to anyone else. Only the research team will have access to your information which will be stored on a password-protected computer and will be treated in accordance with the Data Protection Act.  In section 4, if you consent you may be contacted by UKHSA for future research relating to ticks or tick-borne diseases you may consent to be contacted by UKHSA for future research relating to ticks or tick-borne diseases. Providing this consent and signing the form is optional and any advice given will not be affected.  Once your data has been analysed, it may be used in publications in academic journals and reports. It may be presented to a variety of academic and professional audiences but you will not be identified. By submitting this form, you agree that the information and tick specimens may be anonymously used for research purposes. If you wish to have your data deleted for any reason, please contact tick@ukhsa.gov.uk and, wherever possible, your request will be obliged.  For more information on how your personal data is used by UKHSA and to understand your information rights, please see the UKHSA’s privacy policy.  \"",
+  "base_path": "/guidance/mosquito-and-tick-data-storage-information",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

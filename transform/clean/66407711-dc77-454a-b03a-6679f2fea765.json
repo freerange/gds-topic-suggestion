@@ -1,0 +1,15 @@
+{
+  "title": "Insolvency practitioner bulletin 1 (2024): closure of mailbox for VAT deregistration confirmation",
+  "body": "\"This bulletin explains:   when the mailbox will close what will replace the mailbox what to do if you do not receive confirmation of VAT deregistration after the mailbox is closed  \"",
+  "base_path": "/government/publications/insolvency-practitioner-bulletin-1-2024-closure-of-mailbox-for-vat-deregistration-confirmation",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    }
+  ]
+}

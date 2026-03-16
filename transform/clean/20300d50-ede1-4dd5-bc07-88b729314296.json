@@ -1,0 +1,15 @@
+{
+  "title": "International environmental protection report",
+  "body": "\"Section 21 of the Environment Act 2021 requires the Defra Secretary of State to report to UK Parliament on significant developments in international environmental protection legislation every 2 years.    This first report highlights significant international environmental and climate developments from April 2022 to March 2024.  Defra has worked closely with DESNZ (for climate developments) and FCDO in the preparation of the report.   The report highlights developments we consider to be impactful, pioneering, ambitious, innovative or otherwise significant, many of which could help inform our own policy thinking and ambitions on environment and climate protection.  \"",
+  "base_path": "/government/publications/international-environmental-protection-report",
+  "taxons": [
+    {
+      "title": "Climate change international action",
+      "base_path": "/environment/climate-change-international-action"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

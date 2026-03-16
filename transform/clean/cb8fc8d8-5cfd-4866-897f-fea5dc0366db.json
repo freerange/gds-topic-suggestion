@@ -1,0 +1,15 @@
+{
+  "title": "Case processing time for criminal cases dealt with at courts in Northern Ireland 2024 to 2025",
+  "body": "\"Report presenting data on the average case processing time for criminal cases dealt with in Crown and magistrates’ courts in Northern Ireland for the period 1 April 2024 to 31 March 2025. It provides an overview of the time taken for a case to be dealt with at court, from the date that case began its journey through the criminal justice system, based on a start point of the date the offence was reported to, or detected by, the police. \"",
+  "base_path": "/government/statistics/case-processing-time-for-criminal-cases-dealt-with-at-courts-in-northern-ireland-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    }
+  ]
+}

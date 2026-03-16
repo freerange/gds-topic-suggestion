@@ -1,0 +1,15 @@
+{
+  "title": "Discover customs authorisations that help you import and export goods",
+  "body": "\"The documents on this page give you a description of each authorisation and list the benefits you can expect after being authorised.  Check which authorisations will be best for you and your business. You can then read more detailed guidance about the ones suitable for you in find customs authorisations for importing and exporting goods.  The authorisations have been arranged in the following groups.  Making payments of customs, excise duties and VAT  This introduces paying with a duty deferment account.  Suspending or delaying payments of Customs Duty, import VAT and other tax charges  This includes:   inward processing outward processing Temporary Admission customs warehouse authorised use (also known as end use) Simplified Import VAT Accounting (SIVA) guarantees and guarantee waiver individual guarantee Freeport customs special procedure temporary storage   Simplifying declarations for imports and exports  This includes:   bulk import reduced data set simplified customs declaration process including the simplified declaration procedure and entry in the declarant’s records registered exporter — for businesses established in Northern Ireland that import goods under an EU preferential trade arrangement, that are then supplied to an EU country approved exporter authorised banana weigher customs supervised exports designated export place   Authorised Economic Operator (AEO) status (for businesses involved in international supply chains)  This includes:   Authorised Economic Operator Security and Safety (AEOS) Authorised Economic Operator Customs Simplifications (AEOC)   Moving transit goods and using other transit simplifications  This includes:   authorised consignee authorised consignor using special seals using special loading lists authorised issuer for proof of Union status   Ports and wharves approvals (for port and wharf operators)  This includes:   seaport and wharf approvals airport approvals rail terminal approvals   Moving goods into Northern Ireland (Windsor Framework)  This includes:   UK internal market scheme including entry in the declarant’s records UK Carrier (UKC) Scheme   \"",
+  "base_path": "/government/publications/discover-customs-authorisations-that-help-you-import-and-export-goods",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

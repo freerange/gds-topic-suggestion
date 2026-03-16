@@ -1,0 +1,15 @@
+{
+  "title": "Crane back in business - with a little help from Spot the robot",
+  "body": "\"The crane had been deactivated at the switchboard in 2023 due to concerns about the ageing asset. Safety restrictions prohibited human interaction with the switchboard, which further delayed its reactivation. However, the facility required the crane for waste shipment and for ongoing decommissioning efforts.  Following consultations with the innovation team, it was decided to use Spot for the task. As the site’s Spot was not equipped with an “arm” handling device, the team asked the Robotics and Artificial Intelligence Collaboration (RAICo) for support. RAICo — a collaboration between UK Atomic Energy Authority, Nuclear Decommissioning Authority, Sellafield Ltd, and the University of Manchester —specialises in solving shared nuclear decommissioning and fusion energy challenges by accelerating the use of robotics and AI in the industry, and has previously worked successfully with Dounreay on various projects.  Robotics experts from RAICo brought Spot to the site and worked with the Dounreay team to devise the best approach. After conducting a week of trials on a non-live switch mock-up in a nearby substation storeroom, the team confirmed that Spot could push the switch into the “on” position.  In an unprecedented manoeuvre, Spot used a gripped pole to flip the switch, successfully restoring power to the crane. A loud “clunk” marked the operation’s success.  Senior Facility Manager Suzy Nellies said:   Thanks to outstanding teamwork between the decommissioning team, RAICo, our colleagues in Works Control, and the electrical team, we have achieved an excellent outcome. We can now proceed with modernising the crane to bring it back into full service.   Kate Canning, NDA’s Head of R&D added:   This is a fantastic example of collaboration through RAICo leading to acceleration of deployment of robotic technology to unlock a real-world challenge in an efficient and safe way. It’s supporting us to keep our people out of harm while developing them, transferring specialist knowledge and skills across our group.  \"",
+  "base_path": "/government/news/crane-back-in-business-with-a-little-help-from-spot-the-robot",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

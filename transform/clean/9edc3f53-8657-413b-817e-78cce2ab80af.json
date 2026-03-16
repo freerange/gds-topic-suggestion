@@ -1,0 +1,11 @@
+{
+  "title": "MHCLG: spending over £250, August 2024",
+  "body": "\"MHCLG publishes details of all departmental spending over £250 on a monthly basis. \"",
+  "base_path": "/government/publications/mhclg-spending-over-250-august-2024",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

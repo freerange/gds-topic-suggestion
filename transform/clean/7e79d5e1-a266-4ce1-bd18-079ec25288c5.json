@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Deaths (Northern Ireland): December 2024",
+  "body": "\"Monthly Deaths (Northern Ireland): December 2024 \"",
+  "base_path": "/government/statistics/monthly-deaths-northern-ireland-december-2024",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

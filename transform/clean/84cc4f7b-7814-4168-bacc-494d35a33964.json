@@ -1,0 +1,11 @@
+{
+  "title": "Dementia data and intelligence",
+  "body": "\"The dementia themed data, indicator profiles and reports are produced by the National Dementia Intelligence (NDI) team, which is a function of the Clinical Epidemiology division, within the Office for Health Improvement and Disparities.  For enquiries or feedback relating to our dementia intelligence products, email ndi@dhsc.gov.uk.  Dementia profile and factsheets  The dementia profile is an interactive tool designed to improve the availability and accessibility of data on dementia. The profile is structured around ‘The Well Pathway for Dementia’, available on the NHS England Dementia page, with 28 indicators arranged into 5 topics.  The profile indicators are available for integrated care boards (ICBs) and sub locations (sub ICBs) where used, and for local authority geographies. This data gives local commissioners and providers the information needed to benchmark current practice against other areas in England and the England level.  The dementia profile is updated on a topic basis throughout the year with a statistical commentary produced to provide interpretation.  The profile also contains:    dementia surveillance factsheets - published monthly at the England level and for each of the 42 integrated care boards  dementia additional indicators factsheets - a series of publications showing indicators based on additional data published by NHS England   \"",
+  "base_path": "/government/collections/dementia-data-and-intelligence",
+  "taxons": [
+    {
+      "title": "Dementia",
+      "base_path": "/health-and-social-care/dementia"
+    }
+  ]
+}

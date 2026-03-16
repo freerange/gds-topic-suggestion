@@ -1,0 +1,11 @@
+{
+  "title": "Capture Redress Scheme: applicant information",
+  "body": "\"You are eligible for the Capture Redress Scheme if you were a postmaster in the 1990s and you suffered financial shortfalls due to the Capture software. \"",
+  "base_path": "/government/collections/capture-redress-scheme-applicant-information",
+  "taxons": [
+    {
+      "title": "Reporting crimes and getting compensation",
+      "base_path": "/crime-justice-and-law/reporting-crimes-compensation"
+    }
+  ]
+}

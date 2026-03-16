@@ -1,0 +1,15 @@
+{
+  "title": "Guidelines for the characterisation of microplastics with LD-IR",
+  "body": "\"Microplastics, which arise from fragmentation of the plastic waste released into the environment, are accumulated in all environmental compartments at an unprecedented scale and hence are considered critical persistent pollutants of an increasing global concern.  In response to global issues associated with microplastics pollution, the Government Chemist, with support from the expertise of the National Measurement Laboratory (NML) at LGC, has put effort into the development and validation of robust methodology for microplastic detection and reliable characterisation in food as part of the current GC programme (project CB6).  This project aimed to address specific UK needs highlighted by the UK’s Food Standards Agency (FSA) and focused on development of an integrated multi-method platform for the analysis of microplastics, based on a combination of separation, spectroscopic and imaging techniques.  Challenges in sample preparation, arising from the presence of food matrix, and the need to isolate and deposit the analyte on solid supports before imaging, have been addressed through the development of filtration procedures coupled with development of quality control materials with well-defined particle sizes, chemical composition and number concentration.  A muti-method platform based on the combination of Dynamic Image Analysis (DIA) and single particle Inductively Coupled Plasma Mass Spectrometry (spICP-MS) for small microplastics (1 – 10 µm) and Laser Direct Infrared (LD-IR) for microplastics >10 µm has been developed, validated and applied to determine the particle number concentration in the selected model samples.  The output of this project enables traceable monitoring of microplastics, which supports decision-making and mitigation measures around plastics in food.            A guide for testing laboratories on the application of LD-IR for microplastics    PDF, 1.51 MB, 20 pages     This file may not be suitable for users of assistive technology.    Request an accessible format.    If you use assistive technology (such as a screen reader) and need a version of this document in a more accessible format, please email government.chemist@lgcgroup.com. Please tell us what format you need. It will help us if you say what assistive technology you use.     \"",
+  "base_path": "/government/news/guidelines-for-the-characterisation-of-microplastics-with-ld-ir",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    }
+  ]
+}

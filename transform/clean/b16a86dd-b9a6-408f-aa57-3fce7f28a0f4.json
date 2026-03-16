@@ -1,0 +1,11 @@
+{
+  "title": "Stamp Taxes on Shares: modernisation",
+  "body": "\"This measure enables the testing of a new digital service for the Securities Transfer charge.  The Securities Transfer charge will replace Stamp Duty and Stamp Duty Reserve Tax as part of modernisation of the Stamp Taxes on Shares framework. \"",
+  "base_path": "/government/publications/stamp-taxes-on-shares-modernisation",
+  "taxons": [
+    {
+      "title": "Tax on shares",
+      "base_path": "/money/personal-tax-savings-investment-tax-tax-on-shares"
+    }
+  ]
+}

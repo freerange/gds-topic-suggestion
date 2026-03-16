@@ -1,0 +1,11 @@
+{
+  "title": "Below Average Resources statistics",
+  "body": "\"The Department for Work and Pensions (DWP) is developing a new poverty measure called ‘Below Average Resources’ (BAR). This measure is based on the approach proposed by the Social Metrics Commission (SMC).  The SMC approach provides a more expansive view of available resources (both savings and inescapable costs) than the income measurement adopted under the existing Households Below Average Income (HBAI) publication, and also proposes some methodological changes.  \"",
+  "base_path": "/government/collections/below-average-resources-statistics",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    }
+  ]
+}

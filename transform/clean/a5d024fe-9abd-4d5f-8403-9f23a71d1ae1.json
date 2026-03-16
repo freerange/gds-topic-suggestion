@@ -1,0 +1,11 @@
+{
+  "title": "Deaths registered monthly in England and Wales: August 2025",
+  "body": "\"Number of deaths registered each month by area of usual residence for England and Wales, by region, county, health authorities, local and unitary authority, and London borough. \"",
+  "base_path": "/government/statistics/deaths-registered-monthly-in-england-and-wales-august-2025",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    }
+  ]
+}

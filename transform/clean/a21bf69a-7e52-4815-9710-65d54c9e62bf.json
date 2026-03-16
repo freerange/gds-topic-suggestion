@@ -1,0 +1,11 @@
+{
+  "title": "UK Energy in Brief: 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/uk-energy-in-brief-2025",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

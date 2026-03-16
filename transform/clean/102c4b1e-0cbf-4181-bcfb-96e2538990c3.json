@@ -1,0 +1,15 @@
+{
+  "title": "Government Office for Science: academic research data privacy notice",
+  "body": "\"We process personal data associated with academic research to provide advice on science and technology to Government and the Prime Minister.  The privacy notice explains what we do with your data and how to contact us with any questions. \"",
+  "base_path": "/government/publications/government-office-for-science-academic-research-data-privacy-notice",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

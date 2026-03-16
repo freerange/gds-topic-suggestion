@@ -1,0 +1,15 @@
+{
+  "title": "NI milk utilisation statistics since 2009 (2022 & 2023)",
+  "body": "\"The information in the milk utilisation survey is used by the Northern Ireland government as evidence for assessing how raw milk is used in processing. The survey provides the information necessary to estimate the volume of dairy commodities such as liquid, cheese, powders etc. being manufactured within NI as well as the quantity of NI milk being exported to other countries for processing.  Results from the survey are forwarded to Defra for inclusion with GB results to form UK figures on the volume of milk products being produced. \"",
+  "base_path": "/government/statistics/ni-milk-utilisation-statistics-since-2009-2022-2023",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

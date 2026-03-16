@@ -1,0 +1,19 @@
+{
+  "title": "Cruiser SB HSE emergency registration report 2025",
+  "body": "\"In 2024 the National Farmers Union (NFU) and British Sugar submitted an application for emergency authorisation to use a neonicotinoid product as a seed treatment on sugar beet.   The Health and Safety Executive has completed an emergency registration report for the evaluation of this application.  See previous emergency registration reports 2022 to 2024. \"",
+  "base_path": "/government/publications/cruiser-sb-hse-emergency-registration-report-2025",
+  "taxons": [
+    {
+      "title": "Chemicals",
+      "base_path": "/environment/chemicals"
+    },
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    },
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    }
+  ]
+}

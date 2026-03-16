@@ -1,0 +1,23 @@
+{
+  "title": "Obesity profile: May 2025 update",
+  "body": "\"The following indicators have been updated:   obesity prevalence in adults aged 18 and over overweight (including obesity) prevalence in adults aged 18 and over percentage of physically active adults aged 19 and over percentage of physically inactive adults aged 19 and over percentage of adults aged 16 and over meeting the ‘5 a day’ fruit and vegetable consumption recommendations (new method) percentage of adults walking for travel at least 3 days per week percentage of adults cycling for travel at least 3 days per week   Data is presented at upper and lower tier local authority, region and England for the years 2015 to 2024 (2020 to 2024 for the percentage of adults meeting the ‘5 a day’ fruit and vegetable consumption recommendations indicator). England-level data on inequalities is also included for these indicators, displaying data by index of multiple deprivation decile, ethnic group, working status, disability, level of education, socioeconomic class, age and sex.  Details of the latest release can be found in ‘Obesity profile: short statistical commentary, May 2025’. \"",
+  "base_path": "/government/statistics/obesity-profile-may-2025-update",
+  "taxons": [
+    {
+      "title": "Obesity",
+      "base_path": "/health-and-social-care/obesity"
+    },
+    {
+      "title": "Exercise and physical activity",
+      "base_path": "/health-and-social-care/exercise-physical-activity"
+    },
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    },
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    }
+  ]
+}

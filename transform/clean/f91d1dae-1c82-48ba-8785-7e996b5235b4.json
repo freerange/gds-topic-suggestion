@@ -1,0 +1,11 @@
+{
+  "title": "RFI 7252 Smaller Abattoir Fund",
+  "body": "\"Request made under the Environmental Information Regulations 2004 (EIR) for the number of abattoirs which have received grants from the Smaller Abattoir Fund since its inception and the total amount granted since its inception. \"",
+  "base_path": "/government/publications/rfi-7252-smaller-abattoir-fund",
+  "taxons": [
+    {
+      "title": "Farming and food grants and payments",
+      "base_path": "/environment/farming-food-grants-payments"
+    }
+  ]
+}

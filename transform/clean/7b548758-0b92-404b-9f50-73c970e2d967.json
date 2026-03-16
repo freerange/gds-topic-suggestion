@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: river flooding",
+  "body": "\"This summary identifies some of the main risks caused by river flooding, such as deep, fast-flowing floodwater and contamination from dirty water and how they can impact transport. It also provides advice to help mitigate and plan for these risks.     Direct impacts from river flooding include:   impacts on safety from fast-flowing water, which can sweep away vehicles damage to transport infrastructure, such as bridges and routes close to rivers   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-river-flooding",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Historical machinery investment on farms in England",
+  "body": "\"This publication gives previously published copies of the national statistics on machinery investment on farms in England. Each publication gives the figures available at that time. The figures are subject to revision as new information becomes available.   Defra statistics: Farm Business Survey     Email fbs.queries@defra.gov.uk      You can also contact us via X: https://x.com/DefraStats   \"",
+  "base_path": "/government/statistics/historical-machinery-investment-on-farms-in-england",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

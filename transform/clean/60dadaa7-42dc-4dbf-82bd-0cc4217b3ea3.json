@@ -1,0 +1,15 @@
+{
+  "title": "Fluorinated greenhouse gases and ozone-depleting substances charging scheme",
+  "body": "\"This charging scheme covers:   fluorinated greenhouse gases activities ozone-depleting substances activities   This supports the:   fluorinated gas (F gas): guidance for users, producers and traders ozone-depleting substances: guidance for users, producers and traders  \"",
+  "base_path": "/government/publications/fluorinated-greenhouse-gases-and-ozone-depleting-substances-charging-scheme",
+  "taxons": [
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

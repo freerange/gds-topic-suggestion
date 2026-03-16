@@ -1,0 +1,15 @@
+{
+  "title": "Public opinion of forestry 2025: UK and England",
+  "body": "\"This release presents results from the latest survey of public attitudes to forestry and forestry-related issues across the UK. Topics covered include:   visits to woodland importance of forestry engagement with forest issues climate change tree health  \"",
+  "base_path": "/government/statistics/public-opinion-of-forestry-2025-uk-and-england",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

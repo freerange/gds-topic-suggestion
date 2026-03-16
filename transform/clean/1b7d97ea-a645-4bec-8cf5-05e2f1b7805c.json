@@ -1,0 +1,11 @@
+{
+  "title": "MAVIS Hub Edition 133",
+  "body": "\"1. Product News  2. Enforcement  3. AMR  4. Guidance Updates  5. Surveillance  6. Statistics  7. Corporate News \"",
+  "base_path": "/government/publications/mavis-hub-edition-133",
+  "taxons": [
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

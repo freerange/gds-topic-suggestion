@@ -1,0 +1,11 @@
+{
+  "title": "Reported road casualties Great Britain: e-Scooter factsheet: 2024",
+  "body": "\"This factsheet presents the latest statistics for e-scooter casualties in reported road collisions including:   monthly trends who is injured (age and sex) other casualties involved in accidents with e-scooters a breakdown by police force area   Data covers the period to end 2024, and is considered final.  At this point, it has not been possible to included casualty rates for e-scooters, due to a lack of robust data on e-scooter trips or mileage. While e-scooters were added as a new mode in the department’s National Travel Survey in 2021, a low number of trips was recorded. A report on the recording of e-scooter trips in the NTS was published in 2024. The department will keep this data under review with the intention of presenting estimates of e-scooter trips, and casualty rates, when we have confidence in the quality of this data.  \"",
+  "base_path": "/government/statistics/reported-road-casualties-great-britain-e-scooter-factsheet-2024",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

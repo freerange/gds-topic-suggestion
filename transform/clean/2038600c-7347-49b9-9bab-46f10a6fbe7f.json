@@ -1,0 +1,23 @@
+{
+  "title": "RSH spending over £250 - 2025",
+  "body": "\"The Regulator of Social Housing is required to publish details of all spending over £250 since becoming a standalone body on 1 October 2018. This is usually be done on a monthly basis.  HM Treasury requires that all central government departments publish details of their spending for transactions over £25,000, and publish monthly data by the last day of each month. The Ministry of Housing, Communities and Local Government – the sponsor department for RSH – has lowered this threshold and publishes all transactions that are more than £250.  Information for 2025 is on this page. The spending date for previous years can be found on the RSH spending data collections page  \"",
+  "base_path": "/government/publications/rsh-spending-over-250-2025",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

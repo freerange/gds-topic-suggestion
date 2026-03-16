@@ -1,0 +1,11 @@
+{
+  "title": "Request for information about a specific training provider",
+  "body": "\"SIA response to a Freedom of Information (FOI) request for details of a specific training provider. \"",
+  "base_path": "/government/publications/request-for-information-about-a-specific-training-provider",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

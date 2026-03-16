@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Care Leavers 2023/24",
+  "body": "\"This annual publication presents information on those aged 16 – 18 who left care during the previous financial year including educational achievement, economic activity and placement prior to leaving care. The circumstances of those who have left care at the time of their nineteenth birthday is also reported including the frequency of contact with social services, economic activity and current accommodation \"",
+  "base_path": "/government/statistics/northern-ireland-care-leavers-202324",
+  "taxons": [
+    {
+      "title": "Children and young people leaving care",
+      "base_path": "/childcare-parenting/children-and-young-people-leaving-care"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

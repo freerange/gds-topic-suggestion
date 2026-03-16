@@ -1,0 +1,15 @@
+{
+  "title": "Reform of the tax treatment of carried interest",
+  "body": "\"This measure introduces a revised tax regime for carried interest which sits wholly within the Income Tax framework. This measure was announced at Autumn Budget 2024 and a policy update was published on 5 June 2025. The revised regime will take effect from 6 April 2026.   \"",
+  "base_path": "/government/publications/reform-of-the-tax-treatment-of-carried-interest",
+  "taxons": [
+    {
+      "title": "Paying HMRC",
+      "base_path": "/money/personal-tax-capital-gains-tax-paying-hmrc"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

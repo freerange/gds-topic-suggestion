@@ -1,0 +1,11 @@
+{
+  "title": "Monthly Sea Fisheries Statistics February 2025",
+  "body": "\"Highlights   The total quantity of landings by UK vessels (tonnes) decreased in February 2025 compared to 2024, down 7%. The value of landings in February 2025 (£56.7m) decreased compared to 2024 down by 16%. Landings in February 2025 comprised mostly of Pelagic species (68%). This was driven by high landings of Blue Whiting which is usually a highly targeted fishery between February and April each year. Demersal species comprised the majority of the value landed (39%) due to Demersal species typically fetching a much higher price per tonne compared to Pelagic species.  \"",
+  "base_path": "/government/statistics/monthly-sea-fisheries-statistics-february-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

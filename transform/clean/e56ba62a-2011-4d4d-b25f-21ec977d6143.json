@@ -1,0 +1,11 @@
+{
+  "title": "DFTO: FOI and EIR disclosure log",
+  "body": "\"Complete list of full and partial responses to FOI and EIR requests to DFTO.  To request a copy of a specific response, email its reference number to FOI@dftoperator.co.uk.  \"",
+  "base_path": "/government/publications/dfto-foi-and-eir-disclosure-log",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

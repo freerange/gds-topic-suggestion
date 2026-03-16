@@ -1,0 +1,11 @@
+{
+  "title": "Linking police and health data on road collisions: feasibility study",
+  "body": "\"This report summarises the results of a feasibility study which links the police road casualty  (STATS19) data with a subset of ambulance service data provided by the South West Ambulance Service Trust (SWAST),  covering the more serious incidents within the South West of England over a 4 year period.  This small-scale initial study is anticipated to be the first stage of work to link STATS19 and healthcare data, working with the Pre-hospital Research and Audit Network (PRANA) which has necessary approvals to receive healthcare data including hospital admissions and trauma care for the whole of England.  This work was initially published in September 2025, and subsequently updated, in November 2025, to reflect developments in the linkage methodology which have improved the linkage rate.  Feedback on this initial work, or suggestions for future uses of linked police and health data, is welcome to inform future work.  Contact us   Road safety statistics     Email roadacc.stats@dft.gov.uk        \"",
+  "base_path": "/government/statistics/linking-police-and-health-data-on-road-collisions-feasibility-study",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    }
+  ]
+}

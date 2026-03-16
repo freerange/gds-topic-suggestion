@@ -1,0 +1,11 @@
+{
+  "title": "Spending Review 2025",
+  "body": "\"This is the full Spending Review 2025 with supporting and related documents. \"",
+  "base_path": "/government/collections/spending-review-2025",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

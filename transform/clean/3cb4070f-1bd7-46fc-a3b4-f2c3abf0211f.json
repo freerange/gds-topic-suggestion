@@ -1,0 +1,11 @@
+{
+  "title": "DfE: non-consolidated performance related pay",
+  "body": "\"DfE publishes details of non-consolidated performance pay yearly.  Non-consolidated performance related payments are one-off, non-pensionable awards made to staff for their performance each year.  Performance years in the Civil Service usually run from 1 April to 31 March.  \"",
+  "base_path": "/government/collections/dfe-non-consolidated-performance-related-pay",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

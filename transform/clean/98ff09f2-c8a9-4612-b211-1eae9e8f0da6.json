@@ -1,0 +1,19 @@
+{
+  "title": "Key stage 2 tests: 2025 scaled scores",
+  "body": "\"You can use these tables to convert raw scores to scaled scores for the 2025 KS2 national curriculum tests.  A scaled score between 100 and 120 shows the pupil has met the expected standard in the test. The lowest scaled score that can be awarded on a KS2 test is 80. The highest score is 120.  Pupils need to have a raw score of at least 3 marks to be awarded the minimum scaled score.  For further information, please also refer to our guidance on understanding scaled scores at KS2.  \"",
+  "base_path": "/government/publications/key-stage-2-tests-2025-scaled-scores",
+  "taxons": [
+    {
+      "title": "English (key stage 2)",
+      "base_path": "/education/primary-curriculum-key-stage-2-english"
+    },
+    {
+      "title": "Maths (key stage 2)",
+      "base_path": "/education/primary-curriculum-key-stage-2-maths"
+    },
+    {
+      "title": "Tests and assessments (key stage 2)",
+      "base_path": "/education/primary-curriculum-key-stage-2-tests-and-assessments"
+    }
+  ]
+}

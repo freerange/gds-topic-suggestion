@@ -1,0 +1,11 @@
+{
+  "title": "Bradford Pennine Gateway National Nature Reserve",
+  "body": "\"Bradford Pennine Gateway NNR is part of the King’s Series of National Nature Reserves which marks the coronation of His Majesty King Charles III.  The reserve will be held and managed by City of Bradford Metropolitan District Council \"",
+  "base_path": "/government/publications/bradford-pennine-gateway-national-nature-reserve",
+  "taxons": [
+    {
+      "title": "Parks, trails and nature reserves",
+      "base_path": "/environment/parks-trails-nature-reserves"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Subnational estimates of dwellings and households by tenure, England: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/subnational-estimates-of-dwellings-and-households-by-tenure-england-2023",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    }
+  ]
+}

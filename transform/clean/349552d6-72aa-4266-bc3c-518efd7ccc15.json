@@ -1,0 +1,11 @@
+{
+  "title": "Outbreaks under monitoring",
+  "body": "\" \"",
+  "base_path": "/government/collections/outbreaks-under-monitoring",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

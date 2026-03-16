@@ -1,0 +1,19 @@
+{
+  "title": "Replacing animals in science strategy",
+  "body": "\"This strategy explains how we will use the UK’s world-class life sciences sector to develop a research and innovation system that uses alternative methods instead of animals. It explains the steps we will take over the next 5 years to achieve this vision.  The strategy has 6 objectives:   accelerate the replacement of animals in science to phase out their use achieve equal or better research and testing outcomes using alternative methods drive private investment in alternative methods to boost innovation and growth improve regulatory confidence and acceptance of alternative methods create infrastructure and partnerships to unlock value from UK data position the UK as a global leader in alternative methods  \"",
+  "base_path": "/government/publications/replacing-animals-in-science-strategy",
+  "taxons": [
+    {
+      "title": "Animal research and testing",
+      "base_path": "/business-and-industry/animal-research-and-testing"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

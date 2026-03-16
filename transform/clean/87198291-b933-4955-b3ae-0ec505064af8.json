@@ -1,0 +1,11 @@
+{
+  "title": "Manchester Arena Inquiry recommendations",
+  "body": "\"Recommendations made by the Manchester Arena Inquiry in its reports. \"",
+  "base_path": "/government/publications/manchester-arena-inquiry-recommendations",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

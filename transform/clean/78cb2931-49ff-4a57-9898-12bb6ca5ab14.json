@@ -1,0 +1,23 @@
+{
+  "title": "Democratic Republic of Congo: English Speaking Medical Facilities",
+  "body": "\"The Foreign, Commonwealth & Development Office (FCDO) does not accept any liability to any person or company for any financial loss or damage arising from the use of this information or from any failure to give information.This list is not exhaustive, and is subject to change at any time. None of the service providers are endorsed or recommended by the FCDO. You should research whether a service provider will be suitable. \"",
+  "base_path": "/government/publications/medical-practitioners",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Living in the Democratic Republic of Congo",
+      "base_path": "/world/living-in-the-democratic-republic-of-the-congo"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Unrefined liquid dextrose ultrafiltration retentate (ULDUR): double reward classification",
+  "body": "\"Seeks views and evidence on whether unrefined liquid dextrose ultrafiltration retentate (ULDUR) remains collectively classified as meeting the criteria for double reward classification in the RTFO.  The outcome of this call for evidence will affect:   obligated fossil fuel suppliers eligible low carbon fuel suppliers verification bodies acting on the behalf of suppliers trade associations and other interested parties   \"",
+  "base_path": "/government/calls-for-evidence/unrefined-liquid-dextrose-ultrafiltration-retentate-uldur-double-reward-classification",
+  "taxons": [
+    {
+      "title": "Low carbon fuels",
+      "base_path": "/transport/low-carbon-fuels"
+    },
+    {
+      "title": "Road transport emissions",
+      "base_path": "/transport/road-transport-emissions"
+    }
+  ]
+}

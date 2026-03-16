@@ -1,0 +1,11 @@
+{
+  "title": "Support for housebuilding in London",
+  "body": "\"This policy statement sets out a new package of support for housebuilding in London. It has been developed by government and the Mayor of London.  These measures sit alongside the government’s wider reforms to the planning system and funding for affordable homes. \"",
+  "base_path": "/government/publications/support-for-housebuilding-in-london",
+  "taxons": [
+    {
+      "title": "House building",
+      "base_path": "/housing-local-and-community/house-building"
+    }
+  ]
+}

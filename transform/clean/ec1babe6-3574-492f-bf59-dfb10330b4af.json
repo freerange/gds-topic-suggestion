@@ -1,0 +1,15 @@
+{
+  "title": "Automated vehicles and sanctions systems",
+  "body": "\"This report presents findings from research conducted by Ipsos to better understand how sanctions could be used to encourage compliance with safety standards in the automated vehicle (AV) sector.  The report explores insights gathered from regulators in different sectors through a review of existing literature on sanctions regimes and interviews with:   regulators academics  AV businesses motoring trade groups   The findings from this research will be used by the Centre for Connected and Autonomous Vehicles to inform its implementation of the Automated Vehicles Act 2024.  \"",
+  "base_path": "/government/publications/automated-vehicles-and-sanctions-systems",
+  "taxons": [
+    {
+      "title": "Self-driving vehicles",
+      "base_path": "/transport/self-driving-vehicles"
+    },
+    {
+      "title": "Vehicle manufacturing and modification",
+      "base_path": "/transport/vehicle-manufacturing-and-modification"
+    }
+  ]
+}

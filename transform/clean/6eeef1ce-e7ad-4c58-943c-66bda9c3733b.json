@@ -1,0 +1,11 @@
+{
+  "title": "Separated families statistics: April 2014 to March 2024",
+  "body": "\"These statistics provide estimates of the following:    the number of separated families in Great Britain and the number of children in those families   the proportion of separated families with a child maintenance arrangement and whether this arrangement is statutory or non-statutory   the total amount of child maintenance received by parents with care, by arrangement type   the net impact of child maintenance payments on the number of children in low-income households   characteristics of separated parents and the impacts of child maintenance payments on where their households are represented in the income distribution    This release includes the following additional estimates of the characteristics of parents with care and non-resident parents, by child maintenance arrangement type:    gender   age   reported disability status   ethnic group   marital status    This release also contains revisions to data for the 2022 to 2023 financial year. The following tables are affected:    Table 2: The proportion of separated families with a child maintenance arrangement   Tables 6-9: The position of separated parent households in the Great Britain income distribution   Table 10: The percentage of children in parent with care households who remain in low income after child maintenance payments    These changes result from two factors:  1. Use of a new question response in the survey to help inform which parents have non-statutory arrangements  2. A revision to income data for 2022 to 2023 due to the exclusion of one element of the low- income benefits and tax credits Cost of Living Payment \"",
+  "base_path": "/government/statistics/separated-families-statistics-april-2014-to-march-2024",
+  "taxons": [
+    {
+      "title": "Child maintenance",
+      "base_path": "/childcare-parenting/child-maintenance"
+    }
+  ]
+}

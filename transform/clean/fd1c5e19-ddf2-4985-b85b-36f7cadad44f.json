@@ -1,0 +1,15 @@
+{
+  "title": "Boiler Upgrade Scheme statistics: August 2025",
+  "body": "\" User engagement on proposed changes to average installation costs  DESNZ is reviewing the information it publishes on average installation costs in the Boiler Upgrade Scheme (BUS) monthly statistics. We are considering ways to improve how this information is presented and are proposing the following changes:   Removal of Table 1.3 Extension of Table Q1.1 to include lower and upper quartiles, for both installation cost and capacity New versions of Table Q1.1 and Table A1.3 that adjust for inflation (real-terms cost)   These changes will be reflected in the next release on Thursday 30 October 2025. Please contact amelia.ash@energysecurity.gov.uk if you have any feedback on this proposal.   These statistics show the uptake of the Boiler Upgrade Scheme to date including the number of vouchers applications and redemptions, as well as the costs of installation.  Enquiries about these statistics should be directed to: amelia.ash@energysecurity.gov.uk. \"",
+  "base_path": "/government/statistics/boiler-upgrade-scheme-statistics-august-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    },
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

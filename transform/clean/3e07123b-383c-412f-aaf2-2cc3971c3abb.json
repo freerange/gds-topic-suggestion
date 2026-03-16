@@ -1,0 +1,15 @@
+{
+  "title": "Government Actuary's Department public webinars list",
+  "body": "\"This list relates to the following page: GAD Webinars.  Our webinars cover a range of topics, including:   pensions - cost cap un-pause risk management climate challenges making sense of COVID-19 series mortality impact on pension schemes impacts on the insurance industry   \"",
+  "base_path": "/government/publications/government-actuarys-department-public-webinars-list",
+  "taxons": [
+    {
+      "title": "Public service pensions",
+      "base_path": "/employment/public-service-pensions"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "PAYE internet submissions, expenses and benefits — schema 2025 to 2026",
+  "body": "\"Schema and supporting documents for PAYE software developers for 2025 to 2026.  Test service support from October 2025. Live service from April 2026. \"",
+  "base_path": "/government/publications/paye-internet-submissions-expenses-and-benefits-schema-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Software development for HMRC",
+      "base_path": "/money/dealing-with-hmrc-software-development"
+    }
+  ]
+}

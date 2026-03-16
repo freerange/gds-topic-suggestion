@@ -1,0 +1,27 @@
+{
+  "title": "The North Sea Marine Protected Areas Fishing Gear Byelaw 2024",
+  "body": "\"This draft byelaw covers ICES areas 4a and 4b and includes measures for the following MPAs:    Farnes East – prohibition of bottom towed gear across the whole of the MPA.    Foreland – prohibition of bottom towed gear across the whole of the MPA.    Fulmar – prohibition of bottom towed gear across the whole of the MPA.    Goodwin Sands – prohibition of bottom towed gear across the whole of the MMO portion of the MPA, prohibition of traps and bottom-set nets and lines across the Ross worm reefs in the MMO portion of the MPA.    Haisborough, Hammond and Winterton – prohibition of bottom towed gear across the whole of the MMO portion of the MPA, prohibition of traps across the Ross worm reefs in the MMO portion of the MPA.    Holderness Offshore – prohibition of bottom towed gear across the whole of the MPA.    Kentish Knock East – prohibition of bottom towed gear across the whole of the MPA.    Margate and Long Sands – prohibition of bottom towed gear across the whole of the MMO portion of the MPA.    Markham’s Triangle – prohibition of bottom towed gear across the whole of the MPA.    North Norfolk Sandbanks and Saturn Reef – prohibition of bottom towed gear across the whole of the MPA, prohibition of traps over the site’s Ross worm reefs.    Orford Inshore – prohibition of bottom towed gear across the whole of the MPA.    Swallow Sand - prohibition of bottom towed gear across the MPA except in the far north west corner where no designated features are present.    In addition, this draft byelaw also incorporates existing measures for:    Inner Dowsing, Race Bank and North Ridge - existing prohibition of bottom towed fishing gear across the sandbanks and reefs, and of bottom-set nets and lines and traps over reefs.   Dogger Bank – existing prohibition of bottom towed fishing gear across the whole of the MPA remains in place.   \"",
+  "base_path": "/government/publications/the-north-sea-marine-protected-areas-fishing-gear-byelaw-2024",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    },
+    {
+      "title": "Species protection and marine conservation",
+      "base_path": "/environment/species-protection-and-marine-conservation"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Total final energy consumption at regional and local authority level: 2005 to 2023",
+  "body": "\"Estimates of total final energy consumption from 2005 to 2023 at country, region and local authority level. These statistics were created by combining the following datasets:   Sub-national electricity consumption in Great Britain Sub-national electricity consumption in Northern Ireland Sub-national gas consumption in Great Britain Sub-national gas consumption in Northern Ireland Sub-national residual fuel consumption in the UK Sub-national road transport consumption in the UK  \"",
+  "base_path": "/government/statistics/total-final-energy-consumption-at-regional-and-local-authority-level-2005-to-2023",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

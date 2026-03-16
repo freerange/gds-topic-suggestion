@@ -1,0 +1,11 @@
+{
+  "title": "Border Force transparency data: Q4 2024",
+  "body": "\"This document contains data on:   clearance of passengers at the border within published service standards drugs seized volumes drugs seizures convention of international trade of endangered species (CITES) seizures convention of international trade of endangered species (CITES) volume tax revenue that is protected through detecting goods where excise duty has not been declared cost per passenger processed at the border total quantity of firearms, knives and other offensive weapons seizures of firearms, knives and other offensive weapons (units only) number of carriers issued with a notification of demand for payment form  \"",
+  "base_path": "/government/publications/border-force-transparency-data-q4-2024",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

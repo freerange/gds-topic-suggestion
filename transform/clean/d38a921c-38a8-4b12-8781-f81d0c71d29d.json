@@ -1,0 +1,15 @@
+{
+  "title": "Find customs authorisations for importing and exporting goods",
+  "body": "\"This collection brings together the relevant guides and information about customs authorisations that support you and your business with importing and exporting goods. You can find more technical information in the customs authorisations technical handbook.  \"",
+  "base_path": "/government/collections/find-customs-authorisations-for-importing-and-exporting-goods",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

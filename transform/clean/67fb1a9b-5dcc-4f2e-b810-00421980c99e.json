@@ -1,0 +1,11 @@
+{
+  "title": "MOT special notice 02-25: testing vehicles affected by the Citroën C3 or DS3 stop drive recall",
+  "body": "\"This special notice tells you what to do if you are asked to test a vehicle affected by the Citroën C3 or DS3 stop drive recall. \"",
+  "base_path": "/government/publications/mot-special-notice-02-25-testing-vehicles-affected-by-the-citroen-c3-or-ds3-stop-drive-recall",
+  "taxons": [
+    {
+      "title": "Car, motorcycle and van MOT tests",
+      "base_path": "/transport/car-motorcycle-and-van-mot-tests"
+    }
+  ]
+}

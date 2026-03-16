@@ -1,0 +1,11 @@
+{
+  "title": "Patent application submitted by individual inventors",
+  "body": "\"The graphs showing trends of patent applications submitted by individual inventors and explanation.  This information has been released by the Intellectual Property Office (IPO) under the Freedom of Information Act 2000.  \"",
+  "base_path": "/government/publications/patent-application-submitted-by-individual-inventors",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

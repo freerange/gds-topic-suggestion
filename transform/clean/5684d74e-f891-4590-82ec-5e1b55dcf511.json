@@ -1,0 +1,19 @@
+{
+  "title": "HMRC Directions under regulations 3 and 10 of the Income and Corporation Taxes (Electronic Communications) Regulations 2003 (S.I. 2003/282)",
+  "body": "\"These directions apply in relation to the delivery of:   a claim notification under section 1142A of the Corporation Tax Act 2009 (a ‘claim notification’) additional information under paragraph 83EA of Schedule 18 to the Finance Act 1998 (‘additional information’) a notification under section 1112J(4)(b) of the Corporation Tax Act 2009 (a ‘Chapter 2 relief notification’) an amendment to a company tax return containing an R&D claim within the meaning of section 1142B of the Corporation Tax Act 2009 before or after that amendment (an ‘R&D amendment’)   \"",
+  "base_path": "/government/publications/hmrc-directions-under-regulations-3-and-10-of-the-income-and-corporation-taxes-electronic-communications-regulations-2003-si-2003282",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Planning Inspectorate Annual Report and Accounts 2024/25",
+  "body": "\"The Planning Inspectorate Annual Report and Accounts 2024 to 2025.  Presented to the House of Commons pursuant to Section 7 of the  Government Resources and Accounts Act 2000.  Ordered by the House of Commons to be printed on 26 June 2025. \"",
+  "base_path": "/government/publications/planning-inspectorate-annual-report-and-accounts-202425",
+  "taxons": [
+    {
+      "title": "Environmental planning",
+      "base_path": "/housing-local-and-community/environmental-planning"
+    },
+    {
+      "title": "Local Plans",
+      "base_path": "/housing-local-and-community/local-plans"
+    },
+    {
+      "title": "Planning permission and appeals",
+      "base_path": "/housing-local-and-community/planning-permission-appeals"
+    },
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    }
+  ]
+}

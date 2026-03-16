@@ -1,0 +1,39 @@
+{
+  "title": "DVA Monthly Tests Conducted Statistics: April 2025",
+  "body": "\"The statistics reported within this publication include provisional headline volumes of vehicle, driver, and theory tests conducted during April 2025. Statistics on the volumes of test applications are also included. Trend series from April 2014 onwards are provided for comparison. \"",
+  "base_path": "/government/statistics/dva-monthly-tests-conducted-statistics-april-2025",
+  "taxons": [
+    {
+      "title": "Car driving tests",
+      "base_path": "/transport/car-driving-tests"
+    },
+    {
+      "title": "Lorry, bus, coach and specialist vehicle driving tests",
+      "base_path": "/transport/lorry-bus-coach-and-specialist-vehicle-driving-tests"
+    },
+    {
+      "title": "Motorcycle and moped tests",
+      "base_path": "/transport/motorcycle-and-moped-tests"
+    },
+    {
+      "title": "Theory tests",
+      "base_path": "/transport/theory-tests"
+    },
+    {
+      "title": "Car, motorcycle and van MOT tests",
+      "base_path": "/transport/car-motorcycle-and-van-mot-tests"
+    },
+    {
+      "title": "HGV, bus and trailer MOT tests",
+      "base_path": "/transport/hgv-bus-and-trailer-mot-tests"
+    },
+    {
+      "title": "PSV standards and checks",
+      "base_path": "/transport/psv-standards-and-checks"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

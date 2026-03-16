@@ -1,0 +1,11 @@
+{
+  "title": "Public Sector Decarbonisation Scheme: delivery data",
+  "body": "\"The Public Sector Decarbonisation Scheme (PSDS) has been in operation since September 2020 and provides eligible public sector organisations with grant funding to install low carbon heating and energy efficiency measures within their buildings. The scheme is delivered on behalf of the department by Salix Finance Ltd.  The information contained in this report is reflective of the data provided to the Department via Salix Finance and, in turn, PSDS grant recipients.  The data contained in this release spans Phase 1, Phase 2, Phase 3a, Phase 3b and Phase 3c of the scheme. Phase 3c of the scheme is currently in its final year of delivery. Data on later phases, including Phase 4, will be released on an annual basis.  The information contained in this data release includes:   summary of applications, by phase applications to the PSDS scheme by phase and value band grants awarded by phase and sector grants awarded per region total grant awarded, by value band technology installations funded by PSDS, by phase and type low carbon heating installations funded by PSDS, by phase and type   This data was accumulated at the closure of each Phase of the scheme, and therefore due to potential changes in the scope and delivery of certain projects, exact numbers might not align to those originally published at the outset of each Phase of the scheme.  The data used for this release was captured in February 2025. The nature of the scheme means that projects that are ongoing may take multiple years to implement. Therefore, figures in this publication are provisional and subject to revision as projects continue to deliver/finalise the delivery of their decarbonisation projects.  The data that DESNZ receives from Salix Finance Ltd is mostly self-reported from applicants and therefore is reliant on accuracy of data entry from third party organisations.  \"",
+  "base_path": "/government/publications/public-sector-decarbonisation-scheme-delivery-data",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Victims and Courts Bill",
+  "body": "\"Victims will be better protected than ever following the introduction of the Victims and Courts Bill. The Bill, delivered as part of the government’s Plan for Change, will help victims get the justice they deserve. For the first time ever, judges will be able to hand down prison punishments for cowardly criminals who refuse to attend their sentencing hearing. The powers of the Victims’ Commissioner will also be strengthened, empowering them to play a greater role in individual cases and requiring them to produce an independent report on compliance with the Victims’ Code.  The Bill will:   create an express statutory power for judges to order offenders to attend their sentencing hearings so that these criminals have to face the consequences of their actions restrict parental responsibility for child sex offenders sentenced for four years or more for an offence against a child for whom they hold parental responsibility provide victims with certainty about the routes available to receive information about an offender while they are serving their sentence strengthen the powers of the Victims’ Commissioner increase flexibility for the Director of Public Prosecutions in appointing Crown Prosecutors set rates at which prosecutor costs in private prosecutions can be recovered from Central Funds amend the time limit for the Attorney General to refer a sentence to the Court of Appeal on the grounds that it is unduly lenient amend Magistrates Court Sentencing Powers for 6 either-way offences  \"",
+  "base_path": "/government/publications/victims-and-courts-bill",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Domestic abuse",
+      "base_path": "/crime-justice-and-law/domestic-abuse"
+    },
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    },
+    {
+      "title": "Victims of crime",
+      "base_path": "/crime-justice-and-law/victims-of-crime"
+    },
+    {
+      "title": "Violence against women and girls",
+      "base_path": "/crime-justice-and-law/violence-against-women-and-girls"
+    }
+  ]
+}

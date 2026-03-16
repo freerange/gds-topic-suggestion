@@ -1,0 +1,11 @@
+{
+  "title": "Firearm and shotgun certificates, April 2024 to March 2025",
+  "body": "\"Statistics on firearm and shotgun certificates cover certificates on issue as at 31 March 2025, as well as historical trend data and police force comparisons. The release also provides information on certificates granted or refused for new and renewal applications, certificates revoked, and lost and stolen firearm and shotguns for the year ending 31 March 2025. It includes figures on the number of people who hold a firearm certificate, a shotgun certificate or both, broken down by age and gender, the types of weapons included on certificates, registered firearm dealers, visitors’ permits and statistics on temporary firearm and shotgun certificates.  The User guide to statistics on firearm and shotgun certificates contains further information on firearm and shotgun certificates.  If you have any queries about this release, please email PolicingStatistics@homeoffice.gov.uk.  To support the future development of these statistics and expand our user reach, we encourage users to complete our user engagement survey. \"",
+  "base_path": "/government/statistics/firearm-and-shotgun-certificates-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

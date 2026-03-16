@@ -1,0 +1,11 @@
+{
+  "title": "Crown Immunity: repeal of obsolete legislation",
+  "body": "\"This measure repeals section 25 Finance Act 1925, which made the trading income of overseas Dominion Governments subject to tax, as it is obsolete. \"",
+  "base_path": "/government/publications/crown-immunity-repeal-of-obsolete-legislation",
+  "taxons": [
+    {
+      "title": "International tax",
+      "base_path": "/money/international-tax"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "General Dental Services Statistics for NI, Quarter 1 2025/26",
+  "body": "\"This report presents activity and payment statistics related to Northern Ireland General Dental Services for quarter 1 of 2025/26. \"",
+  "base_path": "/government/statistics/general-dental-services-statistics-for-ni-quarter-1-202526",
+  "taxons": [
+    {
+      "title": "Dentistry ",
+      "base_path": "/health-and-social-care/dentistry"
+    }
+  ]
+}

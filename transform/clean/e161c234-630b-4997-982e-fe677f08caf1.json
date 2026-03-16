@@ -1,0 +1,11 @@
+{
+  "title": "Quarterly Service Personnel Statistics: 2025",
+  "body": "\"This is a quarterly publication containing UK service personnel statistics on strengths, requirements, intake, applications and outflow. It replaces previous Ministry of Defence tri-service publications including the monthly and quarterly personnel reports. \"",
+  "base_path": "/government/statistics/quarterly-service-personnel-statistics-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    }
+  ]
+}

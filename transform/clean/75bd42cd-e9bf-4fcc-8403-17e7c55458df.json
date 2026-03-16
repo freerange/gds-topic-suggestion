@@ -1,0 +1,11 @@
+{
+  "title": "Financial transactions: Mining Remediation Authority",
+  "body": "\"A monthly updated list of all financial transactions made by the Mining Remediation Authority, as part of the government’s commitment to transparency in expenditure. \"",
+  "base_path": "/government/collections/financial-transactions-mining-remediation-authority",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Motoring offences statistics in Northern Ireland to 30 November 2024",
+  "body": "\"This publication can be accessed here \"",
+  "base_path": "/government/statistics/motoring-offences-statistics-in-northern-ireland-to-30-november-2024",
+  "taxons": [
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    },
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

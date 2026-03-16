@@ -1,0 +1,11 @@
+{
+  "title": "Methodology used to calculate ratings for local road maintenance",
+  "body": "\"Local highways authorities are responsible for maintaining local roads in England. They are required to publish information about how they are doing this.  The Department for Transport analyses this information and:   rates how well each authority is maintaining its roads - red, amber or green publishes a table showing how each authority is performing   The guidance on this page gives a detailed technical explanation of how the department calculates the metrics to work out the performance ratings.  The workbook contains scores against the metrics used to calculate highways maintenance ratings for each local highway authority. It also contains wider data used to produce the ratings.  See separate GOV.UK page for the local road maintenance ratings. \"",
+  "base_path": "/government/publications/methodology-used-to-calculate-ratings-for-local-road-maintenance",
+  "taxons": [
+    {
+      "title": "Road maintenance",
+      "base_path": "/transport/road-maintenance"
+    }
+  ]
+}

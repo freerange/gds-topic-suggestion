@@ -1,0 +1,11 @@
+{
+  "title": "UKHSA FluSurvey surveillance system",
+  "body": "\"The FluSurvey is a voluntary programme assisting  the UK Health Security Agency (UKHSA) to monitor influenza and COVID-19 activity in the UK.  \"",
+  "base_path": "/government/publications/ukhsa-flusurvey-surveillance-system",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    }
+  ]
+}

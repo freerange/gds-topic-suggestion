@@ -1,0 +1,31 @@
+{
+  "title": "Government extends free NHS services for care leavers",
+  "body": "\" Tens of thousands of care leavers set to receive free prescriptions, dental and eyecare services up to age 25 Government changes come alongside improved safeguarding and a pilot to improve mental health support for children in care and families NHS guaranteed interview scheme and paid internships to break down barriers to opportunity are all part of government’s work to give children the Best Start in Life to boost children’s life chances   A new package of measures brought in by government today (23 December 2025) for young people leaving care will provide free prescriptions, dental and eyecare services up to their 25th birthday, and enhanced job opportunities in the NHS.  Children in care will receive better protection under new safeguards with GPs given a clearer picture of those in care, so they have the right information at the right time to stop young people falling through the cracks.  Young people in care already face the toughest start in life and often get a lack of support at 18 - leaving them isolated, separated from their families or siblings, and struggling to get going as young adults. The government is taking action to tackle these inequalities and the barriers of opportunity they encounter.  Those who have been in care are at a higher risk of mental health issues such as depression, anxiety and PTSD, and have a higher chance of experiencing homelessness and unemployment. Many face barriers in accessing mental and physical health services, with more than one quarter of those leaving care not told how to get help with their physical health, including registering with a GP or dentist.  Supporting them with free prescriptions, dental and eyecare services will improve access to healthcare services. A new pilot to trial paid internships for care leavers in the NHS and a guaranteed interview scheme for NHS roles will break down barriers of opportunity and help more young people leaving care into work.  In a boost for mental health support, the government will also trial a 3-year pilot to make sure children in care have access to the support they need sooner. This will build on existing work across the country, bringing together social workers and NHS health professionals to work together to provide direct mental health support to children and families when they need it most.  Health and Social Care Secretary Wes Streeting said:   Those in care face the toughest start in life and as a result suffer from a barrage of health inequalities, hampering their chances of going on to lead a happy, successful and fulfilling life.   I’m proud that this government and the work Josh MacAlister did in my department will help break down those barriers to stop care leavers being held back.  I am determined to give all children the best start in life, and this boost to healthcare and career opportunities for care leavers is a concrete step towards that goal.   To make sure vulnerable children and young people in care are kept safe, the government is also bringing in new safeguarding measures...",
+  "base_path": "/government/news/government-extends-free-nhs-services-for-care-leavers",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Dentistry ",
+      "base_path": "/health-and-social-care/dentistry"
+    },
+    {
+      "title": "Young people",
+      "base_path": "/society-and-culture/young-people"
+    },
+    {
+      "title": "Mental health of children and young people",
+      "base_path": "/childcare-parenting/mental-health-of-children-and-young-people"
+    },
+    {
+      "title": "Children and young people leaving care",
+      "base_path": "/childcare-parenting/children-and-young-people-leaving-care"
+    },
+    {
+      "title": "Youth employment and social issues",
+      "base_path": "/childcare-parenting/youth-employment-and-social-issues"
+    }
+  ]
+}

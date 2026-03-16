@@ -1,0 +1,23 @@
+{
+  "title": "Where to send applications to register or de-register",
+  "body": "\"Applications to register or to de-register should be emailed to RNTeam@rsh.gov.uk.  Either application can be posted to:  Referrals and Regulatory Enquiries team Regulator of Social Housing Level 2 7-8 Wellington Place Leeds LS1 4AP \"",
+  "base_path": "/guidance/where-to-send-applications-to-register-or-de-register",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

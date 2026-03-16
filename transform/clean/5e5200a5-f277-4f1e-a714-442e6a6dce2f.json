@@ -1,0 +1,11 @@
+{
+  "title": "Economic Crime Levy: changes to bands and charges",
+  "body": "\"This measure increases the amount charged under the Economic Crime (Anti-Money Laundering) Levy from financial year beginning April 2026 onwards. It affects entities that are both regulated for anti-money laundering purposes and have UK revenue over £10.2 million each year.  This measure splits the previous large band into two new bands:   Band B for entities with UK revenue between £36 million and £500 million, with Economic Crime Levy payable of £36,000 Band C for entities with UK revenue between £500 million and £1 billion, with Economic Crime Levy payable of £500,000   It also renames the remaining bands as A and D and increases the Economic Crime Levy payable by band A to £10,200, and Band D to £1 million. \"",
+  "base_path": "/government/publications/economic-crime-levy-changes-to-bands-and-charges",
+  "taxons": [
+    {
+      "title": "Money laundering regulations",
+      "base_path": "/money/money-laundering-regulations"
+    }
+  ]
+}

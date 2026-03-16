@@ -1,0 +1,11 @@
+{
+  "title": "Fire and rescue incident statistics, year ending September 2024",
+  "body": "\"Statistics on fires, casualties, false alarms and non-fire incidents attended by fire and rescue services in England. \"",
+  "base_path": "/government/statistics/fire-and-rescue-incident-statistics-year-ending-september-2024",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

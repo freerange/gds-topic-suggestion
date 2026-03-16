@@ -1,0 +1,11 @@
+{
+  "title": "UK Standard Skills Classification: interim development report",
+  "body": "\"The UK Standard Skills Classification (SSC) was first proposed in 2023 as a coherent framework and common language for describing the skills, tasks, and knowledge required across UK occupations. The project has 2 main phases.  Phase One resulted in a report, ‘A skills classification for the UK - GOV.UK’, which outlined how the SSC would be developed.  This new report provides a progress update from Phase Two of the project which explains how the SSC is being developed, including recommendations for how future developments and updates will be made.  It sets out the SSC’s structure, methodological approach, and potential applications, as well as plans for ongoing maintenance and future development.  For more information on the UK SSC, visit UK Standard Skills Classification.  \"",
+  "base_path": "/government/publications/uk-standard-skills-classification-interim-development-report",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    }
+  ]
+}

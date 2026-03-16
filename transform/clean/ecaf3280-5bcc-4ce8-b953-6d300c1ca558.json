@@ -1,0 +1,11 @@
+{
+  "title": "HMRC revises interest rates for late payments",
+  "body": "\"The Bank of England Monetary Policy Committee announced on 18 December 2025 to reduce the Bank of England base rate to 3.75% from 4.00%.  HMRC interest rates are linked to the Bank of England base rate.  As a consequence of the change in the base rate, HMRC interest rates for late payment and repayment will reduce.  These changes will come into effect on:   29 December 2025 for quarterly instalment payments 9 January 2026 for non-quarterly instalments payments    Information on the interest rates for payments will be updated shortly.   How HMRC interest rates are set  HMRC interest rates are set in legislation and are linked to the Bank of England base rate.  Late payment interest is currently set at base rate plus 4%. Repayment interest is set at base rate minus 1%, with a lower limit — or ‘minimum floor’ — of 0.5%.  The differential between late payment interest and repayment interest is in line with the policy of other tax authorities worldwide and compares favourably with commercial practice for interest charged on loans or overdrafts and interest paid on deposits.  The rate of late payment interest encourages prompt payment and ensures fairness for those who pay their tax on time, while the rate of repayment interest fairly compensates taxpayers for loss of use of their money when they overpay. \"",
+  "base_path": "/government/news/hmrc-revises-interest-rates-for-late-payments",
+  "taxons": [
+    {
+      "title": "Dealing with HMRC",
+      "base_path": "/money/dealing-with-hmrc"
+    }
+  ]
+}

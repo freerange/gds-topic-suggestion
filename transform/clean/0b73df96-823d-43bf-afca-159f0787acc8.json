@@ -1,0 +1,11 @@
+{
+  "title": "RFI 7245 Farming Recovery Fund (FRF)",
+  "body": "\"Request made under the Environmental Information Regulations 2004 (EIR) for a detailed map showing all the areas qualifying for the Farming Recovery Fund (FRF) payment. \"",
+  "base_path": "/government/publications/rfi-7245-farming-recovery-fund-frf",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

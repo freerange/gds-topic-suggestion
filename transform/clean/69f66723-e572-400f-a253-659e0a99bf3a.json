@@ -1,0 +1,19 @@
+{
+  "title": "Building a faster, more effective clinical trials system",
+  "body": "\"As I celebrate my first International Clinical Trials Day at the MHRA, I’ve been reflecting on the incredible work underway here to make it faster and easier to run clinical trials in the UK – for the benefit of patients, the NHS, and the wider research community.  Clinical trials don’t just help us determine whether a medicine is safe and effective, they lead to better care outcomes for participants overall – something I have witnessed in my own family first hand. They also bring with them significant investment in the economy.  The UK is already a research powerhouse driven by innovation. Last year, we assessed over 5000 trial applications. And, in our first ever analysis of the UK clinical trials landscape with the University of Liverpool, we found that one in eight UK trials were testing treatments in humans for the first time.  But we want to go further in cementing the UK as one of the best places in the world to conduct trials, for both patients and researchers.  Last month, we began implementing the most significant update to UK clinical trials regulation in over two decades. These reforms will address the research sector’s need for a more efficient, streamlined and adaptable regulatory framework for clinical trials. And, of course, they will help get cutting-edge new treatments to patients and the NHS as quickly as possible.   The changes, which come fully into force from April 2026, are part of a wider drive to support innovation and growth in the life sciences sector. And we’re already seeing the benefits. Following a period of backlog in processing clinical trial applications, the MHRA has been reviewing all applications within statutory timeframes since 2023.  Our Combined Review service with the Health Research Authority – bringing together ethics and regulatory assessments – now delivers clinical trials decisions in an average of 40 days. That’s 20 days faster than the 60-day timeframe, helping research get underway more quickly.  We’ve also seen some exciting developments in the use of Artificial Intelligence, which could speed up vital parts of our clinical trial application review from 3 hours to just 35 seconds.  The time this saves allows our clinical trials team to support new initiatives, such as life sciences innovation and upstream advice.    Of course, it’s not just about getting trials set up quickly. It’s important that trials in the UK are innovative and inclusive too.  To support this, we’ve recently launched a pilot Inclusion and Diversity Plan with the Health Research Authority (HRA). Shaped by input from over 300 researchers, it offers practical guidance to help sponsors design more representative studies, so that we can be sure that trials represent the populations they are designed to treat.  Just today, we’ve launched a consultation on new guidance for using real-world data in trials, specifically through external control arms. This type of anonymised data, collected during routine care, can help address some of the challenges faced in rare disease or cancer research – where large, randomised studies aren’t...",
+  "base_path": "/government/news/building-a-faster-more-effective-clinical-trials-system",
+  "taxons": [
+    {
+      "title": "Clinical trials and investigations",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

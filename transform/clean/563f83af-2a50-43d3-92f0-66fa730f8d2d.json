@@ -1,0 +1,11 @@
+{
+  "title": "Migrant journey: 2024 report",
+  "body": "\"This publication provides evidence on the behaviour of migrants entering the UK immigration system for the main routes of entry to the UK and the common pathways through the immigration system that result in settlement.  Accessible file formats  The Microsoft Excel .xlsx files may not be suitable for users of assistive technology. If you use assistive technology (such as a screen reader) and need a version of these documents in a more accessible format, please email MigrationStatsEnquiries@homeoffice.gov.uk Please tell us what format you need. It will help us if you say what assistive technology you use. \"",
+  "base_path": "/government/statistics/migrant-journey-2024-report",
+  "taxons": [
+    {
+      "title": "Visas and entry clearance",
+      "base_path": "/entering-staying-uk/visas-entry-clearance"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Exploration of potential GB-specific modifications to the EUSES model for UK REACH",
+  "body": "\"This project identified modifications that could be made to the European Union System for Evaluation of Substances (EUSES) to make the model more specific to Great Britain (England, Scotland and Wales).  Making the model better reflect GB conditions may yield improved estimates of risk which can be used as a prioritisation tool, allowing regulators to investigate specific issues relating to risk management within GB. \"",
+  "base_path": "/government/publications/exploration-of-potential-gb-specific-modifications-to-the-euses-model-for-uk-reach",
+  "taxons": [
+    {
+      "title": "REACH regulations",
+      "base_path": "/environment/environmental-management-chemicals-reach-regulations"
+    }
+  ]
+}

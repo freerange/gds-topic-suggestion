@@ -1,0 +1,15 @@
+{
+  "title": "Individual insolvencies, January 2025",
+  "body": "\"Main messages for England and Wales    After seasonal adjustment, 9,706 individuals entered insolvency in England and Wales in January 2025. This was 3% lower than in December 2024 and 12% higher than in January 2024.   The individual insolvencies consisted of 592 bankruptcies, 3,847 debt relief orders (DROs) and 5,267 individual voluntary arrangements (IVAs). The number of DROs in January 2025 was 10% higher than in December 2024. DRO numbers have been at record-high monthly levels since the abolition of the upfront £90 fee in April 2024. The number of IVAs registered in January 2025 was 6% lower than the average monthly number seen in 2024. Bankruptcy numbers remained at about half of pre-2020 levels and were also lower than in January 2024.   In the 12 months ending 31 January 2025, one in 413 adults in England and Wales entered insolvency (at a rate of 24.2 per 10,000 adults). This is higher than the rate of 21.5 per 10,000 adults (one in 465) who entered insolvency in the 12 months ending 31 January 2024.   There were 8,240 Breathing Space registrations in January 2025. This is 1% lower than in January 2024.   \"",
+  "base_path": "/government/statistics/individual-insolvencies-january-2025",
+  "taxons": [
+    {
+      "title": "Court claims, debt and bankruptcy",
+      "base_path": "/money/court-claims-debt-bankruptcy"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

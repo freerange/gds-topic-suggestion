@@ -1,0 +1,19 @@
+{
+  "title": "DHSC: senior officials’ business expenses, hospitality and meetings, July to September 2025",
+  "body": "\"The Department of Health and Social Care (DHSC) publishes details of senior officials’ business expenses, hospitality and meetings on a quarterly basis. \"",
+  "base_path": "/government/publications/dhsc-senior-officials-business-expenses-hospitality-and-meetings-july-to-september-2025",
+  "taxons": [
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

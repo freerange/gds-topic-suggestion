@@ -1,0 +1,19 @@
+{
+  "title": "Northern Ireland Poverty and Income Inequality Report 2023/24",
+  "body": "\"The Northern Ireland Poverty and Income Inequality Report presents annual estimates of the proportion of people, children, working-age adults and pensioners in Northern Ireland living in poverty, and other statistics on household income and income inequality. \"",
+  "base_path": "/government/statistics/northern-ireland-poverty-and-income-inequality-report-202324",
+  "taxons": [
+    {
+      "title": "Child poverty",
+      "base_path": "/childcare-parenting/child-poverty"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Poverty and social justice",
+      "base_path": "/society-and-culture/poverty-and-social-justice"
+    }
+  ]
+}

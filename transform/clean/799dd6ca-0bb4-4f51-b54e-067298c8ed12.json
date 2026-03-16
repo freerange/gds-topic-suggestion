@@ -1,0 +1,11 @@
+{
+  "title": "Public health local area statistics",
+  "body": "\"The public health local area statistics collection brings together analytical outputs that are locally tailored to support decision making on issues relating to public health at regional and local level.   Useful references for data, further signposting, events and training include:    Fingertips, a large public health data collection  PHI online, an online collaborative platform for professionals working in public health and care   The Local Knowledge and Intelligence Service (LKIS) in the Office for Health Improvement and Disparities (OHID) has a remit to provide public health intelligence, data and analytical support tailored for regions, local government and NHS integrated care boards (ICBs) to help them understand and address local population health needs. LKIS is a distributed network working with national, regional and local partners to promote and enable data-informed decision making on health.  If you have any queries, contact us at lkis@dhsc.gov.uk.  \"",
+  "base_path": "/government/collections/public-health-local-area-statistics",
+  "taxons": [
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    }
+  ]
+}

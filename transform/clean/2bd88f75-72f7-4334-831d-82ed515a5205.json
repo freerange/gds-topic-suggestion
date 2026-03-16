@@ -1,0 +1,11 @@
+{
+  "title": "Health Inequalities Dashboard: September 2025 data update",
+  "body": "\" The Health Inequalities Dashboard presents data on health inequalities for England, English regions and local authorities. It presents measures of inequality for 21 indicators, mostly drawn from the Public Health Outcomes Framework (PHOF).  Data is available for a number of dimensions of inequality. Most indicators show socioeconomic inequalities, including by level of deprivation, and some indicators show inequalities between ethnic groups. For smoking prevalence, data is presented for a wider range of dimensions, including sexual orientation and religion.  Details of the latest release can be found in ‘Health Inequalities Dashboard: statistical commentary, September 2025’.  \"",
+  "base_path": "/government/statistics/health-inequalities-dashboard-september-2025-data-update",
+  "taxons": [
+    {
+      "title": "Health improvement",
+      "base_path": "/health-and-social-care/health-improvement"
+    }
+  ]
+}

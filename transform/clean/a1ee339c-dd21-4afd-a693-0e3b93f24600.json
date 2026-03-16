@@ -1,0 +1,11 @@
+{
+  "title": "Universal Credit: Welsh language detailed information for claimants",
+  "body": "\"View the English language detailed information for Universal Credit claimants. \"",
+  "base_path": "/guidance/universal-credit-welsh-language-detailed-information-for-claimants",
+  "taxons": [
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    }
+  ]
+}

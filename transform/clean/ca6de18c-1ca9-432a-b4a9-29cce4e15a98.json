@@ -1,0 +1,15 @@
+{
+  "title": "Annual enrolments at schools and in funded preschool education in Northern Ireland, 2024-25",
+  "body": "\"Provisional enrolment data from the 2024/25 annual school census was released in December 2024. The purpose of this statistical release is to present the final enrolment figures, and a more detailed analysis of this information.  The data are taken from the school census exercise, which ran in October 2024. Data collected through the school census exercise are used by the Department of Education (DE) to inform a wide range of policy areas, including finance allocations, school estate development and planning, special education, school improvement, area based planning, extended schools, additional educational needs, early years and integrated and Irish medium education. Other users include the Education Authority, the Education and Training Inspectorate and to inform responses to Assembly questions and requests from academic researchers, journalists, lobby groups and the public. Statistics relating to school numbers and enrolments can be found on the Statistics and Research section of the DE website. Analysis is provided at Northern Ireland and school level.  This is an annual publication. Provisional data relating to the 2025/26 academic year will be released in December 2025, with a 2025/26 update of this publication being released in February/March 2026. \"",
+  "base_path": "/government/statistics/annual-enrolments-at-schools-and-in-funded-preschool-education-in-northern-ireland-2024-25",
+  "taxons": [
+    {
+      "title": "Education of disadvantaged children",
+      "base_path": "/education/education-of-disadvantaged-children"
+    },
+    {
+      "title": "Special educational needs and disability (SEND) and high needs",
+      "base_path": "/education/special-educational-needs-and-disability-send-and-high-needs"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Cyber risks of cloud computing in the ground segment of the space sector",
+  "body": "\"“Ground segments” are the ground-based infrastructure used to control satellite systems in space. In recent years, cloud computing services are increasingly being used in the ground segment of  space technology. This report examines cyber security risks associated with the use of cloud computing in the ground segment of space systems, particularly in the context of Ground Station/Segment as a Service (GSaaS).  The adoption of GSaaS is rapidly expanding due to its cost efficiencies, scalability, and operational flexibility. However, this transition introduces new cyber security challenges that require careful management. Cloud integration expands the attack surface, but its security implications depend on implementation. Proper security measures — including strong authentication, access controls, and workload separation — can mitigate risks, whereas misconfigurations or poor security practices could introduce vulnerabilities.  This report explores these issues. It informs the government’s wider work to ensure good cyber security in new and emerging technologies, and to improve cyber resilience across the UK economy.  Please note this publication presents independent expert insights commissioned by the Department for Science, Innovation and Technology. The views expressed do not represent HM Government policy. The expert insights set out cyber security risks associated with the use of cloud computing in the ground segment of space systems.  \"",
+  "base_path": "/government/publications/cyber-risks-of-cloud-computing-in-the-ground-segment-of-the-space-sector",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

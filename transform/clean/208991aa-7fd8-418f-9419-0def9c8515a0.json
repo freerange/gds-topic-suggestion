@@ -1,0 +1,15 @@
+{
+  "title": "Public health commissioning in the NHS: 2025 to 2026",
+  "body": "\"The NHS public health functions agreement sets out the arrangements under which the Secretary of State for Health and Social Care delegates responsibility to NHS England for certain public health services (known as section 7A services).  The services currently commissioned in this way are:   national immunisation programmes national population screening programmes child health information services (CHIS) public health services for adults and children in secure and detained settings in England sexual assault services (sexual assault referral centres)   \"",
+  "base_path": "/government/publications/public-health-commissioning-in-the-nhs-2025-to-2026",
+  "taxons": [
+    {
+      "title": "NHS efficiency",
+      "base_path": "/health-and-social-care/nhs-efficiency"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "AI Opportunities Action Plan",
+  "body": "\"The AI Opportunities Action Plan, led by Matt Clifford CBE, tech entrepreneur and Chair of the Advanced Research and Invention Agency (ARIA).  This document has 50 recommendations for government to:   grow the UK’s AI sector drive adoption of AI across the economy to boost growth improve products and services   Read the government response to the AI Opportunities Action Plan.  The AI Opportunities Action Plan is a roadmap for government to capture the opportunities of AI to enhance growth and productivity and create tangible benefits for UK citizens. Read the terms of reference here.  \"",
+  "base_path": "/government/publications/ai-opportunities-action-plan",
+  "taxons": [
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

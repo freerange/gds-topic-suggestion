@@ -1,0 +1,11 @@
+{
+  "title": "Energy use on farms in England",
+  "body": "\" This ‘Energy use on farms in England’ publication provides details on the types and quantities of fuel used by farm businesses, as well as the generation and sale of renewable energy by farm businesses, including plans for the future. This publication also contains details on farm carbon audits, including the most commonly used carbon calculators and the actions farms have taken based on their carbon audits.   Data was updated on 31 October 2025 following the correction of a data processing error. This comprises the data presented in Figure 3.5, the associated dataset table 3.4 and corresponding key point for “What were the reasons for first installing solar panels in the farm businesses”, as well as dataset table 3.2 for “Distribution of farms that intend to install renewable energy with or without government funding”. The associated machine readable dataset was also updated.  \"",
+  "base_path": "/government/statistics/energy-use-on-farms-in-england",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

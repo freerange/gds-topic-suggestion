@@ -1,0 +1,11 @@
+{
+  "title": "Licence analysis review",
+  "body": "\"The Animals in Science Committee self-commissioned to analyse project licences to provide advice to the Animals in Science Regulation Unit (ASRU). You will find a collection of its documents here. \"",
+  "base_path": "/government/collections/licence-analysis-review",
+  "taxons": [
+    {
+      "title": "Animal research and testing",
+      "base_path": "/business-and-industry/animal-research-and-testing"
+    }
+  ]
+}

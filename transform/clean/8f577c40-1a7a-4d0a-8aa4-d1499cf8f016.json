@@ -1,0 +1,35 @@
+{
+  "title": "Security breach averted: drones intercepted at NATO summit",
+  "body": "\"The SAPIENT standard played a crucial role in protecting world leaders during a NATO summit in The Hague (between 24 and 25 June 2025).  Numerous unauthorised drones were neutralised by cutting-edge technology compliant with the SAPIENT standard (BSI Flex 335), which the Defence Science and Technology Laboratory (Dstl) has developed. The SAPIENT standard allowed Dutch military forces to successfully intercept the drones.  SAPIENT, which underpins a forthcoming NATO counter-drone messaging standard, ensured seamless coordination between different defence systems, providing critical protection for delegates and the public.  Paul from Dstl said:  “SAPIENT is the result of years of sustained investment and innovation in science and technology research. Autonomous networked sensor and effector systems play a growing role in our defence and security, enabling machine speed sense to effect, which can provide rapid threat detection, autonomous situational awareness and increased lethality.      “The adoption of the SAPIENT standard by our allies maximises the effectiveness and interoperability of international drone operations.”  This deployment marks one of the first publicised uses of SAPIENT in a live operational setting in the Netherlands. It highlights the growing international adoption of British open standards in NATO-aligned security strategies.  The successful protection of the NATO summit demonstrates how UK defence science and technology continues to play a vital role in safeguarding international security, with British innovation directly contributing to the safety of world leaders and major diplomatic events.  Dr Paul Hollinshead, Chief Executive of Dstl, said:  “The successful deployment of our SAPIENT standard at the NATO summit demonstrates exactly what Dstl exists to achieve - delivering cutting-edge science and technology that protects not just the UK, but our allies and partners around the world.      “This operational success shows how our open standards approach enables seamless coordination between different nations’ defence systems, which is absolutely critical as security threats become increasingly complex and cross-border.”   Find out more about SAPIENT and how to use the SAPIENT standard.   \"",
+  "base_path": "/government/case-studies/security-breach-averted-drones-intercepted-at-nato-summit",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "International defence commitments",
+      "base_path": "/defence/international-defence-commitments"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Fuel poverty supplementary tables 2025 (2023 data)",
+  "body": "\"The 2025 fuel poverty supplementary tables (2023 data) provide additional data relating to fuel poverty for various dwelling and household characteristics under the Low Income Low Energy Efficiency (LILEE) indicator.  Contact us  If you have questions about these statistics, please email: fuelpoverty@energysecurity.gov.uk.  \"",
+  "base_path": "/government/statistics/fuel-poverty-supplementary-tables-2025-2023-data",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    }
+  ]
+}

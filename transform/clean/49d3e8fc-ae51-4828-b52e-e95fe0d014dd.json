@@ -1,0 +1,11 @@
+{
+  "title": "Government grants statistics 2023 to 2024",
+  "body": "\"This statistical release presents official statistics on government grants spending for the financial year 2023 to 2024. The scope of this release is covered in the Government grants statistics 2023 to 2024.  The Government Grants Management Function (GGMF) works closely with government departments to understand and resolve data quality issues. We provide a number of notes and caveats that will help inform the interpretation of this data in the Government grants statistics 2023 to 2024 and the Quality and Methodology Information documents above.  We continually seek to improve these annual publications and we encourage you to fill out our feedback form if you use these statistics. \"",
+  "base_path": "/government/statistics/government-grants-statistics-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

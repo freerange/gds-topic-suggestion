@@ -1,0 +1,23 @@
+{
+  "title": "NI Sodium Valproate Monitoring Report, April 2019 to September 2025",
+  "body": "\"This report presents figures for males and females (including those of childbearing age) prescribed and dispensed Sodium Valproate in Northern Ireland. Broken down by age, gender and HSC Trust of residence, this report monitors prescribing of this medicine and helps support decision making for patient safety. An accompanying interactive dashboard has been produced which replaces charts previously contained within the main report. \"",
+  "base_path": "/government/statistics/ni-sodium-valproate-monitoring-report-april-2019-to-september-2025",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Pharmacy",
+      "base_path": "/health-and-social-care/pharmacy"
+    },
+    {
+      "title": "Health protection",
+      "base_path": "/health-and-social-care/health-protection"
+    },
+    {
+      "title": "Sexual and reproductive health",
+      "base_path": "/health-and-social-care/sexual-and-reproductive-health"
+    }
+  ]
+}

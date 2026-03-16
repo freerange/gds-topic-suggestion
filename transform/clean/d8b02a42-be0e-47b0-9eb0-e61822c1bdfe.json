@@ -1,0 +1,11 @@
+{
+  "title": "Workforce management information, 2025",
+  "body": "\"The data is broken down by headcount and number of posts (full-time equivalents). The report includes the number of non-payroll staff, and the pay bill costs relating to staff, broken down into component parts (for example, salaries, allowances, and employer’s pensions contributions).  Data from 2010 onwards is also available.  Notes to accompany the monthly workforce management information  These figures are not official statistics. They are internal workforce management information published in the interests of transparency.  These figures have not been reconciled centrally with any national statistics. Where differences appear between the monthly information and national statistics, clarifying comments will be provided. The Office for National Statistics quarterly public sector employment statistics provide an official headline measure for comparing the overall size of employment in central government organisations with other sectors of the economy at the relevant quarterly reference point.  Some organisations may not have information available for each month, and at this stage coverage may therefore not reach 100% for those organisations in scope.  Given the wide range of organisations covered, caution should be exercised when drawing inferences from the figures and care should be taken when making comparisons between organisations. Users should refer to the additional commentary and notes. \"",
+  "base_path": "/government/publications/workforce-management-information-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

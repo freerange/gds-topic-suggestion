@@ -1,0 +1,23 @@
+{
+  "title": "Her Royal Highness The Duchess of Edinburgh Visits Guatemala",
+  "body": "\"On Saturday, 15 November, The Duchess began her programme at La Alianza Guatemala (ALA), a non-profit organisation dedicated to protecting vulnerable children and adolescents, particularly those affected by human trafficking, sexual violence, forced migration, and teenage pregnancy. Her Royal Highness met girls supported by ALA, toured its facilities, and learned about its human rights-based approach to safeguarding and rehabilitation.  Later, The Duchess visited the Street Kids Direct Project (SKD) in Guatemala City, which provides critical support to children and young people living on the streets or at high risk of homelessness. Through outreach, mentorship, family support, and educational sponsorship, SKD works to transform lives in urban-marginal communities. Her Royal Highness met founder Duncan Dyason MBE and engaged with young people participating in music and art workshops.  At a lunch meeting with Guatemalan women leaders, The Duchess heard firsthand about the progress and challenges surrounding women’s leadership in the country. In the afternoon, Her Royal Highness met President Bernardo Arévalo and Vice President Karin Herrera, reaffirming the UK’s strong bilateral relationship with Guatemala and shared commitment to biodiversity conservation, human development and good governance.  The day concluded with a reception at the National Museum of History, celebrating the enduring friendship between the UK and Guatemala and their joint vision for a more inclusive and sustainable future.  On Sunday, 16 November, The Duchess visited Tikal National Park, a UNESCO World Heritage Site renowned for its archaeological significance and rich biodiversity. Accompanied by an archaeologist, Her Royal Highness toured the ancient Maya city, which spans 16 square kilometres and forms part of the one-million-hectare Maya Biosphere Reserve, established to protect the region’s dense forests.  Her Royal Highness then travelled to Uaxactún, a community recognised for its leadership in sustainable forest management and climate resilience. Uaxactún, a beneficiary of the Biodiverse Landscapes Fund, manages an 83,558-hectare forest concession dedicated to the sustainable extraction of timber and non-timber resources such as xate palm, gum, allspice, and copal. At the archaeological site, The Duchess met community representatives to learn about conservation initiatives and locally produced sustainable goods. \"",
+  "base_path": "/government/news/her-royal-highness-the-duchess-of-edinburgh-visits-guatemala",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Human rights internationally",
+      "base_path": "/international/human-rights-internationally"
+    },
+    {
+      "title": "Climate change impact in developing countries",
+      "base_path": "/international/climate-change-impact-in-developing-countries"
+    },
+    {
+      "title": "Women and girls in developing countries",
+      "base_path": "/international/women-and-girls-in-developing-countries"
+    }
+  ]
+}

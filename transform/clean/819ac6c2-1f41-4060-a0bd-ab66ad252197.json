@@ -1,0 +1,15 @@
+{
+  "title": "Smart Meter Enabled Thermal Energy Ratings (SMETER): validation methodology",
+  "body": "\"National Physical Laboratory (NPL) conducted a research project to investigate and define a validation methodology for Smart Meter Enabled Thermal Energy Ratings (SMETERs) for buildings. SMETERs have several potential uses, such as validating the performance of retrofits (e.g. under ECO) and informing design of systems and retrofits.  To request an accessible format of this document, please email EnergyResearch@energysecurity.gov.uk.  \"",
+  "base_path": "/government/publications/smart-meter-enabled-thermal-energy-ratings-smeter-validation-methodology",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

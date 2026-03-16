@@ -1,0 +1,15 @@
+{
+  "title": "Forestry facts and figures 2025",
+  "body": "\"This release provides summary statistics about woodland, forestry and primary wood processing in the UK.   More detailed data are provided in Forestry Statistics, released alongside this publication. \"",
+  "base_path": "/government/statistics/forestry-facts-and-figures-2025",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

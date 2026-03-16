@@ -1,0 +1,15 @@
+{
+  "title": "UK Labour Market: November 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-labour-market-november-2025",
+  "taxons": [
+    {
+      "title": "Working, jobs and pensions",
+      "base_path": "/employment/working"
+    },
+    {
+      "title": "Employment status",
+      "base_path": "/money/business-tax-ir35-employment-status"
+    }
+  ]
+}

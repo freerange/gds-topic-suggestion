@@ -1,0 +1,11 @@
+{
+  "title": "Mitigating emissions of fine particulate matter from road transport",
+  "body": "\"Desk-based review of current and future technologies for mitigating fine particulate emissions, particles with a diameter of 2.5 micrometres or less (PM2.5), from road transport.  The review considered technologies that focused on preventative measures to reduce emissions and those that targeted active removal from the source.  Ricardo completed the report on behalf of the Department for Transport.  \"",
+  "base_path": "/government/publications/mitigating-emissions-of-fine-particulate-matter-from-road-transport",
+  "taxons": [
+    {
+      "title": "Road transport emissions",
+      "base_path": "/transport/road-transport-emissions"
+    }
+  ]
+}

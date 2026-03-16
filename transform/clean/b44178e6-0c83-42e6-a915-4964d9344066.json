@@ -1,0 +1,11 @@
+{
+  "title": "Ransomware: proposals to increase incident reporting and reduce payments to criminals",
+  "body": "\"Ransomware is malicious software (malware) that infects a victim’s computer system. A ransomware attack can:   prevent the victim from accessing IT systems or severely impair their use facilitate the theft of personal or other sensitive data held on the victim’s networked systems or devices   A ransom is demanded (normally payment of cryptocurrency) from the victim to regain access to the system, for data to be restored or for confidential data not to be published on websites run by criminals.  The targets of ransomware can range from ordinary individuals using their home computers and other personal devices, to major companies and public bodies whose entire systems and networks are put under attack.  The Home Office proposes to introduce legislation to counter ransomware and meet three main objectives:   to reduce the amount of money flowing to ransomware criminals from the UK, thereby deterring criminals from attacking UK organisations to increase the ability of operational agencies to disrupt and investigate ransomware actors by increasing our intelligence around the ransomware payment landscape to enhance the government’s understanding of the threats in this area to inform future interventions, including through cooperation at international level   \"",
+  "base_path": "/government/consultations/ransomware-proposals-to-increase-incident-reporting-and-reduce-payments-to-criminals",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    }
+  ]
+}

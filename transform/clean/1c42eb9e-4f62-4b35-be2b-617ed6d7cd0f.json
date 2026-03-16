@@ -1,0 +1,11 @@
+{
+  "title": "Air pollution in the UK 2024",
+  "body": "\"This report continues the series of annual compliance reporting against The Air Quality Standards Regulations (2010) and details progress towards meeting the two targets set in The Environmental Targets (Fine Particulate Matter) (England) Regulations (2023).  This report provides background information on the pollutants covered by these regulations, their sources and effects, the UK’s monitoring networks, and the UK’s modelling methodology. It then summarises the results of the UK’s ambient air quality assessment for 2024, presenting measurements from national air pollution monitoring networks and air quality modelling data.  If you have any queries about the reports email aqie.correspondence@defra.gov.uk.  Reports about Air Pollution in the UK for previous years are available on the UK-AIR website.  The data behind the assessment is available on the UK-AIR website. \"",
+  "base_path": "/government/publications/air-pollution-in-the-uk-2024",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    }
+  ]
+}

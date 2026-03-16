@@ -1,0 +1,11 @@
+{
+  "title": "Export client quality survey",
+  "body": "\"The Quality Survey (QS) is administered 3 months after a UK business has received the support from one of DBT’s export promotion services. Up to 6,000 UK businesses participate in this survey each year.  \"",
+  "base_path": "/government/publications/export-client-quality-survey",
+  "taxons": [
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    }
+  ]
+}

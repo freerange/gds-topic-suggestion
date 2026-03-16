@@ -1,0 +1,11 @@
+{
+  "title": "DSIT Main Estimates",
+  "body": "\"Memorandums that provide further explanation of the DSIT entry in HM Treasury’s Main Estimates.  Estimates are the means of obtaining from Parliament the legal authority to consume resources and spend cash the government needs to finance department’s agreed spending programmes for the financial year (April to March).  You can find the DSIT Supplementary Estimates to DSIT Main Estimates here.  \"",
+  "base_path": "/government/collections/dsit-main-estimates",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

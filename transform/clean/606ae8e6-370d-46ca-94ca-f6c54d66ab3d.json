@@ -1,0 +1,27 @@
+{
+  "title": "Child and family weight management services: April 2021 to May 2023",
+  "body": "\" This publication covers data submitted between April 2021 and May 2023.  The data tables show counts of participants in receipt of extended brief interventions and in child and family weight management services by variables such as:   demographic characteristics socioeconomic status health status weight management service information   Data is also presented on the offer and take up of extended brief interventions, proportion of referrals to weight management services resulting in enrolments, completion of weight management interventions, longer term follow up and improvement in healthy weight of participants.  \"",
+  "base_path": "/government/publications/child-and-family-weight-management-services-april-2021-to-may-2023",
+  "taxons": [
+    {
+      "title": "Local authorities and early years",
+      "base_path": "/childcare-parenting/local-authorities-early-years"
+    },
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    },
+    {
+      "title": "Obesity",
+      "base_path": "/health-and-social-care/obesity"
+    },
+    {
+      "title": "Exercise and physical activity",
+      "base_path": "/health-and-social-care/exercise-physical-activity"
+    },
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    }
+  ]
+}

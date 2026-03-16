@@ -1,0 +1,19 @@
+{
+  "title": "Public attitudes to police use of facial recognition technology",
+  "body": "\"The public attitudes to police use of facial recognition technology (FRT) survey focused on public awareness, attitudes, and opinions to facial recognition technologies used in policing in England and Wales. The survey found that a majority of the public support its use.  Many respondents consider that FRT can help solve crimes, find vulnerable or missing people, and improve public safety. However, concerns remain about privacy, potential misuse, and the risk of false identification.  Respondent views vary depending on how the technology is used, where it is deployed, and for what purpose. Acceptability tends to be higher when FRT is used for investigating severe offences or when it is deployed in higher-risk locations. \"",
+  "base_path": "/government/publications/public-attitudes-to-police-use-of-facial-recognition-technology",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Data protection",
+      "base_path": "/crime-justice-and-law/data-protection"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

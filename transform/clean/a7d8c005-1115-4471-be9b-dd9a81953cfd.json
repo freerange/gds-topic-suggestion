@@ -1,0 +1,19 @@
+{
+  "title": "Report your use of the bluetongue serotype 3 (BTV-3) vaccine",
+  "body": "\"  You must report your use of the BTV-3 vaccine. It is against the law to use the vaccine without reporting it.   Before you report  To use this service, you’ll need the:     County Parish Holding (CPH) number for the location where the vaccinated animals are registered  address of the holding where the animals are registered  batch numbers of the vaccines administered to the animals  official unique identifiers of any animals you have vaccinated   Submit a BTV-3 animal vaccination report    Start now   Once you’ve reported use of the BTV-3  vaccine using this service, you cannot view or change your answers.   Advisory note for veterinarians   Veterinarians in England, Wales and Scotland should read the relevant advisory note for their country before prescribing any BTV-3 vaccine:   advisory note for England advisory note for Wales advisory note for Scotland   Get help   For help with this form, email btv3vaccine@defra.gov.uk   \"",
+  "base_path": "/guidance/report-your-use-of-the-bluetongue-serotype-3-btv-3-vaccine",
+  "taxons": [
+    {
+      "title": "Cattle deaths",
+      "base_path": "/environment/keeping-farmed-animals-cattle-deaths"
+    },
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Veterinary medicines",
+      "base_path": "/environment/keeping-farmed-animals-veterinary-medicines"
+    }
+  ]
+}

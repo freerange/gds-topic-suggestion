@@ -1,0 +1,23 @@
+{
+  "title": "Family Practitioner Services Statistics for NI - Key Facts 24/25",
+  "body": "\"This report contains key summary information on activity and payments in relation to general medical, dental, ophthalmic and pharmaceutical services in Northern Ireland.  It details information on the number of practitioners in Northern Ireland along with the number of registered patients and the treatments carried out and submitted to BSO for payment. The report also contains summary information on prescription dispensing and payments in relation to community dispensing (i.e. dispensing by community pharmacies, dispensing doctors and appliance suppliers).  Information is provided at Northern Ireland level with further breakdowns at Local Government District (LGD) and Local Commissioning Group (LCG) level.  The full, annual reports can be located within the relevant service area on the FPS website (https://bso.hscni.net/directorates/operations/family-practitioner-services/directorates-operations-family-practitioner-services-information-unit/) \"",
+  "base_path": "/government/statistics/family-practitioner-services-statistics-for-ni-key-facts-2425",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    },
+    {
+      "title": "Dentistry ",
+      "base_path": "/health-and-social-care/dentistry"
+    },
+    {
+      "title": "Ophthalmology",
+      "base_path": "/health-and-social-care/ophthalmology"
+    }
+  ]
+}

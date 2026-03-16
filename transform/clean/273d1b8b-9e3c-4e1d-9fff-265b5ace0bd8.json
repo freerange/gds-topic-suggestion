@@ -1,0 +1,15 @@
+{
+  "title": "Building materials and components statistics: January 2025",
+  "body": "\"Presents information on selected building materials, including monthly data on price indices, bricks, cement and concrete blocks. It also provides quarterly data on sand and gravel, slate, concrete roofing tiles, ready-mixed concrete and imports and exports of construction products.  The next edition of this publication, scheduled for 5 March 2025, will be number 600. Building materials and components statistics have been produced by the government in one form or another since the 1940s. To commemorate this milestone, the next edition will include additional historical data and analysis. \"",
+  "base_path": "/government/statistics/building-materials-and-components-statistics-january-2025",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    },
+    {
+      "title": "Manufacturing",
+      "base_path": "/business-and-industry/manufacturing"
+    }
+  ]
+}

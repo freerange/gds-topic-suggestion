@@ -1,0 +1,23 @@
+{
+  "title": "MGN 123 (M+F) Amendment 2 Certificates of Discharge",
+  "body": "\"This notice should be read with the Merchant Shipping (Crew Agreements, Lists of Crew and Discharge of Seamen) Regulations 1991 and the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014, MGN 685 Issue of Discharge Books and replaces MGN 123.  Amendment 2 updates section 1.1 only.  Notice to   shipowners ship operators and ship managers fishing vessel owners and managers employers of seafarers and fishermen masters officers seafarers and fishermen  \"",
+  "base_path": "/government/publications/mgn-123-mf-amendment-2-certificates-of-discharge",
+  "taxons": [
+    {
+      "title": "Fishing",
+      "base_path": "/transport/fishing"
+    },
+    {
+      "title": "Safe and compliant operation of vessels",
+      "base_path": "/transport/safe-and-compliant-operation-of-vessels"
+    },
+    {
+      "title": "Employment of seafarers",
+      "base_path": "/transport/employment-of-seafarers"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    }
+  ]
+}

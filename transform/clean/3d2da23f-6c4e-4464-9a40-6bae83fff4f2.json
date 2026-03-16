@@ -1,0 +1,11 @@
+{
+  "title": "Retail Sales; Great Britain: January 2026",
+  "body": "",
+  "base_path": "/government/statistics/announcements/retail-sales-great-britain-january-2026",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

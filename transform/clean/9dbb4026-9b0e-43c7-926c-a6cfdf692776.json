@@ -1,0 +1,23 @@
+{
+  "title": "Tenant Satisfaction Measures - Summary of publication requirements",
+  "body": "\"This information must be published in a manner that is timely, clear, and easily accessed by tenants.  The Transparency, Influence and Accountability Standard includes the required outcome that registered providers must collect and provide information to support effective scrutiny by tenants of their landlord’s performance in delivering landlord services. The Standard and the associated documents Tenant Satisfaction Measures: Technical Requirements and Tenant Satisfaction Measures: Tenant Survey Requirements include specific requirements for landlords to publish information on Tenant Satisfaction Measures (TSMs). For more information see the ​Transparency, Influence and Accountability Standard.  Whilst the information below summarises some of our requirements, it remains our expectation that the full set TSM requirements are met. Some of these requirements first apply in 2025/26, so it is important for landlords to recognise these and publish the full information required. For example, the requirement to inform tenants of any methodological issues that may affect year on year results.  All registered providers must publish the TSM information summarised below. In addition to publishing TSM information to support tenant scrutiny, all registered providers that own 1,000 or more social housing units are required to submit TSM information to the regulator through the NROSH+ website.      TSM information landlords must publish Reference     All Tenant Satisfaction Measure results, using the specific description and calculation set out within the TSM Technical Requirements.All registered providers that own relevant social housing stock must calculate and publish all TSMs on an annual basis. This includes TSMs generated from management information (CH01, CH02, NM01, RP01, RP02, BS01-BS05) as well as TSMs collected from tenant perception surveys (TP01-TP12).Some TSMs have two elements, for example CH01 and CH02 include stage 1 and stage 2 complaints, RP02 includes emergency and non-emergency repairs, NM01 has all anti-social behaviour cases and cases that involve hate incidents. In every case both elements of the TSM must be publishedFor the smallest of providers with fewer than 1,000 social housing units, it may be difficult to protect the anonymity of individual tenants if TSM information is published in full. It is permissible for at least some TSMs to be omitted from published information if providers judge this to be a material risk.  TSM Technical Requirements, paragraphs 6-7, 22-23.   Target timescales used to generate repairs and complaints TSMs. Specifically:- Every registered provider must report its target timescales used to generate TSM RP02 (Repairs completed within target timescale) for emergency and non-emergency repairs. This includes where there is more than one target timescale.- If CH02 (Complaints responded to within Complaint Handling Code timescales) has been calculated using timescales which differ from those set in the Code, registered providers must publish the maximum timescales used alongside the TSM and clarify that these diverge from the standard timelines in the Complaint Handling Code.  TSM Technical Requirements, CH02 and RP02   All registered providers must publish a summary of the survey approach used to generate tenant perception measures. This must include at a minimum:a. a summary of achieved sample size (number of responses)b. timing of surveyc. collection method(s), with a...",
+  "base_path": "/government/publications/tenant-satisfaction-measures-summary-of-publication-requirements",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

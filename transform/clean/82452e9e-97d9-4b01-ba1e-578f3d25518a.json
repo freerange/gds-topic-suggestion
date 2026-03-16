@@ -1,0 +1,19 @@
+{
+  "title": "Transport hazard summary: volcanic eruptions",
+  "body": "\"This summary identifies some of the main risks to aviation and other transport caused by volcanic ash and gas in the atmosphere as a result of volcanic eruptions in other countries. It also provides advice to help mitigate and plan for these risks.  Direct impacts on transport from volcanic eruptions include:   disruption to air travel due to volcanic ash clouds, leading to flight delays, diversions and cancellations potential damage to aircraft engines and external surfaces if they encounter volcanic ash in the atmosphere   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-volcanic-eruptions",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Aviation",
+      "base_path": "/transport/aviation"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

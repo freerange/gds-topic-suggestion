@@ -1,0 +1,23 @@
+{
+  "title": "Rwanda: prisoner pack",
+  "body": "\"This guide aims to explain the legal and prison system to British nationals who are imprisoned. You can also read about how to apply for a transfer back to a UK prison. \"",
+  "base_path": "/government/publications/rwanda-prisoner-pack",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Emergency help for British nationals in Rwanda",
+      "base_path": "/world/emergency-help-for-british-nationals-rwanda"
+    }
+  ]
+}

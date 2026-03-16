@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Stillbirths (Northern Ireland): July 2025",
+  "body": "\"Monthly stillbirths registered in Northern Ireland up to and including July 2025. \"",
+  "base_path": "/government/statistics/monthly-stillbirths-northern-ireland-july-2025",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Having a child, parenting and adoption",
+      "base_path": "/life-circumstances/child-adoption"
+    }
+  ]
+}

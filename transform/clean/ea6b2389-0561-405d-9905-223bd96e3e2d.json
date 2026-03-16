@@ -1,0 +1,11 @@
+{
+  "title": "Scientific procedures on living animals, Great Britain: 2024",
+  "body": "\"This report details information on the regulated scientific procedures involving living animals carried out in the calendar year, including number of procedures, species and genetic status of animals, and purpose and severity of procedures.  For more information see the ‘User guide to Home Office statistics of scientific procedures on living animals’.  If you have any queries about this release, please email HOAIStatisticalTransformation@homeoffice.gov.uk. \"",
+  "base_path": "/government/statistics/scientific-procedures-on-living-animals-great-britain-2024",
+  "taxons": [
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    }
+  ]
+}

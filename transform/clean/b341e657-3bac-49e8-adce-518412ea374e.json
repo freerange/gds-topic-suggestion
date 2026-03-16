@@ -1,0 +1,11 @@
+{
+  "title": "STATS19 collection and use: impacts of the 2024 specification",
+  "body": "\"This guidance relates to the reporting of variables within the STATS19 road collision data collection that have either been introduced or changed as a result of the 2018 STATS19 review.  It provides an initial indication of some of the impacts of the transition to the new specification which resulted from this review.  Currently some forces are still recording data in the old 2011 specification, while others have move to the new specification, and the initial impact of this transition is outlined in this report.  This analysis should therefore be treated as indicative, and something that will be further developed as more forces adopt the new specification.  Contact details   Road safety statistics     Email roadacc.stats@dft.gov.uk        \"",
+  "base_path": "/government/publications/stats19-collection-and-use-impacts-of-the-2024-specification",
+  "taxons": [
+    {
+      "title": "Drink and drug driving",
+      "base_path": "/transport/drink-and-drug-driving"
+    }
+  ]
+}

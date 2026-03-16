@@ -1,0 +1,19 @@
+{
+  "title": "UK-India FTA: advice from Trade and Agriculture Commission",
+  "body": "\"This independent report sets out advice on the extent to which the measures in the UK-India CETA, which are applicable to trade in agricultural products, are consistent with the maintenance of UK levels of statutory protection in relation to:   animal or plant life or health animal welfare environmental protections   \"",
+  "base_path": "/government/publications/uk-india-fta-advice-from-trade-and-agriculture-commission",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

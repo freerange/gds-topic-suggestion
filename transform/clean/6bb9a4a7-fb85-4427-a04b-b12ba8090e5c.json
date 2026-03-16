@@ -1,0 +1,11 @@
+{
+  "title": "Employment analysis of UK armed forces veterans",
+  "body": "\"This report provides analysis of responses to the Veterans’ Survey 2022, with focus on:   employment skills volunteering   Estimates of veteran responses are provided by personal and service-related characteristics. All UK estimates are weighted. Qualitative analysis contained in this report is unweighted. \"",
+  "base_path": "/government/publications/employment-analysis-of-uk-armed-forces-veterans",
+  "taxons": [
+    {
+      "title": "Veterans and family support",
+      "base_path": "/defence-and-armed-forces/veterans-family-support"
+    }
+  ]
+}

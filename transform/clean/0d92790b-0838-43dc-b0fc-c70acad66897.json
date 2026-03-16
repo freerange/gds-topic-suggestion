@@ -1,0 +1,11 @@
+{
+  "title": "Delivering reduced waiting times",
+  "body": "",
+  "base_path": "/missions/nhs/progress",
+  "taxons": [
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    }
+  ]
+}

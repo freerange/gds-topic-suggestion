@@ -1,0 +1,15 @@
+{
+  "title": "Water abstraction licences: competing proposals",
+  "body": "\"The Environment Agency determines applications for water abstraction licences.  If you need to get a water abstraction licence, the Environment Agency may tell you that other proposals also want to abstract the available water. This guidance explains what you need to do in this situation.  Annex 1 details the Environment Agency’s role in this process and how they decide which proposal or proposals to grant a licence to. \"",
+  "base_path": "/government/publications/water-abstraction-licences-competing-proposals",
+  "taxons": [
+    {
+      "title": "Abstract (take) water",
+      "base_path": "/business/environmental-management-water-abstract-take-water"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    }
+  ]
+}

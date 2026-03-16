@@ -1,0 +1,15 @@
+{
+  "title": "AI Consultation Analysis Tool evaluation",
+  "body": "\"This report presents findings from a technical evaluation of the Consultation Analysis Tool (CAT), an artificial intelligence (AI) powered system that completes thematic analysis with robust human oversight.  Co-developed and evaluated by the Department for Transport’s (DfT’s) AI and Data Science team and The Alan Turing Institute, the CAT’s performance has been evaluated against human benchmarks. The report presents findings on:   how accurate the CAT is compared to human-analysed datasets for theme generation and theme mapping when using a blind evaluation design how accurate the CAT is when used in a live pilot setting, where human reviewers can see, review and amend the CAT’s initial analysis, and the original CAT output is then compared to the final human-validated analysis (non-blind approach) to what extent there is evidence that the CAT is systematically less accurate for certain protected characteristics (our proxy for bias) what the learnings are from the human-in-the-loop design used in our pilot of the CAT in a live consultation setting   The findings demonstrate that the CAT accurately analyses free-text consultation responses while providing considerable efficiency and cost-saving benefits. The report also shares learnings related to responsible AI design, technical methodology and evaluation approaches.  Publishing this evaluation aims to foster public trust in use of AI and demonstrate that the DfT’s use of the CAT accurately and responsibly captures the voice of consultees.  Background to the CAT   Analysing free-text consultation responses manually is highly resource-intensive and costly. The CAT was developed to address this challenge, as part of DfT’s artificial intelligence programme to effectively adopt and harness the potential of AI at pace. Development began following research on public attitudes towards the use of AI for analysing consultations, which has shaped the responsible design and evaluation of the CAT.  The CAT supports commitments made in the Transport AI action plan to use AI to ‘drive efficiencies in DfT’s operations’ and ‘analyse public consultation responses more rapidly and accurately’.  \"",
+  "base_path": "/government/publications/ai-consultation-analysis-tool-evaluation",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Transport",
+      "base_path": "/transport"
+    }
+  ]
+}

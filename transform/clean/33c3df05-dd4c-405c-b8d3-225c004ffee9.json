@@ -1,0 +1,15 @@
+{
+  "title": "Andorra: tax treaties",
+  "body": "\"2025 UK-Andorra Double Taxation Convention — in force  The Double Taxation Convention was signed in London on 20 February 2025. It entered into force on 22 December 2025.  The convention takes effect in the United Kingdom from:   1 January 2026 for taxes withheld at source 6 April 2026 for Income tax and Capital Gains Tax 1 April 2026 for Corporation Tax   The convention takes effect in Andorra from:   1 January 2026 for taxes withheld at source 1 January 2026 for taxes on income  \"",
+  "base_path": "/government/publications/andorra-tax-treaties",
+  "taxons": [
+    {
+      "title": "International tax",
+      "base_path": "/money/international-tax"
+    },
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

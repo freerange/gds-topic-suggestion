@@ -1,0 +1,15 @@
+{
+  "title": "ORR train operator revenue protection review: Transport Secretary accepts recommendations",
+  "body": "\"Letter confirming that the Department for Transport will accept all recommendations made by the Office of Rail and Road’s (ORR) independent review of train operators’ revenue protection practices.  See the ORR’s independent review of train operators’ revenue protection practices for more information.  \"",
+  "base_path": "/government/publications/orr-train-operator-revenue-protection-review-transport-secretary-accepts-recommendations",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    },
+    {
+      "title": "Rail ticketing and fares",
+      "base_path": "/transport/rail-ticketing-and-fares"
+    }
+  ]
+}

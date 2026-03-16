@@ -1,0 +1,19 @@
+{
+  "title": "Understanding technology adoption among UK SMEs",
+  "body": "\"This mixed-method research reports findings on the current rates of digital adoption among UK SMEs. It explores the journey SMEs undertake to adopt basic productivity-enhancing software and the information gaps they face at each stage of the journey.  SMEs report high levels of technology adoption and emphasise the crucial role it plays in business success. We created a 5-stage customer journey to reflect how people adopt new technology step by step. Businesses value reliable, personalised support and advice to help them navigate these digital adoption challenges.     You can also read the SME Digital Adoption Taskforce: final report. The report sets out an ambition for growth and prosperity for SMEs through the adoption of digital technology and a 10-step action plan for government.   \"",
+  "base_path": "/government/publications/understanding-technology-adoption-among-uk-smes",
+  "taxons": [
+    {
+      "title": "Digital transformation",
+      "base_path": "/government/technology-guidance-technology-guidance-digital-transformation"
+    },
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

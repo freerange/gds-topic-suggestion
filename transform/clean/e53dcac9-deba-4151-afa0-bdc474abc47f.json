@@ -1,0 +1,11 @@
+{
+  "title": "Medical devices: Standardised format for the periodic safety update report",
+  "body": "\"This document is intended to guide manufacturers on what data to include within a periodic safety update report (PSUR). It is not mandatory to include sections which do not apply, and data may be displayed in an alternative form if appropriate. \"",
+  "base_path": "/government/publications/medical-devices-standardised-format-for-the-periodic-safety-update-report",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    }
+  ]
+}

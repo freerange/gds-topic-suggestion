@@ -1,0 +1,15 @@
+{
+  "title": "DHSC: workforce management information July 2024",
+  "body": "\"The Department of Health and Social Care (DHSC) publishes details about staff numbers and payroll costs for payroll and non-payroll staff on a monthly basis. \"",
+  "base_path": "/government/publications/dhsc-workforce-management-information-july-2024",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Health workforce",
+      "base_path": "/health-and-social-care/health-workforce"
+    }
+  ]
+}

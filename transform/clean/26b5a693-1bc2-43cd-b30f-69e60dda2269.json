@@ -1,0 +1,15 @@
+{
+  "title": "DfT: non-consolidated performance related pay 2023",
+  "body": "\"Departments and their agencies are responsible for publishing aggregated information on their annual spend on non-consolidated performance-related payments (in-year and end-year) for their staff (Senior Civil Service (SCS) and delegated grades) for each performance year.  For most departments, this is 1 April to 31 March.  The scope of the exercise is departments and their agencies, but not non-departmental public bodies (NDPBs). \"",
+  "base_path": "/government/publications/dft-non-consolidated-performance-related-pay-2023",
+  "taxons": [
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

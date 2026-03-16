@@ -1,0 +1,15 @@
+{
+  "title": "Foot and mouth disease: spread from European Union to Great Britain risk assessment",
+  "body": "\"This veterinary risk assessment provides a qualitative assessment of the risk of an animal in Great Britain (England, Scotland and Wales) becoming infected with foot and mouth disease virus through the movements of animals, animal products and people from the European Union. \"",
+  "base_path": "/government/publications/foot-and-mouth-disease-spread-from-european-union-to-great-britain-risk-assessment",
+  "taxons": [
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Animal and plant health",
+      "base_path": "/environment/animal-and-plant-health"
+    }
+  ]
+}

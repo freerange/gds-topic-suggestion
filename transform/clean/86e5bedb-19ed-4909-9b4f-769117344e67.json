@@ -1,0 +1,11 @@
+{
+  "title": "AI Insights",
+  "body": "\"This series complements the AI Playbook for the UK Government and its training resources by focusing on technical topics that were not discussed in the playbook. It explains the terminology and concepts around AI and machine learning (ML), and provides practical advice on how to implement AI solutions in the public sector.  \"",
+  "base_path": "/government/publications/ai-insights",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

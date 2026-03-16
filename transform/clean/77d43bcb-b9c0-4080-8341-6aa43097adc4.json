@@ -1,0 +1,11 @@
+{
+  "title": "Technology, productivity and competition",
+  "body": "\"This discussion paper by the CMA’s Microeconomics Unit focuses on understanding the link between technology and productivity.  In particular, it explores:   the evolution of productivity since 1997, to understand how productivity varies between the most productive firms and the rest (across the sectors of the economy, and within a given sector) the association between firm-level investment and total factor productivity (TFP), to examine whether investment improves firms’ ability to convert a given level of resources into output the effect of the competitive context on the relationship between investment and TFP, to understand whether more competition may be associated with more effective deployment of technology   This paper is part of the Microeconomics Unit’s ongoing Growth Programme, supporting the government’s growth mission by delivering economic research focussed on critical drivers and blockers of economic growth. \"",
+  "base_path": "/government/publications/technology-productivity-and-competition",
+  "taxons": [
+    {
+      "title": "Competition",
+      "base_path": "/business/competition"
+    }
+  ]
+}

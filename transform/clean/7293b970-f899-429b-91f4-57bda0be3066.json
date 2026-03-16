@@ -1,0 +1,11 @@
+{
+  "title": "AI Airlock Sandbox Pilot Programme Report",
+  "body": "\"The AI Airlock programme report contains a comprehensive overview of the methodology for establishing the regulatory sandbox, the four pilot case studies and the lessons learned from the independent programme evaluation. This report also summarises the key technical and regulatory insights and recommendations for changes to the regulatory and support framework for AI as a medical device. \"",
+  "base_path": "/government/publications/ai-airlock-sandbox-pilot-programme-report",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    }
+  ]
+}

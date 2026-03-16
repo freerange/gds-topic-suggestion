@@ -1,0 +1,11 @@
+{
+  "title": "Primary Care Dementia Data, September 2025",
+  "body": "\"Diagnosis rates are calculated by comparing recorded diagnoses to estimated dementia prevalence. \"",
+  "base_path": "/government/statistics/primary-care-dementia-data-september-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

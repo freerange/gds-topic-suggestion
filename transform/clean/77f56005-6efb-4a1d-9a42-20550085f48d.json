@@ -1,0 +1,11 @@
+{
+  "title": "Advanced Learner Loans paid in England AY 2024/25, Aug to Jan",
+  "body": "\"Statistics on advanced learner loans issued to further education providers in England for their students.  This publication shows payments made from August 2024 to January 2025 and compares these with the same period in the previous two academic years. \"",
+  "base_path": "/government/statistics/advanced-learner-loans-paid-in-england-ay-202425-aug-to-jan",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

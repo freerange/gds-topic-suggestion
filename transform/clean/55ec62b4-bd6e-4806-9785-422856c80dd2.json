@@ -1,0 +1,11 @@
+{
+  "title": "About us",
+  "body": "\" \"",
+  "base_path": "/government/organisations/ethics-and-integrity-commission/about",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

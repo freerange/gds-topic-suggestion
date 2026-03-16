@@ -1,0 +1,11 @@
+{
+  "title": "Supply and use of products and industry GVA, UK, experimental: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/supply-and-use-of-products-and-industry-gva-uk-experimental-2023",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

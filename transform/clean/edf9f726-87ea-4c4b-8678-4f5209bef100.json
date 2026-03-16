@@ -1,0 +1,23 @@
+{
+  "title": "RSH Stakeholder Survey 2024-2025",
+  "body": "\"This page includes an analysis of the results from the RSH stakeholder survey for 2024-2025. The survey seeks views from stakeholders such as registered providers of social housing and other sector representatives about a range of issues.  We use the results to inform:   our performance monitoring continuous development of our operational approach our corporate planning   \"",
+  "base_path": "/government/publications/rsh-stakeholder-survey-2024-2025",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

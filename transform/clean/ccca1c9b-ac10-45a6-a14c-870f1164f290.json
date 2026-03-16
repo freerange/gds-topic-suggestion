@@ -1,0 +1,19 @@
+{
+  "title": "MOJ arm's length bodies spending over £25,000: September 2023",
+  "body": "\"Ministry of Justice (MOJ) arm’s length bodies’ spending over £25,000 data September 2023. \"",
+  "base_path": "/government/publications/moj-arms-length-bodies-spending-over-25000-september-2023",
+  "taxons": [
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

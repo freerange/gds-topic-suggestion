@@ -1,0 +1,19 @@
+{
+  "title": "Healthy Child, Healthy Future: Health Review Statistics for Northern Ireland 2024/25",
+  "body": "\"This publication presents key statistical information relating to Health Reviews for pre-school children in Northern Ireland. The Healthy Child, Healthy Future framework for the Universal Child Health Promotion Programme within Northern Ireland sets out a schedule of child health reviews that every family can expect. The figures within this publication detail the number of reviews completed, and the timing of these reviews. \"",
+  "base_path": "/government/statistics/healthy-child-healthy-future-health-review-statistics-for-northern-ireland-202425",
+  "taxons": [
+    {
+      "title": "Help for children with a long-term illness or disability",
+      "base_path": "/childcare-parenting/help-for-children-with-a-long-term-illness-or-disability"
+    },
+    {
+      "title": "Mental health of children and young people",
+      "base_path": "/childcare-parenting/mental-health-of-children-and-young-people"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

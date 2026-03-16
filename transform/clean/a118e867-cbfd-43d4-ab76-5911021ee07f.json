@@ -1,0 +1,11 @@
+{
+  "title": "Tax free savings newsletter 18",
+  "body": "\"This newsletter is published by HMRC to update stakeholders on the latest news for Individual Savings Account (ISA) managers and Child Trust Fund (CTF) Providers.  Tax-Free Savings Newsletter 18 has articles on:    Financial Conduct Authority rule change — cryptoasset Exchange Traded Notes  Individual Savings Account reporting service — updates Individual Savings Account reporting service — user research   \"",
+  "base_path": "/government/publications/tax-free-savings-newsletter-18",
+  "taxons": [
+    {
+      "title": "Tax on savings and investments",
+      "base_path": "/money/savings-investment-tax"
+    }
+  ]
+}

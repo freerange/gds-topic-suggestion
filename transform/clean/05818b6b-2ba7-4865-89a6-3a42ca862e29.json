@@ -1,0 +1,15 @@
+{
+  "title": "Ofsted annual report 2024/25: education, children’s services and skills",
+  "body": "\"The annual report looks at schools, early years, further education and skills and children’s social care for the academic year 2024 to 2025.  Ofsted’s findings are based on evidence from inspections of, and visits to, schools, colleges and providers of social care, early years and further education and skills. The report also draws on findings from our research and analysis this year.  Read our press release. \"",
+  "base_path": "/government/publications/ofsted-annual-report-202425-education-childrens-services-and-skills",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    },
+    {
+      "title": "Children's social care providers",
+      "base_path": "/childcare-parenting/childrens-social-care-providers"
+    }
+  ]
+}

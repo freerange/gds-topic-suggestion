@@ -1,0 +1,11 @@
+{
+  "title": "NTSN: Northern Ireland",
+  "body": "\"This National Technical Specification Notice (NTSN) for Northern Ireland (NI) applies to rail projects that will seek authorisation to place new, upgraded or renewed railway infrastructure into service in Northern Ireland only.  These NTSNs have been published by the Secretary of State for Transport according to regulation 3B of the Railways Interoperability Regulations 2011.  \"",
+  "base_path": "/government/publications/ntsn-northern-ireland",
+  "taxons": [
+    {
+      "title": "Rail interoperability",
+      "base_path": "/transport/rail-interoperability"
+    }
+  ]
+}

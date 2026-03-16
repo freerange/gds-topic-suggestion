@@ -1,0 +1,15 @@
+{
+  "title": "Child and infant mortality in England and Wales: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/child-and-infant-mortality-in-england-and-wales-2023",
+  "taxons": [
+    {
+      "title": "Death registration disclosure",
+      "base_path": "/life-circumstances/death-registration-disclosure"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

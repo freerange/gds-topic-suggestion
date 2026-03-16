@@ -1,0 +1,19 @@
+{
+  "title": "Bathing Water Quality Northern Ireland 2025",
+  "body": "\"Bathing water quality is monitored by DAERA Marine and Fisheries Division. One of its responsibilities is to ensure coastal waters are of high enough quality for the general public to bathe in. \"",
+  "base_path": "/government/statistics/bathing-water-quality-northern-ireland-2025",
+  "taxons": [
+    {
+      "title": "Marine",
+      "base_path": "/environment/marine"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Water quality",
+      "base_path": "/business/environmental-management-water-water-quality"
+    }
+  ]
+}

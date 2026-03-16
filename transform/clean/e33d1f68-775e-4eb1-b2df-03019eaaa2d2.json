@@ -1,0 +1,19 @@
+{
+  "title": "Strengthening the UK’s borders by smashing people smuggling gangs",
+  "body": "\"The UK’s new Border Security Command (BSC) commissioned the Accelerated Capability Environment (ACE) to produce a series of evidence-based reports to provide additional insights into criminal networks.   ACE conducted deep research into how organised crime groups (OCGs) are using social media to carry out organised immigration crime (OIC), and how this can be monitored and potentially disrupted using open-source intelligence (OSINT) tools.    Finding intervention opportunities   OIC involves OCGs assisting people to cross borders without legal permission or documentation. In the UK, the primary focus of this irregular migration is the small boats crossing the Channel from northern France to southern England.    Criminals involved in OIC may act alone, be part of a small group or form part of extensive global networks. One commonality is the use of online platforms at all stages of OIC operations, including to advertise services, recruit and communicate with potential migrants. Online platforms are also used for communication between OCG members.    Based on an in-depth literature review, ACE delivered an initial report that gave early indications of key points, trends, gaps and sources.    Full reports then synthesised several in-depth research elements. This included detailed evidence gathered from dozens of subject matter experts across government, industry, academia and civil society on how OCGs are using social media and how OSINT can be employed to identify and disrupt this.    Case studies, including examples of online interactions as well as behavioural insights and analysis, were also created.    By providing a synthesis of expert opinion on the scale and scope of this problem and the OSINT capabilities available, ACE helped BSC to better understand the extent to which social media and online platforms are used in the smuggling process.  \"",
+  "base_path": "/government/case-studies/strengthening-the-uks-borders-by-smashing-people-smuggling-gangs",
+  "taxons": [
+    {
+      "title": "Border control",
+      "base_path": "/entering-staying-uk/border-control"
+    },
+    {
+      "title": "Immigration offences",
+      "base_path": "/entering-staying-uk/immigration-offences"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

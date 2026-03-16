@@ -1,0 +1,15 @@
+{
+  "title": "Environmental capacity for industrial clusters",
+  "body": "\"These documents present findings of government sponsored work by the Environment Agency (EA) to investigate the environmental capacity for deploying carbon capture and hydrogen production technology in key English industrial clusters.  They include:   a snapshot view of industry plans at a cluster level a full review of evidence on water availability and quality and air quality a partial review of the risk of flooding impacts that deployment may have on the receiving environment, including habitats consideration of how these factors will be influenced by a changing climate   The findings from these reports will help government, industry and regulators to consider and find solutions to the challenges facing the environment from these technologies.  \"",
+  "base_path": "/government/collections/environmental-capacity-for-industrial-clusters",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    },
+    {
+      "title": "Carbon capture and storage",
+      "base_path": "/environment/oil-and-gas-carbon-capture-and-storage"
+    }
+  ]
+}

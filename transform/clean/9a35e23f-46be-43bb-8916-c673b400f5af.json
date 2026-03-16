@@ -1,0 +1,19 @@
+{
+  "title": "National Child Measurement Programme (NCMP) annual report, academic year 2024 to 2025, England",
+  "body": "\" On 26 November 2025, 2 additional tables were added to the data tables spreadsheet (‘Data tables: NCMP annual report, academic year 2024 to 2025’).  The tables are labelled as:   table 16: number and percentage of children meeting the clinical definitions of overweight and obesity by school year and sex, England table 17: number of children within each body mass index (BMI) centile by school year and sex, England    The National Child Measurement Programme (NCMP) annual report presents the new year of NCMP data for 2024 to 2025 and examines the patterns and trends in prevalence for the following body mass index (BMI) categories for children in reception (age 4 to 5 years) and year 6 (age 10 to 11 years):   obesity severe obesity overweight healthy weight underweight   Data is presented for the following demographic and socioeconomic groups:   sex ethnic group level of deprivation regions and local authority areas in England   The Obesity, physical activity and nutrition profile on Fingertips has been updated and displays data from the NCMP showing prevalence of severe obesity, obesity, overweight, healthy weight and underweight, at upper and lower-tier local authority, integrated care board (ICB), region and England level over time. Inequalities in child obesity prevalence is displayed by sex, deprivation quintile and ethnic group for England, regions and local authority areas.  The Child BMI categories small area data topic in the profile displays trend data on the prevalence of overweight (including obesity) and obesity for middle super output areas (MSOAs) and electoral wards, with comparator data for local authorities and England.  This update also includes the publication of the national, regional and local authority patterns and trends in child obesity data slide packs, showing the 2024 to 2025 NCMP data, available in the Reports data view of the obesity, physical activity and nutrition profile.  \"",
+  "base_path": "/government/statistics/national-child-measurement-programme-ncmp-annual-report-academic-year-2024-to-2025-england",
+  "taxons": [
+    {
+      "title": "Exercise and physical activity",
+      "base_path": "/health-and-social-care/exercise-physical-activity"
+    },
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    },
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: air quality and pollution",
+  "body": "\"This summary identifies some of the main risks caused by poor air quality and air pollution episodes and how they can affect the health of transport users and staff. It also provides advice to help mitigate and plan for these risks.  Poor air quality can have direct impacts on people’s health and safety, especially for vulnerable groups such as:   children people with respiratory health conditions   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-air-quality-and-pollution",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

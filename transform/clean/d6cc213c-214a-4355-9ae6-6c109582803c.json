@@ -1,0 +1,15 @@
+{
+  "title": "AI Growth Zones",
+  "body": "\"The UK government is accelerating efforts to build the infrastructure needed to support AI growth. AI Growth Zones will help drive innovation, create high-skilled jobs, and strengthen the UK’s position as a leader in AI.  \"",
+  "base_path": "/government/collections/ai-growth-zones",
+  "taxons": [
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

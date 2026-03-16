@@ -1,0 +1,23 @@
+{
+  "title": "AI doctors’ assistant to speed up appointments a ‘gamechanger’",
+  "body": "\"  Government drives forward use of innovative artificial intelligence (AI) in hospitals to improve patient care New government guidance set out today will encourage its use across health service while protecting patient data and privacy  Trials show dramatic reduction in admin and more time for direct patient care, as Plan for Change delivers seismic shift in care to digital   NHS clinicians will be supported to use groundbreaking AI tools that bulldoze bureaucracy and take notes to free up staff time and deliver better care to patients thanks to guidance published today.  Interim trial data shows that the revolutionary technology has dramatically reduced admin and meant that:   more people could be seen in A&E clinicians could spend more time during an appointment focusing on the patient appointments were shorter   Through its Plan for Change the government is getting the NHS back on its feet and slashing waiting lists. Guidance published today will encourage the use of these products - which use speech technologies and generative AI to convert spoken words into structured medical notes and letters - across a range of primary and secondary care settings, including hospitals and GP surgeries.  The government’s mission-led approach is driving forward the use of innovative tech and new approaches to reform the health system and improve care for patients, offering them quicker and smarter care.  One of the tools - ambient voice technologies (AVTs) - can transcribe patient-clinician conversations, create structured medical notes and even draft patient letters.  Patient safety and privacy will be paramount. This is why the guidance will focus on data compliance and security, risk identification, and assessment, while ensuring that staff are properly trained before using the technology.   Health and Social Care Secretary Wes Streeting said:   AI is the catalyst that will revolutionise healthcare and drive efficiencies across the NHS, as we deliver our Plan for Change and shift care from analogue to digital.  I am determined we embrace this kind of technology, so clinicians don’t have to spend so much time pushing pens and can focus on their patients.  This government made the difficult but necessary decision at the Budget to put a record £26 billion into our NHS and social care, including cash to roll out more pioneering tech.   The NHS England funded, London-wide AVT work, led by Great Ormond Street Hospital for Children (GOSH), has evaluated AVT capabilities across a range of clinical settings including:   adult outpatients primary care paediatrics mental health community care A&E London Ambulance Service   This multi-site evaluation involving over 7,000 patients has demonstrated widespread benefits. Interim data shows:   increase in direct care - clinicians spending more time spent with patients rather than typing on a computer increase in productivity in A&E - the technology has supported more patients to be seen in emergency departments by carrying out admin for A&E staff   At GOSH, AVTs have listened to consultations and drafted clinic notes and letters. These were then edited and authorised by the clinician before being uploaded to the secure electronic health record system...",
+  "base_path": "/government/news/ai-doctors-assistant-to-speed-up-appointments-a-gamechanger",
+  "taxons": [
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

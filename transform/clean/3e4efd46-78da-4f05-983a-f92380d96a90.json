@@ -1,0 +1,11 @@
+{
+  "title": "Defra contact us form: privacy notice",
+  "body": "\"Privacy notice outlining how Defra will use your personal information after completing the Defra contact us form. \"",
+  "base_path": "/government/publications/defra-contact-us-form-privacy-notice",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

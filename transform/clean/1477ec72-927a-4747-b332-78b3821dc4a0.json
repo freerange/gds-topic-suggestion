@@ -1,0 +1,19 @@
+{
+  "title": "UK and France partner on navigation systems to protect critical infrastructure from hostile threats",
+  "body": "\"  UK and French researchers join up to shield critical infrastructure, including power supplies and emergency services, with more resilient navigation and timing systems.  Positioning, Navigation, and Timing systems are critical to everything from banking to transport – and the Ukraine war has shown how these systems can be targeted by malign actors.  Partnerships on AI supercomputing infrastructure, and AI research, to be agreed when French President and UK Science and Tech Secretary meet in London.     UK and French experts will work more closely to increase the resilience of both countries’ critical infrastructure to the signal-jamming seen in the war in Ukraine, as part of a suite of joint science and tech work being announced today (Thursday 10 July).    From our electricity infrastructure, to transport, to financial transactions, the tech we rely on for everyday life depends on reliable Positioning, Navigation and Timing (PNT), often provided via satellites. The conflict in Ukraine has shown how new technologies – in some cases, just small hand-held devices – can be used to disrupt PNT services, potentially causing major disruption to the vast areas of life and the economy reliant on them.   As part of a raft of UK-France joint science and tech efforts being announced today, researchers from both countries will work together on technologies complementary to the likes of GPS, which are highly resistant to this sort of jamming.    An example is e-LORAN, a program driven by the UK government, working closely with the National Physical Laboratory and private sector companies. The system uses ground-based radio towers, which are much more challenging to block, for a reliable “backup” to GPS, so that UK infrastructure can keep running even when GPS fails.    The UK’s Science and Tech Secretary used a joint visit to Imperial College London, with President Macron, to set out how this sort of collaboration makes both the UK and France stronger and safer. Whilst speaking at Imperial, Peter Kyle also pointed out the tens of millions of pounds in investment being brought into the British tech sector through UK-French trade, as well as the new jobs and growth that this partnership creates.  These are efforts that will bolster our economic and national security, which are foundational pillars of the Plan for Change.   UK Science and Technology Secretary, Peter Kyle said:    France and the UK both have huge ambitions for technology to boost economic growth and strengthen national security. It is vital we work with natural partners like our French neighbours in these endeavours, particularly as the threats from hostile state actors only grows.  Today we build on the Entente Cordiale with an Entente Technologique, celebrating and renewing our longstanding and historic partnership so that together we can face down the challenges of tomorrow.   Additionally, the UK and France are launching a partnership on supercomputing. The partnership will be led by the Bristol Centre for Supercomputing, the home of Isambard-AI, and the French computing centre GENCI, who lead France’s AI Factory.    Closer ties between both nations’ world-leading...",
+  "base_path": "/government/news/uk-and-france-partner-on-navigation-systems-to-protect-critical-infrastructure-from-hostile-threats",
+  "taxons": [
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Positioning, Navigation and Timing (PNT)",
+      "base_path": "/business-and-industry/positioning-navigation-timing"
+    }
+  ]
+}

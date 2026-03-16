@@ -1,0 +1,11 @@
+{
+  "title": "CICA telephone service update",
+  "body": "\"CICA’s phone lines will be closed on Monday 25 August 2025 for staff training.  The service will reopen on Tuesday 26 August at 8:30am.  You can contact CICA and apply online while the service is closed. \"",
+  "base_path": "/government/news/cica-telephone-service",
+  "taxons": [
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    }
+  ]
+}

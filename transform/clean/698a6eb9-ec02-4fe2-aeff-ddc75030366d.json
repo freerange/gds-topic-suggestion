@@ -1,0 +1,11 @@
+{
+  "title": "Routine resurvey reports - 2024 Surveys",
+  "body": "\"Systematic surveying of the UK’s coastal waters is administered by the Maritime and Coastguard Agency (MCA) under a Civil Hydrography Programme. Under the programme, the MCA has issued several long-term commercial contracts to ensure accurate hydrographic information is gathered for updating the nation’s nautical charts and publications.  Routine resurveys are undertaken in selected areas where the seabed is highly mobile. We analyse these surveys to identify changes and assess whether the limits and survey frequency should be revised.  You can view pre-2012 analysis reports via the UKHO archive website. \"",
+  "base_path": "/government/collections/routine-resurvey-reports-2024-surveys",
+  "taxons": [
+    {
+      "title": "Hydrography",
+      "base_path": "/environment/hydrography"
+    }
+  ]
+}

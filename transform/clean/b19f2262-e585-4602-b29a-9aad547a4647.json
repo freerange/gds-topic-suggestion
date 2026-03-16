@@ -1,0 +1,19 @@
+{
+  "title": "Northern Ireland waiting time statistics: inpatient and day case waiting times September 2025",
+  "body": "\"Information is detailed on the number of patients waiting, and length of time waiting, for ordinary and day case admissions at health and social care (HSC) trusts in Northern Ireland. The publications report on the performance of HSC trusts against the ministerial waiting time target in Northern Ireland. \"",
+  "base_path": "/government/statistics/northern-ireland-waiting-time-statistics-inpatient-and-day-case-waiting-times-september-2025",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

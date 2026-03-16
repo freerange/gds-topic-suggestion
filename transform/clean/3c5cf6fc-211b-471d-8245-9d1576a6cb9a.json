@@ -1,0 +1,11 @@
+{
+  "title": "Cambodia: Knowledge Base profile",
+  "body": "\"This document contains useful information about Cambodia which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy documents from Cambodia  \"",
+  "base_path": "/government/publications/cambodia-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Making Tax Digital for Income Tax and penalty reform",
+  "body": "\"These measures refine and simplify the Making Tax Digital (MTD) for Income Tax and penalty reform regimes.  Certain groups — such as ministers of religion, Lloyd’s underwriters, and recipients of Blind Person’s Allowance — will be deferred from MTD until at least April 2029. Others, including individuals with power of attorney and non-UK resident entertainers with no other qualifying income, will be permanently exempt.  These measures also introduce technical and policy amendments to ensure effective implementation of MTD and penalty reform, including the authority to cancel or reset late submission penalty points and cancel associated financial penalties.  Additionally, MTD users will be required to submit their end of year tax return using MTD-compatible software and those with a qualifying income of £20,000 or more in the 2026 to 2027 tax year will be required to join MTD from April 2028.   To provide comments, please email makingtaxdigitalconsultations@hmrc.gov.uk by 16 September 2025.   \"",
+  "base_path": "/government/publications/making-tax-digital-for-income-tax-and-penalty-reform",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Self Assessment",
+      "base_path": "/money/self-assessment"
+    }
+  ]
+}

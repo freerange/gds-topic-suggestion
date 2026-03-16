@@ -1,0 +1,15 @@
+{
+  "title": "B8: Chancroid (Haemophilus ducreyi) molecular request form",
+  "body": "\"Send completed forms with samples to:   Bacteriology reference department (BRD)   UK Health Security Agency61 Colindale AvenueLondonNW9 5EQ       Telephone 020 8327 7887 (staffed from 9am to 5pm, Monday to Friday)   DX address UKHSA Colindale Bacteriology, DX 6530002       Specimen submission guidelines can be found in the BRD user manual.  \"",
+  "base_path": "/government/publications/b8-chancroid-haemophilus-ducreyi-molecular-request-form",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    },
+    {
+      "title": "Research, testing and standards",
+      "base_path": "/health-and-social-care/health-protection-services-research-testing-and-standards"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "River basin management plans, 2022 to 2027: interim progress report 2025",
+  "body": "\"This is an overview of progress implementing the programmes of measures set out in the 2022 river basin management plans (RBMPs).  The case studies give examples of how RBMP measures are being implemented in partnership across river basin districts in England.  \"",
+  "base_path": "/government/publications/river-basin-management-plans-2022-to-2027-interim-progress-report-2025",
+  "taxons": [
+    {
+      "title": "River maintenance, flooding and coastal erosion",
+      "base_path": "/environment/river-maintenance-flooding-coastal-erosion"
+    },
+    {
+      "title": "Rural and countryside",
+      "base_path": "/environment/rural-and-countryside"
+    },
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    },
+    {
+      "title": "Wildlife and habitat conservation",
+      "base_path": "/environment/wildlife-habitat-conservation"
+    }
+  ]
+}

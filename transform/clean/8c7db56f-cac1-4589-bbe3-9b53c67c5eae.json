@@ -1,0 +1,23 @@
+{
+  "title": "Disability and employment transitions in Northern Ireland, 2011-2021",
+  "body": "\"Research Outlining Disability and employment transitions in Northern Ireland, 2011-2021 \"",
+  "base_path": "/government/publications/disability-and-employment-transitions-in-northern-ireland-2011-2021",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Disabled people",
+      "base_path": "/health-and-social-care/disabilities"
+    }
+  ]
+}

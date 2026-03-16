@@ -1,0 +1,11 @@
+{
+  "title": "UK input-output analytical tables: 2021",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/uk-input-output-analytical-tables-2021",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

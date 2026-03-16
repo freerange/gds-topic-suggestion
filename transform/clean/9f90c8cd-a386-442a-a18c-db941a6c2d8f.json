@@ -1,0 +1,11 @@
+{
+  "title": "Creative industries statistics: August 2025",
+  "body": "\"This annual release provides information on the creative industries’ tax reliefs for film, high-end television, animation, children’s television, video games, theatre, orchestra, and museums and galleries exhibitions.  Statistics are provided on the number of productions claiming tax relief, the number of tax relief claims and amounts claimed, and breakdowns of relief paid by size of claim. This publication reports on claims relating to financial years up to 31 March 2024.  This publication also includes information on claims made for Audio-Visual Expenditure Credits and Video Game Expenditure Credits. \"",
+  "base_path": "/government/statistics/creative-industries-statistics-august-2025",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    }
+  ]
+}

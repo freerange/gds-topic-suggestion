@@ -1,0 +1,11 @@
+{
+  "title": "Medical devices: examples of reportable incidents",
+  "body": "\"The Medicines and Healthcare products Regulatory Agency (MHRA) is the regulatory authority for the UK medical device market.  Once a medical device has been placed on the UK market, the manufacturer must submit reports to the MHRA when incidents that involve their device occur in the UK and meet the criteria for reporting (see Medical devices: post-market surveillance requirements).  The notification and evaluation of adverse incidents and FSCAs involving medical devices is known as the medical device vigilance system. The guidance shows examples of incidents that manufacturers must report to the MHRA under this system. \"",
+  "base_path": "/government/publications/medical-devices-examples-of-reportable-incidents",
+  "taxons": [
+    {
+      "title": "Vigilance, safety alerts and guidance",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-vigilance-safety-alerts"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Guernsey, Alderney and Sark: Knowledge Base profile",
+  "body": "\"This document contains useful information about Guernsey, Alderney and Sark which will assist His Majesty’s Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Guernsey, Alderney and Sark  \"",
+  "base_path": "/government/publications/guernsey-alderney-and-sark-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

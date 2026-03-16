@@ -1,0 +1,11 @@
+{
+  "title": "Personal light electric vehicle (PLEV) battery safety research",
+  "body": "\"This report was commissioned by the Office for Product Safety and Standards (OPSS) to improve the evidence base on the causes of the safety risks and hazards associated with PLEV batteries and chargers. It was prepared by WMG, at the University of Warwick. It includes:   a literature study of scientific papers and reports of real-world evidence of PLEV fires in the UK and other major markets a review of existing UK legislation and applicable standards the findings of detailed inspection and testing of several e-bike and e-scooter batteries available on the UK market, covering a broad price range   Stakeholders from emergency services, safety groups, PLEV manufacturers and retailers, standards organisations and battery experts were consulted.  This work has resulted in suggestions for actions by government, standards bodies and other groups, aimed at reducing the frequency and severity of PLEV fires.  To accompany the report, OPSS has produced an update on its programme of activity to understand and address product safety risks involving e-bikes, e-scooters and lithium-ion batteries.  In addition, two videos are available of conversion kit batteries for e-bikes going into thermal runaway when tested under conditions of misuse, such as the use of an unsuitable charger. This leads rapidly to fire, explosions, and clouds of toxic gas. The videos represent the ferocity and unpredictable nature of these fires from unsafe, non-compliant or improperly used lithium-ion batteries.  Battery safety testing conducted in a controlled environment 1  Battery safety testing conducted in a controlled environment 2 \"",
+  "base_path": "/government/publications/personal-light-electric-vehicle-plev-battery-safety-research",
+  "taxons": [
+    {
+      "title": "Product safety",
+      "base_path": "/business-and-industry/product-safety"
+    }
+  ]
+}

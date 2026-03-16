@@ -1,0 +1,11 @@
+{
+  "title": "Greenhouse gas reporting: conversion factors 2025",
+  "body": "\"There are 3 sets of conversion factors:    condensed set: this abridged version of the full set is easiest to navigate and most frequently requested. Recommended for most, and new, users of conversion factors  full set: contains all available factors for the selected year. Recommended for advanced users only, due to the volume of information  flat file: contains same data as the full set but designed for use in automated processes. Not recommended for most users   The methodology paper explains how the conversion factors are derived.  New users: read the introductory worksheet in the latest condensed set of conversion factors, and the guidance at the top of each individual worksheet.  Regular users: read the ‘what’s new’ sheet which highlights the significant changes for that update: this will ensure consistent and comparable reporting year-on-year.  The Environmental reporting guidelines provide more detail. \"",
+  "base_path": "/government/publications/greenhouse-gas-reporting-conversion-factors-2025",
+  "taxons": [
+    {
+      "title": "Greenhouse gas emissions",
+      "base_path": "/environment/greenhouse-gas-emissions"
+    }
+  ]
+}

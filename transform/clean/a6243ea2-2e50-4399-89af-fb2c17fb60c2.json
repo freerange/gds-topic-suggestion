@@ -1,0 +1,11 @@
+{
+  "title": "Child Poverty Strategy: Evidence Pack",
+  "body": "\"This evidence pack forms part of the Child Poverty Strategy publication. Whilst it cannot comprehensively and succinctly summarise all available evidence, it provides a summary of the key evidence and context that has informed the development of the Child Poverty Strategy.  The aim of the pack is to summarise ‘the problems’ that the Child Poverty Strategy is seeking to address, examining key trends and drivers over time with a focus on the period from 2010 to 2011 to the present. It doesn’t include the policies and interventions adopted by the Strategy in response to these problems, as those are covered in the Strategy and separate accompanying publications. \"",
+  "base_path": "/government/publications/child-poverty-strategy-evidence-pack",
+  "taxons": [
+    {
+      "title": "Child poverty",
+      "base_path": "/childcare-parenting/child-poverty"
+    }
+  ]
+}

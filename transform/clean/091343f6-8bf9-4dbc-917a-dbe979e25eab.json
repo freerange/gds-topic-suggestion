@@ -1,0 +1,11 @@
+{
+  "title": "Department for Business and Trade (DBT) prompt payment data April to June 2025",
+  "body": "\"Department for Business and Trade’s (DBT) percentage of invoices paid within 5 days and within 30 days of receipt. The data is in yearly quarters.  Data from before the creation of DBT is available on the Department for International Trade prompt payment data page.  \"",
+  "base_path": "/government/publications/department-for-business-and-trade-dbt-prompt-payment-data-april-to-june-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

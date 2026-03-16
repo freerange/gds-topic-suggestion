@@ -1,0 +1,15 @@
+{
+  "title": "Peter Kyle’s speech at Google Cloud Summit London",
+  "body": "\"Thank you for having me, and thanks also for acknowledging the GOV.UK App, which I’m sure you’ve all downloaded.  If you haven’t already, then you should be doing so now. And I don’t if you’re looking down at your phones while I’m speaking, if what you’re doing is downloading the GOV.UK App – which is already outselling the Bible on the app store, I’m reliably told.  When I came into office a year ago, I was told to deliver an App, with a digital wallet, with a chatbot, and with a digital driving licence attached to it, I was told it couldn’t be done in one parliament, that it couldn’t be done in one 5 year period.  My response was I’m sure Google and others don’t take that long to design and deploy their technology. Let me see a timeline.  The timeline came back to me a week later, and it was now 3 years.  We did all of this, the start of the deployment of GOV.UK App, within one year of government.  Within 15 months, all of those services I’ve just outlined will be deployed and put to the benefit of citizens right around the country.  And that for me is a source of huge pride, because we’ve used technology to wrap services around individual citizens needs.  Right now, as all of you know, too often citizens are being wrapped around the needs of services themselves.  And this is a profound change as we go forward.  Now, sometimes I’m accused of being “too close to big tech”.  And I could have no better place to have this argument out on the table with you now.  In May, The Guardian criticised me for meeting with the sector 70% more than my predecessor. Now, to this crime, I plead guilty.  In truth that was just 28 times over the course of a 6-month period, that equates to around twice a week over that time.  As Technology Secretary I simply will not apologise for meeting with technology companies – that is the job.  Just as meeting with the families of victims of social media, regulators, founders, overseas governments and the creative sector, it’s all part and parcel of what I’m paid to do on behalf of the people’s government.  But I don’t do these meetings just because I’m paid to do it.  I do them because they matter:  keeping children safe or from social media – it matters;  making sure Britain is the best prepared for developments at the frontier of AI – that matters;  and securing better deals for the taxpayer for the billions of pounds spent every year on software, cloud services, devices and information technology – that matters.  So today, I’m here to acknowledge our agreement for an entirely new way of working with Google – and how that will impact our public services.  It’s an agreement that recognises our value as the UK government as a huge client to their organisation.  And how important their technology is to...",
+  "base_path": "/government/speeches/peter-kyles-speech-at-google-cloud-summit-london",
+  "taxons": [
+    {
+      "title": "Economic growth",
+      "base_path": "/government/economic-growth"
+    },
+    {
+      "title": "GOV.UK services",
+      "base_path": "/government/govuk-services"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Measles: Historic confirmed cases, notifications and deaths",
+  "body": "\"The structure and content of the measles epidemiology webpages has changed; older webpages are available to view on the UK Government Web Archive. \"",
+  "base_path": "/government/publications/measles-historic-confirmed-cases-notifications-and-deaths",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

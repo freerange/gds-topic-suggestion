@@ -1,0 +1,27 @@
+{
+  "title": "Draft Road Investment Strategy 3 (RIS3)",
+  "body": "\"The third road investment strategy (RIS3) sets out government’s priorities for the strategic road network in England from 2026 to 2031. It sets out a high-level vision for the network and its role in:   funding for operating, maintaining and enhancing the road network providing the main areas for the transportation of goods describing the priority areas where investment will focus   The draft RIS3 will also measure performance outcome areas for National Highways, which are responsible for the strategic road network (SRN).  This strategy was influenced by the following consultations:   National Highways SRN initial report Department for Transport’s shaping the future of England’s strategic roads    \"",
+  "base_path": "/government/publications/draft-road-investment-strategy-3-ris3",
+  "taxons": [
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    },
+    {
+      "title": "Road transport and the environment",
+      "base_path": "/transport/road-transport-and-the-environment"
+    },
+    {
+      "title": "Local roads",
+      "base_path": "/transport/local-roads"
+    },
+    {
+      "title": "Making roads safer",
+      "base_path": "/transport/making-roads-safer"
+    },
+    {
+      "title": "Motorways",
+      "base_path": "/transport/motorways"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Notices regime: code of practice",
+  "body": "\"This code of practice sets out further detail on:   the circumstances in which a data retention, technical capability, national security, or notification notice can be given the process that must be followed before a notice can be given the obligations that may be imposed by the giving of a notice the ensuing right of review oversight of the use of notices  \"",
+  "base_path": "/government/publications/notices-regime-code-of-practice",
+  "taxons": [
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

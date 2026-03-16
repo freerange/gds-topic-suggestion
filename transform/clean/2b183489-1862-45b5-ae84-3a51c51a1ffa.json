@@ -1,0 +1,27 @@
+{
+  "title": "MGN 601 (M) Amendment 1 MLC, 2006 crew accommodation for small vessels of less than 200GT",
+  "body": "\"This notice should be read with the Merchant Shipping (Maritime Labour Convention) (Minimum Requirements for Seafarers etc.) Regulations 2014 Part 7, MGN 600(M) amendment 3 which covers MLC inspections for Coded vessels and replaces MGN 601 (M).  Amendment 1 updates reference information only.  Notice to   vessel owners operators and managers seafarers designers builders and surveyors  \"",
+  "base_path": "/government/publications/mgn-601-m-amendment-1-mlc-2006-crew-accommodation-for-small-vessels-of-less-than-200gt",
+  "taxons": [
+    {
+      "title": "Maritime safety",
+      "base_path": "/transport/maritime-safety"
+    },
+    {
+      "title": "Employment of seafarers",
+      "base_path": "/transport/employment-of-seafarers"
+    },
+    {
+      "title": "Ship crew health and safety",
+      "base_path": "/transport/ship-crew-health-and-safety"
+    },
+    {
+      "title": "Vessel registration and design",
+      "base_path": "/transport/vessel-registration-and-design"
+    },
+    {
+      "title": "Vessel surveys and inspection",
+      "base_path": "/transport/maritime-surveying"
+    }
+  ]
+}

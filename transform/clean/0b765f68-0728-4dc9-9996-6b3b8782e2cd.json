@@ -1,0 +1,19 @@
+{
+  "title": "Notice to Traders 56/25 - USA Beef Preferential Tariff Quota",
+  "body": "\"Details of the products and quantity available from 30 June until 31 December 2025, and subsequent years, can be found at Annex 1. \"",
+  "base_path": "/government/publications/notice-to-traders-5625-usa-beef-preferential-tariff-quota",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    },
+    {
+      "title": "Import, export and distribution of food",
+      "base_path": "/environment/producing-distributing-food-import-export"
+    },
+    {
+      "title": "Meat production",
+      "base_path": "/environment/producing-distributing-food-meat-production"
+    }
+  ]
+}

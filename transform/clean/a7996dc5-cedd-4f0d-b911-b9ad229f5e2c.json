@@ -1,0 +1,11 @@
+{
+  "title": "Restart Scheme statistics to October 2025",
+  "body": "\"The Restart Scheme launched in June 2021, with the first cohort starting in July 2021, in England and Wales and aims to provide tailored and intensive support to participants to achieve sustained work. It is currently aimed at those who have claimed Universal Credit (UC) continuously for at least 6 months and are currently in the Intensive Work Search (IWS) regime. Participants may also come from those in receipt of  Income Based Jobseeker’s Allowance (JSA IB)  for at least 6 months.   These statistics in development include demographics and volumes of referrals, starts, first earnings, job outcomes and performance by contract area, month, and cohort.  \"",
+  "base_path": "/government/statistics/restart-scheme-statistics-to-october-2025",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

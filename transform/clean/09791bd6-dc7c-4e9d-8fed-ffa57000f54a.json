@@ -1,0 +1,11 @@
+{
+  "title": "Notification of intention to prepare Environmental Delivery Plans",
+  "body": "\"A letter of notification to the Secretary of State advising of Natural England’s intention to prepare 23 Environmental Delivery Plans (EDPs) in England. This includes the preparation of:    16 EDPs for nutrient pollution from development affecting protected sites   7 EDPs for great crested newts (GCN), for development (including infrastructure) in England where GCN are materially present    \"",
+  "base_path": "/government/publications/notification-of-intention-to-prepare-environmental-delivery-plans",
+  "taxons": [
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    }
+  ]
+}

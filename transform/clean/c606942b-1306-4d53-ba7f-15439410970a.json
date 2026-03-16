@@ -1,0 +1,11 @@
+{
+  "title": "Reported road casualties in Great Britain, involving illegal alcohol levels: 2024",
+  "body": "",
+  "base_path": "/government/statistics/announcements/reported-road-casualties-in-great-britain-involving-illegal-alcohol-levels-2024",
+  "taxons": [
+    {
+      "title": "Drink and drug driving",
+      "base_path": "/transport/drink-and-drug-driving"
+    }
+  ]
+}

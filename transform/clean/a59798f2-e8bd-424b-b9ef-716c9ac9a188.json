@@ -1,0 +1,11 @@
+{
+  "title": "MAIB Data Portal update",
+  "body": "\"The MAIB Data Portal has been live for just under 6 months. Data was initially only available for marine accidents reported to the MAIB in 2023. Today, that data has been updated to include marine accidents reported in 2022, 2023, and 2024. Work continues to make available data from 2020 and 2021. Data for 2025 and beyond will be released at regular intervals in the future.  The MAIB’s goal to improve safety of life at sea and prevent future accidents is a key driver for providing the public and industry with marine accident data to highlight key insights and drive safety improvements.  Visit the MAIB Data Portal to access the service, where you can view a prepared dashboard and download any combination of 3 CSV files and a Power BI data set file with a copy of the online dashboard and CSV files embedded.  Please note that if you have used data previously published, it may differ slightly from the latest update as accidents have been investigated and additional information has come to light. \"",
+  "base_path": "/government/news/maib-data-portal-update",
+  "taxons": [
+    {
+      "title": "Maritime accidents and serious incidents",
+      "base_path": "/transport/maritime-accidents-and-serious-incidents"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Healthcare expenditure, UK Health Accounts: 2023 and 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/healthcare-expenditure-uk-health-accounts-2023-and-2024",
+  "taxons": [
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

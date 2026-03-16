@@ -1,0 +1,15 @@
+{
+  "title": "Energy transition: UK - Netherlands memorandum of understanding",
+  "body": "\"Secretary of State for Energy Security and Net Zero Ed Miliband and Minister of Climate and Policy and Green Growth and Deputy Prime Minister Sophie Hermans signed a memorandum of understanding (MoU) to promote and strengthen the collaboration and cooperation between the two countries in the field of energy transition, energy policy and climate.  This ambitious and wide-ranging agreement will deepen and bolster our cooperation across a wide range of energy policy areas, including:   offshore wind electricity interconnection energy security and winter preparedness gas interconnection hydrogen carbon capture, utilisation, and storage (CCUS) civil nuclear including Small Modular Reactors (SMRs) heat networks and decarbonising heat   \"",
+  "base_path": "/government/publications/energy-transition-uk-netherlands-memorandum-of-understanding",
+  "taxons": [
+    {
+      "title": "UK energy security",
+      "base_path": "/business/uk-energy-security"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

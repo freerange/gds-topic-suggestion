@@ -1,0 +1,11 @@
+{
+  "title": "Offender employment outcomes - regional data tool",
+  "body": "",
+  "base_path": "/government/statistics/announcements/offender-employment-outcomes-regional-data-tool",
+  "taxons": [
+    {
+      "title": "Prisons and probation",
+      "base_path": "/crime-justice-and-law/prisons-probation"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Quarterly personal well-being statistics, November 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/quarterly-personal-well-being-statistics-november-2025",
+  "taxons": [
+    {
+      "title": "Mental health",
+      "base_path": "/health-and-social-care/mental-health"
+    },
+    {
+      "title": "Life circumstances",
+      "base_path": "/life-circumstances"
+    }
+  ]
+}

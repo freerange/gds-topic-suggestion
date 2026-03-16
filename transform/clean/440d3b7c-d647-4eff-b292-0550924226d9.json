@@ -1,0 +1,23 @@
+{
+  "title": "Decision for MTC London Logistics LTD",
+  "body": "\"Decision  Pursuant to adverse findings under section 26(1)(b), (f) and (h) and section 27(1)(a) of the 1995 Act, OF2060738 MTC LONDON LOGISTICS LTD no longer meets the requirements of section 13A(2) of the said Act - stable establishment, good repute, financial standing and professional competence. Accordingly, the Licence is revoked with immediate effect.  MTC LONDON LOGISTICS LTD and its director Mr Ionut-Adrian Chiperi are disqualified from holding or obtaining an Operator Licence or being engaged in the management, administration or control of any entity which holds or obtains such a Licence in GB for an indeterminate period with immediate effect, as provided for by sections 28(1), (4) and (5) of the 1995 Act.  Upon a finding that the former Transport Manager Mr Iulian Bujorean no longer satisfies the requirements of Section 13A(3) of the Goods Vehicles (Licensing of Operators) Act 1995 to be of good repute, in accordance with Schedule 3 of the said Act, and a finding that he is unfit to manage the transport activities of an undertaking, Mr Iulian Bujorean is disqualified from acting as a Transport Manager on any Operator Licence for an indeterminate period with immediate effect. It is not appropriate to set rehabilitation measures at this time, but Mr Iulian Bujorean has liberty to apply for further details in the future. \"",
+  "base_path": "/government/publications/decision-for-mtc-london-logistics-ltd",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

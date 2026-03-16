@@ -1,0 +1,11 @@
+{
+  "title": "Independent fostering agency places",
+  "body": "\"This data shows the number of places approved by independent fostering agencies (IFA) in England as at 31 March for the years 2021 to 2024. We have published this data following a request for information. From 2025 onwards, we will include this data in our Fostering in England accredited official statistics. \"",
+  "base_path": "/government/publications/independent-fostering-agency-places",
+  "taxons": [
+    {
+      "title": "Inspections of fostering and adoption agencies",
+      "base_path": "/childcare-parenting/inspections-fostering-adoption-agencies"
+    }
+  ]
+}

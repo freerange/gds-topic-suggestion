@@ -1,0 +1,15 @@
+{
+  "title": "Construction products supply chain",
+  "body": "\"This report presents findings from an independent study commissioned by OPSS and conducted by Risk and Policy Analysts and BWL Consulting. Its aim was to review current practices across construction products’ supply chains and assess whether further guidance and/or regulatory action was needed to strengthen these practices. It focused on estimating the size of the market, analysing the supply chain structures as a system, and understanding the technical information data flows in each tier of the supply chains process, for five specific construction products:   cables cladding fire barriers (firestoppers) fire doors insulation   It involved a literature review and collecting information from key stakeholders across the UK through questionnaires, interviews and workshops. \"",
+  "base_path": "/government/publications/construction-products-supply-chain",
+  "taxons": [
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    },
+    {
+      "title": "Product safety",
+      "base_path": "/business-and-industry/product-safety"
+    }
+  ]
+}

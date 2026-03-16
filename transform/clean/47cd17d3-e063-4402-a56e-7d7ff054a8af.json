@@ -1,0 +1,15 @@
+{
+  "title": "Research and development and related expenditure by UK government departments and devolved administrations.",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/research-and-development-and-related-expenditure-by-uk-government-departments-and-devolved-administrations",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

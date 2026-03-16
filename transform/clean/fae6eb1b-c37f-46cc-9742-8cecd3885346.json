@@ -1,0 +1,11 @@
+{
+  "title": "Public Health Outcomes Framework: May 2025 data update",
+  "body": "\" The Office for Health Improvement and Disparities (OHID) has published the Public Health Outcomes Framework (PHOF) data update for May 2025.   The data is presented in an interactive tool that allows users to view it in a user friendly format. The data tool also provides links to further supporting information, to aid understanding of public health in a local population.   This update includes new data for 14 indicators, including indicators on:   inequality in life expectancy physically active and inactive adults overweight, including obesity, prevalence in adults fruit and vegetable consumption re-offending sickness absence dental decay in 5 year olds rates of complaints about noise pupil absence 16 and 17 year olds not in education, employment or training  HPV vaccination coverage in children aged 12 to 13 years old   Further details of all indicators in the PHOF, including date of last update, geographies included and inequality breakdowns, are available from PHOF indicator details.  \"",
+  "base_path": "/government/statistics/public-health-outcomes-framework-may-2025-data-update",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

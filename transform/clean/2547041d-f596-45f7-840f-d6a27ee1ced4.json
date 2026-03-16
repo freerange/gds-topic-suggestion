@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: coastal flooding and erosion",
+  "body": "\"This summary identifies some of the main risks associated with coastal flooding and erosion, such as:   flooding from large waves and higher sea levels damage to coastal transport routes from erosion   It also provides advice to help mitigate and plan for these risks.  Direct impacts from coastal flooding and erosion include:   impacts to safety due to powerful waves or collapsing coastal structures damage to transport infrastructure from flooding and erosion   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-coastal-flooding-and-erosion",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Boiler Upgrade Scheme statistics: October 2025",
+  "body": "\" Correction notice: 28 November 2025  Table Q1.1B in the first version of this release incorrectly duplicated the nominal costs presented in Table Q1.1A without adjusting for inflation. This impacts Table Q1.1B only, which has now been corrected in this version.   These statistics show the uptake of the Boiler Upgrade Scheme to date including the number of vouchers applications and redemptions, as well as the costs of installation.  Enquiries about these statistics should be directed to: amelia.ash@energysecurity.gov.uk. \"",
+  "base_path": "/government/statistics/boiler-upgrade-scheme-statistics-october-2025",
+  "taxons": [
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "UK-Norway, Iceland, and Liechtenstein Free Trade Agreement – committee documents",
+  "body": "\"Collected documents from UK-Norway, Iceland, and Liechtenstein free trade agreement committees. Committees include:   Committee on Sanitary and Phytosanitary measures Sub-committee on Services and Investment Sub-Committee on Trade and Sustainable Development (TSD)  \"",
+  "base_path": "/government/collections/uk-norway-iceland-and-liechtenstein-free-trade-agreement-committee-documents",
+  "taxons": [
+    {
+      "title": "Customs declarations, duties and tariffs (import and export)",
+      "base_path": "/business-and-industry/customs-declarations-duties-tariffs"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    },
+    {
+      "title": "Inward investment",
+      "base_path": "/business-and-industry/inward-investment"
+    }
+  ]
+}

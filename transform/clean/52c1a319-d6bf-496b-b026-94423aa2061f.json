@@ -1,0 +1,11 @@
+{
+  "title": "Total Income from Farming in England in 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/total-income-from-farming-in-england-in-2025",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

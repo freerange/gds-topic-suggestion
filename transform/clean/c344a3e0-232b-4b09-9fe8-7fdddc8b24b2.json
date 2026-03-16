@@ -1,0 +1,11 @@
+{
+  "title": "English Housing Survey: local authority housing stock condition modelling, 2023",
+  "body": "\"This Official Statistics in Development series provides sub-regional estimates of housing stock condition. Specifically, modelled estimates of:   the number and proportion of occupied homes that are deemed non-decent according to the Decent Homes Standard in each local authority, by tenure and dwelling type the number and proportion of occupied homes that are deemed unsafe due to having a Housing Health and Safety Rating System (HHSRS) Category 1 hazard in each local authority, by tenure and dwelling type the number and proportion of occupied homes that have a problem with damp in each local authority, by tenure and dwelling type  \"",
+  "base_path": "/government/statistics/english-housing-survey-local-authority-housing-stock-condition-modelling-2023",
+  "taxons": [
+    {
+      "title": "Housing and communities",
+      "base_path": "/housing-local-and-community/housing-and-communities"
+    }
+  ]
+}

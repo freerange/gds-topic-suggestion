@@ -1,0 +1,15 @@
+{
+  "title": "Household Costs Indices for UK household groups: October 2024 to December 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/household-costs-indices-for-uk-household-groups-october-2024-to-december-2024",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

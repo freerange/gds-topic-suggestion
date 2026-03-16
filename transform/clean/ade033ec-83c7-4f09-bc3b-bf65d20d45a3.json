@@ -1,0 +1,19 @@
+{
+  "title": "Cyber governance mapping",
+  "body": "\"These mapping documents complement the Cyber Governance Code of Practice and aim to help businesses and organisations understand the Code.  The government is working with industry to improve the management of digital risks and improve cyber resilience across the economy. As part of this the government has launched a new Cyber Governance Code of Practice. To support adoption of this Code, the Department for Science, Innovation and Technology (DSIT) has created a Cyber Governance Mapping document for boards, directors and Chief Information Security Officers (or equivalent).   Read the Cyber Governance Code of Practice.  Read the press notice.   The mapping documents were created in response to feedback from industry, received through a consultation on the Cyber Governance Code of Practice (the Code), which stated that greater clarification was needed on how the Code fits into the current cyber standards landscape. This mapping document addresses this by illustrating where there are similarities and differences between the Code and other domestic and international cyber standards and frameworks.  These mapping documents can help organisations understand what actions of the Code they may already be implementing through adherence to other cyber standards and frameworks.  These mapping documents are live documents. Additional domestic and international cyber standards and frameworks will be included as they are completed. The document will be periodically reviewed from time to time and updated accordingly, including incorporating any new standards and frameworks that are published.  These mapping documents are illustrative and should only be used as a point of reference. They are not intended to be authoritative or be taken as legal advice on compliance with the standards or frameworks mentioned.  \"",
+  "base_path": "/government/publications/cyber-governance-mapping",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    },
+    {
+      "title": "Corporate governance",
+      "base_path": "/business-and-industry/corporate-governance"
+    },
+    {
+      "title": "Business auditing, accounting and reporting",
+      "base_path": "/business-and-industry/business-auditing-accounting-reporting"
+    }
+  ]
+}

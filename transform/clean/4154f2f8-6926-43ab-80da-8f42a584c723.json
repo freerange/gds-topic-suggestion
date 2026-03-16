@@ -1,0 +1,11 @@
+{
+  "title": "HMRC awards and appointments",
+  "body": "\"HMRC supports other government departments in their awards and appointments processes by providing advice on potential tax risks, by reference to a low, medium or high rating. This supports HMRC’s functions of collecting and managing revenue.  \"",
+  "base_path": "/government/collections/hmrc-awards-and-appointments",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

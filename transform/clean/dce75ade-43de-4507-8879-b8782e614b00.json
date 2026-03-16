@@ -1,0 +1,11 @@
+{
+  "title": "UK Ship Register Statistics: May 2025",
+  "body": "\" Our statistical practice is regulated by the Office for Statistics Regulation (OSR). OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to. You are welcome to contact us directly by emailing us with any comments about how we meet these standards.   Monthly statistics on the vessels joining and leaving the UK Ship Register are published in the table FLE0100, in table FLE0100b. This includes the number of vessels flagged in and out of the register, the total number of vessels currently on the register and the gross tonnage of vessels that flagged in and out of the register, and the total gross tonnage currently on the UK Ship Register.  Contact us   Maritime and shipping statistics     Email maritime.stats@dft.gov.uk     Media enquiries 0300 7777 878      \"",
+  "base_path": "/government/statistics/uk-ship-register-statistics-may-2025",
+  "taxons": [
+    {
+      "title": "Vessel registration and design",
+      "base_path": "/transport/vessel-registration-and-design"
+    }
+  ]
+}

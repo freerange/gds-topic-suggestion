@@ -1,0 +1,27 @@
+{
+  "title": "Environment Agency scientists seek new ways to save mussel power",
+  "body": "\"Mussels are one of nature’s yardsticks for coastal water quality, and they even help filter it. But with mussel numbers declining from Western Europe to the Arctic due to climate change, Environment Agency scientists are exploring new ways to sample water.   Each spring, Environment Agency officers collect samples of Atlantic Blue Mussels (Mytilus edulis) from the Camel estuary in Cornwall as part of their routine water quality monitoring. The Camel is one of around twenty sites in a national network.   The mussel flesh is removed from the mussels and then sent to the Environment Agency laboratories at Starcross and Leeds where it is analysed for a range of chemical contaminants found in the shellfish.   Mussels are perfect bioindicators of pollution as they are relatively long-lived, filter large amounts of water and absorb a wide range of pollutants in the water, accumulating them in their tissues. This makes them useful in understanding water quality.   But Atlantic Blue Mussels are facing a worrying decline, suspected to be caused by climate change.   In response, Environment Agency scientists are working with CEFAS (Centre for Environment, Fisheries and Aquaculture Science) to evaluate new innovations which may help us sample water whilst protecting and conserving mussels.   Passive monitoring techniques use thin film membranes to absorb chemicals and pollutants present in the water and, if successful, may replace the need for using mussels.    Passive monitoring devices may offer an alternative to mussel sampling.  Paul Elsmere, from the Cornwall Analysis and Reporting Team, said:    Passive monitoring techniques are a promising development which may allow us to move away from mussel sampling.  Wildlife is a great barometer of environmental health and none more so than the Atlantic Blue Mussel.  But with these amazing creatures in worrying decline we need to focus on new innovations to measure water quality.   Two types of passive sampler device have been trialled on the Itchen Estuary in Hampshire, as part of the UK government’s HM Treasury funded Coastal Health, Livelihoods and Environment Shared Outcomes Fund project.   The effectiveness of passive sampler devices compared to traditional spot water sampling methods such as mussel samples are being evaluated, and if successful this technology could transform our approach to monitoring chemicals in our coastal waters.   Passive sampling may also have other benefits, such as when investigating coastal health where pressures may not be constant across time or when the threshold for potential effects is low.   Background  The passive sampling project was in collaboration with the Environment Agency’s Solent and South Downs’ marine team who identified the deployment location, obtained the necessary permission, and helped to coordinate the successful deployments.   Future monitoring on the River Itchen in 2025 will be coordinated with local citizen science groups managed by Solent and South Downs’ analysis and reporting team. \"",
+  "base_path": "/government/news/environment-agency-scientists-seek-new-ways-to-save-mussel-power",
+  "taxons": [
+    {
+      "title": "Marine environment",
+      "base_path": "/environment/marine-environment"
+    },
+    {
+      "title": "Marine protection and wildlife",
+      "base_path": "/environment/environmental-management-marine-marine-protection-and-wildlife"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Biodiversity and ecosystems",
+      "base_path": "/environment/biodiversity-and-ecosystems"
+    },
+    {
+      "title": "Fish and shellfish",
+      "base_path": "/environment/environmental-management-wildlife-habitat-conservation-fish-and-shellfish"
+    }
+  ]
+}

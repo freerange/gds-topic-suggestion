@@ -1,0 +1,11 @@
+{
+  "title": "Changing the late payment interest rate for unpaid tax",
+  "body": "\"This measure increases the interest rate on late payment of unpaid tax by 1.5% to encourage taxpayers to pay on time. \"",
+  "base_path": "/government/publications/changing-the-late-payment-interest-rate-for-unpaid-tax",
+  "taxons": [
+    {
+      "title": "Paying HMRC",
+      "base_path": "/money/paying-hmrc"
+    }
+  ]
+}

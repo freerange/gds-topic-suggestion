@@ -1,0 +1,19 @@
+{
+  "title": "Access to Work official statistics: release strategy",
+  "body": "\"The release strategy describes the potential release of new statistics within the publication and announces any other developments.   The Access to Work official statistics release strategy is not a static document. It will be updated as plans develop to provide users with details of latest developments. \"",
+  "base_path": "/government/publications/access-to-work-official-statistics-release-strategy",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    }
+  ]
+}

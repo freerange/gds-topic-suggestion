@@ -1,0 +1,15 @@
+{
+  "title": "Forestry Commission: prompt payment data April to June 2025",
+  "body": "\"The Forestry Commission’s percentage of invoices paid within 5 days and within 30 days of receipt. The data is in yearly quarters.  The data covers:   Forestry Commission Forestry England Forest Research  \"",
+  "base_path": "/government/publications/forestry-commission-prompt-payment-data-april-to-june-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    }
+  ]
+}

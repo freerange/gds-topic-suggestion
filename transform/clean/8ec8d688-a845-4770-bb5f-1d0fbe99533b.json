@@ -1,0 +1,11 @@
+{
+  "title": "Household Costs Indices for UK household groups: January 2025 to March 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/household-costs-indices-for-uk-household-groups-january-2025-to-march-2025",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "National Policy Statement for renewable energy infrastructure (EN-3), 2025",
+  "body": "\" This version of the National Policy Statement for renewable energy infrastructure (EN-3) came into force on 6 January 2026.   This guidance makes it easier for decision makers, applicants and the wider public to understand:   government policy on the need for nationally significant infrastructure projects (NSIPs) how applications for energy infrastructure will be assessed the way in which impacts and mitigations will be judged   \"",
+  "base_path": "/government/publications/national-policy-statement-for-renewable-energy-infrastructure-en-3-2025",
+  "taxons": [
+    {
+      "title": "Sustainable development",
+      "base_path": "/government/sustainable-development"
+    },
+    {
+      "title": "UK energy security",
+      "base_path": "/business/uk-energy-security"
+    },
+    {
+      "title": "Energy industry and infrastructure licensing and regulation",
+      "base_path": "/business-and-industry/energy-industry-and-infrastructure-licensing-and-regulation"
+    }
+  ]
+}

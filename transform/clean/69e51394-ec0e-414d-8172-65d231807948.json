@@ -1,0 +1,11 @@
+{
+  "title": "Egypt: Knowledge Base profile",
+  "body": "\"This document contains useful information about Egypt which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy adoption surrogacy gender recognition civil partnerships and marriage documents from Egypt  \"",
+  "base_path": "/government/publications/egypt-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

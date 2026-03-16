@@ -1,0 +1,11 @@
+{
+  "title": "Sustainable Aviation Fuel (SAF) Mandate statistics",
+  "body": "\" The SAF Mandate statistics are a new set of statistics with the first publication coming out in August 2025. This aligns with the publication cycle of the Renewable Transport Fuel Obligation (RTFO) statistics.  The data tables report on aviation fuel supplied to the UK under the SAF Mandate, which came into effect as of January 1, 2025.  If you have any questions, please contact: environment.stats@dft.gov.uk.   \"",
+  "base_path": "/government/collections/sustainable-aviation-fuel-saf-mandate-statistics",
+  "taxons": [
+    {
+      "title": "Low carbon fuels",
+      "base_path": "/transport/low-carbon-fuels"
+    }
+  ]
+}

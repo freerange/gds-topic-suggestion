@@ -1,0 +1,11 @@
+{
+  "title": "European Entry Exit System (EES) – MOD personnel",
+  "body": "\"Communique to UK service personnel and civil servants deployed and posted to locations in the Schengen Zone: EU Entry and Exit System. \"",
+  "base_path": "/government/publications/european-entry-exit-system-ees-mod-personnel",
+  "taxons": [
+    {
+      "title": "Support services for military and defence personnel and their families",
+      "base_path": "/defence/support-services-military-defence-personnel-families"
+    }
+  ]
+}

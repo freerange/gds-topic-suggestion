@@ -1,0 +1,15 @@
+{
+  "title": "DfT: spend control data for July to September 2024",
+  "body": "\"The Department for Transport (DfT) publishes details of approved expenditure in areas limited by spending controls on a quarterly basis.  This data is also available on data.gov.uk. \"",
+  "base_path": "/government/publications/dft-spend-control-data-for-july-to-september-2024",
+  "taxons": [
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    },
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Trade and Cooperation Agreement implementation report, 2023-2024",
+  "body": "\"The second TCA Implementation Report covering 2023 and 2024 \"",
+  "base_path": "/government/publications/trade-and-cooperation-agreement-implementation-report-2023-2024",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    },
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    }
+  ]
+}

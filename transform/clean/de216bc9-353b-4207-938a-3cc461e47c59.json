@@ -1,0 +1,15 @@
+{
+  "title": "Ready, Steady, File!",
+  "body": "\"‘Ready, Steady, File!’ keeps participants up to date with the latest news, resources, and important milestones in the Making Tax Digital for Income Tax beta testing journey. \"",
+  "base_path": "/government/collections/ready-steady-file",
+  "taxons": [
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    },
+    {
+      "title": "Self Assessment",
+      "base_path": "/money/self-assessment"
+    }
+  ]
+}

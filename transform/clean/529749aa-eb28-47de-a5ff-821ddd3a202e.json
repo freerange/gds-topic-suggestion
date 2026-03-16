@@ -1,0 +1,19 @@
+{
+  "title": "Understanding HIV testing in England",
+  "body": "\"This report:   describes and evaluates the system of HIV testing in England presents existing data on HIV testing by setting, including descriptive statistics outlining the population offered testing, test positivity and regional distribution identifies areas to improve current HIV testing offer based on gap analysis and compared to the British HIV Association (BHIVA) and National Institute of Clinical Excellence (NICE) guidelines   The data presented in this report relates to England only.  \"",
+  "base_path": "/government/publications/understanding-hiv-testing-in-england",
+  "taxons": [
+    {
+      "title": "Health surveillance and reporting programmes",
+      "base_path": "/health-and-social-care/health-protection-services-health-surveillance-and-reporting-programmes"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    },
+    {
+      "title": "Sexual and reproductive health",
+      "base_path": "/health-and-social-care/sexual-and-reproductive-health"
+    }
+  ]
+}

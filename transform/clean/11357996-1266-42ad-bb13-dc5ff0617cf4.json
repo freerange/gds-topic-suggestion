@@ -1,0 +1,19 @@
+{
+  "title": "Report the prescription of a BTV-3 vaccination",
+  "body": "\"Private veterinary surgeons should use this service to comply with the UK Chief Veterinary Officer’s request to notify Defra within 7 days of prescribing a BTV-3 vaccination. Read point 3 of the Advisory note for veterinarians prescribing BTV-3 inactivated vaccine in England for more information.  Veterinarians in Wales and Scotland should read the relevant advisory note for their country for further information on recording the prescription of a BTV-3 vaccine:    advisory note for Wales (point 3)  advisory note for Scotland (point 3)   Before you apply  To use this service, you’ll need the:    county parish holding (CPH) number for the location where the animals were registered when you prescribed the vaccine  name and batch number of the vaccine  number of each species the prescription is intended for   Start now   Submit a BTV-3 animal vaccination report    There’s a different service for animal keepers to report the use of the BTV-3 vaccine.  When prescribing vaccinations, you should remind animal keepers to report their vaccinations within 48 hours of vaccination.  Get help   For help with this form, email: btv3vaccine@defra.gov.uk  \"",
+  "base_path": "/guidance/report-the-prescription-of-a-btv-3-vaccination",
+  "taxons": [
+    {
+      "title": "Cattle deaths",
+      "base_path": "/environment/keeping-farmed-animals-cattle-deaths"
+    },
+    {
+      "title": "Reporting disease and disease outbreaks",
+      "base_path": "/environment/preventing-and-reporting-disease"
+    },
+    {
+      "title": "Veterinary medicines",
+      "base_path": "/environment/keeping-farmed-animals-veterinary-medicines"
+    }
+  ]
+}

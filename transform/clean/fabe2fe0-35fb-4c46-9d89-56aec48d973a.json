@@ -1,0 +1,15 @@
+{
+  "title": "Assessing and enabling AI readiness in the Department for Transport",
+  "body": "\"The Department for Transport (DfT) has launched a Social and Behavioural Sciences for Artificial Intelligence (AI) research programme to support the successful use of AI in the department. The programme generates evidence on opportunities for AI, risks and areas for improvement.  This report presents a flagship project from the programme – ‘A behavioural science and systems thinking approach to assess and enable AI readiness in DfT’.  \"",
+  "base_path": "/government/publications/assessing-and-enabling-ai-readiness-in-the-department-for-transport",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

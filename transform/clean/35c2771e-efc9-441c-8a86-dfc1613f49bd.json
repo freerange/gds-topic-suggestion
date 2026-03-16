@@ -1,0 +1,15 @@
+{
+  "title": "Statistics on smoking cessation services in Northern Ireland 2024/25",
+  "body": "\"Information on smoking cessation services between 1 April 2024 and 31 March 2025 on clients who set a quit date and the outcome at 4 weeks. \"",
+  "base_path": "/government/statistics/statistics-on-smoking-cessation-services-in-northern-ireland-202425--2",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Smoking",
+      "base_path": "/health-and-social-care/smoking"
+    }
+  ]
+}

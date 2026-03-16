@@ -1,0 +1,11 @@
+{
+  "title": "Using the Environmental Indicator Framework",
+  "body": "\"The Environmental Indicator Framework is a comprehensive set of indicators describing environmental change. The framework contains 66 indicators, arranged into 10 broad themes. The indicators are extensive; they cover natural capital assets (for example, land, freshwater, air and seas) and together they show the condition of these assets, the pressures acting upon them and the provision of services or benefits they provide. \"",
+  "base_path": "/government/publications/using-the-environmental-indicator-framework",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

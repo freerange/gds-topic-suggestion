@@ -1,0 +1,15 @@
+{
+  "title": "Support for the rural economy",
+  "body": "\" \"",
+  "base_path": "/government/collections/support-for-the-rural-economy",
+  "taxons": [
+    {
+      "title": "Rural economy and community",
+      "base_path": "/environment/rural-economy-and-community"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

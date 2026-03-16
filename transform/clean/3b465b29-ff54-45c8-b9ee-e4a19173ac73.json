@@ -1,0 +1,11 @@
+{
+  "title": "Gross domestic expenditure on research and development, UK: 2023",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/gross-domestic-expenditure-on-research-and-development-uk-2023",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

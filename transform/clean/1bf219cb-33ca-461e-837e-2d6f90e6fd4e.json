@@ -1,0 +1,11 @@
+{
+  "title": "UK international sea passengers: November 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/uk-international-sea-passengers-november-2025",
+  "taxons": [
+    {
+      "title": "UK sea passengers",
+      "base_path": "/transport/uk-sea-passengers"
+    }
+  ]
+}

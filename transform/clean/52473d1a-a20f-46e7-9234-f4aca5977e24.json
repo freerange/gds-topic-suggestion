@@ -1,0 +1,11 @@
+{
+  "title": "General Pharmaceutical Services Statistics for NI, Q1 2025/26",
+  "body": "\"Statistics related to pharmaceutical activity in Northern Ireland for quarter 1 of 2025/26, including information on community pharmacy activity. \"",
+  "base_path": "/government/statistics/general-pharmaceutical-services-statistics-for-ni-q1-202526",
+  "taxons": [
+    {
+      "title": "Pharmacy",
+      "base_path": "/health-and-social-care/pharmacy"
+    }
+  ]
+}

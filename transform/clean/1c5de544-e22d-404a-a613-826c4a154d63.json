@@ -1,0 +1,15 @@
+{
+  "title": "Local Regeneration Fund",
+  "body": "\"After listening to feedback from local government, on the need for less bureaucratic micromanagement and more local control, we have now announced the consolidation of MHCLG’s Levelling Up Fund, Town Deals and Simplification Pathfinders Pilot Fund together into a single funding pot. This reform will increase flexibility to adapt schemes to local needs and focus on delivery.  To provide more details on how this change will affect places, we have published technical guidance on this page, along with an Accounting Officer assessment and a privacy notice. \"",
+  "base_path": "/government/publications/local-regeneration-fund",
+  "taxons": [
+    {
+      "title": "Local government",
+      "base_path": "/regional-and-local-government/local-government"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

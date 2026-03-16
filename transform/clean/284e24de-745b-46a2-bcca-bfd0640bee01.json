@@ -1,0 +1,23 @@
+{
+  "title": "Interministerial Group on UK-EU Relations communiqué: 23 September 2025",
+  "body": "\"The Interministerial Group on UK-EU Relations met on 23 September 2025. The meeting was chaired by the Paymaster General and Minister for the Cabinet Office Nick Thomas-Symonds MP. \"",
+  "base_path": "/government/publications/interministerial-group-on-uk-eu-relations-communique-23-september-2025",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Regional and local government",
+      "base_path": "/regional-and-local-government"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    },
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Deaths registered weekly in England and Wales, provisional: week ending 1 August 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/deaths-registered-weekly-in-england-and-wales-provisional-week-ending-1-august-2025",
+  "taxons": [
+    {
+      "title": "Death registration disclosure",
+      "base_path": "/life-circumstances/death-registration-disclosure"
+    }
+  ]
+}

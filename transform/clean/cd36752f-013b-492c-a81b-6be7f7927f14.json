@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Civil Partnerships (Northern Ireland): July 2025",
+  "body": "\"Monthly civil partnerships registered in Northern Ireland up to and including July 2025. \"",
+  "base_path": "/government/statistics/monthly-civil-partnerships-northern-ireland-july-2025",
+  "taxons": [
+    {
+      "title": "Marriage, civil partnership and divorce",
+      "base_path": "/life-circumstances/marriage-divorce"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

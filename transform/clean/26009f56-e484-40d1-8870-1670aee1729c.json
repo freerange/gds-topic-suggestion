@@ -1,0 +1,11 @@
+{
+  "title": "Dominica: Knowledge Base profile",
+  "body": "\"This document contains useful information about Dominica which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy adoption gender recognition civil partnerships and marriage documents from Dominica  \"",
+  "base_path": "/government/publications/dominica-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Going and being abroad",
+      "base_path": "/going-and-being-abroad"
+    }
+  ]
+}

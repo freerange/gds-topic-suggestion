@@ -1,0 +1,15 @@
+{
+  "title": "Dual marking vehicles under the GB type-approval scheme",
+  "body": "\"Motor vehicles must be approved before sale to demonstrate they meet the relevant environmental, safety and security requirements.  Vehicles must be approved both in GB and the EU to be sold UK wide. This is due to the Windsor Framework which applies EU vehicle approval regulations in Northern Ireland (NI).  We are aware that some manufacturers are choosing not to mark vehicles approved under both schemes with the EU approval number, preventing their sale in NI.  We want to understand why this is happening and what can be done to ensure all vehicles sold in the UK are dual marked.  \"",
+  "base_path": "/government/calls-for-evidence/dual-marking-vehicles-under-the-gb-type-approval-scheme",
+  "taxons": [
+    {
+      "title": "Driving licence categories",
+      "base_path": "/transport/driving-licence-categories"
+    },
+    {
+      "title": "Driving licences and medical conditions",
+      "base_path": "/transport/driving-licences-and-medical-conditions"
+    }
+  ]
+}

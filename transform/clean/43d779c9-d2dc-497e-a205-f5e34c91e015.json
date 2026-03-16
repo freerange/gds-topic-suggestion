@@ -1,0 +1,11 @@
+{
+  "title": "Occupations in demand: 2025",
+  "body": "\"The data in this release applies across occupations and industries in the UK.  The technical report outlines:    the approach and methodology aggregations and sensitivity analysis future considerations  \"",
+  "base_path": "/government/publications/occupations-in-demand-2025",
+  "taxons": [
+    {
+      "title": "Education, training and skills",
+      "base_path": "/education"
+    }
+  ]
+}

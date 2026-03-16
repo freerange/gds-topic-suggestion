@@ -1,0 +1,19 @@
+{
+  "title": "Beavers: signs of beavers on your land",
+  "body": "\"Beavers will not usually cause problems. If you need to manage beaver activities on your land you should refer to the guidance for managing beaver activities in England. \"",
+  "base_path": "/government/publications/beavers-signs-of-beavers-on-your-land",
+  "taxons": [
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    },
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    },
+    {
+      "title": "Mammals",
+      "base_path": "/environment/environmental-management-wildlife-habitat-conservation-mammals"
+    }
+  ]
+}

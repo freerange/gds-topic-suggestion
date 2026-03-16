@@ -1,0 +1,11 @@
+{
+  "title": "Core Spending Power table: final local government finance settlement 2025 to 2026",
+  "body": "\"Core Spending Power measures the core revenue funding available for local authority services through the local government finance settlement. It consists of revenue grant funding made available through the settlement, locally retained business rates and council tax.  This information table shows: the change in Core Spending Power since last year; Core Spending Power per dwelling; and the component figures which are included in Core Spending Power (council tax, locally retained business rates and relevant government grants).  To note, Core Spending Power figures set out local authorities’ position under 50% business rates retention arrangements, which is the position that applies to most local authorities. Core Spending Power figures have not been amended to reflect authorities with bespoke ‘increased’ business rates retention arrangements (i.e. above 50% retention arrangements), which can be seen in the ‘Key information table for local authorities: final local government finance settlement 2025 to 2026’. \"",
+  "base_path": "/government/publications/core-spending-power-table-final-local-government-finance-settlement-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Local government spending",
+      "base_path": "/regional-and-local-government/local-government-spending"
+    }
+  ]
+}

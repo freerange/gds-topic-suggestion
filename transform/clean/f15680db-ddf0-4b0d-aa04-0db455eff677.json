@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Housing Statistics 2024 to 2025",
+  "body": "\"This report is an Accredited Official Statistics publication produced annually by the Analytics Division of the Department for Communities. The report contains information on supply, energy, social renting demand, private renting demand, owner occupier demand and household characteristics. \"",
+  "base_path": "/government/statistics/northern-ireland-housing-statistics-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Housing, local and community",
+      "base_path": "/housing-local-and-community"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

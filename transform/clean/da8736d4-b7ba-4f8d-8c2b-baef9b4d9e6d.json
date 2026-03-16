@@ -1,0 +1,23 @@
+{
+  "title": "Breakthrough in bowel cancer research will speed up diagnosis",
+  "body": "\"Patients could soon benefit from world-leading technology to diagnose bowel cancer earlier, faster and cheaper, reducing the need for invasive colonoscopies and biopsies, and potentially saving valuable time and resource for the NHS, the government has announced today (23 April 2025).  The technology, made on British soil by Xgenera, in collaboration with the University of Southampton, has the potential to detect bowel cancer earlier, improving diagnosis rates, and offering patients valuable time back to treat the disease faster and more effectively.  Bowel cancer is the UK’s fourth most common cancer, with over 42,000 people diagnosed each year. Early diagnosis is crucial, with 9 in 10 people surviving bowel cancer when it’s detected at stage 1, compared to just 1 in 10 when diagnosed at stage 4.   This government is driving forward improvements to cancer care through the Plan for Change to fix our NHS - including by improving waiting times for lower gastrointestinal diagnosis. From July 2024 to February 2025, 76.6% of patients have received their cancer diagnosis or all clear within 28 days, an increase of 4 percentage points compared to the previous year.   Today’s announcement comes as the Health and Social Care Secretary is set to visit a research lab funded by Cancer Research UK, which has been renamed in memory of campaigner Dame Deborah James.  The Bowelbabe Laboratory will bring together leading scientists to advance our understanding of bowel cancer. It will conduct cutting-edge research and will aid in the development of new treatments for bowel cancer.  Secretary of State for Health and Social Care Wes Streeting said:    From my own experience, I know the devastating toll cancer can take on patients and families, and how many of them have been faced with long waiting lists to get the diagnosis and treatment they deserve.   We know that the key to surviving cancer is catching it as early as possible, so this government is taking the urgent action needed to make sure that happens through our Plan for Change, from developing world-leading technology to detect bowel cancer earlier, through to setting up hubs for the UK’s top scientists to research and treat the disease.    Dame Deborah James dedicated her life to raising awareness for cancer and finding ways that we can beat it, so it is only right that we honour her legacy by investing in research to help stop one of the country’s biggest killers.   And research is only one part of the work we’re doing. Our national cancer plan will transform cancer so patients can get the latest treatments and technology, ultimately bringing this country’s cancer survival rates back up to some of the best in the world.   Professor Lucy Chappell, Chief Scientific Adviser at the Department of Health and Social Care (DHSC) and Chief Executive Officer of the National Institute for Health and Care Research (NIHR), said:   Innovations such as the mIONCO-Dx blood test offer an exciting new era in cancer detection with the potential for quicker, easier and more effective ways to detect cancers before they become more...",
+  "base_path": "/government/news/breakthrough-in-bowel-cancer-research-will-speed-up-diagnosis",
+  "taxons": [
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Cancer research and treatment",
+      "base_path": "/health-and-social-care/cancer-research-and-treatment"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "DCMS Commercial Pipeline",
+  "body": "\"DCMS publishes its upcoming procurement pipeline every 6 months to a year to meet transparency requirements. \"",
+  "base_path": "/government/collections/dcms-commercial-pipeline",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: wildfire",
+  "body": "\"This summary identifies some of the main risks to transport associated with wildfires, such as damage to infrastructure, disruption to services and threats to health and safety. It also provides advice to help mitigate and plan for these risks.  Direct impacts from wildfires include:   destruction of infrastructure from heat and flames disruption due to smoke, which can cause a risk to health and reduce visibility   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-wildfire",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

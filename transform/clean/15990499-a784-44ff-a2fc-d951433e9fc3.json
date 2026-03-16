@@ -1,0 +1,15 @@
+{
+  "title": "Ariel Monitoring & Evaluation Support",
+  "body": "\"Ariel (Atmospheric Remote-sensing Infrared Exoplanet Large-survey), part of the European Space Agency (ESA)’s Cosmic Vision programme, is scheduled to launch in 2029. It will study the atmospheres of more than 1,000 exoplanets (planets orbiting stars outside our solar system) to increase understanding of these planets and their potential to support life.  In addition to the UK’s subscription to ESA and its mandatory science programme, the UK Space Agency has invested £30.3 million of national funding to support UK leadership aiming to:    Secure UK scientific and technical leadership of exoplanet research, data science and space science by nominal end of mission.   Enhance the reach and reputation of the UK’s space sector   Inspire, attract and retain talent to upskill our workforce   Stimulate innovation and commercial opportunities through data science and space technology    National funding has secured UK scientific and technical leadership roles, including contributions from UCL, RAL Space, Cardiff University, and the University of Oxford. This has led to an increase in both the quantity and quality of science outputs. While launch is still several years away, preparatory science led by UK researchers is laying the groundwork for scientific objectives to be achieved in the future. \"",
+  "base_path": "/government/publications/ariel-monitoring-evaluation-support",
+  "taxons": [
+    {
+      "title": "Government evaluation",
+      "base_path": "/government/government-evaluation"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

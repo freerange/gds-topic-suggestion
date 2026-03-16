@@ -1,0 +1,19 @@
+{
+  "title": "Publish a record of algorithmic tools using the ATRS",
+  "body": "\"To meet this commitment as part of Digital and Data function’s strategic commitments you must publish, or show how you plan to publish, an ATRS record for any algorithmic tools.  “Algorithmic tools” are products, applications, or devices that support or solve a specific problem using complex algorithms. It is a broad term that covers different applications of artificial intelligence (AI), statistical modelling and complex algorithms.  The commitment only covers algorithmic tools that:   have a significant influence on a decision-making process with public effect directly interact with the general public   Full details of the tools in scope can be found in the ATRS scope and exemptions and policy.  The commitment applies to central government, which for this policy means:   Ministerial departments Non-ministerial departments Arm’s-length-bodies (ALBs), meaning executive agencies and non-departmental public bodies, which provide public or frontline services, or routinely interact with the general public.   For full details of included organisations, as well as those that are exempt see the ATRS scope and exemptions policy.  For any algorithmic tools covered by this commitment, you must:   complete a record using the ATRS record template. submit the record to the ATRS team for review at algorithmic-transparency@dsit.gov.uk.   Use the ATRS guidance to help you complete a record.   If you’re going through the spend control process you must explain how you’re meeting this commitment if your spend request has been rated high on the Risk and Importance Framework or has an assurance rating of control.   Answering ‘no’ will not lead to an automatic rejection and you will need to explain why your spend cannot align to the commitment.  \"",
+  "base_path": "/guidance/publish-a-record-of-algorithmic-tools-using-the-atrs",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Government technology and digital services",
+      "base_path": "/government/government-technology-and-digital-services"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

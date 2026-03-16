@@ -1,0 +1,23 @@
+{
+  "title": "Sanctions compliance in the property sector: threat assessment",
+  "body": "\"This publication is one in a series of sector-specific assessments by the Office of Financial Sanctions Implementation (OFSI) addressing threats to UK financial sanctions compliance.  These assessments demonstrate OFSI’s commitment to proactively investigate breaches of UK financial sanctions. This assessment provides information on suspected sanctions breaches only and is intended to assist stakeholders with prioritisation as part of a risk-based approach to compliance. \"",
+  "base_path": "/government/publications/sanctions-compliance-in-the-property-sector-threat-assessment",
+  "taxons": [
+    {
+      "title": "Being a landlord and renting out a room",
+      "base_path": "/housing-local-and-community/landlords"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    },
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "New UK action against foreign information warfare",
+  "body": "\"Malign foreign actors are undermining European security and stability through manipulation of information and interference in our information ecosystem. The Foreign Secretary has today announced new UK sanctions against Russian organisations and individuals responsible for information warfare. \"",
+  "base_path": "/government/publications/new-uk-action-against-foreign-information-warfare",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Embargoes and trade sanctions",
+      "base_path": "/business-and-industry/embargoes-and-sanctions"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Christmas Drink/Drug Drive Campaign, period ending 1 January 2025",
+  "body": "\"This publication can be accessed here \"",
+  "base_path": "/government/statistics/christmas-drinkdrug-drive-campaign-period-ending-1-january-2025",
+  "taxons": [
+    {
+      "title": "Drink and drug driving",
+      "base_path": "/transport/drink-and-drug-driving"
+    },
+    {
+      "title": "Penalty points, fines and driving bans",
+      "base_path": "/transport/penalty-points-fines-and-driving-bans"
+    },
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

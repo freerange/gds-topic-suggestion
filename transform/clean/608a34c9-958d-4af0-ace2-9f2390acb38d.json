@@ -1,0 +1,15 @@
+{
+  "title": "Digital mental health technology: qualification and classification",
+  "body": "\"Digital mental health technologies (DMHTs) are software products and related hardware that aim to support mental health and wellbeing. For the purposes of regulation, there are two important characteristics:     Intended purpose: what the manufacturer intends it to be used for. For example, whether it is to support wellbeing or to aid treatment of a mental health condition.   Functionality: how the product works, and how the different applications of the DMHT are delivered through the device. For example, functionalities can include, but are not limited to, education modules about understanding mental health and wellbeing, AI algorithms and chatbots.      If the device is intended to have a medical purpose and the product functionality is considered complex, a DMHT needs to be regulated as a software as a medical device (SaMD) product. This means that the manufacturer must meet the requirements of the medical device regulations. They will have to evidence product safety and effectiveness according to recognised standards.    This guidance document helps manufacturers identify the specific characteristics of their DMHT and determine whether it is considered as SaMD. If it is SaMD, the guidance will help determine the appropriate device classification.  Class I is for the lowest risk medical devices, which manufacturers can self-certify before  putting them on the market. Class IIa, IIb, and III are for increasingly higher-risk medical devices and will require approved/notified body assessment to achieve the appropriate regulatory certification in the UK or Europe.  \"",
+  "base_path": "/government/publications/digital-mental-health-technology-qualification-and-classification",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

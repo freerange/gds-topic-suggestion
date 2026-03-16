@@ -1,0 +1,11 @@
+{
+  "title": "Launching the Connectivity Tool",
+  "body": "\"Achieving sustainable development is a core aim of the UK’s planning system, but has been hindered by the lack of a clear way of measuring what is a ‘sustainable location’ for development in transport terms. This means that policy-makers and decision-takers have lacked a commonly agreed evidence base to define connectivity.  To tackle this problem the Department for Transport has created a new Connectivity Tool, which combines transport and land-use data in an innovative way to generate a ‘connectivity score’ for every location across England and Wales at a resolution of 100 metre by 100 metre squares.  This score measures people’s ability to get where they want and need to go using walking, cycling and public transport to reach jobs, shops, schools, healthcare and other essential services.    In June we launched the tool to all public bodies in England and Wales. Today, we are going a step further and opening up access to the tool online to everyone, free of charge, to help inform their plans, strategies and decisions.  This landmark platform will serve as the new national metric of connectivity, transforming how we plan for new development and the transport infrastructure needed to support it, ensuring new homes and services can be easily accessed by sustainable modes of transport, helping kickstart economic growth, and delivering the government’s house building targets.  It will help to target investment in transport infrastructure that enhances connectivity to underserved communities, improving their access to opportunities. By helping planners and place-makers consider how to shape their towns and cities, it will ensure we are building homes that are part of vibrant and thriving communities and help unlock development sites.  \"",
+  "base_path": "/government/speeches/launching-the-connectivity-tool",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

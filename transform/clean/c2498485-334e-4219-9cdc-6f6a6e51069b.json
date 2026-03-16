@@ -1,0 +1,11 @@
+{
+  "title": "Veterans Strategy",
+  "body": "\"This strategy sets out the government’s vision to ensure that every veteran is:   celebrated for their service empowered to realise their full potential provided with the support they deserve to achieve this   Built around the pillars of celebrate, contribute and support, it provides a framework for the whole of society to adopt, recognising and celebrating the sacrifices of veterans while ensuring they have every opportunity to succeed in civilian life. \"",
+  "base_path": "/government/publications/veterans-strategy",
+  "taxons": [
+    {
+      "title": "Veterans and family support",
+      "base_path": "/defence-and-armed-forces/veterans-family-support"
+    }
+  ]
+}

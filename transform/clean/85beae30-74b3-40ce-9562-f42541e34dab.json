@@ -1,0 +1,11 @@
+{
+  "title": "Peru: Knowledge Base profile",
+  "body": "\"Knowledge Base is an information resource for HM Passport Office staff.  This document contains useful information about Peru which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Peru  \"",
+  "base_path": "/government/publications/peru-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

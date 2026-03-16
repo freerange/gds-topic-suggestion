@@ -1,0 +1,15 @@
+{
+  "title": "Wastewater analysis: Measuring illicit drug consumption",
+  "body": "\"Beginning in 2021, the Home Office Wastewater Analysis Programme has taken samples from wastewater treatment plants (WWTPs) across England and Scotland. Samples have been used to calculate the quantity consumed of several illicit drug types. The Programme utilises wastewater analysis to provide robust and timely estimates of drug consumption in England and Scotland. Phases 1 and 2 ran from May 2021 to September 2024 and were delivered by scientists and epidemiologists from the Environmental Research Group (ERG) at Imperial College London.  This report presents consumption estimates calculated using samples taken from 16 WWTPs, covering 18% of England’s population, between January and April 2023 and between January and April 2024. Consumption estimates from each year are compared to estimate trends in consumption of each of the following substances: cocaine, heroin, ketamine, MDMA, methamphetamine, and amphetamine. \"",
+  "base_path": "/government/publications/wastewater-analysis-measuring-illicit-drug-consumption",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

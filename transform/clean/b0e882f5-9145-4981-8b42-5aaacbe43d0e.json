@@ -1,0 +1,19 @@
+{
+  "title": "Withdrawal Agreement Joint Committee annual report 2024",
+  "body": "\"This report provides an overview of United Kingdom-European Union Withdrawal Agreement activity between 1 January to 31 December 2024. \"",
+  "base_path": "/government/publications/withdrawal-agreement-joint-committee-annual-report-2024",
+  "taxons": [
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    },
+    {
+      "title": "Europe",
+      "base_path": "/government/europe"
+    }
+  ]
+}

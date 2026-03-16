@@ -1,0 +1,15 @@
+{
+  "title": "HMCTS Remote Participation Approach",
+  "body": "\"HMCTS supports remote court and tribunal hearings to improve access to justice.  Our Remote Participation Approach outlines:   our ambition to improve access to justice our approach to maximising the benefits of remote hearings the next steps for improving technology and access to justice with the use of remote hearings  \"",
+  "base_path": "/government/publications/hmcts-remote-participation-approach",
+  "taxons": [
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    },
+    {
+      "title": "Justice system transparency",
+      "base_path": "/crime-justice-and-law/justice-system-transparency"
+    }
+  ]
+}

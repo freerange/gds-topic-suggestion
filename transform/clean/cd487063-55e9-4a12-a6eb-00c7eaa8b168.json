@@ -1,0 +1,43 @@
+{
+  "title": "MHRA highlights “remarkable” progress and launches real-world data consultation on International Clinical Trials Day",
+  "body": "\"Major progress has been made in delivering a more efficient and adaptable regulatory framework for clinical trials, the Chief Executive of the Medicines and Healthcare products Regulatory Agency (MHRA) has reflected on International Clinical Trials Day.  New regulations – which represent the most significant update to the UK clinical trials landscape in 20 years – are designed to put participants firmly at the centre of how trials are run, while supporting faster, more streamlined approvals, making it easier to test new treatments in the UK.  Lawrence Tallon, MHRA Chief Executive said:   I’ve experienced first-hand the life-changing impact clinical research can have on patients and their families. This, combined with the benefits it brings to the economy, is why it’s so important we ensure the UK is one the most attractive places in the world to conduct trials.  The UK is already a research powerhouse driven by innovation, with one in eight trials in the UK testing treatments in humans for the first time.  But we want to go further. Last month, we began implementing the most significant update to UK clinical trials regulation in over two decades. These reforms will address the research sector’s need for a more risk-proportionate regulatory framework for clinical trials and will help get cutting-edge new treatments to the NHS as quickly as possible.   Lord O’Shaughnessy, former health minister, senior partner at Newmarket Strategy and author of the landmark report into the UK commercial clinical trials landscape said:   The progress the MHRA has made in the two years since I published my review has been remarkable. Despite its global reputation for excellence, by 2023 trial approval set up times had slipped badly.  The MHRA is now delivering consistently good approval times while introducing further reforms to add speed and flexibility to the process.  With a clear mandate from the Prime Minister to reduce trial set up times to 150 days – which would be genuinely world-leading – the MHRA is once again taking a global lead.   Professor Sir Martin Landray, Chief Executive of Protas, said:   I am delighted with the progress the MHRA has made to deliver an efficient and coordinated regulatory process for clinical trials.  Innovation in clinical trials is much needed if we are to find better ways to prevent and treat the growing burden of common and life-threatening diseases. The UK can be in pole position to lead the charge, and regulatory enlightenment is a key part of this journey.   Developed in partnership with the Health Research Authority (HRA), and shaped by feedback from patients, researchers, doctors, and industry, the new regulations will take full effect from April 2026, following the 12-month implementation period.  To ensure these substantial reforms are phased in effectively, the MHRA and Health Research Authority (HRA) will be producing updated guidance. Already, the MHRA and HRA have launched a pilot Inclusion and Diversity Plan. Shaped by input from over 300 researchers, it offers practical guidance to help sponsors design more representative studies, to ensure that trials represent the populations...",
+  "base_path": "/government/news/mhra-highlights-remarkable-progress-and-launches-real-world-data-consultation-on-international-clinical-trials-day",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Regulation reform",
+      "base_path": "/business-and-industry/regulation-reform"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    },
+    {
+      "title": "Clinical trials and investigations",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-clinical-trials-investigations"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    }
+  ]
+}

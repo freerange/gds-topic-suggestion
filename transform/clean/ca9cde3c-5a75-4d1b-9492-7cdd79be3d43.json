@@ -1,0 +1,11 @@
+{
+  "title": "Hazard screening and UK risk prioritisation for tyre additives",
+  "body": "\"This project identified chemical additives in tyres that should be prioritised for further assessment. Available hazard and tonnage data and modelling were used to assess and rank substances based on their relative environmental hazard and/or risk.  Substances identified in this study should be prioritised for further detailed assessment by the Environment Agency and other stakeholders. \"",
+  "base_path": "/government/publications/hazard-screening-and-uk-risk-prioritisation-for-tyre-additives",
+  "taxons": [
+    {
+      "title": "Chemicals",
+      "base_path": "/environment/chemicals"
+    }
+  ]
+}

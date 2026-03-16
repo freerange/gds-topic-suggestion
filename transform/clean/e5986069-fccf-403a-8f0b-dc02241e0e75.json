@@ -1,0 +1,15 @@
+{
+  "title": "DfT appropriate policy document",
+  "body": "\"This policy outlines how the Department for Transport (DfT) processes:    special categories of personal data  criminal offence data    It also highlights safeguards DfT has put in place in line with the Data Protection Act 2018 requirements, including our policy for the retention and erasure of personal data.  \"",
+  "base_path": "/government/publications/dft-appropriate-policy-document",
+  "taxons": [
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    }
+  ]
+}

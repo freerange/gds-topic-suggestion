@@ -1,0 +1,23 @@
+{
+  "title": "How to register and de-register as a provider of social housing",
+  "body": "\"These guides aim to help individual organisations make informed decisions about whether seeking registration with the regulator is the right decision for them. They cover the common misconceptions about registration and the main issues that applicants encounter in seeking to demonstrate that they meet requirements.  The registration criteria and the application process are explained in the Guidance for new entrants.  Before starting the application process, applicants should familiarise themselves with both the preliminary and detailed stage requirements, and with the requirements that will apply to it if it is registered.    To register as a provider of social housing you should first complete the Preliminary application form on this page – this will allow us to check whether you meet the eligibility requirements of registration.  If you meet the eligibility requirements at the Preliminary application stage, you will be invited to complete the Detailed application form. Guidance on completing the application forms is included within each form.   Under section 114A of the Housing and Regeneration Act 2008, local authorities who have taken the decision to provide social housing are subject to compulsory registration and should notify us by emailing enquiries@rsh.gov.uk.  \"",
+  "base_path": "/government/collections/how-to-register-and-de-register-as-a-provider-of-social-housing",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    },
+    {
+      "title": "Housing for older and vulnerable people",
+      "base_path": "/housing-local-and-community/housing-for-older-and-vulnerable-people"
+    },
+    {
+      "title": "Housing regulation",
+      "base_path": "/housing-local-and-community/regulation"
+    },
+    {
+      "title": "Rented housing sector",
+      "base_path": "/housing-local-and-community/rented-housing-sector"
+    }
+  ]
+}

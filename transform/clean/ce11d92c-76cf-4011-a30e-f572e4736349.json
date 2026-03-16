@@ -1,0 +1,55 @@
+{
+  "title": "Annual (April 2023 to March 2024) ANNB and YPA Screening KPI Data",
+  "body": "\"These reports cover annual information for both antenatal and newborn and young person and adult screening. \"",
+  "base_path": "/government/publications/annual-april-2023-to-march-2024-annb-and-ypa-screening-kpi-data",
+  "taxons": [
+    {
+      "title": "NHS abdominal aortic aneurysm (AAA) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-abdominal-aortic-aneurysm"
+    },
+    {
+      "title": "NHS bowel cancer screening (BCSP) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-bowel"
+    },
+    {
+      "title": "NHS breast screening (BSP) programme ",
+      "base_path": "/health-and-social-care/population-screening-programmes-breast"
+    },
+    {
+      "title": "NHS cervical screening (CSP) programme ",
+      "base_path": "/health-and-social-care/population-screening-programmes-cervical"
+    },
+    {
+      "title": "NHS diabetic eye screening (DES) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-diabetic-eye"
+    },
+    {
+      "title": "NHS fetal anomaly screening programme (FASP)",
+      "base_path": "/health-and-social-care/population-screening-programmes-fetal-anomaly"
+    },
+    {
+      "title": "NHS infectious diseases in pregnancy screening (IDPS) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-infectious-diseases-in-pregnancy"
+    },
+    {
+      "title": "NHS newborn and infant physical examination (NIPE) screening programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-newborn-infant-physical-examination"
+    },
+    {
+      "title": "NHS newborn blood spot (NBS) screening programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-newborn-blood-spot"
+    },
+    {
+      "title": "NHS newborn hearing screening programme (NHSP)",
+      "base_path": "/health-and-social-care/population-screening-programmes-newborn-hearing"
+    },
+    {
+      "title": "NHS sickle cell and thalassaemia (SCT) screening programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-sickle-cell-thalassaemia"
+    },
+    {
+      "title": "Quality assurance in population screening",
+      "base_path": "/health-and-social-care/screening-quality-assurance"
+    }
+  ]
+}

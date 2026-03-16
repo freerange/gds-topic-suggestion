@@ -1,0 +1,11 @@
+{
+  "title": "DfT: gender pay gap report and data 2025",
+  "body": "\"This report contains data on the differences in Department for Transport employees’ average employee earnings between April 2024 and March 2025.  The gender pay gap is the difference between the average earnings of men and women, expressed relative to men’s earnings.  Gender pay gap legislation requires all employers of 250 or more employees to publish details of their gender pay gap.  You can also explore this data on a dashboard. \"",
+  "base_path": "/government/publications/dft-gender-pay-gap-report-and-data-2025",
+  "taxons": [
+    {
+      "title": "Corporate and operational information (transport)",
+      "base_path": "/transport/corporate-and-operational-information-transport"
+    }
+  ]
+}

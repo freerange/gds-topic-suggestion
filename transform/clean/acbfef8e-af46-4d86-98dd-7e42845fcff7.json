@@ -1,0 +1,19 @@
+{
+  "title": "Digital histopathology in the NHS cancer screening programmes",
+  "body": "\"This guidance for breast, bowel and cervical screening programme providers is essential to ensure new technology is implemented safely, effectively and consistently, following the UK NSC recommendation.  It aims to improve services offered to all participants in the programmes by allowing providers to use technology which should improve workflow, turnaround times and access to second opinions. \"",
+  "base_path": "/government/publications/digital-histopathology-in-the-nhs-cancer-screening-programmes",
+  "taxons": [
+    {
+      "title": "NHS bowel cancer screening (BCSP) programme",
+      "base_path": "/health-and-social-care/population-screening-programmes-bowel"
+    },
+    {
+      "title": "NHS breast screening (BSP) programme ",
+      "base_path": "/health-and-social-care/population-screening-programmes-breast"
+    },
+    {
+      "title": "NHS cervical screening (CSP) programme ",
+      "base_path": "/health-and-social-care/population-screening-programmes-cervical"
+    }
+  ]
+}

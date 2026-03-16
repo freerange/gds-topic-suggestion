@@ -1,0 +1,11 @@
+{
+  "title": "Incidental coal agreement monthly tonnage declarations",
+  "body": "\"Anyone developing in the coalfield areas of England, Scotland and Wales could encounter coal deposits or historical coal mine workings.  For various reasons these could pose a risk or hinder the proposed development and, if they cannot be avoided through design or remedial techniques, need to be removed.  Where the Mining Remediation Authority is satisfied that the extraction of unworked coal or remnant coal left within former mine workings is necessary and can be undertaken in a safe manner, we will offer the developer an incidental coal agreement to authorise the activity.  We charge an application fee for an agreement and a royalty for each tonne of coal severed from the seam. These monthly tonnage returns are declared quarterly by developers.  These agreements are different to coal mine licences and you can view the latest production and manpower returns from licenced operations here. \"",
+  "base_path": "/government/statistics/incidental-coal-agreement-monthly-tonnage-declarations",
+  "taxons": [
+    {
+      "title": "Mining reports and data",
+      "base_path": "/environment/coal-reports-data"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Factsheet: The UK Space Sector",
+  "body": "\"This infographic has been prepared by the UK Space Agency. It was produced and first published in August 2025.  It provides information on the importance of space to the UK economy, as well as the size, value and opportunity of the UK space sector.  Information on UK Space Agency activity across a variety of areas is also highlighted.  \"",
+  "base_path": "/government/publications/factsheet-the-uk-space-sector",
+  "taxons": [
+    {
+      "title": "Government evaluation",
+      "base_path": "/government/government-evaluation"
+    },
+    {
+      "title": "Space",
+      "base_path": "/business-and-industry/space"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Architectural Decision Record Framework",
+  "body": "\"The Architectural Decision Record  (ADR) framework is designed to establish the practice of documenting architectural decisions made during the design and development of systems.  \"",
+  "base_path": "/government/publications/architectural-decision-record-framework",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

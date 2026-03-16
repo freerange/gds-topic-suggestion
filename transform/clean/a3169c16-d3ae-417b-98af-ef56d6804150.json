@@ -1,0 +1,11 @@
+{
+  "title": "Fires by barbecue dataset, 2020 to 2024",
+  "body": "\"This ad hoc statistical release covers the number of fires by barbecue attended by Fire and Rescue Services (FRSs), in England, including incident type, property data, if a fatality or casualty was present, extent of fire damage and a free text identifier. \"",
+  "base_path": "/government/statistics/fires-by-barbecue-dataset-2020-to-2024",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

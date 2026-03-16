@@ -1,0 +1,19 @@
+{
+  "title": "Liechtenstein: doctors",
+  "body": "\"Details  The Foreign, Commonwealth & Development Office (FCDO) does not accept any liability to any person or company for any financial loss or damage arising from the use of this information or from any failure to give information. \"",
+  "base_path": "/government/publications/liechtenstein-doctors",
+  "taxons": [
+    {
+      "title": "Emergency help for British nationals in Liechtenstein",
+      "base_path": "/world/emergency-help-for-british-nationals-liechtenstein"
+    },
+    {
+      "title": "Living in Liechtenstein",
+      "base_path": "/world/living-in-liechtenstein"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

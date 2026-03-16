@@ -1,0 +1,15 @@
+{
+  "title": "Dry weather and drought in England: summary reports",
+  "body": "\"Drought: how it is managed in England explains how the Environment Agency works with government, water companies and others to manage water resources during a drought in England.  The collection of water situation reports for England provide weekly and monthly rainfall and river flow information. \"",
+  "base_path": "/government/publications/dry-weather-and-drought-in-england-summary-reports",
+  "taxons": [
+    {
+      "title": "Drought and water availability",
+      "base_path": "/business/environmental-management-water-drought-and-water-availability"
+    },
+    {
+      "title": "Water and sewerage services",
+      "base_path": "/environment/water-and-sewerage-services"
+    }
+  ]
+}

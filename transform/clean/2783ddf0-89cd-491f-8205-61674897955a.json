@@ -1,0 +1,11 @@
+{
+  "title": "Multi-region cloud and software-as-a-service",
+  "body": "\"In order to provide resilience, capacity and access to innovation, organisations may need to use cloud and software-as-a-service solutions located outside the UK. We recommend that organisations adopt a multi-region approach, in which they make controlled, considered use of regions in a way which is compatible with UK law. This guidance reinforces existing legislation and policy: this is not a change of policy.  Government data at OFFICIAL (including the SENSITIVE marking) can be stored and processed in data centres or Cloud regions overseas when satisfactory legal, data protection and security practices are in place; there is no universal requirement for government data classified as OFFICIAL to be physically located in the UK.  Under the Government’s Cloud First policy, organisations should consider the best place to store and process data as non-UK services can be more cost effective, more sustainable or have additional features available, as well as provide an alternative location for disaster response plans. \"",
+  "base_path": "/government/publications/multi-region-cloud-and-software-as-a-service",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

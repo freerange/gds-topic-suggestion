@@ -1,0 +1,15 @@
+{
+  "title": "Access to woodland in England 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/access-to-woodland-in-england-2025",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

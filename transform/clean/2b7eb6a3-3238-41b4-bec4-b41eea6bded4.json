@@ -1,0 +1,19 @@
+{
+  "title": "Planning Inspectorate statistical release 23 January 2025",
+  "body": "\"Statistical release and data tables and charts. \"",
+  "base_path": "/government/statistics/planning-inspectorate-statistical-release-23-january-2025",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Local Plans",
+      "base_path": "/housing-local-and-community/local-plans"
+    },
+    {
+      "title": "Planning permission and appeals",
+      "base_path": "/housing-local-and-community/planning-permission-appeals"
+    }
+  ]
+}

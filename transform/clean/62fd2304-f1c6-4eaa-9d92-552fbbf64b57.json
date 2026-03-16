@@ -1,0 +1,15 @@
+{
+  "title": "Improving moped and motorcycle training, testing and licensing",
+  "body": "\"The Driver and Vehicle Standards Agency (DVSA) wants your views on possible changes to moped and motorcycle training, testing and licensing.  The possible changes will affect driving licence categories for:   mopeds (AM) motorcycles (A1, A2, and A)   We want to make these changes to improve road safety and simplify people’s access to motorcycling.  We’re asking for your views on whether we should:    restrict learner riders to automatic machines if they complete compulsory basic training (CBT) on one   introduce a theory test that has to be taken before (or as part of) the CBT course   introduce a progressive access training course for riders to upgrade their licence   update the CBT syllabus    change the way motorcycle instructors qualify    change how long CBT certificates are valid for   develop a digital service to manage the administration of CBT courses    \"",
+  "base_path": "/government/consultations/improving-moped-and-motorcycle-training-testing-and-licensing",
+  "taxons": [
+    {
+      "title": "Motorcycle and moped tests",
+      "base_path": "/transport/motorcycle-and-moped-tests"
+    },
+    {
+      "title": "Motorcycle training",
+      "base_path": "/transport/motorcycle-training"
+    }
+  ]
+}

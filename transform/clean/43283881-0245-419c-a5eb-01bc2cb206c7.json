@@ -1,0 +1,15 @@
+{
+  "title": "Overview of Northern Ireland Trade with Great Britain",
+  "body": "\"The Overview of Northern Ireland Trade with Great Britain report provides an analysis of Northern Ireland’s current trade and movement of goods with Great Britain using a range of data sources including NISRA’s Northern Ireland Economic Trade Statistics and Economic Accounts. \"",
+  "base_path": "/government/statistics/overview-of-northern-ireland-trade-with-great-britain",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

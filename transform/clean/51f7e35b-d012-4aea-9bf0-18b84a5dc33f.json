@@ -1,0 +1,11 @@
+{
+  "title": "Improving the visibility of distributed energy assets",
+  "body": "\"Asset visibility refers to the ability to identify and understand the capacity, location, and use of devices that generate, store, or consume energy, including those capable of flexibility. Such devices include electric vehicle chargepoints, solar panel installations, heat pumps and domestic-scale electricity storage batteries.    These assets operate locally (such as in homes), near the point of consumption, help households and businesses manage their energy use and are essential enablers of the government’s Clean Energy Superpower Mission - helping to make the UK a leader in clean energy by 2030.     Asset visibility is essential for effective network planning, system resilience, and the growth of flexibility markets. All of which helps to minimise energy bills for consumers.   This call for evidence seeks views on:   the benefits of asset visibility a strategic view, considering the flow of asset data from installation to day-to-day use options for improving asset visibility   Read our consultation privacy notice. \"",
+  "base_path": "/government/calls-for-evidence/improving-the-visibility-of-distributed-energy-assets",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

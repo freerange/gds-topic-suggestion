@@ -1,0 +1,11 @@
+{
+  "title": "Data for Theme H: Biosecurity, Chemical & Noise",
+  "body": "\"This document contains data corresponding to the ‘Theme H: Biosecurity, Chemical & Noise’ indicators of the Environmental Indicator Framework. \"",
+  "base_path": "/government/publications/data-for-theme-h-biosecurity-chemical-noise",
+  "taxons": [
+    {
+      "title": "Environment",
+      "base_path": "/environment"
+    }
+  ]
+}

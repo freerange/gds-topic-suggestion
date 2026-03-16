@@ -1,0 +1,75 @@
+{
+  "title": "ACE Annual Review 2024-25",
+  "body": "\"Mission-led since since its inception in 2017, ACE helps to tackle complex problems facing government, bridging the gap between the public and private sectors. This Annual Review provides a snapshot of some of ACE’s innovative work over the last financial year. \"",
+  "base_path": "/government/publications/ace-annual-review-2024-25",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "Data",
+      "base_path": "/government/data"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Government technology and digital services",
+      "base_path": "/government/government-technology-and-digital-services"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    },
+    {
+      "title": "Public services",
+      "base_path": "/government/public-services"
+    },
+    {
+      "title": "Business and the environment",
+      "base_path": "/business-and-industry/business-and-the-environment"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    },
+    {
+      "title": "Civil justice reform",
+      "base_path": "/crime-justice-and-law/civil-justice-reform"
+    },
+    {
+      "title": "Courts, sentencing and tribunals",
+      "base_path": "/crime-justice-and-law/courts-sentencing-tribunals"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Criminal justice reform",
+      "base_path": "/crime-justice-and-law/criminal-justice-reform"
+    },
+    {
+      "title": "Family justice system",
+      "base_path": "/crime-justice-and-law/family-justice-system"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "NHS efficiency",
+      "base_path": "/health-and-social-care/nhs-efficiency"
+    }
+  ]
+}

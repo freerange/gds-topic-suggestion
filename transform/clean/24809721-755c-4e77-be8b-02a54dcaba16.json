@@ -1,0 +1,15 @@
+{
+  "title": "Clean energy jobs plan",
+  "body": "\"As part of our Industrial Strategy, the ‘Clean Energy Jobs Plan’ sets out, for the first time, the workforce needed to deliver our clean energy ambitions and how the government will work in partnership with industry and trade unions to deliver it. It explains how we will help workers in all parts of the country benefit from these opportunities—supporting our existing workforce to find new opportunities, training up the next generation, and helping our young people to get good jobs. \"",
+  "base_path": "/government/publications/clean-energy-jobs-plan",
+  "taxons": [
+    {
+      "title": "Clean energy",
+      "base_path": "/government/clean-energy"
+    },
+    {
+      "title": "Industrial strategy",
+      "base_path": "/business-and-industry/industrial-strategy"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Queen Mary University of London spectrum sandbox reports",
+  "body": "\"Final reports detailing the findings and methodologies for the 2024 to 2025 Queen Mary University of London regulatory spectrum sandboxes. These reports explore pioneering and innovative spectrum sharing solutions through practical testbeds, advanced simulation, and modelling.  Reports:   (WP1) Proof-of-Concept and Practical Measurements (WP2) Simulation and Modelling for Spectrum Sharing (WP3) Economic assessment and regulatory implementation  DSA learnings and next steps   \"",
+  "base_path": "/government/publications/queen-mary-university-of-london-spectrum-sandbox-reports",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

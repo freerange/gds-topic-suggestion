@@ -1,0 +1,15 @@
+{
+  "title": "DASA Impact Report 2025",
+  "body": "\"The DASA Impact Report 2025 provides a detailed analysis of companies that have received DASA funding support. Using rigorous data collection and analysis methodologies, Beauhurst examines:   Post-funding investment patterns, including additional public and private equity investment secured by DASA-funded innovators Business outcomes including company exits, mergers, and acquisitions Employment growth and job creation across DASA-funded companies Economic contribution measured through Gross Value Added (GVA) Import and export activity of DASA-funded SMEs Regional distribution of DASA-supported innovation across the UK Sectoral analysis showing the range of technologies and industries receiving DASA support   \"",
+  "base_path": "/government/publications/dasa-impact-report-2025",
+  "taxons": [
+    {
+      "title": "Defence and armed forces",
+      "base_path": "/defence-and-armed-forces"
+    },
+    {
+      "title": "National security",
+      "base_path": "/government/national-security"
+    }
+  ]
+}

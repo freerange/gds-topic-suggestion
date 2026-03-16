@@ -1,0 +1,19 @@
+{
+  "title": "Remit letter for the PSPRB 2026 England and Wales pay round",
+  "body": "\"This letter sets out the remit for the 2026 to 2027 pay round for operational prison staff in the England and Wales prison service.  The UK government determines when it will respond to and publish the PSPRB’s report. \"",
+  "base_path": "/government/publications/remit-letter-for-the-psprb-2026-england-and-wales-pay-round",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

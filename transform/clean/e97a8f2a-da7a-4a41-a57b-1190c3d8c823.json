@@ -1,0 +1,11 @@
+{
+  "title": "Jersey: Knowledge Base profile",
+  "body": "\"This document contains useful information about Jersey which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Jersey  \"",
+  "base_path": "/government/publications/jersey-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Adoption of trust services: call for views",
+  "body": "\" Trust services, like electronic signatures, are digital tools that make online transactions more secure and reliable. They do this by confirming the authenticity and integrity of electronic documents and transactions.  This call for views aims to collect essential information about the UK trust services market to help inform government policy development.  This call for views is aimed at organisations who:   provide trust services in the UK use or are considering using trust services   If responses suggest government action is needed, we will seek to gather information more widely, including from individuals.  \"",
+  "base_path": "/government/calls-for-evidence/adoption-of-trust-services-call-for-views",
+  "taxons": [
+    {
+      "title": "Digital identity",
+      "base_path": "/government/digital-identity"
+    }
+  ]
+}

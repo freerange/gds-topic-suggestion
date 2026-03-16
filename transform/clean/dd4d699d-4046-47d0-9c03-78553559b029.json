@@ -1,0 +1,11 @@
+{
+  "title": "Securing converged technologies: insights from subject matter experts",
+  "body": "\"This report examines the role of technology convergence, its impact upon cyber security and potential policy responses.  Based on research with 20 subject matter experts primarily from the cyber security sector, this report presents a series of findings on the challenges of identifying technology convergences for cyber security, how technology convergence operates across broader technology ecologies, and how engagement with a range of actors in order to build expert communities is essential to addressing and mitigating the impact of technology convergence for cyber security.  This research informs the government’s wider work to ensure good cyber security in new and emerging technologies, and to improve cyber resilience across the UK economy.  Please note this publication presents independent research commissioned by the Department for Science, Innovation and Technology. The views expressed do not represent HM Government policy. The research sets out the cyber security risks and opportunities of technology convergence. \"",
+  "base_path": "/government/publications/securing-converged-technologies-insights-from-subject-matter-experts",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

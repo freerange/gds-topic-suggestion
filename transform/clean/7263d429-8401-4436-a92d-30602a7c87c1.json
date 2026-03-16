@@ -1,0 +1,15 @@
+{
+  "title": "Companies register activities: statistical release April 2024 to March 2025",
+  "body": "\"Annual reports from Companies House about:   register activity for all companies the age of companies overseas companies with a UK establishment the register of overseas entities register activity for public limited companies (PLCs), limited liability partnerships (LLPs), limited partnerships (LPs) and other corporate body types company insolvencies and liquidations companies removed from the register directors and shareholders standard industrial classification (SIC) codes   Previous statistics  Read our previous statistical releases.  You can find statistical releases older than 2014 on The National Archives. \"",
+  "base_path": "/government/statistics/companies-register-activities-statistical-release-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Limited companies and partnerships",
+      "base_path": "/business-and-industry/limited-companies-and-partnerships"
+    }
+  ]
+}

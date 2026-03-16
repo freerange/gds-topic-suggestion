@@ -1,0 +1,23 @@
+{
+  "title": "Environment Agency grants permit for Portland incinerator",
+  "body": "\"The Environment Agency has today granted an application for a permit to operate a new non-hazardous waste incinerator in Portland port.   Following a number of consultations, the agency agreed that Powerfuel Portland Ltd had met all of the necessary criteria needed for the environmental permit to be given for the proposed incinerator. Where an application meets the requirements of the Environmental Permitting Regulations (2016) the agency must issue a permit.  Conditions have been set in the permit on emissions and their monitoring, operation of the plant and the amount and type of waste to be accepted. The permit limits the waste that can be incinerated to refuse derived fuel – that is produced from domestic municipal solid waste (MSW) and commercial & industrial (C&I) waste unsuitable for recycling.  A spokesperson for the Environment Agency said:   We have carefully considered all of the submissions we received during the various consultations and we thank everyone who took the time to contact us with their views.   Background  The Environment Agency does not look at issues around vehicle movements to and from the site, working hours and whether or not the site is suitable for this kind of work. All of those are matters dealt with through the local authority planning process and is entirely separate from the environmental permitting process.   Although the planning permission granted by the Secretary of State is currently subject to a judicial review, we do not consider the outcome of that process would impact our conclusions on the environmental permit. Nor will granting the permit affect the outcome of the court proceedings, which will be determined on their own merits. \"",
+  "base_path": "/government/news/environment-agency-grants-permit-for-portland-incinerator",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Environmental permits",
+      "base_path": "/environment/environmental-permits"
+    },
+    {
+      "title": "Waste and environmental impact",
+      "base_path": "/environment/waste-environment"
+    },
+    {
+      "title": "Waste management",
+      "base_path": "/environment/waste-management"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Tax rules for the Reserved Investor Fund (RIF) — technical note",
+  "body": "\"This technical note is produced to assist customers and their representatives in understanding and applying the Reserved Investor Fund (RIF) legislation.  It provides commentary on the main rules applicable to schemes that have given a valid entry notice into the RIF regime, and the tax rules applicable to investors in such schemes.  \"",
+  "base_path": "/government/publications/tax-rules-for-the-reserved-investor-fund-rif-technical-note",
+  "taxons": [
+    {
+      "title": "Corporation Tax",
+      "base_path": "/money/corporation-tax"
+    },
+    {
+      "title": "Collective Investment Schemes",
+      "base_path": "/money/business-tax-investment-schemes-collective-investment-schemes"
+    },
+    {
+      "title": "Stamp duty and other tax on property",
+      "base_path": "/money/stamp-taxes"
+    },
+    {
+      "title": "Capital Gains Tax",
+      "base_path": "/money/capital-gains-tax"
+    }
+  ]
+}

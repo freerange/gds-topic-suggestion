@@ -1,0 +1,11 @@
+{
+  "title": "Business enterprise research and development, UK: 2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/business-enterprise-research-and-development-uk-2024",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

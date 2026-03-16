@@ -1,0 +1,15 @@
+{
+  "title": "Investigation outcome reports",
+  "body": "\" \"",
+  "base_path": "/government/collections/investigation-outcome-reports",
+  "taxons": [
+    {
+      "title": "Further education financial management and data collection",
+      "base_path": "/education/further-education-financial-management-and-data-collection"
+    },
+    {
+      "title": "School and academy financial management and assurance",
+      "base_path": "/education/school-and-academy-financial-management-and-assurance"
+    }
+  ]
+}

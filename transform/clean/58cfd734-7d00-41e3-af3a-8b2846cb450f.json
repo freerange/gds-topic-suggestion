@@ -1,0 +1,15 @@
+{
+  "title": "Growth in numbers of Employment and Support Allowance Support Group or Universal Credit Limited Capability for Work and Work-Related Activity",
+  "body": "\"This publication provides estimates of the effect of some of the factors contributing to growth in the number:    of claimants in the Employment and Support Allowance (ESA) Support Group (SG)   receiving Universal Credit (UC) who are deemed to have Limited Capability for Work and Work-Related Activity (LCWRA)    \"",
+  "base_path": "/government/statistics/growth-in-numbers-of-employment-and-support-allowance-support-group-or-universal-credit-limited-capability-for-work-and-work-related-activity",
+  "taxons": [
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Road freight statistics: 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/road-freight-statistics-2025",
+  "taxons": [
+    {
+      "title": "Road haulage",
+      "base_path": "/transport/road-haulage"
+    }
+  ]
+}

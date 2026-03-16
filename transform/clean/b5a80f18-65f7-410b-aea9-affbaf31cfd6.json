@@ -1,0 +1,11 @@
+{
+  "title": "Cyber security codes of practice - modular approach diagram",
+  "body": "\"The government has developed codes of practice to set clear expectations for cyber security. These codes use principles to set out the recommended baseline response to a given set of cyber security risks.    The attached diagram and the table below show how the five cyber security codes of practice apply to different organisations and technologies.  Cyber security codes of practice - modular approach diagram    For more information, please visit the link for each individual code.     Who/what it applies to Code / standard      Organisations  Cyber governance code of practice* Cyber Essentials   Providers of software** Code of practice for software vendors     Providers of specific types of technology AI cyber security code of practice Code of practice for app store operators and app developers     *For medium and large organisations, as well as small tech/AI organisations  **Including goods and services which contain software  For more information, visit the cyber security codes of practice page.  Department for Science, Innovation and Technology (DSIT)  \"",
+  "base_path": "/government/publications/cyber-security-codes-of-practice-modular-approach-diagram",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

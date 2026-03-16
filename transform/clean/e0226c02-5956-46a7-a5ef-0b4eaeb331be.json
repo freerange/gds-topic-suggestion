@@ -1,0 +1,19 @@
+{
+  "title": "DCMS Sectors Economic Estimates: Regional GVA 2023",
+  "body": "\"Headline findings   Our annual GVA 2023 provisional statistics estimated that GVA by DCMS sectors was £220.3 billion in 2023, 9.3% of the UK economy. The part generated from creative industries, culture, gambling and sport was £150.2 billion, making up 6.3% of UK GVA. This publication shows how that GVA is distributed by region. Tourism and civil society are not included in this release due to data availability.  London and the South East combined generated the majority of included DCMS sector GVA in 2023, generating 46.3% and 16.0% respectively. This pattern is driven by the creative industries, the largest included sector, and the overlapping cultural sector, which are heavily concentrated in London. In the gambling and sport sectors, regional differences are less pronounced. Included DCMS sector GVA fell in all regions between 2022 and 2023. Compared to 2019 (pre-pandemic), included DCMS sector GVA overall in 2023 was similar but this varies substantially by region.   About  These Economic Estimates are Official Statistics used to provide an estimate of the contribution of DCMS sectors to each region in the UK, measured by GVA (gross value added). This is the first release of provisional regional estimates for 2023. This release contains some revisions to the back series.  Content  These statistics cover the contributions of the following sectors to the UK economy:   creative industries cultural sector gambling sport   Users should note that there is overlap between DCMS sector definitions and that several cultural sector industries are simultaneously creative industries.  The release also includes estimates for the audio visual sector, computer games subsector and arts and antiques market.  Estimates of tourism and civil society GVA are not available at present, due to a lack of regional data.  Released  These statistics were first published on 3 July 2025.  Feedback  DCMS aims to continuously improve the quality of estimates and better meet user needs. Feedback should be sent to DCMS via email at evidence@dcms.gov.uk.  Office for Statistics Regulation  These official statistics were independently reviewed by the Office for Statistics Regulation (OSR) in June 2019. They comply with the standards of trustworthiness, quality and value in the Code of Practice for Statistics and should be labelled accredited official statistics. Accredited official statistics are called National Statistics in the Statistics and Registration Service Act 2007.  Our statistical practice is regulated by the OSR. OSR sets the standards of trustworthiness, quality and value in the Code of Practice for Statistics that all producers of official statistics should adhere to.  You are welcome to contact us directly with any comments about how we meet these standards by emailing evidence@dcms.gov.uk. Alternatively, you can contact OSR by emailing regulation@statistics.gov.uk or via the OSR website.  The responsible analyst for this release is Rachel Moyce. For further details about the estimates, or to be added to a distribution list for future updates, please email us at evidence@dcms.gov.uk.  Pre-release access  The accompanying pre-release access document lists ministers and officials who have received privileged early access to this release. In line with best practice, the list has been...",
+  "base_path": "/government/statistics/dcms-sectors-economic-estimates-regional-gva-2023",
+  "taxons": [
+    {
+      "title": "Arts and culture",
+      "base_path": "/society-and-culture/arts-and-culture"
+    },
+    {
+      "title": "Sports and leisure",
+      "base_path": "/society-and-culture/sports-and-leisure"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

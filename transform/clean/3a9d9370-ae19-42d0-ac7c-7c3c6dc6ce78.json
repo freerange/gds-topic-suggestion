@@ -1,0 +1,15 @@
+{
+  "title": "NIO: Special Advisers' Gifts, Hospitality and Meetings data collection",
+  "body": "\"NIO publishes details of special advisers’ gifts, hospitality and meetings with senior media figures.  This data is also available on data.gov.uk. \"",
+  "base_path": "/government/collections/nio-special-advisers-gifts-hospitality-and-meetings-data-collection",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

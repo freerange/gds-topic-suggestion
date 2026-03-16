@@ -1,0 +1,11 @@
+{
+  "title": "Children missing education: exploration of census data",
+  "body": "\"An exploration of whether realistic estimates of children missing education (CME) could be derived by comparing the Office for National Statistics (ONS) population census from March 2021 with the Department for Education (DfE) school census from the 2021 spring term (January to February 2021). We then compare these estimates against the Department for Education data on children missing education in England (2022/23).  The population census data was acquired through the Integrated Data Service (IDS), provided by the ONS. The DfE school census data is open source.  \"",
+  "base_path": "/government/publications/children-missing-education-exploration-of-census-data",
+  "taxons": [
+    {
+      "title": "School attendance and absence",
+      "base_path": "/education/school-attendance-and-absence"
+    }
+  ]
+}

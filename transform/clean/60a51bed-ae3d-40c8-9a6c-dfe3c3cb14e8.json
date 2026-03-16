@@ -1,0 +1,11 @@
+{
+  "title": "United Kingdom Food Security Digest",
+  "body": "\"The report sets out an analysis of statistical data relating to food security in the UK. It examines trends relevant to food security to present a current understanding of food security.  The next report will be published towards the end of 2026. It will not be published in 2027 as it will be replaced by the triennial Food Security Report.  Some statistics included here are also updated in the Food statistics in your pocket and Agriculture in the United Kingdom publications.  Contact   Enquiries to: foodsecurityreport@defra.gov.uk   You can also contact us via Twitter/X: @DefraStats Defra Helpline: 03459 33 55 77 (Monday to Friday: 8:30am to 5:30pm) \"",
+  "base_path": "/government/collections/united-kingdom-food-security-digest",
+  "taxons": [
+    {
+      "title": "Producing and distributing food",
+      "base_path": "/environment/producing-distributing-food"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Sponsored Work and Family Visa earnings, employment and Income Tax",
+  "body": "\"This report presents findings on the earnings, employment, and Income Tax liabilities of visa holders on Sponsored Work (Skilled Worker, Health and Care Worker, and Senior or Specialist Worker (Global Business Mobility)) and Family routes. The analysis is based on data matching between Home Office visa records and HMRC’s Pay As You Earn (PAYE) Real Time Information (RTI) data. It includes both entry clearance visas and extensions of stay, and both main applicants and dependants.  This report focuses on the most recent financial year where data is available (2023 to 2024). All figures in this report relate to visa holders aged 18 to 65 years at the time their visa was granted who:   were granted their visa between April 2019 and March 2023 were eligible to work for at least one month in financial year 2023 to 2024  \"",
+  "base_path": "/government/publications/sponsored-work-and-family-visa-earnings-employment-and-income-tax",
+  "taxons": [
+    {
+      "title": "Foreign nationals working in the UK",
+      "base_path": "/entering-staying-uk/Foreign-nationals-working-in-UK"
+    },
+    {
+      "title": "Family visas",
+      "base_path": "/entering-staying-uk/family-visas"
+    },
+    {
+      "title": "Work and investor visas",
+      "base_path": "/entering-staying-uk/work-and-investor-visas"
+    },
+    {
+      "title": "PAYE",
+      "base_path": "/money/paye"
+    },
+    {
+      "title": "Income Tax and National Insurance",
+      "base_path": "/money/dealing-with-hmrc-paying-hmrc-income-tax-and-national-insurance"
+    }
+  ]
+}

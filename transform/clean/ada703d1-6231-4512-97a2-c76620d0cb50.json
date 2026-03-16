@@ -1,0 +1,11 @@
+{
+  "title": "UK energy in brief 2025",
+  "body": "\"Summary of some of the key annual statistics in the UK energy system: how energy is produced and used and the way in which energy use influences greenhouse gas emissions; combined heat and power, renewable energy, energy efficiency, energy prices and fuel poverty. \"",
+  "base_path": "/government/statistics/uk-energy-in-brief-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Rail passenger numbers and crowding on weekdays in major cities in England and Wales: 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/rail-passenger-numbers-and-crowding-on-weekdays-in-major-cities-in-england-and-wales-2025",
+  "taxons": [
+    {
+      "title": "Rail network",
+      "base_path": "/transport/rail-network"
+    }
+  ]
+}

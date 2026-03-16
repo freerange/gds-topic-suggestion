@@ -1,0 +1,11 @@
+{
+  "title": "Transport Statistics Geography Portal",
+  "body": "\"The Department for Transport produces and publishes a range of Transport Statistics with a spatial component. This new provision supports the download of the datasets in geospatial formats.  This initial release covers the existing published official statistics, by the Department for Transport, in a geographical format for Road Casualties, Bus Passenger Journeys, Search and Rescue Helicopter Taskings, Licensed Plug-In Vehicles, and Electric Vehicle Charging Infrastructure.  GIS datasets are updated once the statistical datasets they are derived from have been officially published.  Contact us   Roads Geography and GIS data     Email mapping@dft.gov.uk         To hear more about DfT statistical publications as they are released, follow us on X at DfTstats. \"",
+  "base_path": "/government/statistics/transport-statistics-geography-portal",
+  "taxons": [
+    {
+      "title": "Transport",
+      "base_path": "/transport"
+    }
+  ]
+}

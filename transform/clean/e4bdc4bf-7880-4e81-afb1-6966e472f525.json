@@ -1,0 +1,19 @@
+{
+  "title": "Sickness Absence in the Northern Ireland Civil Service 2024/25",
+  "body": "\"This report provides an analysis of sickness absence data for staff in the Northern Ireland Civil Service over the 2024/25 financial year. \"",
+  "base_path": "/government/statistics/sickness-absence-in-the-northern-ireland-civil-service-202425",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Smoking profile: September 2025 update",
+  "body": "\" The smoking profile has been designed to help local government and health services to assess the effect of smoking on their local populations. The data is presented in an interactive tool that allows users to view it in a user-friendly format.  This release includes historical data on stop smoking services. It does not contain a new year of data because similar data has previously been published by NHS England, available at Statistics on Local Stop Smoking Services in England.  For queries about this publication email pha-ohid@dhsc.gov.uk.  \"",
+  "base_path": "/government/statistics/smoking-profile-september-2025-update",
+  "taxons": [
+    {
+      "title": "Smoking",
+      "base_path": "/health-and-social-care/smoking"
+    },
+    {
+      "title": "Vaping",
+      "base_path": "/health-and-social-care/vaping"
+    }
+  ]
+}

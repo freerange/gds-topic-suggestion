@@ -1,0 +1,15 @@
+{
+  "title": "Share your heat pump data: privacy notice",
+  "body": "\"Find out what data we collect and how we use that information in the ‘Share your heat pump data’ service. \"",
+  "base_path": "/government/publications/share-your-heat-pump-data-privacy-notice",
+  "taxons": [
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    },
+    {
+      "title": "Energy demand reduction",
+      "base_path": "/business-and-industry/energy-demand-reduction-in-industry-business-and-the-public-sector"
+    }
+  ]
+}

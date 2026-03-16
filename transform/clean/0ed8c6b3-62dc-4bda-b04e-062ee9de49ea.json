@@ -1,0 +1,11 @@
+{
+  "title": "SLC Supplier Spend December 2024",
+  "body": "\"SLC’s supplier spend is published monthly. \"",
+  "base_path": "/government/publications/slc-supplier-spend-december-2024",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

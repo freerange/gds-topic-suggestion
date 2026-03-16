@@ -1,0 +1,11 @@
+{
+  "title": "Population estimates for the UK, England, Wales, Scotland and Northern Ireland: mid-2024",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/population-estimates-for-the-uk-england-wales-scotland-and-northern-ireland-mid-2024",
+  "taxons": [
+    {
+      "title": "Certificates, register offices, changes of name or gender",
+      "base_path": "/life-circumstances/register-offices"
+    }
+  ]
+}

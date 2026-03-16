@@ -1,0 +1,19 @@
+{
+  "title": "Recording beavers and data sharing",
+  "body": "\"If you see signs of beaver activity, follow this guidance for recording and sharing data.  All data you can gather about beaver activity is useful. This includes recordings of sightings by the public, as well as structured surveys by volunteers and professionals. \"",
+  "base_path": "/government/publications/recording-beavers-and-data-sharing",
+  "taxons": [
+    {
+      "title": "Animal welfare",
+      "base_path": "/environment/animal-welfare"
+    },
+    {
+      "title": "Protected sites and species",
+      "base_path": "/environment/protected-sites-species"
+    },
+    {
+      "title": "Mammals",
+      "base_path": "/environment/environmental-management-wildlife-habitat-conservation-mammals"
+    }
+  ]
+}

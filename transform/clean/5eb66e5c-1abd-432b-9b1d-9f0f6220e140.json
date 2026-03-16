@@ -1,0 +1,11 @@
+{
+  "title": "Monthly Sea Fisheries Statistics January 2025",
+  "body": "\"Highlights   The total quantity of landings by UK vessels (tonnes) decreased in January 2025 compared to 2024, down 2%. However, the value of landings in January 2025 (£176m) increased compared to 2024 up by 25%. Landings in January 2025 comprised mostly of Pelagic species (83%). This was driven by high landings of Mackerel which is a typically heavily targeted fishery in the winter months. Pelagic species also comprised the majority of the value landed (76%).  \"",
+  "base_path": "/government/statistics/monthly-sea-fisheries-statistics-january-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

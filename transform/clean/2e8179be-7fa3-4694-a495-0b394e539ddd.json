@@ -1,0 +1,15 @@
+{
+  "title": "Higher Education Statistical Fact Sheets 2022/23",
+  "body": "\"The fact sheets provide a more detailed Northern Ireland analysis of 2022/23 data on several topics of interest in Higher Education (HE), including the HE Age Participation Index, enrolments by Equality categories and First Degree and Postgraduate students with Narrow STEM qualifications gained at NI HEIs. Additional information is also available on a number of other fact sheets relating mainly to earlier time series. \"",
+  "base_path": "/government/statistics/higher-education-statistical-fact-sheets-202223",
+  "taxons": [
+    {
+      "title": "Further and higher education, skills and vocational training",
+      "base_path": "/education/further-and-higher-education-skills-and-vocational-training"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

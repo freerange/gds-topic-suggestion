@@ -1,0 +1,15 @@
+{
+  "title": "T Level results: academic year 2024 to 2025 (provisional)",
+  "body": "\"This statistics release provides summary data on the number of students completing T Levels, as reported to the Department for Education through the manage T Level results service.  Data includes:   provisional outcomes for the fourth cohort of T Level students, who started in September 2023 revised outcomes for the third cohort of students, who started in September 2022   T Levels are an alternative to A levels, apprenticeships and other 16 to 19 courses. Equivalent in size to 3 A levels, a T Level focuses on vocational skills and can help students into skilled employment, apprenticeships, college or university.  Find out more about how T Levels developed. \"",
+  "base_path": "/government/statistics/t-level-results-academic-year-2024-to-2025-provisional",
+  "taxons": [
+    {
+      "title": "T levels",
+      "base_path": "/education/t-levels"
+    },
+    {
+      "title": "Student performance in further education",
+      "base_path": "/education/student-performance-in-further-education"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Transfer pricing — scope and documentation",
+  "body": "\"This consultation concerns two transfer pricing related proposals, both aimed at protecting the UK tax base.  The first would amend the exemption for small and medium enterprises (SMEs) from transfer pricing.  The second would require multinationals to report information on cross-border related party transactions to HMRC.  \"",
+  "base_path": "/government/consultations/transfer-pricing-scope-and-documentation",
+  "taxons": [
+    {
+      "title": "International tax",
+      "base_path": "/money/international-tax"
+    }
+  ]
+}

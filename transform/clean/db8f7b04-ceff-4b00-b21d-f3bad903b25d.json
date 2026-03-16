@@ -1,0 +1,27 @@
+{
+  "title": "Family law in Bahrain",
+  "body": "\"The British Embassy in Manama provides this information to help British nationals. It is a non-official translation of some sections from Bahraini Family Law and other related laws.  The British Embassy does not assume or undertake any legal responsibility or liability, to you, or those affected, in connection with this information. For all legal matters, you should get legal advice from qualified practitioners. \"",
+  "base_path": "/government/publications/family-law-in-bahrain",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Marriage, civil partnership and divorce",
+      "base_path": "/life-circumstances/marriage-divorce"
+    },
+    {
+      "title": "Foreign affairs",
+      "base_path": "/international/foreign-affairs"
+    }
+  ]
+}

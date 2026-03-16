@@ -1,0 +1,11 @@
+{
+  "title": "Canllawiau a gwasanaethau ychwanegol",
+  "body": "\"  Mae’r casgliad hwn hefyd ar gael yn Saesneg (English).  \"",
+  "base_path": "/government/collections/canllawiau-a-gwasanaethau-ychwanegol.cy",
+  "taxons": [
+    {
+      "title": "Land registration",
+      "base_path": "/housing-local-and-community/land-registration"
+    }
+  ]
+}

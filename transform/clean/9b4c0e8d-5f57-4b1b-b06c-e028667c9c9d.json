@@ -1,0 +1,11 @@
+{
+  "title": "Medical devices: periodic safety update report",
+  "body": "\"This guidance is for approved bodies who are required to receive and review a PSUR from manufacturers of medical devices.  You can find information on:   the relevant regulations what a review should include when a review is not needed how to write and submit the report   \"",
+  "base_path": "/government/publications/medical-devices-periodic-safety-update-report-psur",
+  "taxons": [
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    }
+  ]
+}

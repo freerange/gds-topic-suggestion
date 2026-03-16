@@ -1,0 +1,15 @@
+{
+  "title": "Analysing the impact of operational efficiencies on aviation",
+  "body": "\" This work was supported by a grant from the Department for Energy Security and Net Zero to the University of Cambridge, awarded prior to the 2024 General Election.   This work was supported by a grant from the Department for Energy Security and Net Zero to the University of Cambridge, awarded prior to the 2024 General Election.  This study used route-level analysis to assess 4 ambitious scenarios and their impacts on fuel consumption and emissions between 2025 and 2080. The study also estimates operational cost impacts.  The report was commissioned and funded by HM Government, but the opinions expressed within the report are solely those of the Aviation Impact Accelerator.  Findings  Short-haul flights benefit most from ground-based measures to reduce fuel burn during taxiing. These include:   electric tugs shut downs of auxiliary power unit (small engines to power non-propulsion systems)   Longer-haul flights may gain more from in-flight measures like:   formation flying improved air traffic management   Short-haul flights could achieve fuel savings of up to 25% under the most ambitious scenario, but this may be limited by real-world constraints.  If lower fuel efficiency savings of 5 to 15% are achieved, the estimated cost savings to industry could range between £5 and £30 billion per year.  The report was commissioned and funded by the Department for Energy Security and Net Zero, but the opinions expressed within the report are solely those of the authors. \"",
+  "base_path": "/government/publications/analysing-the-impact-of-operational-efficiencies-on-aviation",
+  "taxons": [
+    {
+      "title": "Aviation and the environment",
+      "base_path": "/transport/aviation-and-the-environment"
+    },
+    {
+      "title": "General aviation",
+      "base_path": "/transport/general-aviation"
+    }
+  ]
+}

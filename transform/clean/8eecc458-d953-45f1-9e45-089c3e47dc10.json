@@ -1,0 +1,15 @@
+{
+  "title": "Family Practitioner Services Ophthalmic Statistics for NI 2024/25",
+  "body": "\"This report contains high level summary information on activity and payments in relation to General Ophthalmic Services in Northern Ireland.  Information is provided at Northern Ireland level with further breakdowns presented at both Local Commissioning Group (LCG) and Local Government District (LGD) level. \"",
+  "base_path": "/government/statistics/family-practitioner-services-ophthalmic-statistics-for-ni-202425",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Ophthalmology",
+      "base_path": "/health-and-social-care/ophthalmology"
+    }
+  ]
+}

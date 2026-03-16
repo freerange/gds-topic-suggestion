@@ -1,0 +1,23 @@
+{
+  "title": "Intellectual Property Training",
+  "body": "\"Whether you’re new to intellectual property or looking to deepen your expertise, we offer two tailored learning experiences. \"",
+  "base_path": "/government/collections/intellectual-property-training",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    },
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "AI action plan for justice",
+  "body": "\"Artificial Intelligence (AI) has the potential to make the justice system in England and Wales faster, fairer, and more accessible.  From reducing court backlogs to supporting victims and improving rehabilitation, AI can help deliver meaningful, measurable improvements. The Ministry of Justice’s AI action plan for justice sets out how we will adopt AI responsibly across courts, tribunals, prisons, probation and supporting services - working closely with the judiciary, regulators, trade unions, and criminal justice partners.  The plan focuses on 3 priorities:   Strengthening our foundations with better governance, ethics, and infrastructure Embedding AI across the justice system through targeted, high-impact use cases Investing in our people and partners to drive innovation and build capability   Implementation is already underway, with promising early results. As we scale, we’ll learn and adapt - ensuring that AI adoption improves outcomes while upholding public trust, human rights and the rule of law. \"",
+  "base_path": "/government/publications/ai-action-plan-for-justice",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Crime, justice and law",
+      "base_path": "/crime-justice-and-law"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Smoking profile: December 2025 update",
+  "body": "\" The smoking profile has been designed to help local government and health services to assess the effect of smoking on their local populations. The data is presented in an interactive tool that allows users to view it in a user-friendly format.  Revised trend data has been added to the smoking profile tool on the Fingertips platform for:   smoking prevalence in adults (aged 18 and over) - current smokers (Annual Population Survey (APS)) smoking prevalence in adults (aged 18 and over) - ex-smokers (APS) smoking prevalence in adults (aged 18 and over) - never smokers (APS) smoking prevalence among adults aged 18 to 64 in routine and manual occupations (APS) odds of smoking among adults aged 18 to 64 with a routine and manual occupation compared with those in other occupations (APS)   Revised data has been added for the 3-year periods 2019 to 2021, 2020 to 2022 and 2021 to 2023.  Updated indicators are available at local authority level, integrated care board (ICB) level, as well as for England, the regions and various inequality groups. Updated indicators are listed in the updated indicators section.  For queries about this publication email pha-ohid@dhsc.gov.uk.  \"",
+  "base_path": "/government/statistics/smoking-profile-december-2025-update",
+  "taxons": [
+    {
+      "title": "Smoking",
+      "base_path": "/health-and-social-care/smoking"
+    },
+    {
+      "title": "Vaping",
+      "base_path": "/health-and-social-care/vaping"
+    }
+  ]
+}

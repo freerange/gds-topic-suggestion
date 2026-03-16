@@ -1,0 +1,15 @@
+{
+  "title": "Public opinion of forestry 2025: Wales",
+  "body": "\"This release presents results from the latest survey of public attitudes to forestry and forestry-related issues in Wales. Topics covered include:   benefits and disadvantages of woodlands and of street trees urban woodlands visits to woodland community engagement  \"",
+  "base_path": "/government/statistics/public-opinion-of-forestry-2025-wales",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

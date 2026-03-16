@@ -1,0 +1,11 @@
+{
+  "title": "Quota application mechanism recipients",
+  "body": "\"These spreadsheets outline:     the recipients under the quota application mechanism (QAM) trial     how much quota each vessel received in the QAM trial     the actions or benefits set out within their applications   \"",
+  "base_path": "/government/publications/quota-application-mechanism-recipients",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

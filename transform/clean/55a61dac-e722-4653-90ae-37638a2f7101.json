@@ -1,0 +1,23 @@
+{
+  "title": "Strategic environmental assessment of river basin management plans: scoping reports",
+  "body": "\"The Environment Agency uses strategic environmental assessment of RBMPs to:   influence the development of the plans increase positive outcomes from improvements to the water environment avoid or reduce any negative effects   Strategic environmental assessment was carried out on the first and second cycles of RBMPs. It was not during the third RBMP cycle as any changes were considered minor modifications.  For this fourth cycle, the Environment Agency is carrying out strategic environmental assessment because there is the potential for more significant changes to the measures. These reports set out the issues by river basin district.   You can respond to the consultation on significant water management issues to give your views on whether:   these scoping reports are focused on the potential environmental effects there is any other information that should be considered as part of the assessment    \"",
+  "base_path": "/government/publications/strategic-environmental-assessment-of-river-basin-management-plans-scoping-reports",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "River maintenance, flooding and coastal erosion",
+      "base_path": "/environment/river-maintenance-flooding-coastal-erosion"
+    },
+    {
+      "title": "Rural and countryside",
+      "base_path": "/environment/rural-and-countryside"
+    },
+    {
+      "title": "Water management",
+      "base_path": "/environment/water-management"
+    }
+  ]
+}

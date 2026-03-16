@@ -1,0 +1,11 @@
+{
+  "title": "A human-centred approach to scaling and de-risking AI tools",
+  "body": "\"The People Factor and The Mitigating Hidden AI Risks Toolkit provide an evidence-based framework and practical toolkit for successfully and safely scaling generative AI (GenAI) tools across organisations. It offers a human-centred approach to AI implementation, focusing on the cultural, organisational, and human factors that influence adoption, sustained use, and optimised use of AI tools in organisations, including the mitigation of ‘hidden’ risks.  This guidance is designed for individuals and teams involved in the development, delivery, or procurement of GenAI tools, as well as those responsible for AI governance. It highlights strategies for planning engagement, designing effective AI training and support offers, developing robust risk management approaches, and monitoring your AI implementation.  Alongside this framework and toolkit, you will find complementary resources that will help you to make practical use of the guidance, in line with the “Adopt, Sustain, Optimise framework”. This includes a Hidden Risks Register, and Supplementary Research and Evaluation Resources. \"",
+  "base_path": "/government/publications/a-human-centred-approach-to-scaling-and-de-risking-ai-tools",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

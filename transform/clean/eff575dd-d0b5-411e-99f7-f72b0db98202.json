@@ -1,0 +1,11 @@
+{
+  "title": "Cameroon: Knowledge Base profile",
+  "body": "\"This document includes information about:   names nationality legitimacy and parental responsibility adoption gender recognition civil partnerships and marriage documents from Cameroon  \"",
+  "base_path": "/government/publications/cameroon-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

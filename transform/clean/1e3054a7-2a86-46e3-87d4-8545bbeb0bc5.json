@@ -1,0 +1,11 @@
+{
+  "title": "UK Forestry Standard practice guides for water management",
+  "body": "\"These guides from Forest Research offer practical advice for forest and woodland owners, managers, planners, and practitioners on how to sustainably manage forests and woodlands to protect and enhance the water environment. \"",
+  "base_path": "/government/publications/uk-forestry-standard-practice-guides-for-water-management",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    }
+  ]
+}

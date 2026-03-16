@@ -1,0 +1,11 @@
+{
+  "title": "Building safety newsletter",
+  "body": "\"Stay informed about building safety developments, guidance, and updates by subscribing to MHCLG’s newsletter. Sign up by clicking the button below.  Sign up now  \"",
+  "base_path": "/guidance/building-safety-newsletter",
+  "taxons": [
+    {
+      "title": "Planning and building",
+      "base_path": "/housing-local-and-community/planning-and-building"
+    }
+  ]
+}

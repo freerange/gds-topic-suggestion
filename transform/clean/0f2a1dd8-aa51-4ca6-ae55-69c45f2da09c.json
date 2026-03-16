@@ -1,0 +1,15 @@
+{
+  "title": "Adult and youth reoffending in Northern Ireland (2022/23 cohort)",
+  "body": "\"This bulletin provides information on the one year proven reoffending rate for offenders who received a non-custodial disposal at court, a diversionary disposal or were released from custody during 2022/23. Information will be presented in relation to the full cohort and also broken down by adults (those aged 18 and over) and youths (those aged 17 and under). \"",
+  "base_path": "/government/statistics/adult-and-youth-reoffending-in-northern-ireland-202223-cohort",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    }
+  ]
+}

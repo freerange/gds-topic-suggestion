@@ -1,0 +1,11 @@
+{
+  "title": "Deaths registered monthly in England and Wales: September 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/deaths-registered-monthly-in-england-and-wales-september-2025",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    }
+  ]
+}

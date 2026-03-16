@@ -1,0 +1,11 @@
+{
+  "title": "Assessment component files: 2025",
+  "body": "\"These files are for suppliers developing software that will help local authorities, schools and academies to electronically record and submit 2025 assessment data using their MIS.  There is no legal requirement for schools or local authorities to report key stage 1 teacher assessment data back to us and we will not ask them to do so. The tests and frameworks remain available for schools who wish to use them optionally.  The status of key stage 2 assessments, the multiplication tables check and the phonics check are unchanged from previous years.  The files specify the framework against which teachers assess pupils’ attainment in the national curriculum. For each key stage or year group, they specify the:   subjects subject components or attainment targets (for example, reading and writing are components of English) nature of assessment possible outcomes   The framework also includes special educational needs criteria. The assessment component files include:   A comp: the main assessment component file which contains all valid parameters A subj: containing the subject codes and descriptions A type: giving access to the codes and descriptions of all assessment methods  \"",
+  "base_path": "/government/publications/assessment-component-files-2025",
+  "taxons": [
+    {
+      "title": "Data collection and censuses for schools",
+      "base_path": "/education/data-collection-and-censuses-for-schools"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Tourism Statistics, Quarter 2 2024",
+  "body": "\"The statistics will include information from a range of sources related to tourism including information on overnight trips, rooms sold in establishments in NI and day trips. \"",
+  "base_path": "/government/statistics/northern-ireland-tourism-statistics-quarter-2-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    }
+  ]
+}

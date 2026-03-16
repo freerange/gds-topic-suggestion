@@ -1,0 +1,31 @@
+{
+  "title": "Congo: information for victims of rape and sexual assault",
+  "body": "\"This information is provided to help British nationals overseas make informed decisions about whether and how to:   seek medical advice and attention report to local police engage with foreign legal authorities following a rape or other form of sexual assault overseas  \"",
+  "base_path": "/government/publications/congo-information-for-victims-of-rape-and-sexual-assault",
+  "taxons": [
+    {
+      "title": "Emergency help for British nationals in Congo",
+      "base_path": "/world/emergency-help-for-british-nationals-congo"
+    },
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Forced marriage",
+      "base_path": "/crime-justice-and-law/forced-marriage"
+    },
+    {
+      "title": "Legal aid",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers"
+    },
+    {
+      "title": "Victims of crime",
+      "base_path": "/crime-justice-and-law/victims-of-crime"
+    },
+    {
+      "title": "Violence against women and girls",
+      "base_path": "/crime-justice-and-law/violence-against-women-and-girls"
+    }
+  ]
+}

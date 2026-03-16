@@ -1,0 +1,11 @@
+{
+  "title": "Reducing reoffending evidence synthesis",
+  "body": "\"Given the breadth of different activities and interventions that exist to reduce reoffending, this summary focuses upon the evidence base for some of the key areas of MOJ policymaking, but it is clearly not exhaustive. It revisits some of the same areas as previous reviews, including more recent evidence and incorporating new areas such as debt and community ties.  Evidence is drawn primarily from a series of Rapid Evidence Assessments (REAs) conducted by academics working in the field of reducing reoffending. REAs were used to compile sections on: Accommodation, Education, Employment, Finance, Benefits and Debt, and Community Ties. The REAs focused upon the effectiveness of these types of interventions to reduce reoffending but included some additional follow up questions such as features of effective interventions of different types, and for whom they may be most effective. A REA was also commissioned on theories of desistance. For the remaining sections, MOJ analysts conducted internal reviews of recent evidence. When assessing effectiveness, findings from meta-analyses were used where available, as there can be greater confidence in findings drawn from a series of studies than from single evaluations. Studies that included any comparison group were eligible for inclusion, with a focus on evidence drawn from England and Wales (although international studies were eligible for inclusion). \"",
+  "base_path": "/government/publications/reducing-reoffending-evidence-synthesis",
+  "taxons": [
+    {
+      "title": "Reoffending and rehabilitation",
+      "base_path": "/crime-justice-and-law/reoffending-and-rehabilitation"
+    }
+  ]
+}

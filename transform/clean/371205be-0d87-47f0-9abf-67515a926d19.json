@@ -1,0 +1,23 @@
+{
+  "title": "Ministers confirm appointments to key roles",
+  "body": "\"The Government has today (Monday 17 February 2025) confirmed the appointment and reappointment of members of the Low Pay Commission (LPC), Advisory, Conciliation and Arbitration Service (Acas) and Central Arbitration Committee (CAC) since June 2024.  The LPC, the independent body that advises the government about the National Living Wage and National Minimum Wage, has reappointed several members to the Commission. These include:   Worker Member: Simon Sapper Employer Members: Matthew Fell and Louise Fisher. Independent Members: Jonathan Wadsworth and Dr Patricia Rice.   Last month Janet Williamson was also appointed as a Worker Member for a three-year term.  Danny Mortimer was also appointed for his first term as a Employer Member of the Acas Council, whilst Michael Clancy’s term was extended by six months. Further reappointments include:   Worker Members: Roy Rickhuss and Christina McAnea Employer Members: Matthew Percival and Jayne Haines Independent Members: Ben Summerskill, Ijeoma Omambala and Simon Lewis.   The CAC, an independent authority that handles specific issues relating to trade unions and employers, also had a number of reappointments made. These are:   Four Deputy Chairs: Laura Prince, Naeema Choudry, Lisa Gettins and Stuart Robertson Eight Worker Members: Steve Gillan, Ian Hanson, Paul Moloney, Paul Morley, Claire Sullivan, Joanna Brown and Nicholas Childs. Seven Employer Members: David Cadger, Mustafa Faruqi, Richard Fulham, Martin Kirke, Sean McIlveen, Kieran Grimshaw and Alastair Kelly.    Employment Rights Minister Justin Madders said:   These three organisations are crucial to the government’s mission to grow the economy and Make Work Pay.  I welcome all of the new appointments and look forward to working with them to help protect the rights of workers across the country.  \"",
+  "base_path": "/government/news/ministers-confirm-appointments-to-key-roles",
+  "taxons": [
+    {
+      "title": "Labour market reform",
+      "base_path": "/employment/labour-market-reform"
+    },
+    {
+      "title": "Trade unions",
+      "base_path": "/work/trade-unions"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    },
+    {
+      "title": "Corporate governance",
+      "base_path": "/business-and-industry/corporate-governance"
+    }
+  ]
+}

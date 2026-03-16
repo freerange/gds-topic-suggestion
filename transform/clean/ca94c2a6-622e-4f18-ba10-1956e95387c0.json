@@ -1,0 +1,11 @@
+{
+  "title": "Local Remediation Acceleration Plans",
+  "body": "\"In the Remediation Acceleration Plan, we announced our intention to empower Metro Mayors to work in partnership with local authorities and regulators to drive remediation through Local Remediation Acceleration Plans. Mayoral Strategic Authorities are delivering these plans to harness the power of collaborative working and expertise at regional levels to speed up remediation.   Cambridgeshire & Peterborough Combined Authority Local Remediation Acceleration Plan East Midlands Combined County Authority Local Remediation Acceleration Plan Greater London Authority Remediation Acceleration Plan update (July 2025) Greater Manchester High Rise Task Force Liverpool City Region Local Remediation Acceleration Plan North East Local Remediation Acceleration Plan update South Yorkshire Local Remediation Acceleration Plan Tees Valley Local Remediation Acceleration Plan West of England Local Remediation Acceleration Plan Path West Midlands Remediation Acceleration Plan West Yorkshire Local Remediation Acceleration Plan York and North Yorkshire Remediation Plan  \"",
+  "base_path": "/government/collections/local-remediation-acceleration-plans",
+  "taxons": [
+    {
+      "title": "Building regulation",
+      "base_path": "/housing-local-and-community/building-regulation"
+    }
+  ]
+}

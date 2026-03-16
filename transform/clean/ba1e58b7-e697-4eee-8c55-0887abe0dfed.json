@@ -1,0 +1,15 @@
+{
+  "title": "Children Adopted from Care in Northern Ireland 2024/25",
+  "body": "\"This annual publication details statistical information on children adopted from care in Northern Ireland during the last financial year. A range of information is available about these children and their adopters as well as the duration between the various stages of the adoption process. \"",
+  "base_path": "/government/statistics/children-adopted-from-care-in-northern-ireland-202425",
+  "taxons": [
+    {
+      "title": "Adoption",
+      "base_path": "/childcare-parenting/adoption"
+    },
+    {
+      "title": "Children and young people leaving care",
+      "base_path": "/childcare-parenting/children-and-young-people-leaving-care"
+    }
+  ]
+}

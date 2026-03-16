@@ -1,0 +1,11 @@
+{
+  "title": "Estimating labour supply elasticities",
+  "body": "\"This report demonstrates estimates of labour supply elasticities (LSEs) for the UK over the period 1997 to 2024, using individual-level data.  Changes in transport infrastructure can influence effective wages if travel time is included in the working day, therefore, impacting employment decisions.  Estimates are provided for:   extensive LSEs (how many hours people decide to work) intensive LSEs (whether people decide to seek work at all)   This research indicates that UK workers have become less responsive to wage changes in their work hours. The decision of whether to seek work at all, however, has stayed at approximately the same level of sensitivity to wage changes.  This research was conducted by Marco G. Ercolani, David Hearne and Yi Liu at the University of Birmingham Department of Economics on behalf of the Department for Transport.  \"",
+  "base_path": "/government/publications/estimating-labour-supply-elasticities",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

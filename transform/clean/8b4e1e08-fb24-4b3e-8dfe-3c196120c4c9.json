@@ -1,0 +1,11 @@
+{
+  "title": "Right to Buy sales and replacements, England: 2024 to 2025",
+  "body": "\"This release presents official statistics on the number of sales of dwellings under the Right to Buy scheme, as well as providing statistics on receipts resulting from those sales and starts on site as part of the one-for-one additions policy.  The Right to Buy scheme allows eligible social housing tenants to buy their house at a reduced price and has been in place since 1980. These statistics relate only to sales by local authorities under the scheme, excluding sales by private registered providers under preserved Right to Buy.  Following changes to the data collection, outlined in the technical notes, this is the third annual Official Statistics on Right to Buy sales, replacing the quarterly series which ran until April 2021. \"",
+  "base_path": "/government/statistics/right-to-buy-sales-and-replacements-england-2024-to-2025",
+  "taxons": [
+    {
+      "title": "Council housing and housing association",
+      "base_path": "/housing-local-and-community/council-housing-association"
+    }
+  ]
+}

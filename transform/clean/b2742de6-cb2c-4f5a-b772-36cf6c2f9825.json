@@ -1,0 +1,15 @@
+{
+  "title": "Lassa fever contact tracing underway",
+  "body": "\"The UK Health Security Agency has been informed under the International Health Regulations that an individual travelled to England from Nigeria while they were unwell with Lassa fever at the end of February. The individual returned to Nigeria where they were diagnosed.  We are now working to identify people who were in contact with the affected individual while they were in the country.  Lassa fever does not spread easily between people and the overall risk to the public is very low. If you have not been contacted by UKHSA then you are very unlikely to have had any exposure to Lassa fever and do not need to take action.  Lassa fever causes acute infections which can range from very mild symptoms through to a severe viral haemorrhagic fever. People usually become infected with Lassa virus through exposure to food or household items contaminated with urine or faeces of infected rats – present in some West African countries where the disease is endemic. The virus can also be spread between people through contact with infectious bodily fluids.  Dr Meera Chand, Deputy Director at the UK Health Security Agency, said:   Our Health Protection Teams are working at pace to get in touch with people who were in contact with this individual while they were in England, to ensure they seek appropriate medical care and testing should they develop any symptoms. The infection does not spread easily between people, and the overall risk to the UK population is very low.  \"",
+  "base_path": "/government/news/lassa-fever-contact-tracing-underway",
+  "taxons": [
+    {
+      "title": "Emergency response",
+      "base_path": "/health-and-social-care/health-protection-emergency-response"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

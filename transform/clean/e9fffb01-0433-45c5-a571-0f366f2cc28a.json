@@ -1,0 +1,11 @@
+{
+  "title": "Annual savings statistics 2025",
+  "body": "\"This is the fifth release of HMRC’s consolidated annual savings statistics publication. \"",
+  "base_path": "/government/statistics/annual-savings-statistics-2025",
+  "taxons": [
+    {
+      "title": "Tax on savings and investments",
+      "base_path": "/money/savings-investment-tax"
+    }
+  ]
+}

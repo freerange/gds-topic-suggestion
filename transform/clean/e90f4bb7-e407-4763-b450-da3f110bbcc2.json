@@ -1,0 +1,15 @@
+{
+  "title": "Independent Restraint Review Panel (IRRP) - reports",
+  "body": "\"Collected reports from the Independent Restraint Review Panel (IRRP). \"",
+  "base_path": "/government/collections/independent-restraint-review-panel-irrp-reports",
+  "taxons": [
+    {
+      "title": "Justice system transparency",
+      "base_path": "/crime-justice-and-law/justice-system-transparency"
+    },
+    {
+      "title": "Young people and the law",
+      "base_path": "/crime-justice-and-law/young-people-and-the-law"
+    }
+  ]
+}

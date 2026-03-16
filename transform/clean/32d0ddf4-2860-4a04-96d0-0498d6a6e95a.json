@@ -1,0 +1,15 @@
+{
+  "title": "Secondary heating behaviours",
+  "body": "\"This research aims to better understand the use of secondary heating by households in the UK. The report sets out the main findings on:   the factors underlying secondary heating use the frequency that UK households use a given type of secondary heating the factors affecting households’ likelihood of changing their secondary heating use how switching to a different type of primary heating would change households’ secondary heating use   The Department for Energy Security and Net Zero (DESNZ) commissioned Verian to carry out the research in 2024. It employed 45 in-depth interviews across a mix of household types in the UK.  \"",
+  "base_path": "/government/publications/secondary-heating-behaviours",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

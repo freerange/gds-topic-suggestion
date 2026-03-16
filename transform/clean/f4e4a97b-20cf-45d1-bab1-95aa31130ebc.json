@@ -1,0 +1,15 @@
+{
+  "title": "Project ADDER: Impact evaluation",
+  "body": "\"Project ADDER aims to promote an intensive whole systems approach (WSA) to tackling drug use and its consequences. The Home Office commissioned Verian to conduct an independent evaluation of Project ADDER involving a scoping phase to develop theories of change and an evaluation framework; a process evaluation, to understand the facilitators of and barriers to implementation; and an impact evaluation, to measure whether the intended effects have been achieved.  This report presents the findings from the impact evaluation of Project ADDER. The impact evaluation found that in the first 2 years of the programme, seizures, arrests of high-harm individuals, and referrals to treatment from CJS pathways had all increased and this was likely due to the programme. However, the evaluation highlighted a lack of impact on the number of people entering treatment for opiate problems (which has been reflected in all areas of the country over the same time period) and that impacts like reductions in crime and deaths have not yet materialised. The evaluation noted longer-term programme impacts such as these are likely to take longer to materialise and should be expected in future if certain elements, particularly the needed increase in opiate treatment, are addressed. \"",
+  "base_path": "/government/publications/project-adder-impact-evaluation",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

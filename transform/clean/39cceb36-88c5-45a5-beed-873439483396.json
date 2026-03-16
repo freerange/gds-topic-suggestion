@@ -1,0 +1,23 @@
+{
+  "title": "Introducing new medicines in the NHS in the UK",
+  "body": "\"The pathway covers the regulatory and access route for companies wishing to introduce new medicines to the NHS. The process includes:   companies notifying the health and care system of their products through UK Pharmascan the advisory services that are available to companies marketing authorisation and health technology evaluation processes   The pathway does not include clinical trial stages or the NHS use of medicines after health technology evaluation.  The primary audience for the pathway is expected to be pharmaceutical companies preparing to launch their products in the UK, but it will also be of value to other stakeholders, such as patient organisations and clinicians.  The pathway will be kept under review on an ongoing basis to reflect changes to the regulatory and access pathways. \"",
+  "base_path": "/government/publications/introducing-new-medicines-in-the-nhs-in-the-uk",
+  "taxons": [
+    {
+      "title": "Marketing authorisations, variations and licensing guidance",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-marketing-authorisations-variations-licensing"
+    },
+    {
+      "title": "Medical devices regulation and safety",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood-medical-devices-regulation-safety"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    }
+  ]
+}

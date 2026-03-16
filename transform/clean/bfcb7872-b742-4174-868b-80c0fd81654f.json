@@ -1,0 +1,27 @@
+{
+  "title": "Austria: mental health support abroad",
+  "body": "\"Details  Includes information on:   FCDO consular support, what we can and can’t do what to do if you need help paying for treatment or hospitalisation involuntary hospitalisation guardianship returning to the UK other useful information support from other agencies and organisations   See also foreign travel advice for people with mental health needs and mental health and travelling abroad. \"",
+  "base_path": "/government/publications/austria-mental-health-support-abroad",
+  "taxons": [
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    },
+    {
+      "title": "Welfare",
+      "base_path": "/welfare"
+    },
+    {
+      "title": "Health and social care",
+      "base_path": "/health-and-social-care"
+    }
+  ]
+}

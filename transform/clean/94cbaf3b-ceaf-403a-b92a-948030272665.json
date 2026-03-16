@@ -1,0 +1,23 @@
+{
+  "title": "List of Charitable Organisations and Counsellors in Lebanon",
+  "body": "\"The Foreign, Commonwealth & Development Office (FCDO) does not accept any liability to any person or company for any financial loss or damage arising from the use of this information or from any failure to give information. \"",
+  "base_path": "/government/publications/shelters-for-women-in-lebanon",
+  "taxons": [
+    {
+      "title": "Living in Lebanon",
+      "base_path": "/world/living-in-lebanon"
+    },
+    {
+      "title": "British nationals overseas",
+      "base_path": "/going-and-being-abroad/british-nationals-overseas"
+    },
+    {
+      "title": "Living abroad",
+      "base_path": "/going-and-being-abroad/living-abroad"
+    },
+    {
+      "title": "Travel abroad",
+      "base_path": "/going-and-being-abroad/travel-abroad"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Environment Agency climate adaptation reporting fourth round: climate resilience for a better environment",
+  "body": "\"This report looks at how climate risks affect the delivery of the Environment Agency’s statutory duties and their operations (such as their estate, supply chains and business continuity). \"",
+  "base_path": "/government/publications/environment-agency-climate-adaptation-reporting-fourth-round",
+  "taxons": [
+    {
+      "title": "Climate change adaptation",
+      "base_path": "/environment/climate-change-adaptation"
+    },
+    {
+      "title": "Climate change international action",
+      "base_path": "/environment/climate-change-international-action"
+    }
+  ]
+}

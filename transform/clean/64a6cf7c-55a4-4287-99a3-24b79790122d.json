@@ -1,0 +1,11 @@
+{
+  "title": "Student loan repayment data by Higher Education Provider attended",
+  "body": "\"Student Loans Company has received a series of requests for information under the Freedom of Information Act 2000 for student loan repayment data by Higher Education Provider attended by student loan borrowers. This page publishes both the responses and associated datasets. \"",
+  "base_path": "/government/publications/student-loan-repayment-data-by-higher-education-provider-attended",
+  "taxons": [
+    {
+      "title": "Student loans",
+      "base_path": "/education/student-loans-bursaries-and-sponsorship"
+    }
+  ]
+}

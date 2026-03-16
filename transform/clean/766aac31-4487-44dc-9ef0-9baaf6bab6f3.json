@@ -1,0 +1,19 @@
+{
+  "title": "Supporting Syria’s future: guidance for businesses and NGOs",
+  "body": "\"This guidance is for:    UK businesses with an interest in investing, trading, and operating in Syria  UK aid organisations that support humanitarian and recovery work    It provides updates and guidance on the following relevant legislation:    the sanctions regimes that apply in Syria  the terrorism legislation (proscribed organisations) which applies to Syria the humanitarian provisions, exemptions, and general licences applicable to Syria  \"",
+  "base_path": "/government/publications/supporting-syrias-future-guidance-for-businesses-and-aid-organisations",
+  "taxons": [
+    {
+      "title": "Current UK sanctions regimes",
+      "base_path": "/international/current-uk-sanctions-regimes"
+    },
+    {
+      "title": "Humanitarian emergencies",
+      "base_path": "/international/humanitarian-emergencies"
+    },
+    {
+      "title": "UK financial sanctions",
+      "base_path": "/business-and-industry/uk-financial-sanctions"
+    }
+  ]
+}

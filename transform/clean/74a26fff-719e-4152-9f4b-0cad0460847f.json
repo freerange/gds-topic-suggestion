@@ -1,0 +1,15 @@
+{
+  "title": "Transport connectivity declaration between UK and France",
+  "body": "\"The United Kingdom and France have agreed to deepen their collaboration on transport, following discussions from the UK-France summit held between 9 July to 10 July 2025.  This declaration outlines expectations for both countries on the:   introduction of a new regulatory framework applicable to the Channel Tunnel cooperative and coordinated approach to seafarer welfare internationally and to the effective implementation of their existing measures cooperation on transport decarbonisation, including maritime decarbonisation and zero emission vehicles   \"",
+  "base_path": "/government/publications/transport-connectivity-declaration-between-uk-and-france",
+  "taxons": [
+    {
+      "title": "Rail freight and cargo",
+      "base_path": "/transport/rail-freight"
+    },
+    {
+      "title": "Maritime and shipping",
+      "base_path": "/transport/maritime-and-shipping"
+    }
+  ]
+}

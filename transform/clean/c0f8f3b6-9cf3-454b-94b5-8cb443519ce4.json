@@ -1,0 +1,11 @@
+{
+  "title": "Identifying factors associated with changes in charge volumes",
+  "body": "\"Between the years ending 31 March 2014 and 2023, charge volumes in England and Wales fell by 34%. However, the factors that contributed to this fall are not well understood.  This report summarises the findings from a study which sought to identify the key factors driving recent trends in charge volumes and other outcomes in England and Wales. The approach involved applying statistical techniques to recent police force-level data to build a series of crime-type specific models. The work was conducted as part of the criminal justice system (CJS) Demand Insights Project, supported by the Treasury’s Shared Outcomes Fund (SOF).  The analysis suggests that a range of workforce and crime factors influence charge volumes and other related outcomes, with different factors relevant to specific offence types. \"",
+  "base_path": "/government/publications/identifying-factors-associated-with-changes-in-charge-volumes",
+  "taxons": [
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

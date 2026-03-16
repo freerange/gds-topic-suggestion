@@ -1,0 +1,19 @@
+{
+  "title": "Consultation on the Introduction of Electric Vehicle Excise Duty (eVED)",
+  "body": "\"At Budget 2025, the government announced electric Vehicle Excise Duty (eVED): a new mileage charge for electric and plug-in hybrid cars, which will take effect from April 2028. This consultation sets out further detail on how eVED will work and seeks views its design and implementation.  How to respond  This consultation is hosted on an online survey platform called SmartSurvey. To respond to the consultation, please use the following weblink: https://www.smartsurvey.co.uk/s/eVEDconsultation/ \"",
+  "base_path": "/government/consultations/consultation-on-the-introduction-of-electric-vehicle-excise-duty-eved",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    },
+    {
+      "title": "Zero emission and electric vehicles",
+      "base_path": "/transport/zero-emission-and-electric-vehicles"
+    },
+    {
+      "title": "Vehicle ownership, approval and standards",
+      "base_path": "/transport/vehicle-ownership-approval-and-standards"
+    }
+  ]
+}

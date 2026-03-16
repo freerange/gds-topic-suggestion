@@ -1,0 +1,19 @@
+{
+  "title": "Improving our travel and tourism statistics: August 2025 update",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/improving-our-travel-and-tourism-statistics-august-2025-update",
+  "taxons": [
+    {
+      "title": "Going and being abroad",
+      "base_path": "/going-and-being-abroad"
+    },
+    {
+      "title": "Transport",
+      "base_path": "/transport"
+    },
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    }
+  ]
+}

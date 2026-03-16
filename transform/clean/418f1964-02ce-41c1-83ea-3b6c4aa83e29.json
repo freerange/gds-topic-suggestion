@@ -1,0 +1,11 @@
+{
+  "title": "Monthly Sea Fisheries Statistics June 2025",
+  "body": "\"Highlights   The total quantity of landings by UK vessels (tonnes) decreased in June 2025 compared to 2024, down 1%. The value of landings in June 2025 (£60.6m) also decreased compared to 2024 down by 3%. Landings in June 2025 comprised mostly of Demersal species (45%). This was driven by landings of Haddock which is usually a targeted fishery in the summer months between June and August each year.  \"",
+  "base_path": "/government/statistics/monthly-sea-fisheries-statistics-june-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

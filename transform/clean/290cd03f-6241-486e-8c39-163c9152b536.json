@@ -1,0 +1,15 @@
+{
+  "title": "MMRV: patient group direction (PGD) template",
+  "body": "\"This patient group direction (PGD) template supports the administration of measles, mumps, rubella and varicella (MMRV) vaccine, to individuals from one year of age for routine immunisation or from 9 months of age if early protection is required against varicella, in accordance with the national immunisation programme and the UK Health Security Agency (UKHSA) guidelines on varicella outbreak management.  MMRV vaccine PGD version 1.0 is valid from 1 January 2026 to 30 November 2028.  Practitioners must not use this PGD template until it has been authorised in Section 2. This is a legal requirement (see Human Medicines Regulations 2012). Practitioners should follow local policy and procedures to access authorised PGD documents.  This PGD template should be used with reference to current national guidance, the Green Book, and Summary of Product Characteristics for the vaccine.  \"",
+  "base_path": "/government/publications/mmrv-patient-group-direction-pgd-template",
+  "taxons": [
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    },
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

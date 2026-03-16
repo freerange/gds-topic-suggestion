@@ -1,0 +1,19 @@
+{
+  "title": "Spending by UK cardholders, UK: Quarter 1 (Jan to Mar) 2019 to Quarter 2 (Apr to June) 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/spending-by-uk-cardholders-uk-quarter-1-jan-to-mar-2019-to-quarter-2-apr-to-june-2025",
+  "taxons": [
+    {
+      "title": "Society and culture",
+      "base_path": "/society-and-culture"
+    },
+    {
+      "title": "Business and industry",
+      "base_path": "/business-and-industry"
+    },
+    {
+      "title": "Money",
+      "base_path": "/money"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Timber price indices: data to March 2025",
+  "body": "\"This release is published twice a year and comprises the following price indices:   Coniferous Standing Sales Price Index, Softwood Sawlog Price Index (including spruce and other conifers sub-indices) Small Roundwood Price Index   The indices cover sales in England, Scotland and Wales by Forestry England, Forestry and Land Scotland, and Natural Resources Wales. \"",
+  "base_path": "/government/statistics/timber-price-indices-data-to-march-2025",
+  "taxons": [
+    {
+      "title": "Forests and woodland",
+      "base_path": "/environment/forests-and-woodland"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Driving instructor and motorcycle instructor register data",
+  "body": "\"Approved driving instructors (ADIs)  These data tables are updated quarterly. They were last updated on 4 December 2025 with data to September 2025.     Table reference File name     INS0101  ADI register statistics: Great Britain  (ODS, 55.4 KB)   INS0102  Grades of ADIs as recorded in their most recent standards check: Great Britain   (ODS, 42.1 KB)   INS0103  Trainee driving instructor licence holders and ADIs by postcode area: Great Britain   (ODS, 555 KB)     Motorcycle instructors and training  These data tables are updated quarterly. They were last updated on 4 December 2025 with data to September 2025.     Table reference File name     INS0201  Motorcycle approved training body (ATB) statutory register: Great Britain  (ODS, 21.5 KB)   INS0202  Compulsory basic training (CBT) instructor standards checks, quarterly: Great Britain   (ODS, 9.38 KB)   INS0203  Compulsory basic training (CBT) statistics, quarterly: Great Britain  (ODS, 11.5 KB)     Changes to how this data is published  This data is now all published by the Driver and Vehicle Standards Agency (DVSA). Before 2025, data for Great Britain overall was published by the Department for Transport (DfT).  You can view archived versions of the data as it was published by DfT in the National Archives.  View data in the National Archives.  Data you cannot find  Data you cannot find might have been published as a response to an Freedom of Information (FOI) request.  Send an FOI request to DVSA if you still cannot find the information you need.  DVSA will not usually send you information that’s intended for future publication, as it’s exempt under section 22 of the Freedom of Information Act 2000.   Freedom of Information requests   Freedom of Information RequestsDVSA, 1 Unity SquareNottinghamNG2 1AY      Contact form https://www.smartsurve...        Help with the data  The driving test, theory test and driving instructor statistics information gives details about the data sources and how the registers work.  Contact DVSA to get help with published data.   DVSA management information team mids@dvsa.gov.uk   Contact the DVSA press office if you’re a journalist or have a media enquiry about the data.   DVSA press office pressoffice@dvsa.gov.uk   \"",
+  "base_path": "/government/statistical-data-sets/driving-instructor-and-motorcycle-instructor-register-data",
+  "taxons": [
+    {
+      "title": "Motorcycle training",
+      "base_path": "/transport/motorcycle-training"
+    },
+    {
+      "title": "Driving instructor registration and renewals",
+      "base_path": "/transport/driving-instructor-registration-and-renewals"
+    },
+    {
+      "title": "Driving, motorcycle and LGV instructor qualification process",
+      "base_path": "/transport/driving-motorcycle-and-lgv-instructor-qualification-process"
+    },
+    {
+      "title": "Professional development for driving and motorcycle instructors",
+      "base_path": "/transport/professional-development-for-approved-driving-instructors"
+    }
+  ]
+}

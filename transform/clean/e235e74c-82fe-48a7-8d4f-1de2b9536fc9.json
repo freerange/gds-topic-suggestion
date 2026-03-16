@@ -1,0 +1,11 @@
+{
+  "title": "DESNZ: prompt payment data, April to June 2025",
+  "body": "\"Percentage of invoices DESNZ paid within 5 days and within 30 days of receipt. The data is published in yearly quarters.  This data is also available on data.gov.uk:   DESNZ: prompt payment data   \"",
+  "base_path": "/government/publications/desnz-prompt-payment-data-april-to-june-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

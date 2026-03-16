@@ -1,0 +1,11 @@
+{
+  "title": "Number of exporting registered businesses in the UK",
+  "body": "\"The documents in this collection provide an estimate of the number and proportion of exporting registered businesses and Small and Medium Enterprises (SMEs) in the UK.  The estimates are produced using data from the Office for National Statistics (ONS) and the Northern Ireland Statistics and Research Agency (NISRA).  Documents in this collection are considered official statistics in development.  \"",
+  "base_path": "/government/collections/number-of-exporting-registered-businesses-in-the-uk",
+  "taxons": [
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    }
+  ]
+}

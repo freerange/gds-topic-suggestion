@@ -1,0 +1,11 @@
+{
+  "title": "LED4Food: Product-level GHG footprinting methodology",
+  "body": "\"As part of the LED4Food research programme, Defra has published a recommended best practice methodology for product-level greenhouse gas (GHG) footprinting in the agri-food sector. This is a key milestone for the Food Data Transparency Partnership.  The report reviews existing standards and provides detailed recommendations for lifecycle assessment (LCA) practitioners and sustainability professionals.    This methodology is not mandatory. It is intended to support more consistent and science-led measurement of product-level emissions, helping businesses improve scope 3 reporting and support supply chain decarbonisation.   Defra and WRAP are inviting industry to test the methodology from September 2025. Feedback from this testing will help refine the approach and inform future policy development.   To express interest in testing, email LED4food.testing@wrap.ngo. \"",
+  "base_path": "/government/publications/led4food-product-level-ghg-footprinting-methodology",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

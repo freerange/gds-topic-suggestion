@@ -1,0 +1,15 @@
+{
+  "title": "NESO Strategic Spatial Energy Plan methodology",
+  "body": "\"The National Energy System Operator (NESO) has published their methodology for developing the Strategic Spatial Energy Plan (SSEP).  This letter has been issued by the Secretary of State for Energy Security and Net Zero to Director of NESO, Fintan Slye, in support of the published methodology.  \"",
+  "base_path": "/government/publications/neso-strategic-spatial-energy-plan-methodology",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Energy infrastructure",
+      "base_path": "/environment/climate-change-energy-energy-infrastructure"
+    }
+  ]
+}

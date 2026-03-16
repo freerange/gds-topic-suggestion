@@ -1,0 +1,23 @@
+{
+  "title": "NHS England annual accountability statement: 2023 to 2024",
+  "body": "\"The NHS public health functions agreement requires NHS England to produce an annual report on its achievement against the outcomes set out in the agreement.  This accountability statement assesses NHS England’s performance against the agreement Public health commissioning in the NHS: 2023 to 2024. \"",
+  "base_path": "/government/publications/nhs-england-annual-accountability-statement-2023-to-2024",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    }
+  ]
+}

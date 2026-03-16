@@ -1,0 +1,11 @@
+{
+  "title": "Manage asylum claim",
+  "body": "\"If you’re an immigration adviser, you can use this service to download files relating to asylum claims you’re working on.  Paralegals and administrative support staff can also use this service.  You can continue to manage asylum claims through email and post.  You cannot use this service to claim asylum. Read how to claim asylum in the UK.  Sign in   Using the service for the first time  You need to get an invite before you can create an account.  Getting an invite  If you’re an immigration adviser, email a letter of authority to asylumcentralcommunicationshub@homeoffice.gov.uk. Say that you want to use ‘Manage asylum claim’ and give your Immigration Advice Authority (IAA) registration number.   You cannot get information about individual asylum claims through this email address.   If you’re a paralegal or member of support staff who works on asylum cases, an immigration adviser in your organisation with an account can create an account for you.  Creating your account  You’ll need to:   use your work email address create a password  \"",
+  "base_path": "/guidance/manage-asylum-claim",
+  "taxons": [
+    {
+      "title": "Refugee, asylum and human rights claims",
+      "base_path": "/entering-staying-uk/asylum-refugee-human-rights-claims"
+    }
+  ]
+}

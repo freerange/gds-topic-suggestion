@@ -1,0 +1,11 @@
+{
+  "title": "Historical Energy use on farms in England",
+  "body": "\"This publication gives previously published copies of the statistics about energy use on farms in England. Each publication gives the figures available at that time. The figures are subject to revision as new information becomes available. \"",
+  "base_path": "/government/statistics/historical-energy-use-on-farms-in-england",
+  "taxons": [
+    {
+      "title": "Food and farming industry",
+      "base_path": "/environment/food-and-farming-industry"
+    }
+  ]
+}

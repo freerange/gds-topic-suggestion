@@ -1,0 +1,11 @@
+{
+  "title": "Supply and use tables data sources catalogue: Blue Book 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/supply-and-use-tables-data-sources-catalogue-blue-book-2025",
+  "taxons": [
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

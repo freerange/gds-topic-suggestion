@@ -1,0 +1,11 @@
+{
+  "title": "Supporting documents for Spending Review 2025",
+  "body": "\"Supporting documents for Spending Review 2025.  Impact on households: distributional analysis to accompany Spending Review 2025  This document sets out the estimated impact of changes to tax, welfare and public service spending policy that carry a direct, quantifiable impact on households. It also presents estimates of the overall level of tax paid and public spending received by households.  Statement of Funding Policy: Funding the Scottish Government, Welsh Government and Northern Ireland Executive  This is the eleventh edition of the Statement of Funding Policy, first published in March 1999. It sets out how UK Government funding for the devolved governments is determined over the Spending Review 2025 period and highlights the other sources of funding available to them. The purpose of this Statement is to set out the policies and procedures which underpin the UK Government’s funding of the devolved governments, to set out the elements of that funding and to explain the interactions with the funding the devolved governments raise themselves.  Spending Review 2025 unrounded departmental Resource DEL, Capital DEL and Total DEL tables  This spreadsheet provides the unrounded Resource DEL excluding depreciation (RDELex), Capital DEL (CDEL) and Total DEL (TDEL) tables published at Spending Review 2025 (SR25).  It also includes the underlying calculations behind the growth rates (including GDP deflators). \"",
+  "base_path": "/government/publications/supporting-documents-for-spending-review-2025",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

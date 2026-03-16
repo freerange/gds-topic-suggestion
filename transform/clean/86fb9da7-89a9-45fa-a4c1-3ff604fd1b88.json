@@ -1,0 +1,11 @@
+{
+  "title": "Provisional Monthly Hospital Episode Statistics for Admitted Patient Care, Outpatient and Accident and Emergency data, April 2025 - October 2025",
+  "body": "\"Hospital Episodes Statistics (HES) is a data warehouse containing records of all patients admitted to NHS hospitals in England. It contains details of inpatient care, outpatient appointments and A&E attendance records.  Hospital episode statistics (HES) statistics are produced and published on a monthly basis. This data is provisional and should therefore be treated as an estimate until the final National Statistics annual publications. \"",
+  "base_path": "/government/statistics/provisional-monthly-hospital-episode-statistics-for-admitted-patient-care-outpatient-and-accident-and-emergency-data-april-2025-october-2025--2",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    }
+  ]
+}

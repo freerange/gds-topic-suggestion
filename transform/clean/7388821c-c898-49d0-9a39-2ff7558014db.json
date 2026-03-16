@@ -1,0 +1,11 @@
+{
+  "title": "Mpox: information for contacts of cases of mpox",
+  "body": "\"These documents are intended to be distributed by public health and health professionals to contacts of confirmed mpox cases. They give the contact information on mpox, what they should do now, and what they should do if they develop symptoms of mpox. Your health protection team will advise you which one is appropriate for you.  Additional mpox resources are also available from the UK Health Security Agency. \"",
+  "base_path": "/government/publications/mpox-information-for-contacts-of-cases-of-mpox",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

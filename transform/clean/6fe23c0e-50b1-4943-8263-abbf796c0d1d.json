@@ -1,0 +1,11 @@
+{
+  "title": "Council Taxbase 2025 in England",
+  "body": "\"Summary totals at an England level of the number of dwellings, the number of dwellings that are exempt from Council Tax, and the number liable for Council Tax. \"",
+  "base_path": "/government/statistics/council-taxbase-2025-in-england",
+  "taxons": [
+    {
+      "title": "Council Tax",
+      "base_path": "/regional-and-local-government/local-government-council-tax"
+    }
+  ]
+}

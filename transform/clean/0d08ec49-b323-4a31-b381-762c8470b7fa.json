@@ -1,0 +1,11 @@
+{
+  "title": "Desider 2025",
+  "body": "\"Desider is the monthly corporate magazine for Defence Equipment & Support (DE&S). It is aimed at readers across the wider MOD, armed forces and industry, and covers stories and features about support to operations, equipment acquisition and support. It also covers the work of people in DE&S and its partners in industry, and other corporate news and information. \"",
+  "base_path": "/government/publications/desider-2025",
+  "taxons": [
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "UK Marine Strategy Part One Update 2025",
+  "body": "\"The Department for Environment, Food & Rural Affairs (Defra), the Department of Agriculture Environment and Rural Affairs Northern Ireland, the Scottish Government and Welsh Government are seeking views on the update to UK Marine Strategy (UKMS) Part One.  This sets out:   our assessment of progress made towards achieving the targets set for Good Environmental Status (GES) in the Marine Strategy Part One in 2019 proposals for updated high level objectives, targets and indicators to be used for the next reporting cycle   Where possible, we have based our assessments on those completed for the OSPAR Convention for the Protection of the North East Atlantic Quality Status Report (QSR 2023).  We want to know what you think about our assessments and what they tell us about the state of our seas. We are also asking for your views about the individual targets we are setting for each component of the UKMS.  \"",
+  "base_path": "/government/consultations/uk-marine-strategy-part-one-update-2025",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

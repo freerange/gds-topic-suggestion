@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland Composite Economic Index (NICEI) Quarter 3 2024",
+  "body": "\"This release of the NICEI covers the period 1 July to 30 September 2024 (Quarter 3 2024). \"",
+  "base_path": "/government/statistics/northern-ireland-composite-economic-index-nicei-quarter-3-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

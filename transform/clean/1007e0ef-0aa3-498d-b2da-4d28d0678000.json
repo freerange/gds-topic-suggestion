@@ -1,0 +1,11 @@
+{
+  "title": "Chronic risks analysis",
+  "body": "\"The Chronic risks analysis (CRA) is the UK Government’s first bespoke risk assessment for medium to long term risks. It complements the National Risk Register (NRR), which focuses on the UK’s most serious acute risks.  The 26 chronic risks identified by the UK Government cover seven themes, spanning across Security, Technology and Cybersecurity, Geopolitical, Environmental, Societal, Biosecurity and Economic issues.  Like the NRR, the CRA is aimed at risk and resilience practitioners, including businesses and voluntary and community sector organisations. Information for individuals, households and communities on preparing for emergencies can be found on GOV.UK/Prepare \"",
+  "base_path": "/government/publications/chronic-risks-analysis",
+  "taxons": [
+    {
+      "title": "Government",
+      "base_path": "/government/all"
+    }
+  ]
+}

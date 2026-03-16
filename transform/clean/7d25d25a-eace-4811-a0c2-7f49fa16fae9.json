@@ -1,0 +1,23 @@
+{
+  "title": "Kingdon review of children's hearing services",
+  "body": "\"In April 2025 the Secretary of State for Health and Social Care appointed Dr Camilla Kingdon to chair an independent review of children’s hearing services (paediatric audiology). The review considered:   NHS England’s response to the service failures in children’s hearing services how the relevant governance arrangements between NHS England and the Department of Health and Social Care could be improved, and identify lessons learned how NHS England’s handling of any future service failures in similar services could be improved, and identify lessons learned   \"",
+  "base_path": "/government/collections/kingdon-review-of-childrens-hearing-services",
+  "taxons": [
+    {
+      "title": "Patient safety",
+      "base_path": "/health-and-social-care/patient-safety"
+    },
+    {
+      "title": "NHS newborn hearing screening programme (NHSP)",
+      "base_path": "/health-and-social-care/population-screening-programmes-newborn-hearing"
+    },
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    }
+  ]
+}

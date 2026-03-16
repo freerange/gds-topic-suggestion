@@ -1,0 +1,15 @@
+{
+  "title": "Time in assessment: research and statistics",
+  "body": "\"Ofqual has conducted research into the role of time pressure in assessment, looking at speed of working, the impact of having extra time in exams and reviewing existing research literature on the topic.  These reports are presented alongside a regulatory report on access arrangements, and statistics on the number of approved access arrangements for GCSE, AS and A level in England valid for use during the 2024 to 2025 academic year, and the number of requests granted for modified papers for the 2025 summer GCSE, AS and A level series.  \"",
+  "base_path": "/government/collections/time-in-assessment-research-and-statistics",
+  "taxons": [
+    {
+      "title": "Exam regulation and administration",
+      "base_path": "/education/exam-regulation-and-administration"
+    },
+    {
+      "title": "Support for special educational needs and disability (SEND) ",
+      "base_path": "/education/support-for-special-educational-needs-and-disability-send"
+    }
+  ]
+}

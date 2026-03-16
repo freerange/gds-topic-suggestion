@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: landslides and earthwork failures",
+  "body": "\"This summary covers the risks to transport from landslides and the failure of earthworks, such as damage to infrastructure and the closure of transport routes. It also provides advice to help mitigate and plan for these risks.  Direct impacts from landslides and earthwork failures include:   danger of vehicles colliding with soil or rock that has fallen onto roads or railway lines long diversions and delays while repairs are carried out   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-landslides-and-earthwork-failures",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    }
+  ]
+}

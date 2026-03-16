@@ -1,0 +1,11 @@
+{
+  "title": "Benefit expenditure and caseload tables 2025",
+  "body": "\"The ‘Outturn and forecast: Autumn Budget 2025’ tables are consistent with the Economic and fiscal outlook – November 2025 – Office for Budget Responsibility.  Stat-Xplore is an online tool for exploring and extracting some of the Department for Work and Pensions (DWP) main statistics. You can use Stat-Xplore to create your own tables and charts.    Statistical disclosure control has been applied to the tables to avoid the release of confidential data. This means that totals and cross-references may not sum due to the disclosure control applied.  More information   Figures are in line with Department for Work and Pensions (DWP) executive competence unless otherwise stated.   Historic expenditure figures may differ from those published in the accounts due to differing definitions and the inclusion of data that has become available since.   Historic caseload data comes from statistical reports. It may differ from previously published figures because these tables provide estimates for financial years, rather than point-in-time figures.   Some historical data may differ from that previously published where:     new information has become available    methods for estimating expenditure have been improved     Forecasts are developed using a number of techniques appropriate to the particular benefits, taking into account demographic, economic, social and policy factors.   Read more detailed information and guidance on this data.   Feedback   Contact expenditure.tables@dwp.gov.uk with any feedback and queries.  \"",
+  "base_path": "/government/publications/benefit-expenditure-and-caseload-tables-2025",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    }
+  ]
+}

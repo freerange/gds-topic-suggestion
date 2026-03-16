@@ -1,0 +1,15 @@
+{
+  "title": "Statistics: summer qualification results in England",
+  "body": "\" Provide your feedback  We welcome your feedback on our publications. If you have any comments on this statistical release, or how to improve it to meet your needs, please complete our short survey or email data.analytics@ofqual.gov.uk.   Overview  Annual statistics on the qualification results that have been issued to students each summer. The first release was published in summer 2025.  This release include results for GCSEs, AS and A levels, vocational and technical qualifications that appear on the Department for Education’s performance table lists (applied generals, tech levels, technical awards and technical certificates), and the technical qualification (TQ) components of T Level qualifications.  For GCSEs, AS and A levels, and TQ within T Levels, this includes results that were issued to students on the August results days.  For tech levels, applied generals, technical awards and technical certificates, results issued between 1 March and 31 August are included.  This release does not include results for the overall T Level. Ofqual only regulates the TQ, which comprises the core and occupational specialism components of an overall T Level. For overall T Level results, see the T Level results published by the Department for Education.  Results for vocational and technical qualifications not in scope of this release are also issued each summer and all year round, and are reported in the vocational and other qualifications quarterly release.   For related statistics, see our statistics at Ofqual page.  \"",
+  "base_path": "/government/collections/statistics-summer-qualification-results-in-england",
+  "taxons": [
+    {
+      "title": "Key stage 5 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-5-exam-marking-qualifications-and-results"
+    },
+    {
+      "title": "Key stage 3 and 4 exam marking, qualifications and results",
+      "base_path": "/education/key-stage-3-and-4-exam-marking-qualifications-and-results"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Health and social care statistical outputs consultation follow-up",
+  "body": "\"The Department of Health and Social Care (DHSC), NHS Business Services Authority (NHSBSA), UK Health Security Agency (UKHSA), Office for National Statistics (ONS) and NHS England are making changes to statistical products to move towards an improved, more coherent and efficient health and social care statistical landscape.  We set out how we were going to make these changes in our consultation response.  This follow-up document gives an update on the work we have done to make the changes we set out in the response, including work that has been completed, delayed or has stopped. \"",
+  "base_path": "/government/statistics/health-and-social-care-statistical-outputs-consultation-follow-up",
+  "taxons": [
+    {
+      "title": "Public health",
+      "base_path": "/health-and-social-care/public-health"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Lightweight portable oxygen system to save lives",
+  "body": "\"The Defence Science and Technology Laboratory (Dstl), in collaboration with Defence Medical Services (DMS), has unveiled a cutting-edge portable oxygen delivery system designed to improve casualty survival rates for UK soldiers and civilians.  Weighing just 5kg, this ground-breaking system offers sustainable oxygen delivery on the battlefield, overcoming limitations of traditional pressurised oxygen cylinders.  Current cylinders pose logistical challenges due to their weight, risk of explosion and requirement to be refilled using specialist equipment after use. The Dstl system offers improved safety, flexibility and reusability.  Lightweight Portable Oxygen Unit - For Frontline Troops  The innovative concentrator system works by drawing air from the environment surrounding the patient, pushing it into a series of chambers that removes the nitrogen present in atmospheric air, allowing breathable oxygen-rich gas to be delivered directly to the patient.  Additionally, its rebreather element conserves exhaled breath, scrubs carbon dioxide out of it and enables it to be breathed back in. This combination ensures that any oxygen consumed by the patient is replaced, maintaining a consistently high concentration of oxygen delivered to the patient.  The system also provides rebreathing capabilities and patient ventilation for casualties unable to breathe unaided, all within the same weight class as a standard oxygen cylinder.  Dstl Military Advisor Major Andrew Maggs said:   The ability to deliver oxygen at the point of injury represents a game-changing advance in battlefield medicine. By reducing logistical burden and improving safety, the system will provide critical care in situations where every second counts.   The first deployment of the system is yet to be determined, but potentially means 15 prototype systems will be deployed out to operations. The system, which was developed using a combination of off-the-shelf components, is currently undergoing design work to create a mass-producible version tailored for rigorous military use.  This collaboration highlights the importance of UK science and innovation in addressing real-world challenges. Dstl and DMS are working to ensure this technology is refined and ready to meet the demands of military and civilian operations and crises.   Impact of this new system Oxygen therapy is critical for trauma patients suffering from blood loss, head injuries and lung trauma – injuries frequently seen on the battlefield. By getting oxygen delivery directly to the point of injury, the system can dramatically improve the likelihood of survival and recovery.   Dstl’s Chief Executive Dr Paul Hollinshead said:   In operational terms, this system will reduce the logistical strain on supply chains while improving battlefield care. The ability to also reuse the system with external power or replaceable batteries means it offers unparalleled flexibility.   In its current format, the cumulative cost of the separate components is approximately £15,000 per unit, but efforts are underway to design an even more cost-effective system with greater scalability.  \"",
+  "base_path": "/government/news/light-weight-portable-oxygen-system-to-save-lives",
+  "taxons": [
+    {
+      "title": "Armed forces",
+      "base_path": "/defence/working-armed-forces"
+    },
+    {
+      "title": "Military equipment, logistics and technology",
+      "base_path": "/defence/military-equipment-logistics-technology"
+    },
+    {
+      "title": "Military recruitment, training and operations",
+      "base_path": "/defence/military-recruitment-training-operations"
+    },
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    },
+    {
+      "title": "Scientific research and development",
+      "base_path": "/business-and-industry/scientific-research-and-development"
+    }
+  ]
+}

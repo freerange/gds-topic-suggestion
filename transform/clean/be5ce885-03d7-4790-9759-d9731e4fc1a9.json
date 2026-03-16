@@ -1,0 +1,35 @@
+{
+  "title": "Help with Freeports  — GfC14",
+  "body": "\"These Guidelines for Compliance will be useful if you are operating, or intending to operate, within a Freeport.    These guidelines:   outline the tax reliefs and customs benefits available detail how to qualify for the reliefs and benefits highlight common errors businesses make   You should read these guidelines alongside HMRC’s published guidance. You will be directed to this guidance within these guidelines. You should use these guidelines to help you make informed decisions, based on your personal circumstances.  Following these guidelines will help to reduce your risk of making errors, therefore reducing the risk of any penalty charges. \"",
+  "base_path": "/government/publications/help-with-freeports-gfc14",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    },
+    {
+      "title": "Commodity codes and reporting",
+      "base_path": "/business/business-exports-commodity-codes-and-reporting"
+    },
+    {
+      "title": "Customs Freight Simplified Procedures",
+      "base_path": "/business/business-tax-import-export-customs-freight-simplified-procedures"
+    },
+    {
+      "title": "Get goods through customs",
+      "base_path": "/business/business-tax-import-export-get-goods-through-customs"
+    },
+    {
+      "title": "Rules for specific goods and services",
+      "base_path": "/business/business-tax-import-export-rules-for-specific-goods-and-services"
+    },
+    {
+      "title": "Exporting",
+      "base_path": "/business-and-industry/exporting"
+    },
+    {
+      "title": "Importing",
+      "base_path": "/business-and-industry/importing"
+    }
+  ]
+}

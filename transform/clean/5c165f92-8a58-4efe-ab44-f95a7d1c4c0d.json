@@ -1,0 +1,11 @@
+{
+  "title": "AAIB Report: Airbus Helicopters EC175 B, G-MCSH",
+  "body": "\"The helicopter was operating to the Elgin PUQ offshore platform ahead of an approaching storm.  A tail rotor gearbox chip warning led to the helicopter being shutdown on the offshore helideck and experiencing strong winds as the storm passed through.  A failure of the rotor brake meant it was not possible to stop the rotors fully to apply the main rotor blade tie down straps.  There was also difficulty mooring the helicopter to the helideck.  It is considered vertical air flow caused by the ‘cliff edge’ effect of an accommodation block on the platform exacerbated the rotor blade sailing, causing four blades to break and detach from the helicopter.  One blade nearly struck a person trying to strap the helicopter to the helideck.  The subsequent investigation identified several operational shortcomings, a failure of the rotor brake and faults with the model of flight recorder fitted to the helicopter.  A number of safety actions have been taken, and six Safety Recommendations are made in this report.  Read the report. \"",
+  "base_path": "/government/news/aaib-report-airbus-helicopters-ec175-b-g-mcsh",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

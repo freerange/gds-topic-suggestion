@@ -1,0 +1,11 @@
+{
+  "title": "GOV.UK Chat: terms and conditions",
+  "body": "\"Who we are  GOV.UK Chat is managed by the Government Digital Service (GDS) on behalf of the Crown. GDS is part of the Department for Science, Innovation and Technology (DSIT) and will be referred to as ‘we’ from now on.  GOV.UK app terms and conditions also apply to GOV.UK Chat  The GOV.UK app terms and conditions also apply to GOV.UK Chat, which is optional in the app. The references to the GOV.UK app in the GOV.UK app’s terms and conditions should be read as including GOV.UK Chat.  The following terms and conditions also apply to GOV.UK Chat.  Information about you and your use of GOV.UK Chat  Read GOV.UK Chat’s privacy notice for more details about how and why we collect, use and share your personal data.  By using GOV.UK Chat, you acknowledge that we will collect information about you in accordance with our privacy notice.  Using GOV.UK Chat  GOV.UK Chat uses artificial intelligence (AI) to generate answers that may be relevant to you, based on what you put in. It uses the information on certain GOV.UK pages to do this.  You agree not to put personal data into GOV.UK Chat. We use an automatic filter to remove certain common forms of personal data that may be put into GOV.UK Chat.  If you include personal data and it is not removed by our filters, it will be processed within our system.  However, the system is designed to detect personal data in the answer. When this happens, GOV.UK Chat aims to withhold the answer.  Disclaimer  AI tools can sometimes make mistakes - for example they can provide inaccurate or inappropriate answers.  While all reasonable endeavours have been made to ensure GOV.UK Chat’s answers are relevant and free from bias, in some exceptional cases they may be unreliable or offensive to some users.  GOV.UK Chat is designed to minimise these risks. It only uses information on GOV.UK in its answers. With each answer, it provides links to the GOV.UK pages it uses. You can find the links in the ‘GOV.UK pages used in this answer’ section, under each answer.   You are responsible for checking the accuracy of GOV.UK Chat’s answers.  \"",
+  "base_path": "/guidance/govuk-chat-terms-and-conditions",
+  "taxons": [
+    {
+      "title": "GOV.UK services",
+      "base_path": "/government/govuk-services"
+    }
+  ]
+}

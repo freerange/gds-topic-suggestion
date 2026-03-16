@@ -1,0 +1,11 @@
+{
+  "title": "Kosovo: Knowledge Base profile",
+  "body": "\"This document contains useful information about Kosovo which will assist His Majesty’s Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy and parental responsibility adoption surrogacy gender recognition civil partnerships and marriage documents from Kosovo  \"",
+  "base_path": "/government/publications/kosovo-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Evaluation of AI trials in the asylum decision making process",
+  "body": "\"Asylum decision-makers spend a substantial amount of time analysing asylum interview transcripts and finding country policy information. As part of a wider asylum system programme of change, Home Office trialled 2 tools to help speed up these processes.  The Asylum Case Summarisation tool uses artificial intelligence to summarise asylum interview transcripts, and the Asylum Policy Search tool is an AI search assistant that finds and summarises country policy information. Small-scale pilots were conducted and evaluated between May and December 2024 to explore the feasibility, accuracy, and impact of the tools. This report summarises the approach to the evaluation of these tools and the key findings that emerged. \"",
+  "base_path": "/government/publications/evaluation-of-ai-trials-in-the-asylum-decision-making-process",
+  "taxons": [
+    {
+      "title": "Asylum decisions and appeals",
+      "base_path": "/entering-staying-uk/asylum-decisions-appeals"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    }
+  ]
+}

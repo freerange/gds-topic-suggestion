@@ -1,0 +1,19 @@
+{
+  "title": "Combined COVID-19 and flu tests: use in ARI outbreaks in adult social care homes in South East England",
+  "body": "\"These tests are only available to care homes in the South East Region of England. Care homes in other regions should follow their usual outbreak reporting procedures.  If you are a care home in the South East Region, and one or more residents has tested positive for flu, telephone the South East Health Protection Team on 0344 225 3861.  If you are a care home in the South East Region, and you think there is a respiratory outbreak but do not have any combo rapid tests, telephone the South East Health Protection Team on 0344 225 3861.  This page includes guidance for adult social care homes that have used SARS-CoV-2 and influenza A+B antigen combo rapid (COVID-19, flu A and flu B) tests during a suspected outbreak of acute respiratory infection (ARI). It sets out how to report these test results.   Report test results on Egress  Report combo rapid lateral flow device (LFD) test results on the Egress workspace by clicking the button and following the steps to upload the spreadsheet. Do not upload photos. If you need help, see how to report test results on Egress.  Report test results   It also includes guidance for staff working in adult social care homes in South East England. It explains how to test residents with respiratory symptoms using combo rapid tests in the event of a suspected outbreak.  \"",
+  "base_path": "/government/publications/combined-covid-19-and-flu-tests-use-in-ari-outbreaks-in-adult-social-care-homes-in-south-east-england",
+  "taxons": [
+    {
+      "title": "Healthcare workers, carers and care settings during COVID-19",
+      "base_path": "/health-and-social-care/healthcare-workers-carers-and-care-settings-during-covid-19"
+    },
+    {
+      "title": "Testing for COVID-19",
+      "base_path": "/health-and-social-care/testing-for-covid-19"
+    },
+    {
+      "title": "Immunisation",
+      "base_path": "/health-and-social-care/health-protection-immunisation"
+    }
+  ]
+}

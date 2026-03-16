@@ -1,0 +1,15 @@
+{
+  "title": "Making Tax Digital: technical publications",
+  "body": "\"This collection contains information about Making Tax Digital for agents and stakeholders. It includes:   Making Tax Digital for Income Tax and penalty reform legislation policy papers tax information, impact and technical notes research and evaluation reports for Making Tax Digital for Income Tax and VAT    You can find guidance about using Making Tax Digital for Income Tax.  Making Tax Digital for Income Tax legislation  Following stakeholder engagement, the government has set out its plans on modernising the tax system through Making Tax Digital. Draft legislation was published for consultation in July 2025 for Making Tax Digital for Income Tax and penalty reform and will be introduced before April 2026.  The current Making Tax Digital for Income Tax legislation consists of:   primary legislation which sets out the main framework in the Finance (No.2) Act 2017 sections on digital reporting and record-keeping  secondary legislation which gives more details on the design of the system in The Income Tax (Digital Requirements) Regulations 2021, updated in April 2024 tertiary legislation published in January 2025 — Making Tax Digital for Income Tax update notice and digital record-keeping notice    Penalty reform legislation  The following legislation details the new penalties for late payment and late submission penalties for customers that need to use Making Tax Digital for Income Tax and those that volunteer to do so.  Primary legislation about the new penalties covers:   consequences for missing a submission deadline in Finance Act 2021, Schedule 24: Penalties for failure to make returns etc  consequences for deliberately failing to make a return in Finance Act 2021, Schedule 25: Penalties for deliberately withholding information  consequences for late tax payments in Finance Act 2021, Schedule 26: Penalties for failure to pay tax  how the new penalties apply to customers that voluntarily join Making Tax Digital for Income Tax in Finance Act 2024, Section 37: Commencement of rules imposing penalties for failure to make returns etc    Secondary legislation about the new penalties covers:   further detail on the new penalties, for customers that voluntarily join Making Tax Digital for Income Tax in The Finance Act 2021 (Income Tax and Capital Gains Tax) (Penalties) (Appointed Day: Eligible Volunteers) Regulations 2024 (SI 2024 No 440)  how penalties work when tax remains unpaid in The Penalties for Failure to Pay Tax (Schedule 26 to the Finance Act 2021) (Assessments) Regulations 2024 (SI 2024 No 1153)    \"",
+  "base_path": "/government/collections/making-tax-digital-technical-publications",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

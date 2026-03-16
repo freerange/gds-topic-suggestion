@@ -1,0 +1,11 @@
+{
+  "title": "Report your fuel prices and forecourt details",
+  "body": "\"Use this service to submit fuel prices and list the amenities and facilities at your forecourts. This helps drivers find accurate and up-to-date information about fuel prices and the services you offer.   You must register all forecourts you own by 2 February 2026.   Before you start  Read the guidance for Motor Fuel Traders (MFTs).  Create a new account  You’ll need:   your forecourts’ registered details, including address and operator name   You can only submit details if you’re the operator or an authorised representative of the forecourt.  This service is for forecourts in the UK.  Start now   If you already have an account  You can sign in to your account to manage your forecourt details or update fuel prices.  Other ways to report  If you’re unable to use the Fuel Finder service, you may register by phone.  Get help and support  Contact the Fuel Finder Team if you have any problems with the Fuel Finder service. \"",
+  "base_path": "/guidance/report-your-fuel-prices-and-forecourt-details",
+  "taxons": [
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

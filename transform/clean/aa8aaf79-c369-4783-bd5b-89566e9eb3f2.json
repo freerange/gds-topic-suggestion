@@ -1,0 +1,11 @@
+{
+  "title": "False alarms in “hotel/motel” category, 2019-20 to 2023-24",
+  "body": "\"This ad hoc statistical releases covers false alarms attended by Fire and Rescue Services (FRSs) in England, in “hotel/motel” locations, including data on vehicles and personnel attended, and response times. \"",
+  "base_path": "/government/statistics/false-alarms-in-hotelmotel-category-2019-20-to-2023-24",
+  "taxons": [
+    {
+      "title": "Fire prevention and rescue",
+      "base_path": "/government/fire-prevention-and-rescue"
+    }
+  ]
+}

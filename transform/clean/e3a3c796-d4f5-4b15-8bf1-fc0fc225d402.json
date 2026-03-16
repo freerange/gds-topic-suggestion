@@ -1,0 +1,23 @@
+{
+  "title": "Professor Alastair Denniston: The future regulation of AI in healthcare",
+  "body": "\"MHRA foreword  Most generations of healthcare professionals witness a moment that changes the landscape of medicine forever. For some, it was the discovery of antibiotics. For others, the arrival of MRI scanners. Today, we stand at the threshold of another transformative era — one shaped by the power of Artificial Intelligence.  In the next article in our strategy blog series, Professor Alastair Denniston outlines some of the core principles that should be used to guide the regulation of AI in healthcare as it weaves itself into the fabric of modern medicine.  This blog invites a national conversation about the kind of healthcare system we want to build together. It reminds us that that the future of AI in healthcare will not be defined by machines, but by the values we bring to their use.  Professor Alastair Denniston is a practising consultant ophthalmologist; Professor of Regulatory Science and Innovation, University of Birmingham; and Executive Director, Centre of Excellence for Regulatory Science in AI & Digital HealthTech (CERSI-AI). He is also the Chair of the MHRA’s new National Commission on the Regulation of AI in Healthcare.  Guest blog: Professor Alastair Denniston  One of my greatest privileges as a doctor is to be trusted by patients and their families to be there for them. There at the time of need. There diagnosing and treating disease or injury. There helping them move towards recovery, health and well-being. I have been a doctor for nearly three decades now, and I am so glad about the progress we have made. The diagnostic tests I use now are way more accurate, the treatments more effective (with fewer side effects) and our whole approach to healthcare is more holistic, with the patient much more in the driving seat.  But there is so much more to do. We want diagnostic tests that are faster and more accurate. We want treatments that are safer and more personalised to the patient. We want to put health decisions even more firmly in the hands of the patient, and being able to make healthcare work around them. And a massive challenge is to make all of this affordable, by helping our precious NHS resources go further.  What’s this got to do with AI? Well, every so often in medicine, a new tool comes along that enables us to make a massive step forward in healthcare. Discoveries like X rays and MRI scans enabled faster and more accurate diagnosis. Discoveries like antibiotics and monoclonal antibodies provided more effective and safer treatments. All of these were massively disruptive to how healthcare was delivered before, but all of these positively transformed healthcare, touching the lives of millions of people around the world.  It is still early days, but it looks like the arrival of AI is the ‘X ray moment’ of our time, the new discovery that enables a dramatic step forward in the quality of healthcare we can deliver. When X rays were discovered 130 years ago, they were unlike anything that had been used...",
+  "base_path": "/government/news/professor-alastair-denniston-the-future-regulation-of-ai-in-healthcare",
+  "taxons": [
+    {
+      "title": "Medicines, medical devices",
+      "base_path": "/health-and-social-care/medicines-medical-devices-blood"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Air Pollution in NI 2024",
+  "body": "\"This report aims to provide the citizens of Northern Ireland, and the wider air quality community, with user-friendly information on local air quality monitoring. \"",
+  "base_path": "/government/statistics/air-pollution-in-ni-2024",
+  "taxons": [
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    }
+  ]
+}

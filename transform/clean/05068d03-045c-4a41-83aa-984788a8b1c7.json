@@ -1,0 +1,11 @@
+{
+  "title": "HMRC's Transformation Roadmap",
+  "body": "\"The Transformation Roadmap outlines the government’s vision for a more efficient, modernised and automated tax and customs system.  This will enable HMRC to collect more of the tax that is due while enabling individuals and businesses to focus more on what matters to them – contributing to the government’s mission in its Plan for Change to boost economic growth.  \"",
+  "base_path": "/government/publications/hmrc-transformation-roadmap",
+  "taxons": [
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

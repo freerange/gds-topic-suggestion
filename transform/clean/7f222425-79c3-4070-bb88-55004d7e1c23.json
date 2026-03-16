@@ -1,0 +1,11 @@
+{
+  "title": "Personal Incomes Statistics for the tax year 2022 to 2023",
+  "body": "\"The Survey of Personal Incomes is based on information held by HMRC on individuals who could be liable to UK Income Tax. It is carried out annually by HMRC and covers income assessable for tax for each tax year.  The tables in this publication provide detailed breakdowns of individuals liable to UK Income Tax (taxpayers) and their incomes using sample-based estimates.  This publication will include updated versions of Accredited Official Statistics tables 3.1 to 3.11, 3.16 and 3.17 and the geography Accredited Official Statistics tables 3.12 to 3.15a. The bulletins and tables include summary information about individuals who are UK taxpayers, their income and the Income Tax to which they are liable. Any delays to pre-announced publication dates are published on our announcement page.  \"",
+  "base_path": "/government/statistics/personal-incomes-statistics-for-the-tax-year-2022-to-2023",
+  "taxons": [
+    {
+      "title": "Personal tax",
+      "base_path": "/money/personal-tax"
+    }
+  ]
+}

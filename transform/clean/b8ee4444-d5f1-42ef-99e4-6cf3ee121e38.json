@@ -1,0 +1,15 @@
+{
+  "title": "Developing an AI lab for UK policing",
+  "body": "\"Artificial intelligence (AI) will play a significant role in shaping the police service of the future, bolstering capabilities by making investigations more sophisticated and efficient as well as freeing up officers’ time.   The National Police Chiefs’ Council (NPCC) wants to establish UK policing as a leader in applied responsible AI, but despite a marked increase in experimentation across existing, new or anticipated challenges, these largely remain limited to niche capabilities or individual forces.   The Accelerated Capability Environment (ACE) was asked to explore a high-level operating model for how an in-house AI lab could inspire and enable greater innovation by bringing together technical expertise from industry and academia and applying leading research to policing problems and data.    Developing and delivering an AI lab  ACE undertook a discovery exercise with six suppliers, exploring how an AI lab could provide police forces and their partners with the environment, support and expertise needed to develop, de-risk and rapidly adopt trustworthy AI technologies.  This research needed to answer key questions including how such an AI lab could be developed and delivered, how this would engage with forces, what value it would provide and how it would work with existing technology-focused areas of policing.   As part of the discovery work, two stakeholder workshops were convened, covering areas such as system of interest mapping, technology assessment and capability baselining, and the value case and delivery model.   Challenges and considerations in core areas such as skills and talent, data access and governance, and funding and facilities (virtual vs physical vs hybrid) were also examined. The research also investigated how existing work in areas including data science, analytics and synthetic data could accelerate development of an AI lab as well as complement its work.   Ultimately, three AI lab design and operating model options were developed and presented in a final report, badged as bronze, silver and gold, along with a high level, three-year roadmap and costs for taking a lab from concept to working capability.    Bronze was a continuation of existing investment levels and efforts and was ultimately discounted because it would not deliver a national AI lab. The silver option – which meets all policing requirements over the next one to three years – was deemed feasible but it was the gold option, which would produce a world-leading AI lab with a future-proof design within 18 months, that was ultimately recommended.    ACE itself was also used as a model of how an effective AI lab could operate.   \"",
+  "base_path": "/government/case-studies/developing-an-ai-lab-for-uk-policing",
+  "taxons": [
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    }
+  ]
+}

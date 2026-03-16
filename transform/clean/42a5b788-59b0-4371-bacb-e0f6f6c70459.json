@@ -1,0 +1,11 @@
+{
+  "title": "Vehicle licensing statistics: 2025",
+  "body": "",
+  "base_path": "/government/statistics/announcements/vehicle-licensing-statistics-2025",
+  "taxons": [
+    {
+      "title": "Vehicle registration, log books and number plates",
+      "base_path": "/transport/vehicle-registration-log-books-and-number-plates"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Retail Sales; Great Britain, February 2025 time series",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/retail-sales-great-britain-february-2025-time-series",
+  "taxons": [
+    {
+      "title": "Money",
+      "base_path": "/money"
+    },
+    {
+      "title": "High streets and town centres",
+      "base_path": "/housing-local-and-community/high-streets-and-town-centres"
+    }
+  ]
+}

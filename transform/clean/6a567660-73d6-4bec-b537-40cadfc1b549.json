@@ -1,0 +1,23 @@
+{
+  "title": "Peatland degradation: challenges for the water environment",
+  "body": "\"This report outlines the impacts on water bodies resulting from peatland degradation and solutions to achieve healthier peatland catchments. This can be used to help inform approaches to river basin management plans (RBMPs), delivering measures and informing restoration bids within peatland dominated catchments. The primary focus of this report is water quality; however, peatland restoration offers nature-based solutions for people, nature recovery and the water environment which should not be overlooked when designing measures for functional river basins. \"",
+  "base_path": "/government/publications/peatland-degradation-challenges-for-the-water-environment",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Pollution and environmental quality",
+      "base_path": "/environment/pollution-and-environmental-quality"
+    },
+    {
+      "title": "Water management",
+      "base_path": "/environment/water-management"
+    },
+    {
+      "title": "Wildlife, animals, biodiversity and ecosystems",
+      "base_path": "/environment/wildlife-animals-biodiversity-and-ecosystems"
+    }
+  ]
+}

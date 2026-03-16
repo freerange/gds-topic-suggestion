@@ -1,0 +1,31 @@
+{
+  "title": "World-leading AI trial to tackle breast cancer launched",
+  "body": "\"  Cutting-edge artificial intelligence (AI) trial to transform cancer care, helping radiologists catch breast cancer earlier  Trial announced this World Cancer Day, as government launches ‘call for evidence’ to shape new plan to cut lives lost to cancer  Plan for Change will put UK on the front foot, unleashing AI to drive up health services and shift NHS from analogue to digital as part of 10 Year Health Plan   Nearly 700,000 women across the country will take part in a world-leading trial to test how cutting-edge AI tools can be used to catch breast cancer cases earlier, the Department of Health and Social Care announced today (4 February 2025).   As government ramps up the use of new technology across the board, 30 testing sites across the country will be enhanced with the latest digital AI technologies, ready to invite women already booked in for routine screenings on the NHS to take part. The technology will assist radiologists, screening patients to identify changes in breast tissue that show possible signs of cancer and refer them for further investigations if required.   Currently, 2 specialists are needed per mammogram screening. This technology enables just one to complete the same mammogram screening process safely and efficiently. If the trial is successful, it could free up hundreds of radiologists and other specialists across the country to see more patients, tackle rising cancer rates, save more lives and cut waiting lists.   The EDITH trial (Early Detection using Information Technology in Health) is backed by £11 million of government support via the National Institute for Health and Care Research (NIHR). It is the latest example of how British scientists are transforming cancer care, building on the promising potential of cutting-edge innovations to tackle one of the UK’s biggest killers.   Breast cancer is the most common type of cancer in women, with around 55,000 people being diagnosed with the disease every year. Currently, women between the ages of 50 and 71 are invited to be screened every 3 years to help detect cases. This equates to around 2.1 million breast cancer screens carried out by the programme annually, helping to prevent around 1,300 deaths.   The launch of the trial comes as cancer experts, people living with cancer and medical professionals are invited to help shape the development of a new national cancer plan through the launch of a call for evidence, being announced later today by the Health and Social Care Secretary at an event hosted by Macmillan Cancer Support to mark World Cancer Day.   Every 4 minutes, someone in the UK dies from cancer and Lord Darzi’s recent independent investigation into the NHS found that cancer survival in this country is worse for some cancers than some similar nations.   The new plan to fight one of the UK’s major conditions could help transform the way we treat cancer, making the UK a world leader in cancer survival by fighting the disease on all fronts, through improving research, diagnosis, screening, treatment and prevention. This includes investing in the...",
+  "base_path": "/government/news/world-leading-ai-trial-to-tackle-breast-cancer-launched",
+  "taxons": [
+    {
+      "title": "Children's health",
+      "base_path": "/childcare-parenting/childrens-health"
+    },
+    {
+      "title": "Reduce NHS waiting lists",
+      "base_path": "/government/reduce-nhs-waiting-lists"
+    },
+    {
+      "title": "Artificial intelligence",
+      "base_path": "/business-and-industry/artificial-intelligence"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Cancer research and treatment",
+      "base_path": "/health-and-social-care/cancer-research-and-treatment"
+    },
+    {
+      "title": "Research and innovation in health and social care",
+      "base_path": "/health-and-social-care/research-and-innovation-in-health-and-social-care"
+    }
+  ]
+}

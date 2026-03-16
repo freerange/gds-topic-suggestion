@@ -1,0 +1,23 @@
+{
+  "title": "Extensive Failures",
+  "body": "\"He cited extensive and persistent breaches of statutory obligations under the Goods Vehicles (Licensing of Operators) Act 1995.  Following a pattern of non-compliance, the company and its director, Maricel Taranu, have also been indefinitely disqualified from holding or obtaining an operator’s licence. Mr. Taranu is further barred from acting as a transport manager for any operator.  The inquiry was unattended by either the company or Mr. Taranu.  The revocation follows serious concerns uncovered during multiple investigations by the Driver and Vehicle Standards Agency (DVSA), including vehicles operated without MOTs and road tax presenting a direct risk to public safety, failure to download tachograph data, and extended operation of vehicles without driver cards - both clear violations of drivers’ hours regulations.  There was a shocking lack of maintenance, culminating in one vehicle being stopped with four loose wheel nuts, a disintegrated tyre, and a defective indicator. On top of this, there was no engagement with the DVSA or the Office of the Traffic Commissioner, despite repeated attempts to obtain essential compliance records.  Further DVSA inspections revealed that the company had no legitimate maintenance arrangements, minimal operating facilities, and an exceptionally high prohibition and MOT failure rate— double and triple the national average respectively. In addition, false information was provided to authorities regarding vehicle operations, and a warrant for Mr. Taranu’s arrest remains active in Romania for unrelated driving offences.  Mr Denton said “This is one of the worst operators I have ever come across. Mr Taranu has refused to engage both with DVSA and the traffic commissioner. He has overseen illegal and dangerous operations in the UK and appears to be wanted by the Romanian authorities for serious motoring offences… I cannot allow the company’s vehicles to operate and pose a danger to other road users for a moment longer.”  He concluded that there should be no room in the industry for Mr Taranu, who has shown an utter indifference to the law and to road safety. The full written decision can be found here.  For any further details or enquiries, please contact: Email : pressoffice@otc.gov.uk \"",
+  "base_path": "/government/news/extensive-failures",
+  "taxons": [
+    {
+      "title": "Professional driving of lorries, buses and coaches",
+      "base_path": "/transport/professional-driving-of-lorries-buses-and-coaches"
+    },
+    {
+      "title": "Road safety, driving rules and penalties",
+      "base_path": "/transport/road-safety-driving-rules-and-penalties"
+    },
+    {
+      "title": "Fleet management",
+      "base_path": "/transport/fleet-management"
+    },
+    {
+      "title": "Business regulation",
+      "base_path": "/business-and-industry/business-regulation"
+    }
+  ]
+}

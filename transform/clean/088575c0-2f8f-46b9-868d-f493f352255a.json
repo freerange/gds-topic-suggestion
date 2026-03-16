@@ -1,0 +1,15 @@
+{
+  "title": "Simple Assessment payment plan: service availability and issues",
+  "body": "\"Latest updates on the availability and any issues affecting the Simple Assessment payment plan service. \"",
+  "base_path": "/government/publications/simple-assessment-payment-plan-service-availability-and-issues",
+  "taxons": [
+    {
+      "title": "Paying HMRC",
+      "base_path": "/money/paying-hmrc"
+    },
+    {
+      "title": "Income Tax",
+      "base_path": "/money/income-tax"
+    }
+  ]
+}

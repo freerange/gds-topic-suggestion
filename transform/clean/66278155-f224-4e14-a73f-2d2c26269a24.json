@@ -1,0 +1,19 @@
+{
+  "title": "The UK Customs Intellectual Property Enforcement Report 2021-2023",
+  "body": "\"UK IPO, HMRC and Border Force’s 2024 report is the first post-Brexit review of IP rights enforcement at UK borders. \"",
+  "base_path": "/government/publications/the-uk-customs-intellectual-property-enforcement-report-2021-2023",
+  "taxons": [
+    {
+      "title": "Copyright",
+      "base_path": "/business/copyright"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

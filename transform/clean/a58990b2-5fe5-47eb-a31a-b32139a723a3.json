@@ -1,0 +1,23 @@
+{
+  "title": "Statistics on community care for adults in Northern Ireland 2023/24",
+  "body": "\"This report presents information on a range of community activity gathered from health and social care (HSC) trusts including contacts with HSC trusts, care packages in effect, meals on wheels services, residential and nursing accommodation and day care registrations. \"",
+  "base_path": "/government/statistics/statistics-on-community-care-for-adults-in-northern-ireland-202324",
+  "taxons": [
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    },
+    {
+      "title": "Disabled people",
+      "base_path": "/health-and-social-care/disabilities"
+    },
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Social care",
+      "base_path": "/health-and-social-care/social-care"
+    }
+  ]
+}

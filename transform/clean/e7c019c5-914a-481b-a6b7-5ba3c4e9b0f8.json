@@ -1,0 +1,15 @@
+{
+  "title": "Sewer heat recovery: exclusion zone guidance methodology",
+  "body": "\"Sewer heat recovery represents a significant opportunity for the decarbonisation of heat in urban areas – particularly when combined with heat networks.  The stable temperature of sewage (as compared to ambient air), and the correlation between population density, heat demand, and the scale of the sewer system means its potential as a heat source for low carbon heat networks is unique.  By establishing an ‘Exclusion Zone’ upstream of a sewer source heat pump, it is possible to safeguard performance in relation to the quality of the heat source, giving operators the surety required to make their investment.  The size of the Exclusion Zone should not be fixed, however, since it depends on the scale of the proposed new heat abstraction (the required offtake) relative to the flow rate of the sewage (the available energy). It is necessary, therefore, to assess each case on its own characteristics. \"",
+  "base_path": "/government/publications/sewer-heat-recovery-exclusion-zone-guidance-methodology",
+  "taxons": [
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    },
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

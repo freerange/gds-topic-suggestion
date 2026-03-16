@@ -1,0 +1,11 @@
+{
+  "title": "Notifiable diseases: causative agents reports for 2026",
+  "body": "\" The list of causative agents that laboratories must notify the UK Health Security Agency (UKHSA) about has been expanded to include additional  notifiable organisms which became reportable under the Health Protection (Notification) (Amendment) Regulations from 6 April 2025. Publication of the additional causative agents will begin at a later date, once reporting development work has been undertaken to include them.   The regular causative agents report, excluding the additional notifiable organisms, will continue as usual.  This report compares the current week’s data on statutory notifications of causative agents to that of the previous 5 weeks.  Older weekly causative agents reports are also available:   2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014   \"",
+  "base_path": "/government/publications/notifiable-diseases-causative-agents-reports-for-2026",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Connected places research - non local authority organisations",
+  "body": "\"This research includes a number of surveys focusing on non-local authority organisations. It was commissioned to understand how these organisations are using connected places technologies, and how they plan to use them in the future.    The survey focused on the following sectors: higher education, sports and cultural venues, and transport (rail and aviation.) There is an individual research report for each sector, as well as a thematic summary report covering all the sectors, and a technical annex report.  This research informs the government’s policy on strengthening cyber security in connected places. It is part of the government’s work to improve the UK’s cyber defences and protect and grow our digital economy.  For more information on the government’s previous work in this area, please visit the secure connected places collection page.  For guidance on how organisations can secure their connected places against cyber threats, please see the Secure Connected Places Playbook. \"",
+  "base_path": "/government/publications/connected-places-research-non-local-authority-organisations",
+  "taxons": [
+    {
+      "title": "Cyber security",
+      "base_path": "/government/cyber-security"
+    }
+  ]
+}

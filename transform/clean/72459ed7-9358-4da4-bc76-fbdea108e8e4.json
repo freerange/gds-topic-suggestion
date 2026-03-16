@@ -1,0 +1,27 @@
+{
+  "title": "Perception and experience of police and criminal justice system, England and Wales, year ending March 2025",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/perception-and-experience-of-police-and-criminal-justice-system-england-and-wales-year-ending-march-2025",
+  "taxons": [
+    {
+      "title": "Crime prevention",
+      "base_path": "/crime-justice-and-law/crime-prevention"
+    },
+    {
+      "title": "Knife, gun and gang crime",
+      "base_path": "/crime-justice-and-law/knife-gun-and-gang-crime"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Reporting crimes and getting compensation",
+      "base_path": "/crime-justice-and-law/reporting-crimes-compensation"
+    },
+    {
+      "title": "Victims of crime",
+      "base_path": "/crime-justice-and-law/victims-of-crime"
+    }
+  ]
+}

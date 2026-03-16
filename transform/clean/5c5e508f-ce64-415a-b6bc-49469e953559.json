@@ -1,0 +1,11 @@
+{
+  "title": "East Anglia EA9 Holm Channel 2024",
+  "body": "\"An assessment of the 2024 hydrographic survey of the area EA9: to monitor recent seabed movement; to identify any implications for shipping; and to make recommendations for future surveys. \"",
+  "base_path": "/government/publications/east-anglia-ea9-holm-channel-2024",
+  "taxons": [
+    {
+      "title": "Hydrography",
+      "base_path": "/environment/hydrography"
+    }
+  ]
+}

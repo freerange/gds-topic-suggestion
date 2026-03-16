@@ -1,0 +1,11 @@
+{
+  "title": "Clostridioides difficile national sentinel surveillance scheme",
+  "body": "\"The scheme aims to provide robust national surveillance by focusing on sample submissions from a set of specific ‘sentinel’ hospital sites, which combine to intercept a significant proportion of the routes of C. difficile dissemination (when colonised or infected patients admitted to multiple facilities act as inter-hospital vectors).  This approach is designed to identify newly circulating strains more rapidly, and close gaps in coverage that may exist using current surveillance methods.  To enhance the information available per sample, the scheme will provide participating sentinel sites with both C. difficile PCR-ribotyping and whole-genome sequencing-inferred relatedness data.  Sentinel samples are submitted to the Clostridioides difficile ribotyping network (CDRN) via the Electronic Requesting System. A full user manual is available on the system (under the Help menu) for support when making sentinel surveillance submissions.  PCR-ribotyping will be performed on sentinel samples and results will be returned as for conventional CDRN services.  Sentinel sites will receive a quarterly report summarising the genetic relatedness of C. difficile isolates associated with their submissions.  For a full scheme description, see the Surveillance protocol for the CDRN.  \"",
+  "base_path": "/guidance/clostridioides-difficile-national-sentinel-surveillance-scheme",
+  "taxons": [
+    {
+      "title": "Infectious diseases",
+      "base_path": "/health-and-social-care/health-protection-infectious-diseases"
+    }
+  ]
+}

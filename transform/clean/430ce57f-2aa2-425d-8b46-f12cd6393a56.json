@@ -1,0 +1,11 @@
+{
+  "title": "Employment Data Lab Interim Analysis: Nottingham Works 4You programme",
+  "body": "\"This Employment Data Lab report presents preliminary estimates of the impact of the Nottingham Works 4You (NW4You) programme, on the benefit and employment outcomes of the programme participants. The NW4You programme is aimed at supporting 16 to 24-year-olds who face barriers getting into work or education.  The results in this report have been generated using quasi-experimental techniques which introduce some uncertainty. The results should be used with a degree of caution. Further information can be found in section 6 of the report, and in an associated methodology report.  \"",
+  "base_path": "/government/statistics/employment-data-lab-interim-analysis-nottingham-works-4you-programme",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    }
+  ]
+}

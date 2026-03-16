@@ -1,0 +1,15 @@
+{
+  "title": "Winter Mortality 2023/24 (Northern Ireland)",
+  "body": "\"Winter Mortality 2023/24 (Northern Ireland) \"",
+  "base_path": "/government/statistics/winter-mortality-202324-northern-ireland",
+  "taxons": [
+    {
+      "title": "Death and bereavement",
+      "base_path": "/life-circumstances/death"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

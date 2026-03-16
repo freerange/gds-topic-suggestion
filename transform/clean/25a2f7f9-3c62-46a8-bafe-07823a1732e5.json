@@ -1,0 +1,11 @@
+{
+  "title": "Charity Commission prompt payment data 2025-2026",
+  "body": "\"Charity Commission’s percentage of invoices paid within 5 days and within 30 days of receipt. \"",
+  "base_path": "/government/publications/charity-commission-prompt-payment-data-2025-2026",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

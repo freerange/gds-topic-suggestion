@@ -1,0 +1,11 @@
+{
+  "title": "Northern Ireland Hospital Statistics: Emergency Care 2024/25",
+  "body": "\"Presents information on activity at emergency care departments, including data on new attendances, planned & unplanned review attendances, waiting times, patient transport and emergency (ambulance) response. \"",
+  "base_path": "/government/statistics/northern-ireland-hospital-statistics-emergency-care-202425",
+  "taxons": [
+    {
+      "title": "NHS efficiency",
+      "base_path": "/health-and-social-care/nhs-efficiency"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Compliance casework guidance",
+  "body": "\"This guidance document tells caseworkers how to make decisions in casework compliance cases.  Its purpose is to provide instruction on the compliance case working process for the Sponsor Compliance Team (SCT). \"",
+  "base_path": "/government/publications/compliance-casework-guidance",
+  "taxons": [
+    {
+      "title": "Entering and staying in the UK",
+      "base_path": "/entering-staying-uk"
+    }
+  ]
+}

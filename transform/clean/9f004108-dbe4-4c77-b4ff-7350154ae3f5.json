@@ -1,0 +1,15 @@
+{
+  "title": "Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023",
+  "body": "\"Divorces and Civil Partnership Dissolutions (Northern Ireland) 2023 \"",
+  "base_path": "/government/statistics/divorces-and-civil-partnership-dissolutions-northern-ireland-2023",
+  "taxons": [
+    {
+      "title": "Marriage, civil partnership and divorce",
+      "base_path": "/life-circumstances/marriage-divorce"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

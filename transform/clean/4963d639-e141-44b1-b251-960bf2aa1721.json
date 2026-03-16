@@ -1,0 +1,11 @@
+{
+  "title": "Official veterinary surgeon (OVS) notes",
+  "body": "\"Official veterinary surgeon notes (OVS notes) contain details of changes to import controls for animals and products of animal origin.  You can set up email alerts for OVS notes by clicking the ‘Get emails about this page’ link at the top of the page.  Older OVS notes are available on the National Archives.  \"",
+  "base_path": "/government/publications/official-veterinary-surgeon-ovs-notes",
+  "taxons": [
+    {
+      "title": "Import and export of farmed animals",
+      "base_path": "/environment/keeping-farmed-animals-import-export"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Marine Planning newsletters",
+  "body": "\"2025   Marine Planning Newsletter - Autumn 2025 Marine Planning Newsletter - Summer 2025 Marine Planning Newsletter - Spring 2025 Marine Planning Newsletter - Winter 2024/25   2024   Marine Planning Newsletter - Autumn 2024 Marine Planning Newsletter - Summer 2024 Marine Planning Newsletter Spring 2024   2023   Marine Planning Newsletter Autumn 2023 Marine Planning Newsletter Spring 2023   2022   Marine Planning Newsletter Spring 2022   2021   Marine Planning Newsletter Spring 2021 Marine Planning Newsletter Spring 2021 Marine Planning Newsletter: Winter 2021   2020   Marine Planning Newsletter: August 2020 Marine Planning Newsletter: May 2020   2019   Marine Planning Newsletter: December 2019 Marine Planning Newsletter: September 2019 Marine Planning Newsletter: April 2019   2018   Marine Planning newsletter: Autumn 2018 Marine Planning newsletter: Summer 2018 Marine Planning newsletter: Winter 2018  \"",
+  "base_path": "/guidance/marine-planning-newsletters",
+  "taxons": [
+    {
+      "title": "Marine planning",
+      "base_path": "/environment/marine-planning"
+    }
+  ]
+}

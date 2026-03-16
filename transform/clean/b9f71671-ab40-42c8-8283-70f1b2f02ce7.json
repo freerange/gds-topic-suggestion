@@ -1,0 +1,15 @@
+{
+  "title": "Universal Credit claimants statistics on the two child limit policy, April 2025",
+  "body": "\"This release of statistics is about the two child limit policy, which affects Universal Credit claimants and came into effect in April 2017. The release includes statistics relating to the exceptions to the policy.  Feedback  We are committed to improving the official statistics we publish. We want to encourage and promote user engagement, so we can improve our statistical outputs. We would welcome any views you have, by email: ucad.briefinganalysis@dwp.gov.uk  For media enquiries, please contact the DWP press office.  \"",
+  "base_path": "/government/statistics/universal-credit-claimants-statistics-on-the-two-child-limit-policy-april-2025",
+  "taxons": [
+    {
+      "title": "Work",
+      "base_path": "/work"
+    },
+    {
+      "title": "Universal Credit",
+      "base_path": "/welfare/universal-credit"
+    }
+  ]
+}

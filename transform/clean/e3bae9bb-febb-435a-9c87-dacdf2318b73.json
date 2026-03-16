@@ -1,0 +1,11 @@
+{
+  "title": "AAIB Report: Piper PA-18-150, G-CUBX",
+  "body": "\"G-CUBX tracked to the left on the runway during takeoff and within two seconds of getting airborne it was in a left turn tracking toward obstacles south of the runway. Witnesses reported seeing the aircraft adopt a steep nose-up attitude, but it was not able to climb above a tree which was one of the obstacles in its path. G-CUBX appeared to have struck the tree at the apogee of its flight path before descending steeply, nose-first, into the ground. The pilot suffered fatal injuries at the point of ground collision.  It was not possible to conclusively establish why the aircraft diverged left during and after takeoff. Nonetheless, the investigation considered it likely the relatively low lift off speed of approximately 34 kt contributed to the pilot having insufficient aerodynamic control authority to effectively counter the flight path divergence. Being in a turn rather than wings level would have compromised the aircraft’s climb rate resulting in it being unable to climb above the obstacles it was turning toward.  The investigation was unable to find evidence of any pre-accident fault with the aircraft.  Read the report. \"",
+  "base_path": "/government/news/aaib-report-piper-pa-18-150-g-cubx",
+  "taxons": [
+    {
+      "title": "Air accidents and serious incidents",
+      "base_path": "/transport/air-accidents-and-serious-incidents"
+    }
+  ]
+}

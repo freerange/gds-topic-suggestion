@@ -1,0 +1,15 @@
+{
+  "title": "A screening survey of non VAT-registered businesses in Northern Ireland",
+  "body": "\"The primary aim of this research was to estimate the incidence of non VAT-registered businesses in Northern Ireland that either buy physical goods from Great Britain (England, Scotland and Wales) or sell physical goods there. Goods movers, those moving goods between their own sites in Northern Ireland and Great Britain, were also included, but are not a core focus. The research also aimed, as far as possible, to understand the key characteristics of these groups, hereby referred to as NI-GB goods traders.    The findings are based on a quantitative telephone survey, conducted by Ipsos MORI on behalf of HM Revenue and Customs (HMRC). In total, we screened 1,477 non VAT-registered businesses based in Northern Ireland for their trading status, identifying 146 NI-GB goods traders (buyers, sellers or movers of physical goods). The main fieldwork took place between 29 July and 29 August 2020, with follow-up calls to clarify some of the results conducted from 1 to 16 September 2020.   \"",
+  "base_path": "/government/publications/a-screening-survey-of-non-vat-registered-businesses-in-northern-ireland",
+  "taxons": [
+    {
+      "title": "Business tax",
+      "base_path": "/money/business-tax"
+    },
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

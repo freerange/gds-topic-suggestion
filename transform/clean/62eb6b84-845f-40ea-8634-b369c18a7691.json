@@ -1,0 +1,19 @@
+{
+  "title": "EU-only trade by businesses above and below VAT threshold 2019",
+  "body": "\" This report was commissioned under the Conservative administration (2010 to 2024), and conducted in 2019.  HM Revenue and Customs (HMRC) Research Report 821   In 2019, HMRC commissioned IFF to conduct research to understand more about the trading behaviour of businesses whose international goods trade was conducted exclusively with European Union (EU) member states and explore what the impact of EU Exit would have on this trade.    This research consisted of both quantitative surveys and qualitative interviews with VAT registered and VAT unregistered businesses who traded goods exclusively with EU member states.    A total of 730 quantitative interviews were conducted with VAT registered businesses and 117 with VAT unregistered businesses whilst 40 follow up qualitative interviews were conducted (36 with VAT registered and 4 with VAT unregistered businesses). The research took place between June and August 2019.  \"",
+  "base_path": "/government/publications/eu-only-trade-by-businesses-above-and-below-vat-threshold-2019",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    },
+    {
+      "title": "Trade barriers",
+      "base_path": "/business-and-industry/trade-barriers"
+    },
+    {
+      "title": "Brexit",
+      "base_path": "/government/brexit"
+    }
+  ]
+}

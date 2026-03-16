@@ -1,0 +1,15 @@
+{
+  "title": "Disabled Persons Railcards (DPRC) and assisted journeys: 1 April 2025 to 19 July 2025 (Periods 1 to 4)",
+  "body": "\"Official statistics are produced impartially and free from political influence. \"",
+  "base_path": "/government/statistics/disabled-persons-railcards-dprc-and-assisted-journeys-1-april-2025-to-19-july-2025-periods-1-to-4",
+  "taxons": [
+    {
+      "title": "Rail accessibility",
+      "base_path": "/transport/rail-accessibility"
+    },
+    {
+      "title": "Transport accessibility and disability",
+      "base_path": "/transport/transport-accessibility-and-mobility"
+    }
+  ]
+}

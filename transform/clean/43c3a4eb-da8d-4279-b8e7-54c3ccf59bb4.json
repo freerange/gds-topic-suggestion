@@ -1,0 +1,11 @@
+{
+  "title": "Innovation Clusters Map data",
+  "body": "\"Cluster estimates for clusters in the Innovation Clusters Map.  The Innovation Clusters map is a tool developed by the Department for Science, Innovation and Technology to support the UK’s ambition to foster regional innovation and drive economic growth.  Find out more about the Innovation Clusters Map.  \"",
+  "base_path": "/government/publications/innovation-clusters-map-data",
+  "taxons": [
+    {
+      "title": "Research and development",
+      "base_path": "/business-and-industry/research-and-development"
+    }
+  ]
+}

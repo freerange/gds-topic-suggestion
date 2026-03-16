@@ -1,0 +1,11 @@
+{
+  "title": "Mozambique: Knowledge Base profile",
+  "body": "\"Knowledge Base is an information resource to support HM Passport Office staff process passport applications.  This document contains useful information about Mozambique which will assist HM Passport Office staff process passport applications.  This document includes information about:   names nationality legitimacy adoption surrogacy gender recognition civil partnership and marriage documents from Mozambique  \"",
+  "base_path": "/government/publications/mozambique-knowledge-base-profile",
+  "taxons": [
+    {
+      "title": "Passports",
+      "base_path": "/going-and-being-abroad/passports"
+    }
+  ]
+}

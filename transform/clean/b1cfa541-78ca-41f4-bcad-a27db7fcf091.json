@@ -1,0 +1,15 @@
+{
+  "title": "Special Children Act (SCA) case outcomes reporting changes",
+  "body": "\"Changes are being made to automatically lodge outcomes on linked cases where the lead matter is reported. This removes the requirement for solicitors to lodge the case outcome on any associated case with a zero cost limit.  Why is this happening?  We want to remove the labour intensive requirement to report outcomes on every linked associated case.  Given the details entered are the same on the associated cases as the lead case it is purely an administrative process which solicitors are often not paid for.  What does this mean for providers?  This will remove the requirement under Phase 1 of the changes to report case outcomes on any associated case with a zero cost limit.  The option to report outcomes on associated cases will be greyed out and triggered automatically when the lead outcome is reported.  Historic matters where outcomes have not been reported on associated cases will be shut down by a script. This will happen where a Lead case has been reported but the associated cases remain unreported.  A ‘nill bill’ is still required on all these cases under Phase 1 of the changes.  When are the changes being made?  We intend making the changes on the evening of 24 February 2025. There will be downtime to CCMS on the evening.  Further information  https://legalaidlearning.justice.gov.uk/improvements-to-special-cases-act-sca-multiple-client-process/ \"",
+  "base_path": "/government/news/special-children-act-sca-case-outcomes-reporting-changes",
+  "taxons": [
+    {
+      "title": "Electronic working",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-electronic-working"
+    },
+    {
+      "title": "Payments and processing",
+      "base_path": "/crime-justice-and-law/legal-aid-for-providers-payments-processing"
+    }
+  ]
+}

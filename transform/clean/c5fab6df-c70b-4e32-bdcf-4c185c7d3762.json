@@ -1,0 +1,19 @@
+{
+  "title": "Monthly statistics: Patents, trade marks and designs: September 2025",
+  "body": "\"The statistics in this release provide factual information relating to monthly applications and registrations of intellectual property registered rights (patents, trade marks and designs).   Due to changes in The One IPO Transformation Programme, there is some disruption in this month’s IPO’s Monthly Statistics publication. Patent registration data has been omitted and patent application data should be regarded as an estimate. The figures for this month will be corrected in proceeding publications.  \"",
+  "base_path": "/government/statistics/monthly-statistics-patents-trade-marks-and-designs-september-2025",
+  "taxons": [
+    {
+      "title": "Designs",
+      "base_path": "/business/designs"
+    },
+    {
+      "title": "Patents",
+      "base_path": "/business/patents"
+    },
+    {
+      "title": "Trade marks",
+      "base_path": "/business/trade-marks"
+    }
+  ]
+}

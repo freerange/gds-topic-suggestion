@@ -1,0 +1,11 @@
+{
+  "title": "UK overseas trade in goods statistics: September 2025",
+  "body": "\"The tables previously available with this release are now published as a separate statistical data set.   HM Revenue & Customs (HMRC) collects the UK’s international trade in goods data, which is published as an Accredited official statistics series - the UK overseas trade in goods statistics (OTS). Data for non-EU and EU trade are published simultaneously on a monthly basis. The OTS publications include import and export trade values by summary product and partner country.   Downloadable versions of the UK overseas trade in goods statistics datasets, exporters and importers details are available from uktradeinfo’s Latest bulk data sets page.   Interactive Data   UK overseas trade in goods statistics data is also accessible in greater product and partner country detail in an interactive table with an extensive archive.   \"",
+  "base_path": "/government/statistics/uk-overseas-trade-in-goods-statistics-september-2025",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

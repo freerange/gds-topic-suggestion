@@ -1,0 +1,43 @@
+{
+  "title": "Motoring offences statistics in Northern Ireland to 28 February 2025",
+  "body": "\"This publication can be accessed here \"",
+  "base_path": "/government/statistics/motoring-offences-statistics-in-northern-ireland-to-28-february-2025",
+  "taxons": [
+    {
+      "title": "Drink and drug driving",
+      "base_path": "/transport/drink-and-drug-driving"
+    },
+    {
+      "title": "Driving and mobile phones",
+      "base_path": "/transport/driving-and-mobile-phones"
+    },
+    {
+      "title": "Penalty points, fines and driving bans",
+      "base_path": "/transport/penalty-points-fines-and-driving-bans"
+    },
+    {
+      "title": "Road accidents and serious accidents",
+      "base_path": "/transport/road-accidents-and-serious-accidents"
+    },
+    {
+      "title": "Seat belts",
+      "base_path": "/transport/seat-belts"
+    },
+    {
+      "title": "Speeding",
+      "base_path": "/transport/speeding"
+    },
+    {
+      "title": "Road traffic",
+      "base_path": "/transport/road-traffic"
+    },
+    {
+      "title": "Policing",
+      "base_path": "/crime-justice-and-law/policing"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

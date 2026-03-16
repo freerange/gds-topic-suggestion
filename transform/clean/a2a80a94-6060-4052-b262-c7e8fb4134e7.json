@@ -1,0 +1,11 @@
+{
+  "title": "Help for consumers",
+  "body": "\"There are lots of ways to get help if you have a problem with something you have purchased.  Organisations that can help you For help with your issue, contact the relevant consumer advice organisation in your area.  Report a problem to us  You can report a consumer problem to the CMA, if you think it is affecting more than just one person: Tell the CMA about a problem.  After you’ve submitted your complaint to us, you’ll receive an automated response via email. We’ll review the information you’ve provided.  However we cannot step in or advise on individual complaints.  Know your rights You can check our guides to your consumer rights.  Cancelling goods or services  What you can do and who to contact for information or advice if you need to cancel goods or services,  Returns and refunds Head to Citizens Advice for information on returns and refunds. \"",
+  "base_path": "/guidance/help-for-consumers",
+  "taxons": [
+    {
+      "title": "Consumer rights and issues",
+      "base_path": "/business-and-industry/consumer-rights-and-issues"
+    }
+  ]
+}

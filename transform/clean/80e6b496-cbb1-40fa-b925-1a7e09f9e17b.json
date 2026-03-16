@@ -1,0 +1,11 @@
+{
+  "title": "Quarterly Energy Prices: June 2025",
+  "body": "\"Quarterly statistical publication containing tables, charts and commentary covering energy prices to domestic and industrial consumers for all the major fuels, as well as presenting comparisons of fuel prices in the EU and G7 countries.  Annexes A to D are now included in the main publication.  We no longer publish a separate copy of the combined tables: we have included links to the QEP tables from the main document.  If you have questions about this content, please email: energyprices.stats@energysecurity.gov.uk  \"",
+  "base_path": "/government/statistics/quarterly-energy-prices-june-2025",
+  "taxons": [
+    {
+      "title": "Energy and climate change: evidence and analysis",
+      "base_path": "/environment/energy-and-climate-change-evidence-and-analysis"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Northern Ireland planning statistics: April 2024 to March 2025",
+  "body": "\"This report presents a summary of Northern Ireland planning volumes and processing performances for the district councils and the Department for Infrastructure (DfI) during 2024/25. Quarterly data will be provided in accompanying excel tables together with comparable data from the previous financial year where possible. Please note that these finalised annual figures supersede previously released provisional quarterly information. \"",
+  "base_path": "/government/statistics/northern-ireland-planning-statistics-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "Planning system",
+      "base_path": "/housing-local-and-community/planning-system"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

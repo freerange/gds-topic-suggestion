@@ -1,0 +1,11 @@
+{
+  "title": "Local sites and numbers of employees linked to businesses involved in international trade in goods, by subnational areas of the UK 2023",
+  "body": "\"HM Revenue & Customs (HMRC) has linked the Office for National Statistics (ONS) Inter-departmental Business Register (IDBR) with the ONS National Statistics Postcode Lookup (NSPL) and ONS International Territorial Level (ITL) lookup. It has further linked this with the HMRC UK overseas trade in goods statistics (OTS) trade data. This has enabled the production of location statistics for UK businesses.  This release contains official statistics detailing the number of local units linked to a registered trading business and the number of employees at these locations in 2023. The location breakdown is by Level 3 of ITL.  \"",
+  "base_path": "/government/statistics/local-sites-and-numbers-of-employees-linked-to-businesses-involved-in-international-trade-in-goods-by-subnational-areas-of-the-uk-2023",
+  "taxons": [
+    {
+      "title": "Trade and investment",
+      "base_path": "/business-and-industry/trade-and-investment"
+    }
+  ]
+}

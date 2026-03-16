@@ -1,0 +1,15 @@
+{
+  "title": "Transport hazard summary: extreme heat",
+  "body": "\"This summary identifies some of the main risks caused by extreme heat and how they can impact transport infrastructure. It also provides advice to help mitigate and plan for these risks.  Direct impacts on transport from extreme heat include:   health impacts such as heat stress and heat stroke for passengers and transport workers reduced vehicle performance and restrictions on transport operations   This forms part of the Transport hazards summaries series, which helps organisations understand hazards that can impact UK transport. \"",
+  "base_path": "/government/publications/transport-hazard-summary-extreme-heat",
+  "taxons": [
+    {
+      "title": "Transport planning",
+      "base_path": "/transport/transport-planning"
+    },
+    {
+      "title": "Climate change and energy",
+      "base_path": "/environment/climate-change-energy"
+    }
+  ]
+}

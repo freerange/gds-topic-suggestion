@@ -1,0 +1,15 @@
+{
+  "title": "Extending the ECO4 end date",
+  "body": "\"The Energy Company Obligation (ECO4) scheme is due to end on 31 March 2026. It obligates the larger energy suppliers to deliver a target of annual bill savings by installing energy efficiency and heating measures to homes in Great Britain. These measures help households to keep their homes warmer, reduce their energy bills and carbon emissions.  This consultation proposes a scheme extension of 6 to 9 months to maintain support for households and provide an opportunity for stronger consumer protections under the scheme. It also gives the supply chain certainty of continued work for the duration of the extension, providing time for potential future schemes to be explored. This consultation proposes and seeks views on a way for obligated suppliers to continue to deliver beyond their obligation target and for this additional delivery (carry-over) to count towards a possible future obligation.  The consultation is open to all but of particular relevance to:   energy suppliers energy efficiency and heating measure installers energy efficiency measure manufacturers and associated software developers local authorities consumer groups academic groups   Read our consultation privacy notice.  \"",
+  "base_path": "/government/consultations/extending-the-eco4-end-date",
+  "taxons": [
+    {
+      "title": "Household energy",
+      "base_path": "/housing-local-and-community/household-energy"
+    },
+    {
+      "title": "Energy efficiency",
+      "base_path": "/environment/climate-change-energy-energy-efficiency"
+    }
+  ]
+}

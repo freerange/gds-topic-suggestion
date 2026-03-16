@@ -1,0 +1,15 @@
+{
+  "title": "DCMS prompt payment data - April 2024 to March 2025",
+  "body": "\"This shows the Department for Culture, Media and Sport’s percentage of invoices paid within 5 days and within 30 days of receipt.  The data is released quarterly - for April to June, July to September, October to December, and January to March.  The data published here covers the core department and executive agency only. DCMS sponsored non-departmental public bodies (NDPBs) publish their own data separately. \"",
+  "base_path": "/government/publications/dcms-prompt-payment-data-april-2024-to-march-2025",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    },
+    {
+      "title": "Corporate information",
+      "base_path": "/corporate-information"
+    }
+  ]
+}

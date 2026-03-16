@@ -1,0 +1,11 @@
+{
+  "title": "Export client survey (ECS)",
+  "body": "\"The ECS comprises 2 annual surveys with the following aims:   to track UK businesses’ perception of the quality of support and advice provided by DBT  to provide a measure of reported impact on UK businesses after using a DBT service to understand what drives performance and how services can be improved over time   The Quality Survey (QS) is administered 3 months after a UK business has received the support from one of DBT’s export promotion services. Up to 6,000 UK businesses participate in this survey each year.  The Reported Impact Survey (RIS) is a follow-up from the QS and is administered 12 months after receiving the initial support. Around 2,500 UK businesses agree to be re-contacted and participate in this survey each year.  The survey fieldwork and analyses are commissioned externally and conducted by an independent market research company which specialises in business surveys. Participation in the surveys is voluntary and respondents are assured their anonymity is preserved.  Contact  Contact enquiries@businessandtrade.gov.uk if you require further information on the ECS.  \"",
+  "base_path": "/government/collections/export-client-survey-ecs",
+  "taxons": [
+    {
+      "title": "Free trade",
+      "base_path": "/business-and-industry/free-trade"
+    }
+  ]
+}

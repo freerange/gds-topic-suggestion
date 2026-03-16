@@ -1,0 +1,35 @@
+{
+  "title": "DCMS Economic Estimates: Business Demographics, 2025",
+  "body": "\"About  These economic estimates are accredited official statistics providing an estimate of the number of businesses in included DCMS Sectors and their demographics.  Headline findings  In March 2025, there were 599,425 businesses in the included DCMS sectors, which represents 21.9% of all UK registered businesses. The number of businesses in the included DCMS sectors increased by 1.5% from March 2024 and by 1.6% from March 2019, though this varied substantially by sector. For context, the number of UK registered businesses was similar to March 2024 (+0.4%) and March 2019 (+0.6%).  Of the 599,425 businesses in the included DCMS sectors in March 2025:    the vast majority (87.5%) fell into the micro (0 to 9) employment band, a slightly lower proportion than for UK registered businesses in general (89.1%).   71.6% of businesses had a turnover of less than £250,000, a higher proportion than for UK businesses in general (65.3%).  24.3% of business sites in the included DCMS sectors were located in London, a higher proportion compared to UK business sites overall (18.8%).    Content  These statistics cover the demographics of businesses  in the following DCMS sectors:   Creative Industries Cultural Sector Gambling Sport Tourism industries (constructed on a different basis to the tourism sector estimates in our other economic estimates releases)   These statistics help us to understand the landscape of businesses in included DCMS sectors. However, the number of businesses is not the same as economic performance. A drop in the number of businesses for a sector does not necessarily mean that there has been a corresponding decrease in the sector’s economic output. For example, the number of creative industries businesses fell between 2019 and 2025 whereas GVA over this period is estimated to have increased.  Users should note that there is overlap between DCMS sector definitions. In particular, several cultural sector industries are simultaneously creative industries. These overlaps are accounted for when calculating DCMS sector totals and therefore the sum of businesses in individual sectors will be greater than the overall DCMS sector total.  Estimates are not available for the civil society sector, because they are not identifiable in the data source used for this release.  Tourism industries estimates in this release are constructed on a different basis to the tourism sector estimates in our other economic estimates and will be larger as they take into account the entire industry rather than strictly tourism activity.   The release also includes estimates for the audio visual sector, however these estimates do not form part of the DCMS sector total.   A definition for each sector is available in the published data tables. Further information on all these sectors is available in the associated technical report along with details of methods and data limitations.  Released  These statistics were first published on 27 November 2025.  Feedback  DCMS aims to continuously improve the quality of estimates and better meet user needs. DCMS welcomes feedback on this release. Feedback should be sent to DCMS via email at evidence@dcms.gov.uk.  Office for Statistics Regulation  These official statistics were independently reviewed by the...",
+  "base_path": "/government/statistics/dcms-economic-estimates-business-demographics-2025",
+  "taxons": [
+    {
+      "title": "Library services",
+      "base_path": "/society-and-culture/library-services"
+    },
+    {
+      "title": "Museums and galleries",
+      "base_path": "/society-and-culture/museums-and-galleries"
+    },
+    {
+      "title": "Charities, volunteering and honours",
+      "base_path": "/society-and-culture/charities-honours"
+    },
+    {
+      "title": "Sports and leisure",
+      "base_path": "/society-and-culture/sports-and-leisure"
+    },
+    {
+      "title": "Tourism",
+      "base_path": "/society-and-culture/tourism"
+    },
+    {
+      "title": "Media and creative industries",
+      "base_path": "/business-and-industry/media-and-creative-industries"
+    },
+    {
+      "title": "UK economic growth",
+      "base_path": "/business/uk-economic-growth"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Better Health: Rewards - summary of pilot results",
+  "body": "\"This publication summarises the findings of the Better Health: Rewards pilot that took place in Wolverhampton between 17 February 2023 and 13 October 2023.  The pilot was structured as a randomised control trial, and tested whether a government-backed financial health incentives scheme could support people to improve their diet and physical activity behaviours.  The pilot underwent evaluation by the Behavioural Insights Team (BIT). BIT is an independent consultancy who acted as an evaluator of the pilot.  This publication includes:   a report summarising the results of the Better Health: Rewards pilot Department of Health and Social Care (DHSC) supplementary physical activity analysis  DHSC supplementary physical activity data tables   The summary report provides an overview of how the pilot worked and the main findings, including the impact of using financial incentives on participants’ diet and physical activity behaviours.  The DHSC supplementary physical activity analysis document provides the results of re-running the physical activity analysis using a larger sample, and the approach for doing so.  The DHSC supplementary physical activity data tables outline the data that underpins this analysis.    These documents should be read alongside the full evaluation report on the BIT website.  \"",
+  "base_path": "/government/publications/better-health-rewards-summary-of-pilot-results",
+  "taxons": [
+    {
+      "title": "National Health Service",
+      "base_path": "/health-and-social-care/national-health-service"
+    },
+    {
+      "title": "Obesity",
+      "base_path": "/health-and-social-care/obesity"
+    },
+    {
+      "title": "Exercise and physical activity",
+      "base_path": "/health-and-social-care/exercise-physical-activity"
+    },
+    {
+      "title": "Healthy eating",
+      "base_path": "/health-and-social-care/healthy-eating"
+    },
+    {
+      "title": "Technology in health and social care",
+      "base_path": "/health-and-social-care/technology-in-health-and-social-care"
+    }
+  ]
+}

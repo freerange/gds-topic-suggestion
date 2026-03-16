@@ -1,0 +1,11 @@
+{
+  "title": "Positioning, Navigation and Timing",
+  "body": "\"PNT provides the ability to determine location and orientation (positioning), current and desired position (navigation) and acquire and maintain accurate and precise time from a standard anywhere in the world (timing).  Our guidance on PNT provides more detail on what PNT is and its impact. \"",
+  "base_path": "/government/collections/positioning-navigation-and-timing",
+  "taxons": [
+    {
+      "title": "Positioning, Navigation and Timing (PNT)",
+      "base_path": "/business-and-industry/positioning-navigation-timing"
+    }
+  ]
+}

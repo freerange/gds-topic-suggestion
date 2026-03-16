@@ -1,0 +1,11 @@
+{
+  "title": "Apply for an exception from registering for VAT",
+  "body": "\"When to apply  You’ll normally need to register for VAT if you’re a sole trader or a business, and your total taxable turnover for the last 12 months goes over the VAT registration threshold.  However, you may not have to register if, at the end of any month, both of the following apply:    your taxable supplies went over the registration threshold in the last 12 months  you can show that your taxable supplies will not go over the deregistration threshold in the next 12 months   This is called exception from registration. You’ll need to apply to HMRC to make this exception official.   This is not the same thing as exemption from registration for VAT. Read section 3.11 of VAT notice 700/1 to find out when you might be exempt from registration.   How to apply    Contact HMRC by telephone to request form VAT1.   We’ll ask you why you need the form. Tell us that you want to apply for exception from registering for VAT.   We’ll send you form VAT1 and form VAT5EXC. You’ll need to complete both these forms and return them to us to apply for exception.    After you’ve applied  Once we get your application, we’ll write to you within 40 working days. Our letter will tell you whether we’ve approved your application or not.  If we approve your application for exception  We will not register you for VAT. This does not mean that you will never have to register.  You must keep checking the value of all your taxable supplies every month, to see whether you’ve gone over the registration threshold. If you do, you must either:   register for VAT  apply for exception again   If we refuse your application for exception  If we refuse your application, our letter will explain why.  We’ll use the information you provided on form VAT1 to register you for VAT. You’ll need to account for VAT from the date you were liable.  Get more help  Check the current VAT thresholds.  Read ‘When to register for VAT’ to find out:   when and how to register how to calculate your turnover   Read ‘Register for VAT by post’ for help filling in form VAT1.  \"",
+  "base_path": "/guidance/apply-for-an-exception-from-registering-for-vat",
+  "taxons": [
+    {
+      "title": "VAT",
+      "base_path": "/money/vat"
+    }
+  ]
+}

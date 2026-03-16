@@ -1,0 +1,11 @@
+{
+  "title": "Net zero: Environmental and social implications of energy storage technologies",
+  "body": "\"This project examined the potential environmental and social implications of energy storage technologies. The energy storage technologies of interest were ammonia storage, hydrogen storage, compressed air energy storage, thermal energy storage, underground pumped hydroelectric storage and battery energy storage systems.  This summary of available knowledge will help provide the Environment Agency and others with evidence to regulate these technologies, support their deployment, and avoid or mitigate any unintended consequences. \"",
+  "base_path": "/government/publications/net-zero-environmental-and-social-implications-of-energy-storage-technologies",
+  "taxons": [
+    {
+      "title": "Low carbon technologies",
+      "base_path": "/environment/low-carbon-technologies"
+    }
+  ]
+}

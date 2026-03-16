@@ -1,0 +1,19 @@
+{
+  "title": "Northern Ireland Annual Ports Traffic 2024",
+  "body": "\"Following the publication of the UK Port Freight Statistics 2024 released by Department for Transport (DfT), statisticians within the Northern Ireland Statistics & Research Agency analyse the data which relate to Northern Ireland ports and release this information as the ‘Northern Ireland Annual Ports Traffic’ publication each year. \"",
+  "base_path": "/government/statistics/northern-ireland-annual-ports-traffic-2024",
+  "taxons": [
+    {
+      "title": "Northern Ireland economy",
+      "base_path": "/regional-and-local-government/northern-ireland-economy"
+    },
+    {
+      "title": "Vessel cargo",
+      "base_path": "/transport/vessel-cargo"
+    },
+    {
+      "title": "UK economy",
+      "base_path": "/business-and-industry/uk-economy"
+    }
+  ]
+}

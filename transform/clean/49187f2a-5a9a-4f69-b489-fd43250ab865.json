@@ -1,0 +1,11 @@
+{
+  "title": "Agriculture in the United Kingdom 2024",
+  "body": "\"This annual publication provides an overview of agriculture in the UK. It contains an extensive range of data including farm incomes, land use, livestock numbers, prices, production of key commodities (eg wheat, milk, vegetables), overseas trade, organic farming and the environment. The information is used widely by government, industry, researchers and other stakeholders to support policy monitoring and development.  Agriculture in the United Kingdom datasets.  Next update: see the statistics release calendar \"",
+  "base_path": "/government/statistics/agriculture-in-the-united-kingdom-2024",
+  "taxons": [
+    {
+      "title": "Food and farming",
+      "base_path": "/environment/food-and-farming"
+    }
+  ]
+}

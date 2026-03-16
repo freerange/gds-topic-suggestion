@@ -1,0 +1,11 @@
+{
+  "title": "DfT: prompt payment data 2025 to 2026",
+  "body": "\"DfT’s percentage of invoices paid within 5 days and within 30 days of receipt.  The data covers:   Department for Transport Maritime and Coastguard Agency Driver and Vehicle Standards Agency Driver and Vehicle Licensing Agency Vehicle Certification Agency   This data is also available on data.gov.uk. \"",
+  "base_path": "/government/publications/dft-prompt-payment-data-2025-to-2026",
+  "taxons": [
+    {
+      "title": "Government efficiency, transparency and accountability",
+      "base_path": "/government/government-efficiency-transparency-and-accountability"
+    }
+  ]
+}

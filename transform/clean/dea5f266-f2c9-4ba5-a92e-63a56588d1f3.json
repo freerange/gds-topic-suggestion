@@ -1,0 +1,19 @@
+{
+  "title": "Baby Names (Northern Ireland) 2024",
+  "body": "\"The most popular baby names that were registered in Northern Ireland in 2024. \"",
+  "base_path": "/government/statistics/baby-names-northern-ireland-2024",
+  "taxons": [
+    {
+      "title": "Pregnancy and birth",
+      "base_path": "/childcare-parenting/pregnancy-and-birth"
+    },
+    {
+      "title": "Having a child, parenting and adoption",
+      "base_path": "/life-circumstances/child-adoption"
+    },
+    {
+      "title": "Northern Ireland",
+      "base_path": "/regional-and-local-government/northern-ireland"
+    }
+  ]
+}

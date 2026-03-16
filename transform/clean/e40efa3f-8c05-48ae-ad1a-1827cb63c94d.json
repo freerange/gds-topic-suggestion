@@ -1,0 +1,11 @@
+{
+  "title": "Monthly Sea Fisheries Statistics Revisions: January to September 2025",
+  "body": "\"Monthly Sea Fisheries Statistics Revisions: January to September 2025. \"",
+  "base_path": "/government/statistics/monthly-sea-fisheries-statistics-revisions-january-to-september-2025",
+  "taxons": [
+    {
+      "title": "Sea fishing",
+      "base_path": "/environment/environmental-management-marine-sea-fishing"
+    }
+  ]
+}

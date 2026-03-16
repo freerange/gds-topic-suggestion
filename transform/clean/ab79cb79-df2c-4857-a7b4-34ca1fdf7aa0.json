@@ -1,0 +1,11 @@
+{
+  "title": "Low Value Terms",
+  "body": "\"Low Value Terms for purchases up to £12,000 inclusive of VAT, typically used with our purchase order form. \"",
+  "base_path": "/government/publications/low-value-terms",
+  "taxons": [
+    {
+      "title": "Government spending",
+      "base_path": "/government/government-spending"
+    }
+  ]
+}

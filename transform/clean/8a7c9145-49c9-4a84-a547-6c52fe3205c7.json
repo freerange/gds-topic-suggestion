@@ -1,0 +1,11 @@
+{
+  "title": "Benefit cap: number of households capped to May 2025",
+  "body": "\"These Department for Work and Pensions (DWP) quarterly publications provide statistics on households affected by the benefit cap and include:   cumulative and point-in-time numbers of households capped number of households that were previously capped but have moved off the cap   \"",
+  "base_path": "/government/statistics/benefit-cap-number-of-households-capped-to-may-2025",
+  "taxons": [
+    {
+      "title": "Benefits entitlement",
+      "base_path": "/welfare/entitlement"
+    }
+  ]
+}
